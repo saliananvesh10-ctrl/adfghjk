@@ -1,0 +1,585 @@
+[
+  {
+    "unit": 1,
+    "topic": "History and contemporary trends",
+    "section": "history-and-contemporary-trends",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Galotti.pdf",
+        "pdfPages": [
+          8,
+          23,
+          35,
+          37,
+          38,
+          54
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "topic": "Research methods: strengths and limitations",
+    "section": "research-methods-strengths-and-limitations",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Galotti.pdf",
+        "pdfPages": [
+          8,
+          23,
+          26,
+          40,
+          41,
+          43
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "topic": "Cognitive neuropsychology",
+    "section": "cognitive-neuropsychology",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Sternberg.pdf",
+        "pdfPages": [
+          236,
+          237,
+          243,
+          666
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "topic": "Attention: types and influencing factors",
+    "section": "attention-types-and-influencing-factors",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Matlin.pdf",
+        "pdfPages": [
+          17,
+          105,
+          106,
+          107,
+          109,
+          110
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "topic": "Bottleneck theories and Broadbent\u2019s filter",
+    "section": "bottleneck-theories-and-broadbent-s-filter",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Matlin.pdf",
+        "pdfPages": [
+          124,
+          588
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "topic": "Automatic versus controlled processing",
+    "section": "automatic-versus-controlled-processing",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Matlin.pdf",
+        "pdfPages": [
+          127
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "topic": "Object recognition: template, prototype and feature models",
+    "section": "object-recognition-template-prototype-and-feature-models",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Galotti.pdf",
+        "pdfPages": [
+          9,
+          77,
+          86,
+          87,
+          88,
+          89
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "topic": "Bottom-up and top-down perception",
+    "section": "bottom-up-and-top-down-perception",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Galotti.pdf",
+        "pdfPages": [
+          9,
+          77,
+          80,
+          85,
+          100,
+          102
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "topic": "Memory models, STM and working memory",
+    "section": "memory-models-stm-and-working-memory",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Matlin.pdf",
+        "pdfPages": [
+          17,
+          18,
+          19,
+          24,
+          27,
+          53
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "topic": "Long-term memory systems",
+    "section": "long-term-memory-systems",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Matlin.pdf",
+        "pdfPages": [
+          173,
+          174,
+          187,
+          209,
+          214,
+          218
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "topic": "Flashbulb and constructive memory",
+    "section": "flashbulb-and-constructive-memory",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Matlin.pdf",
+        "pdfPages": [
+          19,
+          171,
+          196,
+          197,
+          198,
+          216
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "topic": "Eyewitness testimony: encoding, retrieval and witness factors",
+    "section": "eyewitness-testimony-encoding-retrieval-and-witness-factors",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Matlin.pdf",
+        "pdfPages": [
+          19,
+          27,
+          53,
+          171,
+          191,
+          194
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "topic": "Mnemonic techniques and effective learning",
+    "section": "mnemonic-techniques-and-effective-learning",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Matlin.pdf",
+        "pdfPages": [
+          20,
+          192,
+          219,
+          226,
+          227,
+          229
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "topic": "Semantic memory, schemas and metacognition",
+    "section": "semantic-memory-schemas-and-metacognition",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Matlin.pdf",
+        "pdfPages": [
+          9,
+          19,
+          25,
+          31,
+          53,
+          64
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "topic": "Definition, scope and neural basis of attention",
+    "section": "definition-scope-and-neural-basis-of-attention",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Cognitive Neuroscience Gazzaniga.pdf",
+        "pdfPages": [
+          5,
+          6,
+          8,
+          10,
+          15,
+          16
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "topic": "Memory systems and language networks",
+    "section": "memory-systems-and-language-networks",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Cognitive Neuroscience Gazzaniga.pdf",
+        "pdfPages": [
+          18,
+          71,
+          88,
+          89,
+          91,
+          108
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "topic": "Brain functions, plasticity and learning",
+    "section": "brain-functions-plasticity-and-learning",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Cognitive Neuroscience Gazzaniga.pdf",
+        "pdfPages": [
+          15,
+          71,
+          91,
+          138,
+          144,
+          162
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "topic": "Intelligence, neuroscience and neurodevelopmental disorders",
+    "section": "intelligence-neuroscience-and-neurodevelopmental-disorders",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Cognitive Neuroscience Gazzaniga.pdf",
+        "pdfPages": [
+          35,
+          107,
+          133,
+          135,
+          137,
+          138
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "topic": "Neuroimaging and neural correlates of consciousness",
+    "section": "neuroimaging-and-neural-correlates-of-consciousness",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Cognitive Neuroscience Gazzaniga.pdf",
+        "pdfPages": [
+          6,
+          7,
+          9,
+          21,
+          40,
+          61
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "topic": "Cognitive remediation and rehabilitation",
+    "section": "cognitive-remediation-and-rehabilitation",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Cognitive Neuroscience Gazzaniga.pdf",
+        "pdfPages": [
+          8,
+          142,
+          373,
+          374,
+          379,
+          398
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "topic": "Psycholinguistics, history and Chomsky\u2019s approach",
+    "section": "psycholinguistics-history-and-chomsky-s-approach",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Galotti.pdf",
+        "pdfPages": [
+          36,
+          37,
+          362,
+          365,
+          367,
+          536
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "topic": "Meaning-centred theories and language organisation",
+    "section": "meaning-centred-theories-and-language-organisation",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Matlin.pdf",
+        "pdfPages": [
+          22,
+          23,
+          347,
+          348,
+          349,
+          350
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "topic": "Basic reading and sentence parsing",
+    "section": "basic-reading-and-sentence-parsing",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Matlin.pdf",
+        "pdfPages": [
+          626,
+          639,
+          644
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "topic": "Discourse comprehension and language and thought",
+    "section": "discourse-comprehension-and-language-and-thought",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Matlin.pdf",
+        "pdfPages": [
+          23,
+          24,
+          54,
+          64,
+          347,
+          348
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "topic": "Speaking, writing and language production",
+    "section": "speaking-writing-and-language-production",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Matlin.pdf",
+        "pdfPages": [
+          23,
+          24,
+          28,
+          54,
+          349,
+          354
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "topic": "Bilingualism and second-language acquisition",
+    "section": "bilingualism-and-second-language-acquisition",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Matlin.pdf",
+        "pdfPages": [
+          23,
+          24,
+          54,
+          181,
+          246,
+          395
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "topic": "Meaning, history and cognitive psychology",
+    "section": "meaning-history-and-cognitive-psychology",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Cognitive Neuroscience Gazzaniga.pdf",
+        "pdfPages": [
+          6,
+          7,
+          9,
+          21,
+          40,
+          61
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "topic": "DICE: dissociable interactions and conscious experience",
+    "section": "dice-dissociable-interactions-and-conscious-experience",
+    "status": "Supplementary outline; prescribed model/source requires confirmation",
+    "references": []
+  },
+  {
+    "unit": 5,
+    "topic": "Global workspace and neuronal workspace",
+    "section": "global-workspace-and-neuronal-workspace",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Cognitive Neuroscience Gazzaniga.pdf",
+        "pdfPages": [
+          642,
+          754
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "topic": "Functions of consciousness and justification for action",
+    "section": "functions-of-consciousness-and-justification-for-action",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Cognitive Neuroscience Gazzaniga.pdf",
+        "pdfPages": [
+          6,
+          7,
+          9,
+          21,
+          40,
+          61
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "topic": "Indian perspectives: Vedic five-level model",
+    "section": "indian-perspectives-vedic-five-level-model",
+    "status": "Supplementary outline; prescribed model/source requires confirmation",
+    "references": []
+  },
+  {
+    "unit": 5,
+    "topic": "Buddhist models of consciousness",
+    "section": "buddhist-models-of-consciousness",
+    "status": "Supplementary outline; prescribed model/source requires confirmation",
+    "references": []
+  }
+]

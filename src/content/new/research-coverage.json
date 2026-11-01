@@ -1,0 +1,536 @@
+[
+  {
+    "unit": 1,
+    "topic": "Scientific research: definitions, characteristics and purpose",
+    "section": "scientific-research-definitions-characteristics-and-purpose",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "topic": "Concepts, constructs and operational definitions",
+    "section": "concepts-constructs-and-operational-definitions",
+    "status": "Original syllabus study note; source mapping available",
+    "references": []
+  },
+  {
+    "unit": 1,
+    "topic": "Variables and validity",
+    "section": "variables-and-validity",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          47,
+          53,
+          54,
+          55,
+          56,
+          57
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "topic": "Research ethics",
+    "section": "research-ethics",
+    "status": "Original syllabus study note; source mapping available",
+    "references": []
+  },
+  {
+    "unit": 1,
+    "topic": "Classification by intent",
+    "section": "classification-by-intent",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          16,
+          21,
+          354,
+          411
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 1,
+    "topic": "Classification by method",
+    "section": "classification-by-method",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          8,
+          15,
+          17,
+          18,
+          25,
+          26
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "topic": "Identifying and refining a research problem",
+    "section": "identifying-and-refining-a-research-problem",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          6,
+          8,
+          19,
+          21,
+          25,
+          27
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "topic": "Literature review: purpose, sources and types",
+    "section": "literature-review-purpose-sources-and-types",
+    "status": "Original syllabus study note; source mapping available",
+    "references": []
+  },
+  {
+    "unit": 2,
+    "topic": "Hypotheses: meaning, characteristics and formulation",
+    "section": "hypotheses-meaning-characteristics-and-formulation",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          11,
+          14,
+          15,
+          17,
+          21,
+          25
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "topic": "Sampling: principles, types and errors",
+    "section": "sampling-principles-types-and-errors",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          6,
+          9,
+          10,
+          28,
+          29,
+          30
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "topic": "Methods of data collection",
+    "section": "methods-of-data-collection",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          9,
+          108
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "topic": "Summarising data",
+    "section": "summarising-data",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          21,
+          77,
+          81,
+          144,
+          147,
+          148
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "topic": "Meaning, purpose and principles of design",
+    "section": "meaning-purpose-and-principles-of-design",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          8,
+          9,
+          16,
+          25,
+          27,
+          37
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "topic": "Between-group and within-group designs",
+    "section": "between-group-and-within-group-designs",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "AK Singh.pdf",
+        "pdfPages": [
+          7,
+          423,
+          430,
+          431,
+          432,
+          434
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "topic": "Pre-experimental and true-experimental designs",
+    "section": "pre-experimental-and-true-experimental-designs",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "AK Singh.pdf",
+        "pdfPages": [
+          7,
+          430
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "topic": "Quasi-experimental and ex-post facto designs",
+    "section": "quasi-experimental-and-ex-post-facto-designs",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          84,
+          412
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "topic": "Single-subject procedures, withdrawal and reversal",
+    "section": "single-subject-procedures-withdrawal-and-reversal",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "AK Singh.pdf",
+        "pdfPages": [
+          1,
+          5,
+          6,
+          432,
+          434,
+          436
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "topic": "Multiple-baseline designs",
+    "section": "multiple-baseline-designs",
+    "status": "Original syllabus study note; source mapping available",
+    "references": []
+  },
+  {
+    "unit": 4,
+    "topic": "Introduction and philosophical foundations",
+    "section": "introduction-and-philosophical-foundations",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Creswell 3rd ed.pdf",
+        "pdfPages": [
+          2,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "topic": "Convergent, explanatory and exploratory designs",
+    "section": "convergent-explanatory-and-exploratory-designs",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Creswell 3rd ed.pdf",
+        "pdfPages": [
+          12,
+          15,
+          17,
+          20,
+          21,
+          30
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "topic": "Embedded and multistage designs",
+    "section": "embedded-and-multistage-designs",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Creswell 3rd ed.pdf",
+        "pdfPages": [
+          49,
+          116,
+          182,
+          183,
+          218,
+          221
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "topic": "Data collection and integration",
+    "section": "data-collection-and-integration",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Creswell 3rd ed.pdf",
+        "pdfPages": [
+          12,
+          13,
+          14,
+          17,
+          18,
+          30
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "topic": "Analysis, joint displays and metainferences",
+    "section": "analysis-joint-displays-and-metainferences",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Creswell 3rd ed.pdf",
+        "pdfPages": [
+          18,
+          21,
+          60,
+          129,
+          130,
+          134
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "topic": "Validity and reliability in mixed methods",
+    "section": "validity-and-reliability-in-mixed-methods",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Creswell 3rd ed.pdf",
+        "pdfPages": [
+          17,
+          18,
+          21,
+          23,
+          56,
+          60
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "topic": "Research proposal: purpose and structure",
+    "section": "research-proposal-purpose-and-structure",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          7,
+          12,
+          32,
+          357,
+          359,
+          360
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "topic": "Research reports: purpose, types and APA structure",
+    "section": "research-reports-purpose-types-and-apa-structure",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          12,
+          357,
+          358,
+          359,
+          360,
+          362
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "topic": "Title page, abstract and introduction",
+    "section": "title-page-abstract-and-introduction",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          17,
+          20,
+          26,
+          82,
+          83,
+          87
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "topic": "Method and results",
+    "section": "method-and-results",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          17,
+          18,
+          19,
+          21,
+          22,
+          23
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "topic": "Discussion, references and appendices",
+    "section": "discussion-references-and-appendices",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          13,
+          16,
+          83,
+          90,
+          93,
+          94
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "topic": "Precautions and evaluation of a report",
+    "section": "precautions-and-evaluation-of-a-report",
+    "status": "Original syllabus study note; source mapping available",
+    "references": [
+      {
+        "source": "Kothari.pdf",
+        "pdfPages": [
+          12,
+          264,
+          358,
+          359,
+          371,
+          372
+        ],
+        "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+      }
+    ]
+  }
+]

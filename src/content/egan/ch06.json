@@ -1,0 +1,2431 @@
+{
+ "number": 6,
+ "title": "Facilitating Client Self-Challenge: From New Perspectives to New Behavior",
+ "theorist": null,
+ "approach": "Part II: The Therapeutic Dialogue",
+ "pages": [
+  158,
+  190
+ ],
+ "overview": "Chapter 6 explains how helpers invite clients to challenge themselves so that they move from self-limiting blind spots to new perspectives and new behaviour. Egan first sets out self-challenge as a stronger 'nudge' within choice architecture, insists that all effective helping mixes support and challenge, and states the goals of challenging. He lists the targets of self-challenge: self-defeating mind-sets (including Ellis's irrational beliefs and Sternberg's fallacies), internal behaviour, emotional expression, external behaviour, distorted views of the world, discrepancies, unused strengths and the predictable dishonesties of everyday life, closing with Hayes's ACT. He then examines blind spots: lack of awareness, failure to think things through, self-deception, choosing to stay in the dark, and knowing but not caring. Finally he presents the skills for helping clients challenge blind spots: indirect ones (advanced empathy in four forms, information sharing, helper self-disclosure with guidelines) and more direct ones (suggestions and recommendations, confrontation), ending with encouragement and motivational interviewing.",
+ "objectives": [
+  "Explain self-challenge, its link to choice architecture, and why helping must mix support and challenge.",
+  "State the two goals of challenging and list every target area of self-challenge with examples.",
+  "Describe Ellis's irrational beliefs, Sternberg's fallacies and schemas as self-defeating mind-sets.",
+  "Explain the predictable dishonesties of everyday life (distortions, games, excuses) and Hayes's ACT caution.",
+  "Define blind spots and distinguish their five kinds, using Van Hecke, Goleman, Giannetti and Heffernan.",
+  "Explain advanced empathy and its four forms, including the six uses of educated hunches.",
+  "Describe information sharing and helper self-disclosure with their guidelines and cautions.",
+  "Evaluate suggestions/recommendations, confrontation and encouragement (including motivational interviewing) as direct approaches."
+ ],
+ "sections": [
+  {
+   "id": "self-challenge-basic",
+   "heading": "Self-Challenge: The Basic Concept",
+   "pages": [
+    158,
+    161
+   ],
+   "detailed": "Egan opens Part II's treatment of challenge by linking it to change: helping is about change, and change means making choices. Chapters 6 and 7 are about helping clients make life-enhancing choices. They are a form of the \"choice architecture\" introduced in Chapter 5, and inviting clients to challenge themselves is described as a stronger version of the \"nudging\" discussed there. The key framing question is how therapy can be set up so that clients discover and use the resources inside and around them. Helping clients place demands on themselves may be one of the most valuable things a helper does.\n\nEgan admits that little current therapy research looks directly at choice and self-challenge. But humanity has built up a huge literature on bringing out the best in ourselves, from the Bible to modern writing on healthy physical, psychological, social and moral lifestyles. He argues it would be hubris to insist that this accumulated wisdom must pass randomized clinical trials before it can be used. This is not a rejection of evidence-based practice; it is a call to balance it with the practice-based evidence that has grown up over centuries. Self-challenge helps clients bring the good, the better and the best in themselves to bear on problems and unused opportunities, and it promotes self-responsibility and self-determination.\n\nLife is full of conflict and conflict involves challenging; failing to challenge can be devastating. Egan's example is the operating room: when nurses and technicians do not challenge surgeons' mistakes, patients, hospitals and surgeons all suffer. Hospitals have therefore tried to change OR culture (Carter; Landro). In one survey, 60% of respondents agreed that it was hard to speak up about a patient-care problem in their ORs. Too much is at stake not to challenge.\n\nThe communication skills already covered (empathy, probing, summarizing) can help clients engage in reality testing. Clients who cannot or do not challenge themselves do themselves no favour; reasonable self-challenge is part of maturity, and the Chapter 2 values of self-responsibility and a bias for action demand it. The case of Belinda, an overloaded mother of three, illustrates self-initiated self-challenge: after reading an article about middle-class parents who want independent children yet do everything for them and overprotect them, she recognises herself and her husband Gene in it, and both join counselling.\n\nSuch self-initiated challenge is ideal but uncommon. Because helping at its best is a constructive social-influence process, some form of challenge is central to it. This is not a retreat from the book's pro-client stance; it underlines collaboration in making self-challenge part of helping. All effective helping mixes support and challenge: challenge without support is harsh and unjustified, while support without challenge can be empty and counterproductive.\n\nMartin (1994) suggested that the helping dialogue adds most value when clients find it relevant, helpful, interested and supportive, yet somehow discordant with their current theories of themselves. Trevino (1996) made the same point in cross-cultural counselling: congruence between counsellor and client strengthens the relationship, while discrepancy facilitates change, and Claiborn's (1982) review concluded that presenting discrepant views helps outcomes by changing how clients construe problems and consider solutions. Challenge supplies that discordant note.\n\nEgan deliberately uses \"challenge\" rather than the harder-edged \"confrontation\", because people find confronting and being confronted unpleasant but will accept the softer yet still edgy idea of challenge; \"self-challenge\" sounds constructive. Finn (2005) stresses compassion and firmness: helpers sometimes have to say hard things in plain, non-judgemental language, which demands courage and wisdom; or, better, help clients say hard things to themselves. Finally, because choices rest on the beliefs-values-norms-ethics-morality package (Chapter 1), helpers listen for these drivers and help clients see how they shape decisions and what their consequences are, rather than challenging the drivers themselves. Belinda and her husband had unknowingly adopted a parenting philosophy with consequences they did not want, and needed help discovering how to change.",
+   "simple": "Helping is about change, and change means choices. Inviting clients to challenge themselves is a stronger 'nudge' that helps them use their own resources. Good helping always mixes support and challenge, and challenge adds a 'discordant note' that helps clients see things differently. Egan prefers the softer word 'challenge' to 'confrontation'.",
+   "keyPoints": [
+    "Chapters 6-7 are a form of choice architecture; self-challenge is a stronger nudge than in Chapter 5.",
+    "Balance evidence-based practice with centuries of practice-based evidence on self-improvement.",
+    "OR example: 60% in one survey found it hard to speak up; failure to challenge can be devastating.",
+    "All effective helping mixes support and challenge; either alone fails.",
+    "Martin, Trevino and Claiborn: discrepancy/discordance between helper and client views facilitates change.",
+    "'Challenge' is preferred to 'confrontation'; helpers help clients see their beliefs-values-norms drivers rather than attacking them."
+   ]
+  },
+  {
+   "id": "goals-of-challenging",
+   "heading": "The Goals of Challenging",
+   "pages": [
+    161,
+    161
+   ],
+   "detailed": "Egan sets challenge within the ultimate goal of helping, which is life-enhancing, problem-managing outcomes for the client. The overall goal of challenging is to help clients do some reality testing and invest what they learn in creating a better future.\n\nHe states two related goals. The first is corrective: help clients challenge themselves to change the ways of thinking, expressing emotion and acting that keep them stuck in problem situations and stop them identifying and developing opportunities. Helping clients challenge self-defeating patterns of thinking, emotional expression and behaviour is especially important (Wei & Ku, 2007).\n\nThe second, parallel goal is more upbeat and concerns new perspectives and turning them into new action. Helpers become partners with clients in helping them challenge themselves to find possibilities in their problems; discover unused internal and external strengths and resources; invest those resources in the problems and opportunities of their lives; spell out possibilities for a better future; find ways of making that future real; and commit to the actions needed to make it happen.\n\nEgan admits this sounds idealistic, but says it captures the spirit of the counsellor's role as a \"catalyst for a better future\". The two goals together mean that challenge is not only about finding faults; it is equally about unearthing strengths and opportunities and moving to action.",
+   "simple": "Challenge aims at reality testing that leads to a better future. One goal is to help clients drop self-defeating ways of thinking, feeling and acting. The other, more positive goal is to help them find possibilities, unused resources and commit to action, making the counsellor a 'catalyst for a better future'.",
+   "keyPoints": [
+    "Ultimate goal of helping: life-enhancing, problem-managing outcomes.",
+    "Overall goal of challenging: reality testing invested in a better future.",
+    "Goal 1: challenge self-defeating thinking, emotional expression and behaviour (Wei & Ku).",
+    "Goal 2: find possibilities, unused resources, a better future and commitment to act.",
+    "Counsellor as 'catalyst for a better future'."
+   ]
+  },
+  {
+   "id": "target-areas",
+   "heading": "Target Areas of Self-Challenge",
+   "pages": [
+    161,
+    162
+   ],
+   "detailed": "Because the two goals involve both correcting problems and building on strengths, some self-challenge involves self-criticism and some involves self-enhancement. Egan recommends Chang's (2007) edited book, which asks whether self-enhancement and self-criticism are good or bad, under what conditions, and what helpers should do about them, before committing to helping clients challenge themselves.\n\nThe guiding principle is that counsellors help clients challenge whatever stands in the way of understanding and managing problems or identifying and developing life-enhancing opportunities. The book lists the main targets of self-challenge:\n\n1. Self-defeating mind-sets, such as prejudice.\n2. Self-limiting internal behaviour, such as dysfunctional daydreaming.\n3. Self-defeating expressions of feelings and emotions, such as flying off the handle.\n4. Dysfunctional external behaviour, such as putting people down.\n5. Distorted understanding of what the world is really like.\n6. Discrepancies between thinking and acting.\n7. Unused strengths and resources.\n8. The predictable dishonesties of everyday life.\n\nA ninth, final category, helping clients challenge themselves to participate fully in the helping process, is mentioned here and dealt with later. Each target is examined in its own sub-section with examples, and Egan finally shows (in the case of Minerva) that in practice these targets usually appear mixed together.",
+   "simple": "Self-challenge can be self-critical or self-enhancing. Helpers invite clients to challenge anything blocking problem management or opportunity development. Egan lists eight main targets, from self-defeating mind-sets to the everyday dishonesties, plus full participation in helping.",
+   "keyPoints": [
+    "Self-challenge can involve self-criticism or self-enhancement (Chang, 2007).",
+    "Principle: challenge whatever blocks managing problems or developing opportunities.",
+    "Eight targets: mind-sets, internal behaviour, emotional expression, external behaviour, distorted view of the world, discrepancies, unused strengths, predictable dishonesties.",
+    "Ninth category: participating fully in the helping process (discussed later)."
+   ]
+  },
+  {
+   "id": "mindsets",
+   "heading": "Target: Self-Defeating Mind-Sets",
+   "pages": [
+    162,
+    164
+   ],
+   "detailed": "Mind-sets are more or less permanent states of mind: assumptions, attitudes, beliefs, values, biases, convictions, inclinations, norms, outlooks, points of view, unexamined perceptions of self, others and the world, preconceptions and prejudices. Carlos sees that Mara holds unexplored assumptions and norms rooted in her family culture, while her ambitions have been shaped by her US education; she is culturally a hybrid. It is not his place to take sides, but inviting her to explore these beliefs could help her decide about career and relationships, especially after the painful conversation with her father.\n\nMind-sets, productive or problematic, drive or at least leak into external behaviour. The principle: invite clients to turn outmoded, self-limiting mind-sets into self-enhancing, liberating perspectives that drive problem-managing and opportunity-developing action. Two kinds are illustrated.\n\nPrejudices. Candace has trouble with a Jewish colleague and grew up believing a stereotype about Jews in business. The counsellor invites her to rethink it: if the colleague is treacherous, it is not because he is Jewish. Separating the person from the stereotype clarifies her thinking, but she now has two problems, the relationship and the prejudice, and must also see that in troubled relationships both parties usually contribute.\n\nSelf-limiting beliefs and assumptions. Albert Ellis developed rational-emotive behaviour therapy (REBT) and held that one of the most useful interventions is challenging clients' irrational, self-defeating beliefs, which people talk themselves into. The common beliefs he listed are: being liked and loved (I must always be loved and approved by significant others); being competent (I must be competent in all situations and talented in some important area); having one's own way (my plans must always work out); being hurt (wrongdoers, especially those who harm me, are evil and should be blamed and punished); being danger-free (I must be anxious about any danger and should not have to face it); being problemless (things should not go wrong, and if they do there should be quick, easy solutions); being a victim (others and outside forces cause my misery; nobody should take advantage of me); avoiding (it is easier to avoid difficulties than develop self-discipline); tyranny of the past (my past determines how I act and feel now); and passivity (I can be happy by being passive and uncommitted). When such beliefs are violated, people \"catastrophize\", seeing the event as awful; Ellis said this gets clients nowhere, the event is unfortunate but not the end of the world, and they can often act on it. Allison, a widow in her early 60s, has had a cancerous polyp removed with a good prognosis, yet catastrophizes about future tests; she is working from the \"problemless\" assumption and needs help to challenge it.\n\nSternberg (2002, 2003) described four fallacies that make smart people do stupid things: egocentrism (it is all about me), omniscience (knowing a lot about something becomes believing I know everything), omnipotence (I can do whatever I want) and invulnerability (I will not be caught, or can get out of any fix). These are visible in politics, business, entertainment and sport, but no one is exempt.\n\nRiso, du Toit, Stein and Young (2007) edited a book on maladaptive cognitive schemas and core beliefs that characterise a range of disorders. The relatively new idea of schemas points not just to individual dysfunctional beliefs but to ingrained systems of thinking that cause trouble; helping clients identify and deal with them adds value.",
+   "simple": "Mind-sets are fairly permanent beliefs, attitudes and assumptions that drive behaviour. Helpers invite clients to swap self-limiting mind-sets, like prejudice or Ellis's irrational beliefs, for liberating ones. Sternberg's four fallacies and the idea of maladaptive schemas show how deeply such thinking can run.",
+   "keyPoints": [
+    "Mind-sets = relatively permanent states of mind that drive or leak into behaviour.",
+    "Prejudice example: Candace separates her colleague from a stereotype.",
+    "Ellis (REBT): ten irrational beliefs, e.g. being loved, competent, problemless, a victim; catastrophizing gets clients nowhere.",
+    "Sternberg's four fallacies: egocentrism, omniscience, omnipotence, invulnerability.",
+    "Riso et al.: schemas are ingrained systems of thinking, not just single beliefs."
+   ]
+  },
+  {
+   "id": "internal-behavior",
+   "heading": "Target: Self-Limiting Internal Behavior",
+   "pages": [
+    164,
+    165
+   ],
+   "detailed": "Egan argues that some forms of thinking are actually behaviours: things we can choose to do or not do. Internally we daydream, pray, ruminate, believe, identify problems, review opportunities, decide, plan, judge, question motives, approve and disapprove of ourselves and others, wonder, value, imagine, ponder, set standards, fashion norms, mull over, ignore, forgive and rehearse. These are internal or cognitive behaviours, not merely thoughts that happen to us. The helping principle: if clients are to replace self-limiting internal behaviour with more creative behaviour, they may need help. The ways internal behaviour can limit us are countless.\n\nJohn daydreams of being a hero others admire; fantasy social success has replaced working for real success. The new perspective is that daydreaming is not bad in itself; it depends on how it is used. With a counsellor, John keeps daydreaming but redirects it to imagining a fuller social life, which yields practical strategies he starts trying.\n\nNadia, given a project, immediately hunts for reasons it will fail, and this internal behaviour spills into telling everyone it should be changed or shelved, annoying colleagues. Her supervisor helps her see that her instinct to take things apart reflects a lack of intellectual balance, and helps her build the habit of first asking what value the project adds and how she might improve it. She then critiques more constructively and is listened to.\n\nBella, depressed two years after her husband's death, says she stopped wearing black a year ago, \"But...\" The therapist responds, \"But you're still wearing black inside?\" The metaphor gives her the new perspective she needs; after a couple more sessions she begins to move beyond grieving. Similarly, Carlos notices that Mara sees herself as the \"dutiful daughter\" who puts her parents' needs before her own, which differs from being naturally generous while balancing one's own needs; exploring this mind-set could help her build a more fulfilling future.",
+   "simple": "Many kinds of thinking, like daydreaming, ruminating or judging, are internal behaviours we can choose. When they limit clients, helpers can help them redirect these behaviours. John redirects his daydreams, Nadia learns to look for value before criticising, and Bella realises she is 'still wearing black inside'.",
+   "keyPoints": [
+    "Some thinking is behaviour: chosen internal or cognitive acts.",
+    "Principle: help clients replace self-limiting internal behaviour with creative internal behaviour.",
+    "John: daydreaming redirected to practical social goals.",
+    "Nadia: from automatic fault-finding to first seeing value; lacks intellectual balance.",
+    "Bella: metaphor 'wearing black inside' sparks a new perspective; Mara as 'dutiful daughter'."
+   ]
+  },
+  {
+   "id": "emotions",
+   "heading": "Target: Self-Defeating Expressions of Feelings and Emotions",
+   "pages": [
+    165,
+    165
+   ],
+   "detailed": "Managing emotions and how we express them is part of social-emotional intelligence. Some emotions are bottled up, some run on inside, and some are highly visible. Sheila becomes depressed when her boss ignores her good work and feels taken for granted, but puts on a good face at work. Ira, by contrast, rants about his \"stupid\" boss to anyone who listens; everyone except the boss knows where he stands.\n\nClients can be helped to face needless denial and bottling up of emotions, letting emotions run riot internally, and self-defeating ways of expressing emotion. Berking, Orth, Wupperman, Meier and Caspar (2008), in two studies, found that focusing on emotion-regulation skills may be important in preventing and treating affect-related mental-health problems. Egan raises the question of where people learn such skills while growing up.\n\nFurther examples: Arthur flies off the handle whenever anyone suggests a less acerbic style would help him and others; he needs help seeing the world as others see it. Cynthia lavishes praise on her two primary-school children because it makes her feel good, without asking what it does to them; she needs to learn that praise is not an unadulterated good. A counsellor helps Ken see that long periods of internet surfing trigger his depression; he needs to get out and interact with people to keep emotional balance. Mara has always presented herself as self-contained, and even when she broke down with Carlos she kept apologising for her tears and trying to control herself; emotional overcontrol may be part of her problem.",
+   "simple": "How we handle and show emotions is part of social-emotional intelligence. Clients can be helped with bottling up feelings, letting them run riot inside, or expressing them in self-defeating ways. Research by Berking and colleagues suggests emotion-regulation skills matter for preventing and treating mood-related problems.",
+   "keyPoints": [
+    "Emotion management is part of social-emotional intelligence.",
+    "Three problems: needless denial/bottling up, emotions running riot inside, self-defeating expression.",
+    "Berking et al. (2008), two studies: emotion-regulation skills may matter for affect-related problems.",
+    "Examples: Sheila (bottles up), Ira (rants), Arthur (flies off the handle), Cynthia (over-praises), Ken (internet and depression).",
+    "Mara: emotional overcontrol may be part of the problem."
+   ]
+  },
+  {
+   "id": "external-behavior",
+   "heading": "Target: Dysfunctional External Behavior",
+   "pages": [
+    165,
+    166
+   ],
+   "detailed": "External behaviour is what people could see if they were looking, and for some clients it is the trouble. Achilles behaves towards women at work in ways others, including the courts, see as sexual harassment, while he thinks he is being \"friendly\". Jake is not an alcoholic but becomes mean and argumentative after a couple of drinks, believing he is helping others \"get the point\"; he needs to examine both his thinking and his acting. Clarence, self-doubting and over-cautious, is deferential to his manager, who reads this as lack of ambition but says nothing because she prefers an \"obedient\" employee; his behaviour keeps him in a job he hates.\n\nNot doing something is also behaviour. Clients often fail to make choices and take actions that would help them. Clarence turns down skill updating and a promotion, telling himself he does not want to get in over his head; these self-defeating external behaviours rest on a self-defeating thought about himself. His manager notices but is content to keep a \"hard-working drone\".\n\nRyan has trouble with college classmates: he is aggressive, hogs conversations, tries to get his own way and criticises freely. A friend, after drinking, angrily calls him self-centred, arrogant and pushy. After a funk, he talks it through with a respected older dorm prefect, sees how self-defeating his style is, and works with a student-services counsellor on being proactive and assertive rather than aggressive. He takes an interpersonal-communication course, learns the value of dialogue, and applies it with classmates, at his part-time job and at home.",
+   "simple": "External behaviour is what others can see, and for some clients it is the core problem, like harassment or meanness after drinking. Failing to act is also behaviour, as when Clarence refuses opportunities. Ryan shows how a client can move from aggressive to assertive behaviour once he sees its cost.",
+   "keyPoints": [
+    "External behaviour = what others could see if looking.",
+    "Examples: Achilles (harassment he calls 'friendly'), Jake (mean when drinking), Clarence (deference).",
+    "Not doing something is also a form of behaviour (Clarence refuses training and promotion).",
+    "Self-defeating external behaviour often rests on a self-defeating thought.",
+    "Ryan learns to be assertive rather than aggressive and to value dialogue."
+   ]
+  },
+  {
+   "id": "distorted-world",
+   "heading": "Target: Distorted Understanding of the World",
+   "pages": [
+    166,
+    166
+   ],
+   "detailed": "Clients' failure to see the world as it really is can keep them stuck in problems and stop them seeing opportunities. Parents may miss signs that their teenage son has started using drugs. If we are sometimes blind to others and their needs, often those closest to us, we are also blind to their attitudes toward us and to the impact of their behaviour on us.\n\nSandra interprets her husband's reduced interest in sex as a sign that he is \"finally coming to his senses\", and is shocked to learn by accident that he is having an affair. Egan stresses that everyone has areas of ignorance and naivety; clients' failure to understand their environment and its impact on them does not mean they are stupid. Like everyone, they simply fail to notice things that are hurting their lives. Helpers invite clients to test their picture of the world against reality.",
+   "simple": "Sometimes clients misread their world, like parents missing signs of drug use or Sandra misreading her husband's behaviour. This is not stupidity; everyone has blind areas. Helpers help clients check their view of reality.",
+   "keyPoints": [
+    "Failure to see the world as it is keeps clients mired and blind to opportunities.",
+    "We are often blind to those closest to us and their impact on us.",
+    "Sandra misreads her husband's behaviour and is shocked by his affair.",
+    "Ignorance and naivety are universal and do not mean clients are stupid."
+   ]
+  },
+  {
+   "id": "discrepancies",
+   "heading": "Target: Discrepancies",
+   "pages": [
+    167,
+    167
+   ],
+   "detailed": "Discrepancies plague our lives; we do not always do what we say we will (Egan points to last year's New Year's resolutions). They keep clients stuck. The book lists the following kinds:\n\n- what clients think or feel versus what they say;\n- what they say versus what they do;\n- their views of themselves versus others' views of them;\n- what they are versus what they claim they want to be;\n- their stated goals versus what they actually accomplish;\n- their expressed values versus their actual behaviour.\n\nExamples: Tom sees himself as witty but friends see him as biting; Minerva says fitness matters but overeats and under-exercises; George says he loves his family but is seeing another woman and stays away from home; Clarissa, unemployed for months, wants a job but will not join a retraining programme.\n\nThe Clarissa dialogue shows how to challenge a say-do discrepancy. The counsellor first reminds her that she once thought the programme was exactly what she wanted. She offers reasons (different work, long programme), and the counsellor reflects that she feels the fit is poor. Then, gently, the counsellor says she seemed so enthusiastic at first and asks what is going on. After a pause Clarissa admits she has got a bit lazy and used to being out of work. The counsellor sees she is slipping into a \"culture of unemployment\"; with the discrepancy now in the open, they can work together on the future she wants. The example shows challenge done gently, combining empathy with a curious, tentative invitation.",
+   "simple": "Discrepancies are gaps, for example between what clients say and do, or between their values and their behaviour. These gaps keep them stuck. In the Clarissa example, the counsellor gently points out her earlier enthusiasm, and she admits she has got used to being unemployed.",
+   "keyPoints": [
+    "Six listed discrepancies: think/feel vs say; say vs do; self-view vs others' view; are vs want to be; goals vs achievements; values vs behaviour.",
+    "Examples: Tom, Minerva, George, Clarissa.",
+    "Clarissa: gentle, curious challenge reveals a 'culture of unemployment'.",
+    "Once out in the open, a discrepancy becomes something to work on together."
+   ]
+  },
+  {
+   "id": "unused-strengths",
+   "heading": "Target: Unused Strengths and Resources",
+   "pages": [
+    167,
+    168
+   ],
+   "detailed": "Self-challenge should focus not only on problems but on the \"possible self\" each client is. Helping clients get in touch with unexploited opportunities and unused or underused strengths and resources (Aspinwall & Staudinger, 2003; Tedeschi & Kilmer, 2005) adds great value. Some resources are client-based, such as unused talents and abilities; some are external, such as failing to identify and use social support. Therapists help clients ask: what unused strengths do I have, and how can I unleash and marshal internal and external resources? Everyone has resources that need to be mined.\n\nStrengths are buried even in dysfunctional behaviour. Driscoll (1984) pointed out that helpers can show clients that even their \"irrationalities\" can be a source of strength. Instead of forcing clients to see how stupidly they think and act, therapists can help them find the logic embedded in seemingly dysfunctional ideas and behaviour, and then use that logic as a resource to manage problems rather than perpetuate them. Egan describes a psychiatrist friend who helped a client see the \"beauty\" of an elaborate self-defence system he had built to cocoon himself from life, showing him how inventive and powerful it was, so that the same inventiveness could be redirected.",
+   "simple": "Challenge is also about strengths, not only problems. Helpers help clients find unused internal talents and external resources like social support. Driscoll showed that even 'irrational' behaviour contains logic and strength that can be turned to good use.",
+   "keyPoints": [
+    "Focus on the 'possible self', not just problems.",
+    "Resources are internal (talents, abilities) and external (social support).",
+    "Key questions: what unused strengths do I have; how can I marshal my resources?",
+    "Driscoll (1984): even 'irrationalities' contain logic that can be a strength.",
+    "Psychiatrist example: appreciating the inventiveness of a self-defence system."
+   ]
+  },
+  {
+   "id": "dishonesties",
+   "heading": "Target: The Predictable Dishonesties of Everyday Life",
+   "pages": [
+    168,
+    170
+   ],
+   "detailed": "The \"predictable dishonesties of life\" are the distortions, evasions, games, tricks, excuse making and smoke screens that keep clients, and all of us, stuck. Everyone has ways of defending against themselves, others and the world. These little dishonesties are two-edged: a lie may help me cope with an unexpected difficulty but carries a price, especially if it becomes a preferred coping strategy; blaming others saves face but damages relationships and blocks self-responsibility. The purpose of challenging them, whether in sessions or as wider patterns, is not to strip clients of their defences, which could sometimes be dangerous, but to help them cope more creatively with their inner and outer worlds.\n\nDistortions. Some clients would rather not see the world as it is because it is too painful or demanding, so they distort it in self-serving ways. Arnie fears his supervisor and sees her as aloof, though she is caring; he works out of past fears rather than present reality. Edna casts her counsellor in a divine role and makes unwarranted demands. Nancy treats getting her own way as the test of whether friends like her. With Nancy, who is in conflict with her husband Milan over their 12-year-old son Jan cycling to school, the counsellor's tentative remark that Milan surely cares about Jan removes the implied distortion that only she cares. Probing their decision-making then suggests the issue is as much about power and getting her own way as about parenting; Nancy has her own \"little dishonesties\".\n\nGames, tricks and smoke screens. Clients who are comfortable with and profit from their delusions will try to keep them; if rewarded for playing games inside or outside counselling, they continue a game approach to life (Berne, 1964). Kennard plays \"Yes, but...\": he asks for recommendations on controlling anger and then shows why each will not work, and when challenged says counsellors are not supposed to tell clients what to do; a savvier helper would have spotted this earlier. Dora appears helpless with friends, then resents them for treating her like a child; her counsellor invites her to examine this routine. Fearful clients lay smoke screens and use communication in order not to communicate, so helpers should create an atmosphere that discourages games.\n\nExcuses. Snyder, Higgins and Stucky (1983) studied excuse making in depth; it is universal and part of everyday life (also Halleck; Higginson; Snyder & Higgins; Yun). Like games and distortions it has positive uses, and there is no reason to want a world without myths, but excuses contribute heavily to avoiding life's problems. People excuse why they did something bad, why they did not do something good, and why they cannot do what they need to. Roberto has made \"benign\" attempts to sabotage his wife Maria's career \"for her own good\" so she would not get hurt in the Anglo world. Before marriage he said he would enjoy a wife with a \"pioneer\" spirit; now she has a career, earns more than him, and he feels he is losing face, belittled and forced into an overly \"democratic\" marriage. The counsellor helps him explore the alternative hypothesis that he is not ready for the changes her career demands. Egan concludes that skilled helpers are caring and empathic but do not let themselves be conned, because that helps no one.",
+   "simple": "Everyone uses small dishonesties like distortions, games and excuses to protect themselves, but they keep us stuck. The aim of challenging them is not to strip away defences but to help clients cope more creatively. Skilled helpers are caring but do not let themselves be conned.",
+   "keyPoints": [
+    "Dishonesties = distortions, evasions, games, tricks, excuses, smoke screens; they are two-edged swords.",
+    "Aim: not to strip defences (could be dangerous) but help clients cope more creatively.",
+    "Distortions are self-serving (Arnie, Edna, Nancy).",
+    "Games (Berne): Kennard's 'Yes, but...', Dora's helplessness; create an atmosphere that discourages games.",
+    "Excuses (Snyder, Higgins & Stucky): universal, have uses, but help avoid problems (Roberto).",
+    "Skilled helpers are empathic but not conned."
+   ]
+  },
+  {
+   "id": "mixed-targets-act",
+   "heading": "Mixed Targets and the ACT Caution",
+   "pages": [
+    171,
+    171
+   ],
+   "detailed": "In practice the targets of challenge are mixed together. Minerva is depressed by her lack of a social life. Because of a few traumatic past experiences she believes the world is full of dishonest people (self-limiting mind-set). She views each new person as guilty until proved innocent (internal behaviour needing reform). Always on guard, she seems cold and indifferent (poor management of feelings and emotions). She is defensive and questions others' intentions (external behaviour needing change). She expects initial trust from others while not giving it herself (a discrepancy). She looks for flaws and pounces on them (a self-defeating game). She does not notice that even close friends are becoming uncomfortable (failure to see the world as it is). In sessions she stays guarded and slow to share (inadequate participation). Worse, she has no idea she is doing all this, which leads into the topic of blind spots.\n\nThe section ends with a caution from Steven Hayes about the pervasiveness of self-defeating thoughts and emotions. In acceptance and commitment therapy (ACT), Hayes invites clients to step out of their endless war with \"bad\" thoughts and feelings: rather than spending energy avoiding or confronting them, clients embrace and defuse them with respectful attention, changing their relationship to them. Instead of disputing negative thoughts, clients watch them mindfully at enough distance to realise, in a felt and not just intellectual way, that they are just thoughts; instead of getting rid of sadness, they learn how it feels in the body and how it tugs at behaviour, and that they can carry sorrow while living the life they want.\n\nThen Hayes helps clients decide what they want to live for and, with that sense of purpose, how they want to live. Befriending troublesome thoughts clears the way for the real work of life, helping clients turn a life lived in the present into a life worth living. ACT is therefore mildly directive: therapists help clients place demands on themselves to rebuild their lives. Hayes has written extensively on the research behind it.",
+   "simple": "Real clients show several targets at once: Minerva has a distrustful mind-set, cold emotions, defensive behaviour, a discrepancy, a game and poor participation, without realising it. Hayes's ACT warns against endless war with bad thoughts: accept and defuse them mindfully, then commit to a purposeful life.",
+   "keyPoints": [
+    "Targets are usually mixed: Minerva illustrates all of them, including inadequate participation.",
+    "Minerva is unaware of her pattern, leading into blind spots.",
+    "Hayes's ACT: stop warring with 'bad' thoughts and feelings; embrace and defuse them with respectful attention.",
+    "Clients learn that thoughts are just thoughts and they can carry sorrow while living fully.",
+    "ACT then clarifies purpose; it is mildly directive."
+   ]
+  },
+  {
+   "id": "blind-spots",
+   "heading": "Inviting Clients to Challenge the Blind Spots at the Root of Dysfunctional Thinking, Emotional Expression, and Behavior",
+   "pages": [
+    171,
+    172
+   ],
+   "detailed": "So far the chapter has dealt with what needs challenging, the content. Egan now adds the client's degree of awareness of self-limiting thinking, emotional expression and behaviour. Like everyone, clients do not always realise, or fully realise, how they limit themselves; they have blind spots. Blind spots are part of the human condition: things we fail to see or choose to ignore that keep us from identifying and managing problems or identifying and developing opportunities.\n\nVan Hecke (2007) describes ten common blind spots that get people into trouble: failure to think things through; always having the right answers; failure to pick up cues and clues and notice what is going on; lack of self-awareness; failure to explore one's biases; seeing the world through rigid categories; jumping to conclusions; failure to check things out; seeing coincidences as causes; and failure to see the big picture and put things in context. She notes that we readily see others' blind spots and the stupidities they cause, but stay ignorant of our own; what we grasp seems so obvious that we cannot understand how others miss it.\n\nSo clients may be perceptive about others yet need help sharpening their perception of themselves. Blind spots are obstacles to effective decision making. Egan then describes the different kinds, or \"flavours\", of blind spots: lack of awareness, failure to think things through, self-deception, choosing to stay in the dark, and knowing but not caring or failing to see consequences.",
+   "simple": "Beyond what to challenge, helpers must consider how aware clients are of their self-limiting patterns. Blind spots are things we fail to see or choose to ignore, and everyone has them. Van Hecke lists ten common ones; we spot others' blind spots easily but miss our own.",
+   "keyPoints": [
+    "Shift from content of challenge to client's degree of awareness.",
+    "Blind spots: things we fail to see or choose to ignore that block problem management and opportunity development.",
+    "Van Hecke's ten blind spots, e.g. jumping to conclusions, rigid categories, seeing coincidences as causes.",
+    "We see others' blind spots but not our own.",
+    "Blind spots obstruct effective decision making."
+   ]
+  },
+  {
+   "id": "lack-of-awareness",
+   "heading": "Lack of Awareness",
+   "pages": [
+    172,
+    172
+   ],
+   "detailed": "Some blind spots seem unintentional and others self-inflicted, but both block change. Some things clients simply are not aware of, and becoming aware helps them know themselves and cope with problems and opportunities.\n\nSerge, raised in a family that prized modesty and humility, was surprised when a self-help group member called him talented; he had never seen himself as talented, creative or resourceful and did not realise how this narrowed his life. His mind-set blocked change. Katya, always upbeat, \"exuded sunshine\", but did not realise that her exuberance was sometimes inappropriate because it kept her from facing problems squarely; a colleague felt it needed a dose of reality. Her friend Mia thought her emotional outbursts were part of a punchy style, unaware that colleagues sometimes wanted to strangle her. Casper did not know his style was acerbic; he saw himself as assertive and logical, while others saw pushiness and stubbornness and avoided him, so his social life suffered.\n\n\"Simple unawareness\" is elastic and comes in degrees. At one end is simple ignorance (\"he doesn't have a clue\"); at the other the ignorance is not so simple, as when Mia says Casper probably has some idea he rubs people the wrong way and is not totally in the dark. Note that unawareness can concern strengths (Serge) as well as weaknesses (Katya, Mia, Casper).",
+   "simple": "Some blind spots are simply things clients do not know about themselves, such as unrecognised talents or an off-putting style. Unawareness comes in degrees, from having no clue to half knowing. Becoming aware helps clients change.",
+   "keyPoints": [
+    "Blind spots may be unintentional or self-inflicted; both block change.",
+    "Serge: unaware of his talents because of family values of modesty.",
+    "Katya, Mia, Casper: unaware of how their style affects others.",
+    "Simple unawareness is elastic: from no clue to partial awareness."
+   ]
+  },
+  {
+   "id": "failure-to-think",
+   "heading": "Failure to Think Things Through",
+   "pages": [
+    172,
+    173
+   ],
+   "detailed": "A very common human experience is exploring problems, examining opportunities, searching for possibilities or planning in an incomplete, haphazard way, and then basing decisions on that flawed reasoning.\n\nKim and Lea, long-time neighbours and friends, have both lost sons in Iraq. Kim thinks the war was a mistake and blames the politicians; Lea believes it was essential and her son died for a just cause. Their emotionally charged convictions leave neither any feeling for the other's view, and they are willing to destroy their friendship, which neither son would have wanted. Here strong convictions intensified by emotion stop them thinking things through; in other cases habit, laziness or thoughtlessness is the cause. Counsellors who challenge clients and help them think key issues through provide an invaluable service.\n\nFailure to explore the short- and long-term consequences of a dysfunctional pattern is also very common. Clancy knew he could get into trouble with classmates who lost all limits when out together (\"group think\" and \"group act\"). Ignoring his mother's warnings, he went out of town with them over a holiday weekend, got drunk, trashed a hotel, pushed a police officer, ended up in hospital, received two years' probation and was expelled from his private school. After one or two more incidents and help from a counsellor familiar with such stories, he rebuilt his life. Egan asks whether failing to see consequences ruined his life or taught him an invaluable lesson.",
+   "simple": "People often think through problems and plans in a haphazard way and then act on poor reasoning. Strong emotional convictions, habit or laziness can block clear thinking, as with Kim and Lea. Failing to foresee consequences, as Clancy did, can wreck a life, so helping clients think things through is invaluable.",
+   "keyPoints": [
+    "Haphazard exploration and planning leads to decisions based on flawed reasoning.",
+    "Kim and Lea: emotion-charged convictions block thinking things through.",
+    "Other causes: habit, laziness, thoughtlessness.",
+    "Failure to foresee short- and long-term consequences (Clancy).",
+    "Helping clients think key issues through is an invaluable service."
+   ]
+  },
+  {
+   "id": "self-deception",
+   "heading": "Self-Deception",
+   "pages": [
+    173,
+    173
+   ],
+   "detailed": "Egan asks where lack of awareness or failure to think things through ends and self-deception begins. There are things clients would rather not know, because knowing would challenge them to change, so they stay in the dark.\n\nGoleman, well known for writing on social and emotional intelligence, earlier wrote Vital Lies, Simple Truths (1985) on the psychology of self-deception and how pervasive it is. Egan notes that self-deception and the social-emotional maturity described in Goleman's Emotional Intelligence are incompatible.\n\nYet, as Eduardo Giannetti (1997) argues in Lies We Live By: The Art of Self-Deception, self-deception is everywhere; he marvels at how we manage to believe what we do not believe and lie to ourselves while believing the lie. Stan, though engaged, thought he could get away with flirting, excusing it as natural for a man. His fiancée found it insulting and called off the wedding, and Stan painfully discovered the price of his self-deception.",
+   "simple": "Self-deception is when clients avoid knowing something because knowing it would push them to change. Goleman and Giannetti show how common it is, and it clashes with emotional maturity. Stan's flirting cost him his engagement.",
+   "keyPoints": [
+    "Self-deception: not wanting to know because knowing would demand change.",
+    "Goleman, Vital Lies, Simple Truths (1985): self-deception is pervasive.",
+    "Self-deception is incompatible with emotional-intelligence maturity.",
+    "Giannetti (1997), Lies We Live By: self-deception is ubiquitous.",
+    "Stan's excuse for flirting cost him his engagement."
+   ]
+  },
+  {
+   "id": "staying-in-dark",
+   "heading": "Choosing to Stay in the Dark",
+   "pages": [
+    174,
+    174
+   ],
+   "detailed": "Choosing to stay in the dark is common: it is like saying \"I could find out, but I don't want to, at least not yet.\" Heffernan (2011) calls this \"willful blindness\". She argues that we make ourselves powerless when we choose not to know but give ourselves hope when we insist on looking; precisely because willful blindness is willed, the product of experience, knowledge, thinking, neurons and neuroses, we have the capacity to change it.\n\nMany people avoid thinking about physical symptoms such as gut pain, which can be life-threatening, because finding out might be uncomfortable or intolerable. Clients, like everyone, often choose to stay in the dark. Ilia, just released from jail, knows she should understand her probation conditions but chooses not to, claiming nobody explained them, and pushes out of mind the risk of returning to jail. Egan adds a practical point for helpers: when clients are vague or evasive with helpers, they may also be hiding something from themselves that would hurt to know more fully.",
+   "simple": "Sometimes clients could find something out but choose not to, which Heffernan calls 'willful blindness'. Because it is chosen, it can also be changed. Vagueness or evasiveness in sessions can be a sign that clients are hiding something from themselves.",
+   "keyPoints": [
+    "Choosing to stay in the dark: 'I could find out but don't want to'.",
+    "Heffernan (2011): willful blindness; because it is willed, it can be changed.",
+    "Avoiding medical symptoms can be life-threatening.",
+    "Ilia chooses not to understand her probation conditions.",
+    "Client vagueness/evasiveness may signal self-concealment."
+   ]
+  },
+  {
+   "id": "knowing-not-caring",
+   "heading": "Knowing, Not Caring, and Failing to See Consequences",
+   "pages": [
+    174,
+    175
+   ],
+   "detailed": "Sometimes clients know that their thinking, emotional expression and actions are getting or keeping them in trouble, but do not seem to care. Egan uses \"blind spot\" in an extended sense here, because they do not fully appreciate how far they are choosing their own misery or the consequences of not caring (think of Clancy). Tanel knows that nagging his wife to get a job while their two children are young annoys her, but continues (\"I can't help it\"); he focuses on her reluctance rather than the resentment building in her. Egan leaves the case unresolved and asks the reader how they would proceed.\n\nEgan admits \"blind spot\" is elastic as used here: we are unaware, deceive ourselves, do not want to know, ignore, do not care, or know but not fully understand implications and consequences. Still it is a good term with great face validity; people immediately know what it means. Helping clients deal with blind spots is one of the most important things a helper can do.\n\nLester illustrates levels. If he has a prejudice and does not advert to it, he has a blind spot. If he adverts to it only vaguely, he is keeping himself in the dark. If he knows and, asked, says everyone he knows is like that, he does not care and fails to explore the human meaning of prejudice; he is prejudiced, knows it, fosters it and lets it shape how he treats people, the full dysfunctional package. Bernice, by contrast, starts unaware, becomes aware, tries to remove the prejudice from her mental furniture, refuses to act on it and learns about herself and the world; she turns a problem into an opportunity. Helping with blind spots can prevent damage, limit damage already done and turn problems into opportunities.\n\nBox 6.1, \"Questions to Uncover Blind Spots\", lists questions clients can be helped to ask themselves to develop new perspectives and change internal and external behaviour: What problems am I avoiding? What opportunities am I ignoring? What's really going on? What am I overlooking? What do I refuse to see? What don't I want to do? What unverified assumptions am I making? What am I failing to factor in? How am I being dishonest with myself? What's underneath the rocks? If others were honest with me, what would they tell me? Egan notes that new perspectives are often called insights in therapy, and that insight has a long and somewhat problematic history in the helping professions.",
+   "simple": "Some clients know their behaviour causes trouble but do not care or do not see the consequences, like Tanel nagging his wife. 'Blind spot' is a loose but useful term covering many kinds of not-seeing. Lester shows the full dysfunctional package; Bernice turns her prejudice into growth. Box 6.1 gives self-questions to uncover blind spots.",
+   "keyPoints": [
+    "Knowing but not caring, or not seeing consequences, is a blind spot in an extended sense (Tanel).",
+    "'Blind spot' is elastic but has great face validity.",
+    "Lester: blind spot -> keeping self in dark -> not caring = full dysfunctional package.",
+    "Bernice turns prejudice into an opportunity; dealing with blind spots prevents/limits damage.",
+    "Box 6.1: eleven questions to uncover blind spots; new perspectives are often called insights."
+   ]
+  },
+  {
+   "id": "specific-skills-intro",
+   "heading": "Specific Skills for Helping Clients Challenge Their Blind Spots and Move to New Perspectives",
+   "pages": [
+    175,
+    176
+   ],
+   "detailed": "Self-challenge aims at understanding that leads to constructive change. It is a disservice to help clients only identify and explore their blind spots. The upbeat part is helping them transform blind spots into new perspectives and translate these into more constructive internal and external behaviour.\n\nEgan lists many upbeat names for this process: seeing things more clearly, getting the picture, getting insights, developing new perspectives, spelling out implications, transforming perceptions, new frames of reference, looking for meaning, shifting perceptions, seeing the bigger picture, different angles, seeing things in context, context breaking, rethinking, getting a more objective view, interpreting, overcoming blind spots, second-level learning, double-loop learning (Argyris, 1999), thinking creatively, reconceptualising, discovering, having an \"ah-ha\" experience, developing a new outlook, questioning assumptions, getting rid of distortions, relabelling and making connections. Terms such as \"frame breaking\", \"frame bending\" and \"reframing\" are also used. All imply some cognitive restructuring needed to manage problems and opportunities. Although sometimes painful, new perspectives tend to be prized by clients in the end.\n\nOne way to help clients challenge internal and external actions is to help them explore consequences. Roberto calls his mild sabotage of Maria's career \"delaying tactics\". The helper proposes reviewing what impact the tactics have had on Maria and the marriage and where they are likely to lead; Roberto admits she has become even more stubborn, and discovers his sabotage works against him and endangers the marriage.\n\nEffective helpers assume clients have the resources to see themselves and their world less distortedly and to act on what they see. In Alcoholics Anonymous language, they help clients move from \"stinkin' thinkin'\" to healthy thinking, from \"stinkin'\" emoting to constructive emotional expression, and from dysfunctional to healthy behaviour. Carla, facing menopause, holds the outdated view that it is a \"deficiency disease\"; without minimising her discomfort, a counsellor helps her see it as a natural developmental stage that ends one phase but opens new possibilities, and looking forward rather than back helps her greatly.\n\nInvitations to self-challenge lie on a continuum from indirect to direct. Egan starts with three indirect approaches: advanced empathy (identifying and sharing the message behind the message), information sharing and helper self-disclosure. He then turns to more direct approaches: suggestions and recommendations, confrontation, and finally encouragement.",
+   "simple": "It is not enough to spot blind spots; helpers must help clients turn them into new perspectives and new behaviour. This goes by many names, such as reframing, insight or double-loop learning. Exploring consequences and reframing (as with Roberto and Carla) are examples. The skills run from indirect (advanced empathy, information, self-disclosure) to direct (suggestions, confrontation) plus encouragement.",
+   "keyPoints": [
+    "Goal: transform blind spots into new perspectives and new behaviour.",
+    "Many names: insight, reframing, frame breaking, double-loop learning (Argyris), etc.; all imply cognitive restructuring.",
+    "Exploring consequences (Roberto's 'delaying tactics').",
+    "From 'stinkin' thinkin'' (AA) to healthy thinking; Carla reframes menopause.",
+    "Indirect skills: advanced empathy, information sharing, self-disclosure; direct: suggestions, confrontation; plus encouragement."
+   ]
+  },
+  {
+   "id": "advanced-empathy",
+   "heading": "Advanced Empathy: Capturing the Fuller Message or the Message Behind the Message",
+   "pages": [
+    176,
+    178
+   ],
+   "detailed": "Egan recalls Carl Rogers's point (from Chapter 5) that empathy sometimes involves sensing meanings the client is scarcely aware of. This fuller message, or message behind the message, is what Egan calls advanced empathy when the helper shares it. Gordon gets angry talking about his ex-wife, but the helper also hears hurt, which Gordon finds harder to discuss.\n\nBasic empathy, if accurate, is recognised immediately (\"Yes, that's what I meant\"). Advanced empathy digs deeper into more covert messages, so clients may not recognise themselves at once and may feel some disequilibrium; that is what makes it a form of challenge, inviting a closer look at oneself. When the helper tells Gordon he obviously gets steamed but seems to have a bit of hurt mixed in, Gordon looks down, pauses and admits she can still get to him, which broadens and deepens the discussion.\n\nHelpers can ask themselves: What is this person only half saying? What is he or she hinting at? What is being said in a confused way? What covert message lies behind the explicit one? Advanced empathy focuses on what the client is actually saying or expressing, however tentatively or confusedly; it is not interpretation and not an attempt to \"psych the client out\". In skilled hands it targets not only problems but unused opportunities and resources buried and forgotten in clients.\n\nThe soldier example: a hardworking soldier who served in Iraq and Afghanistan keeps being passed over for promotion and says he is not as flashy as others but just as substantial. Chaplain A responds with basic empathy (it feels unfair), and the soldier retreats into resignation and silence. Chaplain B acknowledges the depression of being passed by, then picks up the phrase \"not as flashy\" and wonders whether something in his style makes him easy to overlook. The soldier realises he is so unassuming he might get lost in the shuffle and has never thought of selling himself. Drawing on context, the discussion and the client's manner and tone, Chaplain B picked up a theme stated in passing, and they go on to discuss how he might market himself consistently with his values.\n\nAdvanced empathy takes several forms, discussed next: helping clients make the implied explicit, identify themes, make missing connections, and sharing educated hunches.",
+   "simple": "Advanced empathy means sensing and sharing the deeper message behind what the client says, such as hurt beneath anger. Because clients may not recognise it immediately, it challenges them to look closer. It sticks to what the client is actually expressing, not the helper's theories, and can reveal strengths as well as problems.",
+   "keyPoints": [
+    "Rooted in Rogers: sensing meanings the client is scarcely aware of.",
+    "Basic empathy is recognised immediately; advanced empathy may cause mild disequilibrium, hence challenge.",
+    "Self-questions: what is only half said, hinted at, said confusedly, the covert message?",
+    "Not interpretation or 'psyching out'; based on what the client expresses.",
+    "Chaplain A (basic) vs Chaplain B (picks up 'not as flashy' theme)."
+   ]
+  },
+  {
+   "id": "ae-implied-explicit",
+   "heading": "Advanced Empathy Form: Help Clients Make the Implied Explicit",
+   "pages": [
+    178,
+    178
+   ],
+   "detailed": "The most basic form of advanced empathy helps clients give fuller expression to what they are implying rather than saying directly. A recently divorced client discusses contacting his ex-wife but with little enthusiasm, hesitantly saying there is nothing wrong with calling to see how she is.\n\nCounselor A gives a basic-empathy response, agreeing there is nothing wrong with taking the initiative since he wants to know she is okay. The client drearily agrees and does not move on. This might have suited an earlier stage but misses the mark now.\n\nCounselor B notes that, unless she is mistaken, she does not hear much enthusiasm in his voice. The client admits he does not want to talk to her; he feels guilty about the divorce and her being alone, and is really trying to take care of her again, which was one reason they divorced: he needed to take care of her and she let him though she resented it. Asked what a better approach would be, he says they both need to get on with their lives, neither is helpless, and, brightening, mentions a business idea he has been considering with a friend.\n\nCounselor B based her response on the whole context of his story, not just the last remark, and it hit the mark. Egan stresses that, as with basic empathy, there is no such thing as a good advanced highlight in itself; the test is whether it helps the client clarify the issue so that he or she begins to see the need to act differently.",
+   "simple": "The simplest form of advanced empathy helps clients say openly what they are only implying. In the divorce example, noticing the client's lack of enthusiasm leads him to admit guilt and a pattern of caretaking, and then to talk about a new opportunity. A response is good only if it helps the client move forward.",
+   "keyPoints": [
+    "Most basic form: help clients express fully what they imply.",
+    "Counselor A (basic empathy) misses the mark; client stalls.",
+    "Counselor B notices lack of enthusiasm, drawing on the whole context.",
+    "Client reveals guilt and caretaking pattern, then a new opportunity.",
+    "No highlight is good in itself; judge by whether it helps the client see the need to act."
+   ]
+  },
+  {
+   "id": "ae-themes",
+   "heading": "Advanced Empathy Form: Help Clients Identify Themes in Their Stories",
+   "pages": [
+    179,
+    179
+   ],
+   "detailed": "When clients tell their stories, themes often emerge. Thematic material may concern feelings (hurt, depression, anxiety), thoughts (constantly ruminating over a past mistake), behaviour (controlling others, avoiding intimacy, blaming others, overwork), experiences (being a victim, seduced, punished, ignored, picked on) or combinations. Once the helper sees a self-defeating theme or pattern, he or she can share the perception and help the client check it out.\n\nEgan's example is a supervision session. A counselling-psychology trainee has seen four clients for the third time and feels he is going round in circles with some. He thinks he has been very good at listening and sharing highlights, which keeps clients talking, but there is no movement. They listen to a tape, and he realises it is all basic empathy with a few \"uh-huhs\"; he had thought he was being pushy but is as far from pushy as possible. The supervisor asks what is missing: very few probes, no summaries and no mild invitations to self-challenge. After a 15-minute role play in which the trainee mixes probes with basic highlights, the session is quite different. Asked how close he got to challenging, he admits he did not get there at all; he sees probes as invitations to self-challenge, and recognises that the thread running through his work is \"playing it safe\" because he is afraid of damaging clients. The supervisor has helped him surface the theme of fear of being pushy, which explains his safe behaviour.",
+   "simple": "Advanced empathy can help clients spot recurring themes in their stories, such as avoiding intimacy or always blaming others. The helper shares the pattern tentatively and lets the client check it. A supervisor helps a trainee see his theme of 'playing it safe' out of fear of being pushy.",
+   "keyPoints": [
+    "Themes may concern feelings, thoughts, behaviours, experiences, or combinations.",
+    "Share a perceived self-defeating theme and help the client check it out.",
+    "Trainee: all basic empathy, few probes, no summaries or challenge.",
+    "Underlying theme: fear of being pushy -> 'playing it safe'."
+   ]
+  },
+  {
+   "id": "ae-connections",
+   "heading": "Advanced Empathy Form: Help Clients Make Connections That May Be Missing",
+   "pages": [
+    179,
+    181
+   ],
+   "detailed": "Clients often tell their stories, experiences, thoughts, behaviours and emotions in a hit-or-miss way. The counsellor's job is to help them make the connections that provide insights or perspectives enabling them to move forward.\n\nExamples: Chu Hua's counsellor helps her see that she struggles to develop strategies because she is only half-heartedly committed to her goals, so they revisit how realistic the goals are. Owen says he has a \"problem with\" pornography, avoids the word \"addiction\", and offers excuses; the therapist summarises and adds that she is not sure whether he is saying it is really his wife who has the problem. Owen admits he would be furious if roles were reversed, the therapist suggests starting over, and wiping the slate clean lets him explore his addiction. A therapist helps Joanna link her ingratiating style to her inability to influence colleagues. A supervisor helps Dieter, working for an NGO on poverty in Kenya, see that his anxiety with tribal leaders stems from perfectionist standards out of place in Kenyan culture.\n\nThe extended case is John, who works full time, is finishing his degree and whose father has had a stroke. He is increasingly tired and edgy and wonders if it is physical. The counsellor lists the stresses; John insists juggling is what he is good at. When asked what is different besides his dad's illness, John slowly identifies the squabbling at family meetings, which he keeps thinking about at work and while writing papers. He had expected the family to rally together. The connection: John handles normal stress well, but the \"family stuff\" acts as a multiplier, and they go on to discuss family dynamics and how he can cope.",
+   "simple": "Clients often tell their stories in bits, without linking them. Helpers help them connect the pieces, for example linking half-hearted commitment to weak strategies, or tiredness to family squabbling. These connections give insight that lets clients move forward.",
+   "keyPoints": [
+    "Clients tell stories hit-or-miss; helpers help connect the pieces.",
+    "Chu Hua: weak strategies linked to half-hearted goal commitment.",
+    "Owen: summary plus tentative challenge leads him to own his porn addiction.",
+    "Joanna (ingratiating style) and Dieter (perfectionism out of place in Kenyan culture).",
+    "John: family squabbling acts as a stress multiplier."
+   ]
+  },
+  {
+   "id": "ae-hunches",
+   "heading": "Advanced Empathy Form: Share Educated Hunches Based on Empathic Understanding",
+   "pages": [
+    181,
+    182
+   ],
+   "detailed": "As helpers listen, process and put things in context, they naturally form hunches about the message or story behind the story, and can share those likely to add value. The more mature, socially competent and experienced the helper, the more \"educated\" the hunches become. Egan lists six purposes, each with an example:\n\n1. Helping clients see the bigger picture. A perfectionist client calls his brother-in-law a guy who can never get anything right; the counsellor wonders whether his perfectionism is \"spreading\", so that everyone else should be perfect too. They discuss its effect on his social life.\n2. Helping clients go a bit deeper. To a client let down by a friend, the counsellor suggests she may feel more than disappointed, perhaps betrayed; since she has been avoiding the friend, \"betrayal\" rings truer and she contacts the depth of her feelings.\n3. Helping clients see implications and draw conclusions. A manager stitches together a team member's tentative reservations and suggests she may be saying the project was ill-advised and should be shut down, inviting discussion.\n4. Helping clients open up areas they are only hinting at. A school counsellor tells a high-school senior that he keeps raising sexual matters without pursuing them, guessing the area is important but sensitive.\n5. Helping clients see things they may be overlooking. A man with perhaps six months to live, unmarried with no will and self-described as financially lazy, is told his laziness may have spread: he has no health power of attorney, so doctors may decide how he dies. He begins rethinking how he wants to die and even discusses giving his money to a good cause.\n6. Helping clients own their stories, that is, take fuller ownership of partly owned experiences, behaviours, feelings, views and decisions. To a woman in painful rehabilitation after a car accident, the counsellor says she sounds as if she has already decided to quit, or perhaps that overstates it. She admits she has been afraid to discuss quitting; they explore her wish and dread of giving up, and, learning she has never told staff about the pain, plan direct conversations with them.\n\nGuidelines: hunches must be based on understanding of the client; if asked \"What makes you think that?\", the helper should be able to point to the experiential and behavioural clues behind them. Empathy is not a licence to draw inferences at will from the client's history, nor to load clients with interpretations rooted more in the helper's favourite theories than in the client's reality. Constructive advanced empathy requires the helper's emotional intelligence and social competence.",
+   "simple": "Experienced helpers form hunches about the story behind the story and share them tentatively. Hunches can show the bigger picture, deepen feelings, draw out implications, open up hinted topics, reveal what is overlooked and help clients own their stories. They must rest on real clues from the client, not on the helper's pet theories.",
+   "keyPoints": [
+    "Hunches grow more 'educated' with maturity, social competence and experience.",
+    "Six uses: bigger picture, go deeper, implications/conclusions, open up, see what is overlooked, own the story.",
+    "Examples: perfectionism 'spreading', 'betrayed' not just 'let down', no power of attorney, 'already decided to quit'.",
+    "Be able to name the clues behind a hunch.",
+    "Not a licence for free inference or theory-driven interpretation; needs emotional intelligence."
+   ]
+  },
+  {
+   "id": "information-sharing",
+   "heading": "Information Sharing",
+   "pages": [
+    182,
+    183
+   ],
+   "detailed": "Clients sometimes cannot explore problems fully, set goals or act because they lack information. Information can help at any stage: early on, knowing they are not the first to face a problem; later, clarifying possibilities and setting goals; in implementation, information about common obstacles helps them cope and persevere.\n\nInformation sharing is classed as a challenging skill because it helps clients develop new perspectives on their problems or shows them how to act. It includes both providing new information and correcting misinformation. Sometimes it is confirming and supportive: a parent blaming himself or herself after a newborn's death may feel some relief on learning the earmarks of sudden infant death syndrome; the information does not solve the problem, but the new perspective helps with self-blame.\n\nNew perspectives can be both comforting and painful. Adrian, a hardworking student of modest intellectual means, was rejected by every graduate psychology programme he applied to. He believed most college students went to graduate school because his close friends did. The counsellor shared statistics on the \"educational pyramid\", the shrinking percentage of students at each higher level. Adrian realised that finishing college already placed him in an elite group and learned how competitive the programmes were. This was a relief, but he was then disconcerted by the sudden need to face the world of work.\n\nInformation is especially useful when lack of accurate information is a main cause of a problem or is making it worse. In some medical settings doctors team with counsellors to deliver hard messages and information for difficult decisions. Doug, a 71-year-old accountant diagnosed with prostate cancer, hears the doctor lay out all options, including doing nothing, with their pros and cons; a counsellor then helps him cope, process the information and start deciding.\n\nCautions for giving information: when it is challenging or shocking, be tactful and help the client handle the disequilibrium; do not overwhelm the client; make sure it is clear and relevant to the problem; do not let the client leave with a misunderstanding; be supportive and help the client process it; and do not confuse information giving with advice giving. Professional guidance is not telling clients what to do; neither doctor nor counsellor tells Doug which treatment to choose, but he needs help with the burden of choosing.",
+   "simple": "Clients sometimes lack information, and giving it, or correcting misinformation, can create new perspectives. It can be comforting (SIDS facts easing guilt) or both relieving and painful (Adrian and the educational pyramid). Helpers must be tactful, clear, relevant and supportive, and must not turn information into advice.",
+   "keyPoints": [
+    "Information helps at every stage: early, goal setting, implementation.",
+    "A challenging skill: it creates new perspectives or shows how to act; includes correcting misinformation.",
+    "SIDS example: information eases self-blame; Adrian: educational pyramid.",
+    "Especially useful when lack of information causes or worsens the problem; Doug's cancer decision.",
+    "Cautions: tact, don't overwhelm, clear and relevant, check understanding, be supportive, don't confuse with advice."
+   ]
+  },
+  {
+   "id": "helper-self-disclosure",
+   "heading": "Helper Self-Disclosure",
+   "pages": [
+    183,
+    185
+   ],
+   "detailed": "Another route to client self-challenge is the helper's ability and willingness to share some of his or her own experiences, thoughts, behaviours and feelings. The topic has been explored thoroughly (Barnett; Farber; Forrest; Henretty & Levitt; Kelly & Rodriguez; Myers & Hayes; Veach; Yeh & Hayes; Zur et al.), but there is no single voice on its value, limits and dangers.\n\nIn one sense counsellors cannot avoid disclosing themselves: Strong and Claiborne (1982) note that counsellors communicate their characteristics in every look, movement, emotional response, sound and word. This indirect disclosure goes on constantly, so effective helpers track and manage the impressions they make.\n\nThe chapter's concern is direct self-disclosure, where research is mixed and even contradictory. Henretty and Levitt (2010), in one of the most detailed reviews, say the problem begins with definition: multiple definitions make meaningful comparison across studies difficult if not impossible. Some studies find helper disclosure frightens clients, makes helpers seem less well adjusted, or burdens clients; others find clients appreciate it and see disclosing helpers as \"down-to-earth\" and \"honest\".\n\nDirect self-disclosure can serve as modelling. Self-help groups such as Alcoholics Anonymous and drug treatment programmes use it extensively, and some say it is most appropriate there. It shows newcomers what to talk about and gives them courage, signalling that they can speak without being judged or hurt. Beth, a former substance abuser now counselling in the agency that helped her, freely shares her experience of using and her agonising journey to freedom whenever she thinks it will help. Other things being equal, counsellors who have struggled with addiction often make excellent helpers in such programmes because they know the games clients play from the inside; sharing is central to their style and accepted by clients, and it helps clients develop new perspectives and possibilities for action. It puts pressure on clients to talk more openly or in a more focused way.\n\nHelper self-disclosure is challenging for at least two reasons. First, it is a form of intimacy, which some clients find hard to handle, so helpers must know precisely why they are disclosing. Second, its indirect message is \"You can do it, too\", since disclosures, even of past failures, usually centre on problems overcome or opportunities seized. Done well, such disclosure can be very encouraging.\n\nRick, counselling Tim (a troubled adolescent who fell in with the wrong crowd, had police trouble and strained relations with his parents), shares that he was expelled for stealing in his junior year, that his Catholic family saw it as the ultimate disgrace, and that they moved neighbourhoods. When Tim asks what it did to him, Rick briefly tells how, with a wise uncle's help, he put the past behind him. He does not overdramatise; his story shows that developmental crises are normal and that how people interpret and manage them is what matters.",
+   "simple": "Helpers always disclose themselves indirectly through their manner, but direct self-disclosure is a deliberate challenge skill. Research on it is mixed, partly because studies define it differently. It works well as modelling, as in addiction programmes, and carries the message 'You can do it too', but it is a form of intimacy that some clients find hard.",
+   "keyPoints": [
+    "Indirect disclosure is constant (Strong & Claiborne); manage impressions.",
+    "Research on direct disclosure is mixed; Henretty & Levitt: multiple definitions hamper analysis.",
+    "Negative findings (frightening, less adjusted, burdensome) vs positive (down-to-earth, honest).",
+    "Modelling in AA/drug programmes (Beth).",
+    "Challenging because (1) it is intimacy and (2) it implies 'You can do it, too' (Rick and Tim)."
+   ]
+  },
+  {
+   "id": "self-disclosure-guidelines",
+   "heading": "Guidelines for Helper Self-Disclosure",
+   "pages": [
+    185,
+    187
+   ],
+   "detailed": "Current research gives no definitive answers, but offers commonsense guidelines. Because clients sometimes misinterpret helpers' disclosures and their intent, caution is needed. Egan's guidelines are:\n\n1. Make sure disclosures are appropriate. Sharing is appropriate if it helps clients reach treatment goals; do not disclose more than necessary; exhibitionistic disclosure is plainly inappropriate. Jeffrey (2004) gives outrageous examples, such as a helper discussing her own father-daughter issues, guilt over disappointing a parent, religious issues and love life; the client switched to a therapist who said nothing about herself. Disclosure should be a natural part of helping, not a gambit. Rick's disclosure gives Tim a developmental lens on the \"bad things\" that happened, while making clear Rick is not excusing Tim's behaviour.\n\n2. Make sure disclosures are culturally appropriate (Barnett; Burkard et al.; Kim et al.). Helper behaviours do not automatically transfer across cultures. Carlos hesitates to share his dual-culture experiences with Mara: her Iranian culture differs greatly from his Latin background, many of her experiences have been negative while most of his were positive, and he had integrated his Hispanic and mainstream American heritage well.\n\n3. Be careful of timing. Premature or poorly timed disclosure can distract clients or turn them off. Rick waited a few sessions and disclosed when he saw a natural opening; experience teaches what natural openings look like.\n\n4. Keep disclosure selective and focused. Do not distract clients with rambling stories. A counsellor working with a depressed, overworked first-year clinical-psychology graduate student launches into reminiscences about his own grad-school busyness and despair; selected bits might help, but rambling meets the helper's needs rather than the client's. Rick's disclosure was selective and focused.\n\n5. Don't disclose too frequently. Too-frequent disclosure can make clients see helpers as self-centred, phony or immature, or suspect hidden motives. Had Rick shared every parallel, Tim might have wondered who was helper and who was client.\n\n6. Do not burden the client. A novice shared his own sexual experiences to put a client with sexual problems at ease; the client replied that he had enough trouble with his own problems. The novice disclosed too much too soon, caught up in his willingness to disclose rather than its usefulness. In extreme cases intimate disclosure can appear seductive.\n\n7. Remain flexible. Take each client separately and adapt disclosures to clients and situations. When asked, clients say they want helpers to disclose, but not every client in every situation wants or benefits from it. Rick's natural disclosure was still a thoughtful decision.\n\nReviewers of Farber's (2006) book (Hamilton, Del Castillo & Stiles, 2007) concluded that readers absorb much information but find few definitive answers, appropriately so; Henretty and Levitt's (2010) extensive review agrees. Egan says these broad principles and cautions will have to do for now and, given human complexity, perhaps forever.",
+   "simple": "Because research gives no firm answers, Egan offers commonsense rules for self-disclosure: keep it appropriate and goal-related, culturally fitting, well timed, short and focused, infrequent, not burdensome, and flexible to each client. Rick's disclosure to Tim models doing it well.",
+   "keyPoints": [
+    "Appropriate: serves treatment goals, not exhibitionistic (Jeffrey's examples).",
+    "Culturally appropriate (Carlos and Mara).",
+    "Careful timing: wait for a natural opening.",
+    "Selective and focused; not too frequent.",
+    "Do not burden the client; remain flexible.",
+    "Reviews (Farber; Hamilton et al.; Henretty & Levitt): few definitive answers."
+   ]
+  },
+  {
+   "id": "suggestions-recommendations",
+   "heading": "Making Suggestions and Giving Recommendations",
+   "pages": [
+    187,
+    188
+   ],
+   "detailed": "Egan now turns to more direct approaches. Because client self-responsibility is a key value, some version of Thaler and Sunstein's (2008) \"libertarian paternalism\" applies to almost every form of challenge: even direct challenges leave decision making in the client's hands.\n\nThe section opens with libertarian imperatives flowing from respect and empowerment: don't tell clients what to do, don't take over their lives, let them make their own decisions. But suggestions and recommendations are not forbidden. Some clients, more in some cultures than others, expect or want explicit guidance, and guidance can be given without robbing clients of self-responsibility. There is a natural tension between wanting clients to manage their lives better and respecting their freedom. Where helpers have built strong, respectful relationships, stronger, more direct interventions make sense, and suggestions can stimulate problem-managing action; helpers move from counselling mode to a guidance role. Research shows clients generally follow recommendations that are clearly related to the problem, challenge their strengths, and are not too difficult. Effective helpers can give suggestions, recommendations and even directives without robbing clients of autonomy or integrity.\n\nCummings's work (1979, 2000) with substance abusers is a classic example. He listened intently during the first half of the first session; then, using training, acumen and \"the third, fourth, fifth and sixth ears\", he would discern some unresolved wish or long-gone dream deep in the client and ignite a desire to look at it again, knowing that if he did not touch the right nerve he would lose the client. He found the desire for a better life present, however faint, in most clients. He used basic and advanced empathy to show he understood their plight, longings and games; they knew every game, but so did he. Near the end of the first session he told them they could have a second session, which they invariably wanted, only when they were \"clean\", timed to the withdrawal period of their substance. They protested and played games, but he stayed firm. The directive \"Get clean, then return\" was part of therapy, and most returned clean. Egan adds that no approach is right for everyone.\n\nSuggestions, advice and directives need not be taken literally; they can stimulate clients to create their own package. A mother told to let her teenage son have his say instead of interrupting and arguing made a contract: each would listen and summarise the other. It produced \"useful monologues\" and ended shouting matches, and she hoped to turn it into dialogue. In everyday life people freely give advice, but helpers must be cautious: suggestions, advice and directives are not for novices, and knowing when they will work takes much experience and savvy.",
+   "simple": "Helpers should not tell clients what to do, but suggestions and recommendations are allowed when the relationship is strong and the client stays in charge of decisions ('libertarian paternalism'). Clients tend to follow recommendations that fit the problem, use their strengths and are not too hard. Cummings's 'get clean, then return' shows a firm directive that worked, but such moves are not for novices.",
+   "keyPoints": [
+    "Libertarian paternalism (Thaler & Sunstein): direct challenges still leave decisions with the client.",
+    "Imperatives: don't tell clients what to do or take over; but guidance is allowed, and some cultures expect it.",
+    "Research: clients follow recommendations that relate to the problem, challenge strengths, aren't too difficult.",
+    "Cummings: ignite a buried dream; directive 'Get clean, then return'.",
+    "Suggestions can be stimuli for the client's own package; not for novices."
+   ]
+  },
+  {
+   "id": "confrontation",
+   "heading": "Stronger Medicine: Confrontation",
+   "pages": [
+    188,
+    189
+   ],
+   "detailed": "Some clients keep dragging their feet and stay stuck. Those who do not want to change, or to pay its price, may simply end the relationship; those who stay range from mildly to extremely reluctant and resistant (dealt with in Chapter 7), or are collaborative on some issues and reluctant on others. Hester will work on career development but refuses to work on interpersonal and work relationships, although relationship building is part of the career package. She calls relationships her private world, dealt with inside her head and nobody else's business. Her coach tentatively checks whether she means relationships do not affect her career, asks about the forum in which she handles them, and finally notes that this may put their conversation at a standstill; they go on to discuss how putting critical issues off limits affects a therapeutic dialogue.\n\nIf inviting self-challenge is one end of the continuum, what is at the other, and where does respecting clients' right to be themselves stop and placing demands on them begin? Because this is a values issue, helpers differ theoretically and personally in their willingness to confront. Lowenstein (1993) used what he called \"traumatic confrontation\" (Egan questions the name) to make youths face their dysfunctional behaviour; a 12-year-old who turned to crime after his father disappeared at first denied everything but then faced the situation.\n\nPatterson, Grenny, McMillian and Switzer (2004) say \"crucial confrontations\" are needed when people fail to meet clear, realistic expectations set with or for them; to confront means to hold someone accountable face to face. People who break promises, violate expectations or behave badly should expect confrontation. In counselling, confrontation focuses on the person's failure to meet his or her own expectations or the legitimate expectations of the culture or community in which he or she lives.\n\nHelpers confront to \"make the case\" for more effective living. Confrontation is not a \"do this or else\" ultimatum; more often it ensures clients understand what not changing means: the consequences of persisting in dysfunctional patterns or the cost of missing opportunities. Like strong medicine, it is another way of caring for the client, but must be used sparingly and carefully. Confrontation should be empathic and respectful, should empower the client and lead to action, and must not be used by helpers to vent frustration on reluctant and resistant clients.",
+   "simple": "With foot-dragging or resistant clients, stronger challenge may be needed. Confrontation means holding someone accountable for failing to meet their own or their community's legitimate expectations, and making sure they understand the cost of not changing. Like strong medicine, it is a form of caring but must be used sparingly, respectfully and never to vent the helper's frustration.",
+   "keyPoints": [
+    "Used with clients who drag their feet; some are reluctant only on certain issues (Hester).",
+    "Where respect ends and demands begin is a values issue; helpers differ.",
+    "Lowenstein: 'traumatic confrontation' with youths.",
+    "Patterson et al.: 'crucial confrontations' = holding someone accountable face to face.",
+    "Confrontation 'makes the case'; no ultimatums; empathic, respectful, empowering, action-oriented, sparing; never venting."
+   ]
+  },
+  {
+   "id": "encouragement",
+   "heading": "Encouragement",
+   "pages": [
+    189,
+    190
+   ],
+   "detailed": "Egan ends on a positive note. If the purpose of challenge is to help clients move forward and encouragement (\"sugar\") works as well as challenge (\"vinegar\"), why do we hear so little about it? The analogy is imperfect, since many clients find invitations to self-challenge refreshing and stimulating, and challenge does not preclude encouragement. Encouragement is itself a mild form of challenge, a nudge. It is also a form of support, and research shows that support is one of the main ingredients of successful therapy.\n\nRollnick and Miller (1995) introduced motivational interviewing (MI), now supported by a large literature of theory, research and case studies. Originally for addictive behaviour, it has been adapted to a much wider range of problems, and much of its literature highlights the main elements of a problem-management approach. Miller and Rollnick (2004) define it as a directive, person-centred clinical method for helping clients resolve ambivalence and move ahead with change, usable as preparation for treatment, a freestanding brief intervention, an enduring clinical style, or a fallback when motivational obstacles arise. It can therefore be used at any stage or task of the problem-management framework, and emphasises respect, empathy, self-empowerment and self-healing.\n\nBecause \"informing\" clients, for example about consequences of their behaviour, is part of MI, it is admittedly directive but with a light touch. Norcross (2010) calls it a person-centred directive therapy that expresses empathy and rolls with resistance to help clients explore and resolve ambivalence. The spirit of encouragement, rather than confrontation, pervades it. Typically clients (for instance, pregnant women who smoke or drink) receive personal feedback on their problem (how smoking affects their lungs and the harm smoking and drinking can do to the fetus); personal responsibility is discussed and advice on managing the problem offered. Clients are encouraged to find motives, incentives or levers of change that make sense to them and to choose change options that fit. Intrinsic motives (\"I want to be free\") are emphasised over extrinsic ones (\"I'll get in trouble if I don't change\"). Clients get help identifying obstacles and ways to overcome them. Empathy is used extensively, both as a value and as empathic responding. Self-determination is at the heart of MI (Vansteenkiste & Sheldon, 2006).\n\nCommon sense says realistic encouragement belongs in any helping skill set and, like most skills, can be used at any stage: to identify and talk about problems and unused opportunities, review possibilities, set goals, act, and overcome obstacles. Effective encouragement is not patronising, is not the same as sympathy, does not rob clients of autonomy, and respects their self-healing abilities. It is \"a fully human nudge in the right direction\".",
+   "simple": "Encouragement is a mild challenge, a nudge, and a form of support, which research links to successful therapy. Motivational interviewing is a directive but person-centred method that uses empathy, feedback and intrinsic motives to help clients resolve ambivalence about change. Good encouragement is realistic, not patronising, not sympathy, and respects autonomy.",
+   "keyPoints": [
+    "Sugar vs vinegar: challenge and encouragement are not opposites; encouragement is a mild challenge.",
+    "Support is a main ingredient of successful therapy.",
+    "MI (Rollnick & Miller): directive, person-centred method to resolve ambivalence; usable at any stage.",
+    "MI features: personal feedback, responsibility, advice, intrinsic motives, obstacles, empathy, self-determination.",
+    "Effective encouragement: realistic, not patronising, not sympathy, preserves autonomy, respects self-healing."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Self-challenge",
+   "definition": "Clients placing demands on themselves to change self-limiting thinking, emotional expression and behaviour and to use their resources; a stronger form of nudging.",
+   "page": 159
+  },
+  {
+   "term": "Choice architecture",
+   "definition": "Framing helping so that clients are more likely to make life-enhancing choices; Chapters 6-7 apply it to self-challenge.",
+   "page": 159
+  },
+  {
+   "term": "Practice-based evidence",
+   "definition": "Human-development wisdom built up over centuries, which Egan says should balance evidence-based practice.",
+   "page": 159
+  },
+  {
+   "term": "Support-challenge mix",
+   "definition": "The principle that all effective helping blends support and challenge: challenge without support is harsh; support without challenge can be empty.",
+   "page": 160
+  },
+  {
+   "term": "Discordance / discrepancy (helper-client)",
+   "definition": "A helper perspective somewhat inconsistent with the client's current self-theories; congruence aids the relationship, discrepancy facilitates change (Martin; Trevino; Claiborn).",
+   "page": 160
+  },
+  {
+   "term": "Challenge vs confrontation",
+   "definition": "Egan prefers the softer but still edgy term 'challenge'; confrontation is harder-edged and seen as unpleasant.",
+   "page": 160
+  },
+  {
+   "term": "Goals of challenging",
+   "definition": "Reality testing invested in a better future: changing self-defeating thinking, emotion and action, and finding possibilities, resources and commitment to action.",
+   "page": 161
+  },
+  {
+   "term": "Catalyst for a better future",
+   "definition": "Egan's description of the counsellor's role implied by the upbeat goal of challenge.",
+   "page": 161
+  },
+  {
+   "term": "Mind-sets",
+   "definition": "More or less permanent states of mind such as assumptions, attitudes, beliefs, values, biases, norms and prejudices that drive or leak into behaviour.",
+   "page": 162
+  },
+  {
+   "term": "REBT",
+   "definition": "Rational-emotive behaviour therapy, Albert Ellis's approach, which challenges clients' irrational, self-defeating beliefs.",
+   "page": 162
+  },
+  {
+   "term": "Catastrophizing",
+   "definition": "Ellis: seeing the violation of one's irrational beliefs as terrible, awful, catastrophic; it gets clients nowhere.",
+   "page": 163
+  },
+  {
+   "term": "Sternberg's fallacies",
+   "definition": "Egocentrism, omniscience, omnipotence and invulnerability: self-beliefs that make smart people do stupid things.",
+   "page": 163
+  },
+  {
+   "term": "Schemas",
+   "definition": "Ingrained systems of thinking (maladaptive cognitive schemas and core beliefs) that cause trouble, not just single beliefs (Riso et al.).",
+   "page": 164
+  },
+  {
+   "term": "Internal (cognitive) behaviour",
+   "definition": "Thinking activities we choose to do or not do, such as daydreaming, ruminating, judging, forgiving or rehearsing.",
+   "page": 164
+  },
+  {
+   "term": "Emotion regulation",
+   "definition": "Managing emotions and their expression; part of social-emotional intelligence (Berking et al.).",
+   "page": 165
+  },
+  {
+   "term": "Emotional overcontrol",
+   "definition": "Excessive restraint of emotional expression, possibly part of Mara's problem.",
+   "page": 165
+  },
+  {
+   "term": "External behaviour",
+   "definition": "Behaviour others could see if they were looking; not doing something is also behaviour.",
+   "page": 165
+  },
+  {
+   "term": "Discrepancies",
+   "definition": "Gaps such as between what clients say and do, or between expressed values and actual behaviour, that keep them stuck.",
+   "page": 167
+  },
+  {
+   "term": "Possible self",
+   "definition": "The better self every client could become; self-challenge should focus on it as well as on problems.",
+   "page": 167
+  },
+  {
+   "term": "Unused strengths and resources",
+   "definition": "Internal talents/abilities and external resources (e.g. social support) clients fail to use.",
+   "page": 167
+  },
+  {
+   "term": "Predictable dishonesties of everyday life",
+   "definition": "Distortions, evasions, games, tricks, excuse making and smoke screens that keep people mired in problems.",
+   "page": 168
+  },
+  {
+   "term": "Distortions",
+   "definition": "Self-serving ways of seeing the world when reality is too painful or demanding (Arnie, Edna, Nancy).",
+   "page": 168
+  },
+  {
+   "term": "Games, tricks and smoke screens",
+   "definition": "Ways clients avoid facing life's tasks, e.g. 'Yes, but...'; using communication in order not to communicate (Berne).",
+   "page": 170
+  },
+  {
+   "term": "Excuse making",
+   "definition": "Universal behaviour of explaining why one did something bad, failed to do something good or cannot do something needed (Snyder, Higgins & Stucky).",
+   "page": 170
+  },
+  {
+   "term": "Acceptance and commitment therapy (ACT)",
+   "definition": "Hayes's mildly directive approach: embrace and defuse bad thoughts and feelings with respectful attention, then commit to a life of purpose.",
+   "page": 171
+  },
+  {
+   "term": "Blind spots",
+   "definition": "Things we fail to see or choose to ignore that keep us from managing problems or developing opportunities.",
+   "page": 172
+  },
+  {
+   "term": "Simple unawareness",
+   "definition": "Not knowing something about oneself; elastic, ranging from no clue to partial awareness.",
+   "page": 172
+  },
+  {
+   "term": "Failure to think things through",
+   "definition": "Exploring problems and planning in an incomplete, haphazard way and deciding on that flawed reasoning.",
+   "page": 172
+  },
+  {
+   "term": "Self-deception",
+   "definition": "Avoiding knowledge that would challenge one to change; believing one's own lies (Goleman; Giannetti).",
+   "page": 173
+  },
+  {
+   "term": "Willful blindness",
+   "definition": "Heffernan's term for choosing not to know; because it is willed, it can be changed.",
+   "page": 174
+  },
+  {
+   "term": "Knowing but not caring",
+   "definition": "Knowing behaviour causes trouble but not caring, or not appreciating its consequences; a blind spot in an extended sense.",
+   "page": 174
+  },
+  {
+   "term": "Insight",
+   "definition": "The term often used in therapy for new perspectives; it has a long and somewhat problematic history.",
+   "page": 175
+  },
+  {
+   "term": "Double-loop learning",
+   "definition": "Argyris's term, listed among names for transforming blind spots into new perspectives.",
+   "page": 175
+  },
+  {
+   "term": "Reframing",
+   "definition": "Along with frame breaking and frame bending, a term for the cognitive restructuring involved in developing new perspectives.",
+   "page": 176
+  },
+  {
+   "term": "Stinkin' thinkin'",
+   "definition": "Alcoholics Anonymous phrase for dysfunctional thinking that helpers help clients move beyond.",
+   "page": 176
+  },
+  {
+   "term": "Advanced empathy",
+   "definition": "Sensing and sharing the fuller message or message behind the message, of which the client may be scarcely aware.",
+   "page": 176
+  },
+  {
+   "term": "Basic empathy",
+   "definition": "Accurate understanding the client recognises immediately ('Yes, that's what I meant').",
+   "page": 177
+  },
+  {
+   "term": "Educated hunches",
+   "definition": "Helper hunches about the story behind the story, based on empathic understanding and grounded in identifiable client clues.",
+   "page": 181
+  },
+  {
+   "term": "Information sharing",
+   "definition": "A challenging skill of providing new information or correcting misinformation to give clients new perspectives or show how to act.",
+   "page": 182
+  },
+  {
+   "term": "Educational pyramid",
+   "definition": "The decreasing percentage of students at higher levels of education; information that reframed Adrian's rejection.",
+   "page": 183
+  },
+  {
+   "term": "Indirect self-disclosure",
+   "definition": "The constant communication of the counsellor's characteristics through every look, movement and word (Strong & Claiborne).",
+   "page": 184
+  },
+  {
+   "term": "Direct helper self-disclosure",
+   "definition": "The helper deliberately sharing his or her own experiences, thoughts, behaviours and feelings with clients.",
+   "page": 184
+  },
+  {
+   "term": "Libertarian paternalism",
+   "definition": "Thaler and Sunstein's idea; in helping, even direct challenge leaves decision making in the client's hands.",
+   "page": 187
+  },
+  {
+   "term": "Confrontation",
+   "definition": "Holding someone accountable face to face for failing to meet own or legitimate community expectations; 'stronger medicine'.",
+   "page": 189
+  },
+  {
+   "term": "Crucial confrontations",
+   "definition": "Patterson et al.: needed when people fail to live up to clear and realistic expectations.",
+   "page": 189
+  },
+  {
+   "term": "Traumatic confrontation",
+   "definition": "Lowenstein's (1993) term for confronting youths with their dysfunctional behaviour.",
+   "page": 189
+  },
+  {
+   "term": "Encouragement",
+   "definition": "A mild form of challenge (a nudge) and a form of support; 'a fully human nudge in the right direction'.",
+   "page": 189
+  },
+  {
+   "term": "Motivational interviewing",
+   "definition": "A directive, person-centred method for helping clients resolve ambivalence and move ahead with change (Miller & Rollnick).",
+   "page": 189
+  },
+  {
+   "term": "Intrinsic vs extrinsic motives",
+   "definition": "MI favours motives clients have internalised ('I want to be free') over external pressure ('I'll get in trouble').",
+   "page": 190
+  }
+ ],
+ "people": [
+  {
+   "name": "Carter",
+   "contribution": "Wrote on transforming operating-room culture so staff can speak up about patient-care problems; cited survey (60% agreed it was hard to speak up).",
+   "page": 159
+  },
+  {
+   "name": "Landro",
+   "contribution": "Cited alongside Carter on hospital efforts to change OR culture.",
+   "page": 159
+  },
+  {
+   "name": "Martin",
+   "contribution": "Suggested (1994) the helping dialogue adds most value when relevant, supportive and somehow discordant with clients' self-theories.",
+   "page": 160
+  },
+  {
+   "name": "Trevino",
+   "contribution": "Made Martin's point for cross-cultural counselling: congruence enhances the relationship, discrepancy facilitates change.",
+   "page": 160
+  },
+  {
+   "name": "Claiborn",
+   "contribution": "Reviewed the literature (1982): presenting discrepant views improves outcomes by changing how clients construe problems.",
+   "page": 160
+  },
+  {
+   "name": "Finn",
+   "contribution": "Stressed compassion and firmness: saying difficult things in plain, non-judgemental language takes courage and wisdom.",
+   "page": 160
+  },
+  {
+   "name": "Wei & Ku",
+   "contribution": "Cited on the importance of challenging self-defeating patterns of thinking, emotion and behaviour.",
+   "page": 161
+  },
+  {
+   "name": "Chang",
+   "contribution": "Edited a book (2007) on whether self-enhancement and self-criticism are good or bad and when.",
+   "page": 161
+  },
+  {
+   "name": "Albert Ellis",
+   "contribution": "Developed REBT; listed common irrational beliefs and described catastrophizing.",
+   "page": 162
+  },
+  {
+   "name": "Sternberg",
+   "contribution": "Identified four fallacies (egocentrism, omniscience, omnipotence, invulnerability) that make smart people do stupid things.",
+   "page": 163
+  },
+  {
+   "name": "Riso, du Toit, Stein & Young",
+   "contribution": "Edited a book (2007) on maladaptive cognitive schemas and core beliefs in psychological disorders.",
+   "page": 164
+  },
+  {
+   "name": "Berking, Orth, Wupperman, Meier & Caspar",
+   "contribution": "Two studies (2008) suggesting emotion-regulation skills matter in preventing and treating affect-related problems.",
+   "page": 165
+  },
+  {
+   "name": "Aspinwall & Staudinger",
+   "contribution": "Cited on helping clients use unused strengths and resources.",
+   "page": 167
+  },
+  {
+   "name": "Tedeschi & Kilmer",
+   "contribution": "Cited on unused strengths and resources.",
+   "page": 167
+  },
+  {
+   "name": "Driscoll",
+   "contribution": "Pointed out (1984) that even clients' 'irrationalities' can be a source of strength.",
+   "page": 168
+  },
+  {
+   "name": "Berne",
+   "contribution": "Cited (1964) on game playing as an approach to life.",
+   "page": 170
+  },
+  {
+   "name": "Snyder, Higgins & Stucky",
+   "contribution": "Examined excuse-making behaviour in depth (1983).",
+   "page": 170
+  },
+  {
+   "name": "Steven Hayes",
+   "contribution": "Developed acceptance and commitment therapy (ACT); cautions against warring with bad thoughts.",
+   "page": 171
+  },
+  {
+   "name": "Van Hecke",
+   "contribution": "Described ten common blind spots (2007); we see others' blind spots more easily than our own.",
+   "page": 172
+  },
+  {
+   "name": "Goleman",
+   "contribution": "Wrote Vital Lies, Simple Truths (1985) on the pervasiveness of self-deception; also Emotional Intelligence.",
+   "page": 173
+  },
+  {
+   "name": "Eduardo Giannetti",
+   "contribution": "Wrote Lies We Live By: The Art of Self-Deception (1997); self-deception is ubiquitous.",
+   "page": 173
+  },
+  {
+   "name": "Heffernan",
+   "contribution": "Coined/used 'willful blindness' (2011); because it is willed, it can be changed.",
+   "page": 174
+  },
+  {
+   "name": "Argyris",
+   "contribution": "Associated with double-loop learning (1999).",
+   "page": 175
+  },
+  {
+   "name": "Carl Rogers",
+   "contribution": "Said empathy sometimes involves sensing meanings of which the client is scarcely aware; basis of advanced empathy.",
+   "page": 176
+  },
+  {
+   "name": "Strong & Claiborne",
+   "contribution": "Noted (1982) that counsellors communicate their characteristics in every look, movement and word.",
+   "page": 184
+  },
+  {
+   "name": "Henretty & Levitt",
+   "contribution": "Detailed 2010 review: multiple definitions of therapist self-disclosure make cross-study analysis difficult; few definitive answers.",
+   "page": 184
+  },
+  {
+   "name": "Jeffrey",
+   "contribution": "Gave (2004) outrageous examples of inappropriate helper self-disclosure.",
+   "page": 185
+  },
+  {
+   "name": "Farber",
+   "contribution": "Wrote a 2006 book on self-disclosure in psychotherapy.",
+   "page": 186
+  },
+  {
+   "name": "Hamilton, Del Castillo & Stiles",
+   "contribution": "Reviewed Farber's book (2007): much information but few definitive answers.",
+   "page": 186
+  },
+  {
+   "name": "Thaler & Sunstein",
+   "contribution": "Proposed 'libertarian paternalism' (2008), applied to almost every form of challenge.",
+   "page": 187
+  },
+  {
+   "name": "Cummings",
+   "contribution": "Worked with substance abusers; ignited buried dreams and used the directive 'Get clean, then return'.",
+   "page": 187
+  },
+  {
+   "name": "Lowenstein",
+   "contribution": "Used 'traumatic confrontation' (1993) with youths.",
+   "page": 188
+  },
+  {
+   "name": "Patterson, Grenny, McMillian & Switzer",
+   "contribution": "Described 'crucial confrontations' (2004): holding someone accountable face to face.",
+   "page": 189
+  },
+  {
+   "name": "Rollnick & Miller",
+   "contribution": "Introduced motivational interviewing (1995); defined it as a directive, person-centred method for resolving ambivalence.",
+   "page": 189
+  },
+  {
+   "name": "Norcross",
+   "contribution": "Described MI (2010) as person-centred directive therapy that expresses empathy and rolls with resistance.",
+   "page": 190
+  },
+  {
+   "name": "Vansteenkiste & Sheldon",
+   "contribution": "Cited (2006): self-determination is at the heart of motivational interviewing.",
+   "page": 190
+  }
+ ],
+ "studies": [
+  {
+   "title": "Operating-room survey (Carter, 2006)",
+   "finding": "60% of respondents agreed it was difficult to speak up in their ORs about a perceived patient-care problem.",
+   "page": 159
+  },
+  {
+   "title": "Claiborn (1982): review on discrepancy",
+   "finding": "Presenting discrepant points of view contributes to positive outcomes by changing how clients construe problems and consider solutions; congruence enhances the relationship.",
+   "page": 160
+  },
+  {
+   "title": "Berking et al. (2008): emotion regulation",
+   "finding": "Two studies suggested a focus on emotion-regulation skills may be important in preventing and treating affect-related mental-health problems.",
+   "page": 165
+  },
+  {
+   "title": "Research on helper self-disclosure",
+   "finding": "Mixed and contradictory: some studies find it frightens clients, makes helpers seem less adjusted or burdens clients; others find clients appreciate it and see disclosers as down-to-earth and honest.",
+   "page": 184
+  },
+  {
+   "title": "Henretty & Levitt (2010) review",
+   "finding": "Multiple definitions of therapist self-disclosure make meaningful cross-study analysis difficult if not impossible; no definitive answers.",
+   "page": 184
+  },
+  {
+   "title": "Client preferences on disclosure",
+   "finding": "When asked directly, clients say they want helpers to disclose, though not every client in every situation benefits.",
+   "page": 186
+  },
+  {
+   "title": "Hamilton, Del Castillo & Stiles (2007)",
+   "finding": "Reviewing Farber's book, concluded readers absorb much information but get few definitive answers.",
+   "page": 186
+  },
+  {
+   "title": "Research on recommendations",
+   "finding": "Clients generally follow helpers' recommendations when they are clearly related to the problem, challenge clients' strengths and are not too difficult.",
+   "page": 187
+  },
+  {
+   "title": "Cummings's work with substance abusers",
+   "finding": "The desire for a better life was present in most clients; with the directive 'Get clean, then return', most returned clean.",
+   "page": 187
+  },
+  {
+   "title": "Lowenstein (1993): traumatic confrontation",
+   "finding": "A 12-year-old involved in crime after his father disappeared first denied everything, then faced up to his situation.",
+   "page": 189
+  },
+  {
+   "title": "Support and therapy outcome",
+   "finding": "Research shows support is one of the main ingredients in successful therapy.",
+   "page": 189
+  }
+ ],
+ "examples": [
+  {
+   "title": "Say-do discrepancy",
+   "text": "A final-year student keeps saying a government job is her dream but has not opened the syllabus in three months. A counsellor might gently recall her earlier excitement and ask what is going on, as with Clarissa.",
+   "supplementary": true
+  },
+  {
+   "title": "Advanced empathy in a hostel",
+   "text": "A first-year student talks angrily about roommates who never invite him out. A basic response reflects anger; an advanced response adds, 'I also sense some loneliness in this.'",
+   "supplementary": true
+  },
+  {
+   "title": "Ellis's 'being competent' belief",
+   "text": "A topper who gets 78% in one internal exam says, 'I'm useless.' The belief that one must be competent in all situations turns a setback into a catastrophe.",
+   "supplementary": true
+  },
+  {
+   "title": "Information sharing",
+   "text": "A parent believes every bright child must clear an entrance exam on the first try. Sharing actual selection ratios reframes the child's result, as the educational pyramid did for Adrian.",
+   "supplementary": true
+  },
+  {
+   "title": "Self-disclosure gone wrong",
+   "text": "A counsellor answers a client's exam anxiety with a ten-minute story of his own exam failures. It is unfocused and meets the helper's needs, violating 'selective and focused'.",
+   "supplementary": true
+  }
+ ],
+ "checks": [
+  {
+   "q": "Egan describes inviting clients to challenge themselves as",
+   "options": [
+    "a stronger form of nudging",
+    "a replacement for empathy",
+    "a form of interpretation",
+    "a purely research-based technique"
+   ],
+   "answer": 0,
+   "explain": "Self-challenge is a stronger form of the nudging discussed in Chapter 5 (p. 159).",
+   "page": 159,
+   "sectionId": "self-challenge-basic"
+  },
+  {
+   "q": "According to Egan, support without challenge can be",
+   "options": [
+    "harsh and unjustified",
+    "empty and counterproductive",
+    "traumatic",
+    "the ideal helping stance"
+   ],
+   "answer": 1,
+   "explain": "Challenge without support is harsh; support without challenge can be empty and counterproductive (p. 160).",
+   "page": 160,
+   "sectionId": "self-challenge-basic"
+  },
+  {
+   "q": "The overall goal of challenging is to help clients",
+   "options": [
+    "accept their limitations",
+    "understand their childhood",
+    "do reality testing and invest it in a better future",
+    "comply with helper advice"
+   ],
+   "answer": 2,
+   "explain": "Stated on p. 161.",
+   "page": 161,
+   "sectionId": "goals-of-challenging"
+  },
+  {
+   "q": "The upbeat goal of challenge casts the counsellor as a",
+   "options": [
+    "critic of client defences",
+    "teacher of theory",
+    "neutral observer",
+    "catalyst for a better future"
+   ],
+   "answer": 3,
+   "explain": "Egan's phrase (p. 161).",
+   "page": 161,
+   "sectionId": "goals-of-challenging"
+  },
+  {
+   "q": "Which is NOT one of Egan's listed targets of self-challenge?",
+   "options": [
+    "childhood memories",
+    "unused strengths and resources",
+    "discrepancies between thinking and acting",
+    "predictable dishonesties of everyday life"
+   ],
+   "answer": 0,
+   "explain": "Childhood memories are not on the list (p. 161).",
+   "page": 161,
+   "sectionId": "target-areas"
+  },
+  {
+   "q": "Egan's example of self-limiting internal behaviour in the target list is",
+   "options": [
+    "prejudice",
+    "dysfunctional daydreaming",
+    "flying off the handle",
+    "putting people down"
+   ],
+   "answer": 1,
+   "explain": "Prejudice = mind-set; flying off the handle = emotion; putting people down = external behaviour (p. 161).",
+   "page": 161,
+   "sectionId": "target-areas"
+  },
+  {
+   "q": "'People who harm me are evil and should be blamed and punished' is Ellis's belief about",
+   "options": [
+    "being a victim",
+    "having one's own way",
+    "being hurt",
+    "tyranny of the past"
+   ],
+   "answer": 2,
+   "explain": "Listed on p. 163.",
+   "page": 163,
+   "sectionId": "mindsets"
+  },
+  {
+   "q": "Thinking 'I can get away with whatever I do' is Sternberg's",
+   "options": [
+    "omnipotence fallacy",
+    "omniscience fallacy",
+    "egocentrism fallacy",
+    "invulnerability fallacy"
+   ],
+   "answer": 3,
+   "explain": "Invulnerability = will not be caught or can escape any fix (p. 164).",
+   "page": 164,
+   "sectionId": "mindsets"
+  },
+  {
+   "q": "John's counsellor helped him by",
+   "options": [
+    "redirecting his daydreaming to a fuller social life",
+    "stopping his daydreaming",
+    "interpreting his fantasies",
+    "referring him to a group"
+   ],
+   "answer": 0,
+   "explain": "He does not stop daydreaming but switches its focus (p. 164).",
+   "page": 164,
+   "sectionId": "internal-behavior"
+  },
+  {
+   "q": "Bella's breakthrough came from the therapist's remark about",
+   "options": [
+    "her late husband's wishes",
+    "still wearing black inside",
+    "catastrophizing",
+    "her daughter"
+   ],
+   "answer": 1,
+   "explain": "p. 165.",
+   "page": 165,
+   "sectionId": "internal-behavior"
+  },
+  {
+   "q": "Berking and colleagues' studies concerned",
+   "options": [
+    "excuse making",
+    "helper self-disclosure",
+    "emotion-regulation skills",
+    "blind spots"
+   ],
+   "answer": 2,
+   "explain": "p. 165.",
+   "page": 165,
+   "sectionId": "emotions"
+  },
+  {
+   "q": "Which client bottles up emotion and puts on a good face at work?",
+   "options": [
+    "Ira",
+    "Arthur",
+    "Ken",
+    "Sheila"
+   ],
+   "answer": 3,
+   "explain": "Sheila (p. 165).",
+   "page": 165,
+   "sectionId": "emotions"
+  },
+  {
+   "q": "Clarence turning down a promotion illustrates that",
+   "options": [
+    "not doing something is also behaviour",
+    "distortions are self-serving",
+    "emotions run riot",
+    "games are rewarded"
+   ],
+   "answer": 0,
+   "explain": "p. 166.",
+   "page": 166,
+   "sectionId": "external-behavior"
+  },
+  {
+   "q": "Ryan's counsellor helped him become",
+   "options": [
+    "less ambitious",
+    "assertive rather than aggressive",
+    "more deferential",
+    "more emotionally controlled"
+   ],
+   "answer": 1,
+   "explain": "p. 166.",
+   "page": 166,
+   "sectionId": "external-behavior"
+  },
+  {
+   "q": "Sandra's shock at her husband's affair illustrates",
+   "options": [
+    "a discrepancy",
+    "a game",
+    "distorted understanding of the world",
+    "emotional overcontrol"
+   ],
+   "answer": 2,
+   "explain": "p. 166.",
+   "page": 166,
+   "sectionId": "distorted-world"
+  },
+  {
+   "q": "Egan says clients' failure to understand their environment means",
+   "options": [
+    "they are unintelligent",
+    "they are resistant",
+    "they are self-deceiving",
+    "they, like all of us, fail to notice some things"
+   ],
+   "answer": 3,
+   "explain": "It does not mean they are stupid (p. 166).",
+   "page": 166,
+   "sectionId": "distorted-world"
+  },
+  {
+   "q": "Tom sees himself as witty, but friends see him as biting. This is a discrepancy between",
+   "options": [
+    "self-view and others' view",
+    "say and do",
+    "values and behaviour",
+    "goals and accomplishments"
+   ],
+   "answer": 0,
+   "explain": "p. 167.",
+   "page": 167,
+   "sectionId": "discrepancies"
+  },
+  {
+   "q": "Clarissa's discrepancy revealed she was slipping into",
+   "options": [
+    "depression",
+    "a culture of unemployment",
+    "a game of 'Yes, but'",
+    "willful blindness"
+   ],
+   "answer": 1,
+   "explain": "p. 167.",
+   "page": 167,
+   "sectionId": "discrepancies"
+  },
+  {
+   "q": "Driscoll pointed out that",
+   "options": [
+    "excuses are always harmful",
+    "strengths are always external",
+    "even irrationalities can be a source of strength",
+    "clients must see how stupidly they act"
+   ],
+   "answer": 2,
+   "explain": "p. 168.",
+   "page": 168,
+   "sectionId": "unused-strengths"
+  },
+  {
+   "q": "Failure to use social support is an example of an unused",
+   "options": [
+    "internal strength",
+    "mind-set",
+    "schema",
+    "external resource"
+   ],
+   "answer": 3,
+   "explain": "p. 167-168.",
+   "page": 168,
+   "sectionId": "unused-strengths"
+  },
+  {
+   "q": "The purpose of challenging everyday dishonesties is to",
+   "options": [
+    "help clients cope more creatively",
+    "strip clients of defences",
+    "expose lies",
+    "punish evasion"
+   ],
+   "answer": 0,
+   "explain": "Stripping defences could be dangerous (p. 168).",
+   "page": 168,
+   "sectionId": "dishonesties"
+  },
+  {
+   "q": "Kennard's pattern of rejecting each recommendation is the game called",
+   "options": [
+    "'Helpless and needy'",
+    "'Yes, but...'",
+    "'Poor me'",
+    "'Delaying tactics'"
+   ],
+   "answer": 1,
+   "explain": "p. 170.",
+   "page": 170,
+   "sectionId": "dishonesties"
+  },
+  {
+   "q": "In ACT, clients are invited to",
+   "options": [
+    "dispute every negative thought",
+    "avoid bad feelings",
+    "embrace and defuse bad thoughts with respectful attention",
+    "confront their past"
+   ],
+   "answer": 2,
+   "explain": "p. 171.",
+   "page": 171,
+   "sectionId": "mixed-targets-act"
+  },
+  {
+   "q": "Minerva staying guarded in sessions is labelled",
+   "options": [
+    "a discrepancy",
+    "a game",
+    "a mind-set",
+    "inadequate participation"
+   ],
+   "answer": 3,
+   "explain": "p. 171.",
+   "page": 171,
+   "sectionId": "mixed-targets-act"
+  },
+  {
+   "q": "Blind spots are best defined as",
+   "options": [
+    "things we fail to see or choose to ignore that block problem management",
+    "unconscious drives",
+    "cognitive distortions only",
+    "defence mechanisms"
+   ],
+   "answer": 0,
+   "explain": "p. 172.",
+   "page": 172,
+   "sectionId": "blind-spots"
+  },
+  {
+   "q": "Which is one of Van Hecke's ten blind spots?",
+   "options": [
+    "catastrophizing",
+    "seeing coincidences as causes",
+    "the omnipotence fallacy",
+    "emotional overcontrol"
+   ],
+   "answer": 1,
+   "explain": "p. 172.",
+   "page": 172,
+   "sectionId": "blind-spots"
+  },
+  {
+   "q": "Serge's lack of awareness concerned",
+   "options": [
+    "his acerbic style",
+    "his inappropriate cheerfulness",
+    "his own talents",
+    "his outbursts"
+   ],
+   "answer": 2,
+   "explain": "p. 172.",
+   "page": 172,
+   "sectionId": "lack-of-awareness"
+  },
+  {
+   "q": "Mia's remark that Casper is 'not totally in the dark' shows that unawareness",
+   "options": [
+    "is always intentional",
+    "cannot be changed",
+    "is a game",
+    "comes in degrees"
+   ],
+   "answer": 3,
+   "explain": "p. 172.",
+   "page": 172,
+   "sectionId": "lack-of-awareness"
+  },
+  {
+   "q": "Kim and Lea fail to think things through mainly because of",
+   "options": [
+    "strong convictions charged with emotion",
+    "laziness",
+    "habit",
+    "lack of information"
+   ],
+   "answer": 0,
+   "explain": "p. 173.",
+   "page": 173,
+   "sectionId": "failure-to-think"
+  },
+  {
+   "q": "Clancy's story illustrates",
+   "options": [
+    "self-deception",
+    "failure to see consequences of dysfunctional behaviour",
+    "emotional overcontrol",
+    "a discrepancy"
+   ],
+   "answer": 1,
+   "explain": "p. 173.",
+   "page": 173,
+   "sectionId": "failure-to-think"
+  },
+  {
+   "q": "Goleman's book on self-deception is",
+   "options": [
+    "Lies We Live By",
+    "Willful Blindness",
+    "Vital Lies, Simple Truths",
+    "Crucial Confrontations"
+   ],
+   "answer": 2,
+   "explain": "p. 173.",
+   "page": 173,
+   "sectionId": "self-deception"
+  },
+  {
+   "q": "Egan says self-deception is incompatible with",
+   "options": [
+    "evidence-based practice",
+    "advanced empathy",
+    "REBT",
+    "the social-emotional maturity of emotional intelligence"
+   ],
+   "answer": 3,
+   "explain": "p. 173.",
+   "page": 173,
+   "sectionId": "self-deception"
+  },
+  {
+   "q": "'Willful blindness' is the term of",
+   "options": [
+    "Heffernan",
+    "Giannetti",
+    "Goleman",
+    "Van Hecke"
+   ],
+   "answer": 0,
+   "explain": "p. 174.",
+   "page": 174,
+   "sectionId": "staying-in-dark"
+  },
+  {
+   "q": "When clients are vague or evasive with helpers, Egan suggests they may",
+   "options": [
+    "be playing 'Yes, but'",
+    "be keeping something from themselves",
+    "be culturally different",
+    "lack information"
+   ],
+   "answer": 1,
+   "explain": "p. 174.",
+   "page": 174,
+   "sectionId": "staying-in-dark"
+  },
+  {
+   "q": "Lester, who knows he is prejudiced and fosters it, has",
+   "options": [
+    "a simple blind spot",
+    "kept himself in the dark",
+    "the full dysfunctional package",
+    "turned a problem into an opportunity"
+   ],
+   "answer": 2,
+   "explain": "p. 175.",
+   "page": 175,
+   "sectionId": "knowing-not-caring"
+  },
+  {
+   "q": "Box 6.1 contains",
+   "options": [
+    "Ellis's irrational beliefs",
+    "self-disclosure guidelines",
+    "Van Hecke's blind spots",
+    "questions to uncover blind spots"
+   ],
+   "answer": 3,
+   "explain": "p. 175.",
+   "page": 175,
+   "sectionId": "knowing-not-caring"
+  },
+  {
+   "q": "'Double-loop learning' is credited to",
+   "options": [
+    "Argyris",
+    "Rogers",
+    "Hayes",
+    "Ellis"
+   ],
+   "answer": 0,
+   "explain": "p. 175.",
+   "page": 175,
+   "sectionId": "specific-skills-intro"
+  },
+  {
+   "q": "The three indirect approaches to challenge are",
+   "options": [
+    "suggestions, confrontation, encouragement",
+    "advanced empathy, information sharing, helper self-disclosure",
+    "probing, summarizing, basic empathy",
+    "reframing, directives, confrontation"
+   ],
+   "answer": 1,
+   "explain": "p. 176.",
+   "page": 176,
+   "sectionId": "specific-skills-intro"
+  },
+  {
+   "q": "Advanced empathy is a form of challenge because",
+   "options": [
+    "it interprets unconscious material",
+    "it gives advice",
+    "clients may not immediately recognise themselves and feel disequilibrium",
+    "it confronts resistance"
+   ],
+   "answer": 2,
+   "explain": "p. 177.",
+   "page": 177,
+   "sectionId": "advanced-empathy"
+  },
+  {
+   "q": "Chaplain B's response picked up the soldier's phrase",
+   "options": [
+    "'go down the drain'",
+    "'wait it out'",
+    "'just as substantial'",
+    "'not as flashy'"
+   ],
+   "answer": 3,
+   "explain": "p. 178.",
+   "page": 178,
+   "sectionId": "advanced-empathy"
+  },
+  {
+   "q": "The most basic form of advanced empathy is",
+   "options": [
+    "helping clients make the implied explicit",
+    "sharing hunches",
+    "identifying themes",
+    "making connections"
+   ],
+   "answer": 0,
+   "explain": "p. 178.",
+   "page": 178,
+   "sectionId": "ae-implied-explicit"
+  },
+  {
+   "q": "Counselor B's response to the divorced client was based on",
+   "options": [
+    "his last remark only",
+    "the entire context of his story",
+    "her own experience",
+    "a psychological theory"
+   ],
+   "answer": 1,
+   "explain": "p. 178.",
+   "page": 178,
+   "sectionId": "ae-implied-explicit"
+  },
+  {
+   "q": "The theme the supervisor helped the trainee surface was",
+   "options": [
+    "perfectionism",
+    "need to rescue",
+    "fear of being pushy",
+    "lack of knowledge"
+   ],
+   "answer": 2,
+   "explain": "p. 179.",
+   "page": 179,
+   "sectionId": "ae-themes"
+  },
+  {
+   "q": "Which is NOT an example of thematic material Egan lists?",
+   "options": [
+    "feelings",
+    "behaviour",
+    "experiences",
+    "test scores"
+   ],
+   "answer": 3,
+   "explain": "Themes refer to feelings, thoughts, behaviour, experiences (p. 179).",
+   "page": 179,
+   "sectionId": "ae-themes"
+  },
+  {
+   "q": "For John, the 'family stuff' acted as",
+   "options": [
+    "a multiplier of stress",
+    "a source of support",
+    "a physical illness",
+    "a game"
+   ],
+   "answer": 0,
+   "explain": "p. 181.",
+   "page": 181,
+   "sectionId": "ae-connections"
+  },
+  {
+   "q": "Dieter's anxiety in Kenya was linked to",
+   "options": [
+    "ingratiating style",
+    "perfectionist standards",
+    "half-hearted goals",
+    "porn addiction"
+   ],
+   "answer": 1,
+   "explain": "p. 180.",
+   "page": 180,
+   "sectionId": "ae-connections"
+  },
+  {
+   "q": "Telling the rehab client 'You sound as if you have already decided to quit' helps clients",
+   "options": [
+    "see the bigger picture",
+    "open up",
+    "own their stories",
+    "draw conclusions"
+   ],
+   "answer": 2,
+   "explain": "p. 182.",
+   "page": 182,
+   "sectionId": "ae-hunches"
+  },
+  {
+   "q": "If a client asks 'What makes you think that?', the helper should",
+   "options": [
+    "cite a theory",
+    "withdraw the hunch",
+    "refer to research",
+    "identify the experiential and behavioural clues behind the hunch"
+   ],
+   "answer": 3,
+   "explain": "p. 182.",
+   "page": 182,
+   "sectionId": "ae-hunches"
+  },
+  {
+   "q": "Information sharing is a challenging skill because it",
+   "options": [
+    "helps clients develop new perspectives or shows them how to act",
+    "tells clients what to do",
+    "exposes their games",
+    "confronts resistance"
+   ],
+   "answer": 0,
+   "explain": "p. 182.",
+   "page": 182,
+   "sectionId": "information-sharing"
+  },
+  {
+   "q": "A caution in giving information is",
+   "options": [
+    "always give all available information",
+    "do not confuse information giving with advice giving",
+    "avoid medical information",
+    "let clients interpret it alone"
+   ],
+   "answer": 1,
+   "explain": "p. 183.",
+   "page": 183,
+   "sectionId": "information-sharing"
+  },
+  {
+   "q": "Strong & Claiborne's point is that counsellors",
+   "options": [
+    "should never self-disclose",
+    "should disclose often",
+    "communicate their characteristics in every look and word",
+    "are always transparent"
+   ],
+   "answer": 2,
+   "explain": "p. 184.",
+   "page": 184,
+   "sectionId": "helper-self-disclosure"
+  },
+  {
+   "q": "Helper self-disclosure is challenging because it is a form of intimacy and because it says",
+   "options": [
+    "'I am better than you'",
+    "'Do as I say'",
+    "'Your problem is unique'",
+    "'You can do it, too'"
+   ],
+   "answer": 3,
+   "explain": "p. 184-185.",
+   "page": 185,
+   "sectionId": "helper-self-disclosure"
+  },
+  {
+   "q": "Jeffrey's examples illustrate disclosure that is",
+   "options": [
+    "inappropriate/exhibitionistic",
+    "culturally appropriate",
+    "well timed",
+    "selective"
+   ],
+   "answer": 0,
+   "explain": "p. 185.",
+   "page": 185,
+   "sectionId": "self-disclosure-guidelines"
+  },
+  {
+   "q": "Too-frequent disclosure may make clients see helpers as",
+   "options": [
+    "warm",
+    "self-centred, phony or immature",
+    "expert",
+    "honest"
+   ],
+   "answer": 1,
+   "explain": "p. 186.",
+   "page": 186,
+   "sectionId": "self-disclosure-guidelines"
+  },
+  {
+   "q": "'Libertarian paternalism' comes from",
+   "options": [
+    "Miller and Rollnick",
+    "Patterson et al.",
+    "Thaler and Sunstein",
+    "Cummings"
+   ],
+   "answer": 2,
+   "explain": "p. 187.",
+   "page": 187,
+   "sectionId": "suggestions-recommendations"
+  },
+  {
+   "q": "Cummings's directive to substance abusers was",
+   "options": [
+    "Join AA first",
+    "Bring your family",
+    "Keep a diary",
+    "Get clean, then return"
+   ],
+   "answer": 3,
+   "explain": "p. 188.",
+   "page": 188,
+   "sectionId": "suggestions-recommendations"
+  },
+  {
+   "q": "In counselling, confrontation focuses on failure to live up to",
+   "options": [
+    "one's own or legitimate community expectations",
+    "the helper's expectations",
+    "legal rules only",
+    "parental expectations only"
+   ],
+   "answer": 0,
+   "explain": "p. 189.",
+   "page": 189,
+   "sectionId": "confrontation"
+  },
+  {
+   "q": "Confrontation should NOT be used to",
+   "options": [
+    "make the case for effective living",
+    "vent the helper's frustration",
+    "show the cost of not changing",
+    "lead to action"
+   ],
+   "answer": 1,
+   "explain": "p. 189.",
+   "page": 189,
+   "sectionId": "confrontation"
+  },
+  {
+   "q": "Encouragement is described as",
+   "options": [
+    "the opposite of challenge",
+    "a form of sympathy",
+    "a mild form of challenge, a nudge",
+    "a directive"
+   ],
+   "answer": 2,
+   "explain": "p. 189.",
+   "page": 189,
+   "sectionId": "encouragement"
+  },
+  {
+   "q": "Motivational interviewing emphasises",
+   "options": [
+    "extrinsic motives",
+    "punishment",
+    "helper decision making",
+    "intrinsic motives"
+   ],
+   "answer": 3,
+   "explain": "p. 190.",
+   "page": 190,
+   "sectionId": "encouragement"
+  }
+ ],
+ "practice": [
+  {
+   "q": "What is advanced empathy?",
+   "marks": 2,
+   "answer": "Advanced empathy is sensing and sharing the fuller message, or the message behind the message, that the client is only half saying or is scarcely aware of (building on Rogers). Because clients may not recognise themselves at once, it creates mild disequilibrium and so acts as a challenge, e.g. hearing hurt beneath Gordon's anger.",
+   "pages": [
+    176,
+    177
+   ]
+  },
+  {
+   "q": "Define blind spots.",
+   "marks": 2,
+   "answer": "Blind spots are things people fail to see or choose to ignore that keep them from identifying and managing problems or developing opportunities. They are part of the human condition; we easily see others' blind spots but not our own (Van Hecke), and they obstruct effective decision making.",
+   "pages": [
+    172,
+    172
+   ]
+  },
+  {
+   "q": "What is willful blindness?",
+   "marks": 2,
+   "answer": "Heffernan's term for choosing to stay in the dark: 'I could find out, but I don't want to.' Choosing not to know makes us powerless, but because the blindness is willed it can be changed. Ilia, who avoids learning her probation conditions, is Egan's example.",
+   "pages": [
+    174,
+    174
+   ]
+  },
+  {
+   "q": "What is libertarian paternalism in the context of challenge?",
+   "marks": 2,
+   "answer": "An idea from Thaler and Sunstein that Egan applies to nearly every form of challenge: helpers may make direct challenges, suggestions or recommendations, but decision making remains in the client's hands, protecting self-responsibility.",
+   "pages": [
+    187,
+    187
+   ]
+  },
+  {
+   "q": "List Sternberg's four fallacies.",
+   "marks": 2,
+   "answer": "Sternberg described four self-beliefs that make smart people do stupid things: egocentrism (it is all about me), omniscience (I know everything), omnipotence (I can do whatever I want) and invulnerability (I will not be caught or can escape any fix).",
+   "pages": [
+    163,
+    164
+   ]
+  },
+  {
+   "q": "Explain the targets of self-challenge identified by Egan.",
+   "marks": 5,
+   "answer": "Introduction: Egan says counsellors should help clients challenge whatever stands in the way of managing problems or developing opportunities. Some self-challenge is self-critical, some self-enhancing (Chang).\n\nTargets: (1) Self-defeating mind-sets, relatively permanent beliefs, assumptions and prejudices, e.g. Candace's stereotype or Ellis's irrational beliefs such as 'I must be problemless'. (2) Self-limiting internal behaviour, chosen thinking acts like dysfunctional daydreaming (John) or automatic fault-finding (Nadia). (3) Self-defeating expression of emotion: bottling up (Sheila), running riot, or flying off the handle (Arthur). (4) Dysfunctional external behaviour, including not acting, e.g. Clarence refusing promotion, Ryan's aggression. (5) Distorted understanding of the world, e.g. Sandra misreading her husband. (6) Discrepancies, such as say-versus-do (Clarissa). (7) Unused strengths and resources, internal and external; even irrationalities hold strengths (Driscoll). (8) The predictable dishonesties of everyday life: distortions, games and excuses. A final category is participating fully in helping.\n\nWhy it matters: mind-sets tend to drive or leak into external behaviour, so Egan's principle is to invite clients to turn outmoded, self-limiting mind-sets into liberating perspectives that drive action. Internal behaviours are chosen, so they can be re-chosen; Bella's 'wearing black inside' shows how one new perspective can shift a life. Discrepancies and dishonesties are usually challenged gently, as in the Clarissa dialogue.\n\nConclusion: In practice these targets mix, as Minerva shows, and often lie behind blind spots the client does not notice.",
+   "pages": [
+    161,
+    171
+   ]
+  },
+  {
+   "q": "Describe the kinds of blind spots discussed by Egan.",
+   "marks": 5,
+   "answer": "Introduction: Blind spots are what we fail to see or choose to ignore, blocking problem management and opportunity development. Egan describes several 'flavours'.\n\nLack of awareness: some things clients simply do not know, e.g. Serge's unrecognised talents or Casper's acerbic style. Unawareness comes in degrees.\n\nFailure to think things through: haphazard reasoning, driven by emotion (Kim and Lea), habit or laziness, and failure to foresee consequences (Clancy).\n\nSelf-deception: not wanting to know because knowing would demand change (Goleman; Giannetti); Stan's flirting cost his engagement.\n\nChoosing to stay in the dark: Heffernan's willful blindness; Ilia avoids her probation conditions; evasiveness may signal self-concealment.\n\nKnowing, not caring and failing to see consequences: Tanel keeps nagging despite growing resentment.\n\nImplication for helpers: some blind spots seem unintentional and others self-inflicted, but both block change. Van Hecke notes that people readily see others' blind spots while missing their own, so clients may be perceptive about others yet need help seeing themselves. Helping clients deal with blind spots can prevent damage, limit damage already done and turn problems into opportunities.\n\nConclusion: 'Blind spot' is elastic but has face validity. Lester shows the full dysfunctional package, Bernice turns prejudice into opportunity, and Box 6.1 offers questions to surface blind spots.",
+   "pages": [
+    171,
+    175
+   ]
+  },
+  {
+   "q": "Discuss information sharing as a challenging skill, with its cautions.",
+   "marks": 5,
+   "answer": "Introduction: Clients sometimes cannot explore problems, set goals or act because they lack information. Information sharing, including correcting misinformation, is a challenging skill because it creates new perspectives or shows how to act.\n\nUses: It helps at every stage: early (knowing others have faced the problem), in goal setting, and in implementation (knowing common obstacles). It can be supportive, as when SIDS information eases a parent's self-blame, or both relieving and painful, as with Adrian learning about the educational pyramid and then facing the world of work. It is especially useful when lack of accurate information causes or worsens the problem; doctors and counsellors may team up, as with Doug's prostate-cancer decision.\n\nCautions: be tactful with shocking news and help with disequilibrium; do not overwhelm; keep it clear and relevant; check for misunderstanding; be supportive and help process it; never confuse information giving with advice giving.\n\nExample in detail: Adrian, a hardworking student rejected by every graduate programme, believed most students went on to graduate school because his friends did. Statistics on the shrinking percentage of students at each level showed that finishing college already placed him in an elite group, but also left him suddenly facing the world of work. In Doug's case neither doctor nor counsellor chose his treatment; they helped him carry the burden of choosing.\n\nConclusion: Information widens clients' perspective while leaving the choice to them.",
+   "pages": [
+    182,
+    183
+   ]
+  },
+  {
+   "q": "What guidelines does Egan give for helper self-disclosure?",
+   "marks": 5,
+   "answer": "Introduction: Research on direct helper self-disclosure is mixed, partly because of differing definitions (Henretty & Levitt), so Egan offers commonsense guidelines.\n\n1. Appropriate: disclose only to serve treatment goals and no more than necessary; avoid exhibitionism (Jeffrey's examples).\n2. Culturally appropriate: behaviours do not transfer automatically across cultures (Carlos and Mara).\n3. Timing: premature disclosure distracts; wait for a natural opening, as Rick did.\n4. Selective and focused: avoid rambling reminiscence that meets the helper's needs.\n5. Not too frequent: clients may see the helper as self-centred, phony or immature.\n6. Do not burden the client: a novice's sexual disclosures overwhelmed a client; intimate disclosure can seem seductive.\n7. Remain flexible: adapt to each client and situation.\n\nWhy caution is needed: clients sometimes misinterpret helpers' disclosures and their intent. Done well, as with Beth in a drug programme or Rick with Tim, disclosure models openness, gives clients courage to talk, and offers a new lens on their problems; Rick's developmental perspective helped Tim see that how crises are interpreted and managed is what matters.\n\nConclusion: Disclosure is challenging because it is intimate and implies 'You can do it, too'; reviews (Farber; Hamilton et al.) give few definitive answers, so these principles must suffice.",
+   "pages": [
+    183,
+    187
+   ]
+  },
+  {
+   "q": "Explain confrontation as 'stronger medicine'.",
+   "marks": 5,
+   "answer": "Introduction: Some clients drag their feet; they range from mildly to extremely reluctant, or are reluctant only on some issues, like Hester, who keeps relationships off limits.\n\nNature: Where respect for clients ends and placing demands begins is a values question, so helpers differ in willingness to confront. Lowenstein used 'traumatic confrontation' with youths. Patterson et al. describe 'crucial confrontations', holding someone accountable face to face when clear, realistic expectations are not met. In counselling, confrontation focuses on failure to meet one's own expectations or the legitimate expectations of one's community.\n\nPurpose: Helpers confront to 'make the case' for more effective living, not to issue ultimatums, making sure clients understand the consequences of not changing.\n\nGuidelines: Like strong medicine it is a form of caring but must be used sparingly and carefully; it should be empathic, respectful, empowering and action-oriented, never a way to vent frustration.\n\nThe Hester dialogue shows the style: the coach checks tentatively whether she means relationships do not affect her career, asks where she deals with them, and finally notes that keeping them off limits may bring the conversation to a standstill. This leads to a discussion of how putting critical issues off limits affects a therapeutic dialogue, a confrontation that stays respectful and collaborative.\n\nConclusion: Confrontation is the far end of the challenge continuum, used only when gentler invitations fail.",
+   "pages": [
+    188,
+    189
+   ]
+  },
+  {
+   "q": "Discuss the concept of self-challenge and the goals and targets of challenging as described by Egan.",
+   "marks": 10,
+   "answer": "Introduction\nEgan begins from the idea that helping is about change and change involves choices. Chapters 6 and 7 apply the 'choice architecture' of Chapter 5, and inviting clients to challenge themselves is a stronger form of nudging. Helping clients place demands on themselves is among the most important things a helper does.\n\nThe basic concept\nAlthough little therapy research addresses self-challenge, Egan argues that centuries of human-development wisdom offer practice-based evidence that should balance evidence-based practice. Failure to challenge can be devastating, as in operating rooms where 60% of one survey's respondents found it hard to speak up. Reasonable self-challenge is part of maturity and follows from the values of self-responsibility and a bias for action. Belinda, who recognised her overprotective parenting in an article, shows ideal self-initiated challenge.\n\nSince helping is a constructive social-influence process, challenge is central, yet the stance stays pro-client and collaborative. All effective helping mixes support and challenge: challenge alone is harsh, support alone can be empty. Martin and Trevino argue that helping adds value when it is somewhat discordant with clients' self-theories; Claiborn's review found discrepant views improve outcomes by changing how clients construe problems. Egan prefers 'challenge' to 'confrontation' because it is more acceptable, and Finn stresses compassion and firmness. Helpers help clients see how their beliefs-values-norms drivers shape decisions rather than attacking those drivers.\n\nGoals\nThe overall goal is reality testing invested in a better future. One goal is to change ways of thinking, expressing emotion and acting that keep clients stuck (Wei & Ku). A parallel, upbeat goal is to help clients find possibilities, discover unused resources, invest them, spell out a better future and commit to action, making the counsellor a 'catalyst for a better future'.\n\nTargets\nSelf-challenge can be self-critical or self-enhancing (Chang). The targets are: self-defeating mind-sets, such as prejudice (Candace), Ellis's irrational beliefs like being problemless (Allison) and Sternberg's four fallacies; self-limiting internal behaviour, such as John's daydreaming or Nadia's fault-finding; self-defeating emotional expression, from bottling up (Sheila) to flying off the handle (Arthur), linked to emotion regulation (Berking et al.); dysfunctional external behaviour, including failing to act (Clarence) and aggression (Ryan); distorted understanding of the world (Sandra); discrepancies such as say-versus-do (Clarissa); unused strengths and resources, where even irrationalities can be strengths (Driscoll); and the predictable dishonesties of everyday life, namely distortions (Nancy), games (Kennard's 'Yes, but') and excuses (Roberto). Helping clients participate fully in helping is a further target.\n\nIntegration\nMinerva shows these targets mixed together: a distrustful mind-set, suspicious internal behaviour, coldness, defensiveness, a trust discrepancy, a fault-finding game, misreading friends and guarded participation, all without awareness. Hayes's ACT adds a caution: rather than warring with bad thoughts, clients can defuse them and commit to purposeful living.\n\nConclusion\nFor Egan, self-challenge is collaborative, caring and future-oriented. It targets whatever blocks problem management and opportunity development, and it always pairs challenge with support so clients can move from new perspectives to new behaviour.",
+   "pages": [
+    158,
+    171
+   ]
+  },
+  {
+   "q": "Explain advanced empathy and its different forms, with examples.",
+   "marks": 10,
+   "answer": "Introduction\nAdvanced empathy is the first of Egan's indirect approaches to client self-challenge. Drawing on Rogers's idea that empathy may sense meanings the client is scarcely aware of, Egan defines it as capturing and sharing the fuller message or the message behind the message.\n\nNature and difference from basic empathy\nAccurate basic empathy is recognised immediately ('Yes, that's what I meant'). Advanced empathy reaches more covert messages, so clients may not recognise themselves at once and experience some disequilibrium; this makes it a challenge, inviting a closer look at oneself. When the helper notes hurt mixed with Gordon's anger at his ex-wife, Gordon admits she can still get to him, deepening the discussion. Helpers ask themselves what the client is only half saying, hinting at, saying confusedly, or conveying covertly. Advanced empathy stays with what the client actually expresses; it is not interpretation or 'psyching out'. It also uncovers buried strengths and opportunities. In the soldier example, Chaplain A's basic empathy leaves the soldier resigned, while Chaplain B picks up 'not as flashy', helping him see he may be overlooked and discuss marketing himself in line with his values.\n\nForm 1: Making the implied explicit\nThe most basic form. A divorced client talks without enthusiasm about calling his ex-wife. Counselor A's basic response stalls him; Counselor B notes the lack of enthusiasm, and he admits guilt and a caretaking pattern, then brightens about a business idea. No highlight is good in itself; it is judged by whether it helps the client see the need to act.\n\nForm 2: Identifying themes\nThemes may involve feelings, thoughts, behaviours or experiences. A supervisor helps a trainee see that his sessions are all basic empathy and that his underlying theme is 'playing it safe' from fear of being pushy.\n\nForm 3: Making missing connections\nClients tell stories in a hit-or-miss way. Chu Hua's weak strategies are linked to half-hearted goals; Owen moves from excuses to owning his porn addiction; Joanna's ingratiating style is linked to low influence; Dieter's anxiety to perfectionism out of place in Kenya; and John discovers that family squabbling multiplies his stress.\n\nForm 4: Sharing educated hunches\nHunches grow more educated with maturity and experience. They help clients see the bigger picture (perfectionism 'spreading'), go deeper ('betrayed' rather than 'let down'), see implications (a project that should be shut down), open up hinted areas (sexual matters), see what is overlooked (no health power of attorney) and own their stories ('already decided to quit').\n\nGuidelines\nHunches must rest on identifiable experiential and behavioural clues; empathy is no licence to infer at will or impose favourite theories. Constructive advanced empathy requires emotional intelligence and social competence.\n\nConclusion\nAdvanced empathy is a gentle but powerful challenge: grounded in the client's own message, it helps clients see what they half know and turn blind spots into new perspectives and action.",
+   "pages": [
+    176,
+    182
+   ]
+  },
+  {
+   "q": "Critically discuss helper self-disclosure and the direct approaches to challenge (suggestions, confrontation and encouragement).",
+   "marks": 10,
+   "answer": "Introduction\nAfter advanced empathy and information sharing, Egan discusses helper self-disclosure as the last indirect approach, then more direct approaches, all under 'libertarian paternalism' (Thaler & Sunstein): even direct challenges leave decisions with the client.\n\nHelper self-disclosure\nHelpers always disclose indirectly through looks, movements and words (Strong & Claiborne), so they must manage impressions. Direct disclosure is more contested: Henretty and Levitt note that multiple definitions make research hard to compare; some studies find it frightens or burdens clients, others that clients see disclosers as down-to-earth and honest. It works well as modelling in AA and drug programmes (Beth). It is challenging because it is intimate and implies 'You can do it, too'. Rick's brief, undramatic story to Tim shows developmental crises are normal. Guidelines: keep it appropriate and goal-related, culturally appropriate, well timed, selective and focused, infrequent, non-burdening and flexible. Reviews (Farber; Hamilton et al.) offer few definitive answers.\n\nSuggestions and recommendations\nLibertarian imperatives say: don't tell clients what to do or take over their lives. Yet guidance is not forbidden, and some cultures expect it. Within strong, respectful relationships, helpers can move into a guidance role. Clients follow recommendations that relate to the problem, challenge their strengths and are not too difficult. Cummings ignited substance abusers' buried dreams and then told them 'Get clean, then return'; most came back clean. Suggestions can also stimulate clients' own solutions, like the mother's listening contract with her son. Such interventions are not for novices.\n\nConfrontation\nFor foot-dragging clients like Hester, confrontation is 'stronger medicine'. How far to push is a values issue; Lowenstein used 'traumatic confrontation', and Patterson et al. define confronting as holding someone accountable face to face. In counselling it targets failures to meet one's own or the community's legitimate expectations and 'makes the case' for change by clarifying the costs of not changing. It must be sparing, empathic, respectful, empowering and action-oriented, never a vent for frustration.\n\nEncouragement\nEncouragement is a mild challenge and a form of support, a main ingredient of successful therapy. Motivational interviewing (Rollnick & Miller) is a directive, person-centred method for resolving ambivalence, using feedback, intrinsic motives, help with obstacles and extensive empathy, with self-determination at its heart. Effective encouragement is realistic, not patronising, not sympathy, and preserves autonomy.\n\nCritical evaluation\nEgan's approach is pragmatic: research is inconclusive on disclosure and no directive fits everyone. His safeguard is consistent: every approach is judged by whether it serves the client's goals and preserves self-responsibility.\n\nEgan's caution also applies throughout: no approach is right for everyone, and directives in particular need experience and savvy to know when they will work.\n\nConclusion\nFrom self-disclosure to confrontation and encouragement, Egan offers a graded set of tools, all aimed at moving clients from new perspectives to new behaviour while keeping them in charge.",
+   "pages": [
+    183,
+    190
+   ]
+  },
+  {
+   "q": "Explain the predictable dishonesties of everyday life and how helpers can address them.",
+   "marks": 5,
+   "answer": "Introduction: Egan uses this phrase for the distortions, evasions, games, tricks, excuse making and smoke screens that keep clients and everyone stuck.\n\nTwo-edged nature: Little dishonesties help us cope, but carry a price, especially as a preferred strategy; blaming others saves face but blocks self-responsibility. The aim is not to strip defences, which could be dangerous, but to help clients cope more creatively.\n\nDistortions: self-serving views of reality, e.g. Arnie seeing a caring supervisor as aloof, Edna seeing her counsellor as divine, Nancy equating getting her way with being liked.\n\nGames and smoke screens: clients rewarded for games continue them (Berne). Kennard plays 'Yes, but'; Dora acts helpless then resents help. Helpers should create an atmosphere that discourages games.\n\nExcuses: universal (Snyder, Higgins & Stucky) and sometimes useful, but used to avoid problems, as when Roberto sabotages Maria's career 'for her own good'.\n\nProcess example: with Nancy, the counsellor first removes the implied distortion that only she cares about their son, then probes how home decisions came to rest with her, and develops a hunch that the conflict with Milan is as much about power and getting her own way as about parenting. Fearful clients use communication in order not to communicate, so helpers watch for smoke screens from early sessions.\n\nConclusion: Skilled helpers are caring and empathic but do not let themselves be conned.",
+   "pages": [
+    168,
+    170
+   ]
+  },
+  {
+   "q": "Briefly explain motivational interviewing.",
+   "marks": 2,
+   "answer": "Motivational interviewing, introduced by Rollnick and Miller, is a directive, person-centred method for helping clients resolve ambivalence and move ahead with change. It uses personal feedback, empathy and intrinsic motives, rolls with resistance (Norcross), and places self-determination at its heart.",
+   "pages": [
+    189,
+    190
+   ]
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Why does Egan prefer 'challenge' to 'confrontation'?",
+   "back": "Confrontation feels harsh and unpleasant; challenge is softer but still edgy, and self-challenge sounds constructive.",
+   "page": 160
+  },
+  {
+   "front": "Support vs challenge rule?",
+   "back": "Challenge without support is harsh and unjustified; support without challenge can be empty and counterproductive.",
+   "page": 160
+  },
+  {
+   "front": "Two goals of challenging?",
+   "back": "(1) Change self-defeating thinking, emotional expression and acting; (2) find possibilities, unused resources, a better future and commit to action.",
+   "page": 161
+  },
+  {
+   "front": "Eight targets of self-challenge?",
+   "back": "Mind-sets; internal behaviour; emotional expression; external behaviour; distorted view of world; discrepancies; unused strengths; predictable dishonesties (+ full participation).",
+   "page": 161
+  },
+  {
+   "front": "Ellis's ten irrational beliefs?",
+   "back": "Being liked/loved, competent, having own way, being hurt, danger-free, problemless, a victim, avoiding, tyranny of the past, passivity.",
+   "page": 163
+  },
+  {
+   "front": "Catastrophizing (Ellis)?",
+   "back": "Treating violations of one's beliefs as awful and catastrophic; it gets clients nowhere.",
+   "page": 163
+  },
+  {
+   "front": "Sternberg's four fallacies?",
+   "back": "Egocentrism, omniscience, omnipotence, invulnerability.",
+   "page": 163
+  },
+  {
+   "front": "What is a schema (Riso et al.)?",
+   "back": "An ingrained system of thinking that causes trouble, not just a single belief.",
+   "page": 164
+  },
+  {
+   "front": "Internal behaviour?",
+   "back": "Thinking we choose to do: daydreaming, ruminating, judging, forgiving, rehearsing, etc.",
+   "page": 164
+  },
+  {
+   "front": "Three emotional-expression problems?",
+   "back": "Needless denial/bottling up; letting emotions run riot internally; self-defeating expression.",
+   "page": 165
+  },
+  {
+   "front": "Six discrepancies?",
+   "back": "Think/feel vs say; say vs do; self-view vs others' view; are vs want to be; goals vs accomplishment; values vs behaviour.",
+   "page": 167
+  },
+  {
+   "front": "Driscoll's point?",
+   "back": "Even clients' 'irrationalities' contain logic that can be a strength.",
+   "page": 168
+  },
+  {
+   "front": "Predictable dishonesties?",
+   "back": "Distortions, evasions, games, tricks, excuse making, smoke screens.",
+   "page": 168
+  },
+  {
+   "front": "Purpose of challenging dishonesties?",
+   "back": "Not to strip defences (could be dangerous) but to help clients cope more creatively.",
+   "page": 168
+  },
+  {
+   "front": "ACT in one line?",
+   "back": "Embrace and defuse bad thoughts/feelings with respectful attention, then commit to a purposeful life (Hayes).",
+   "page": 171
+  },
+  {
+   "front": "Blind spot definition?",
+   "back": "Something we fail to see or choose to ignore that blocks managing problems or developing opportunities.",
+   "page": 172
+  },
+  {
+   "front": "Five kinds of blind spots?",
+   "back": "Lack of awareness; failure to think things through; self-deception; choosing to stay in the dark; knowing, not caring and failing to see consequences.",
+   "page": 172
+  },
+  {
+   "front": "Willful blindness?",
+   "back": "Heffernan: choosing not to know; because it is willed, it can be changed.",
+   "page": 174
+  },
+  {
+   "front": "Lester vs Bernice?",
+   "back": "Lester: knows, fosters prejudice (full dysfunctional package). Bernice: becomes aware, refuses to act on it, learns (problem into opportunity).",
+   "page": 175
+  },
+  {
+   "front": "Two Box 6.1 questions?",
+   "back": "e.g. What am I overlooking? If others were honest with me, what would they tell me?",
+   "page": 175
+  },
+  {
+   "front": "Advanced empathy?",
+   "back": "Sharing the fuller message or message behind the message, of which clients are scarcely aware (from Rogers).",
+   "page": 176
+  },
+  {
+   "front": "Four helper self-questions for advanced empathy?",
+   "back": "What is only half said? hinted at? said confusedly? What covert message lies behind the explicit one?",
+   "page": 177
+  },
+  {
+   "front": "Four forms of advanced empathy?",
+   "back": "Make the implied explicit; identify themes; make missing connections; share educated hunches.",
+   "page": 178
+  },
+  {
+   "front": "Six uses of hunches?",
+   "back": "Bigger picture; go deeper; implications/conclusions; open up; see what's overlooked; own their stories.",
+   "page": 181
+  },
+  {
+   "front": "Cautions in information sharing?",
+   "back": "Be tactful; don't overwhelm; clear and relevant; check understanding; be supportive; don't confuse with advice.",
+   "page": 183
+  },
+  {
+   "front": "Two reasons self-disclosure is challenging?",
+   "back": "It is a form of intimacy; it implies 'You can do it, too'.",
+   "page": 184
+  },
+  {
+   "front": "Seven self-disclosure guidelines?",
+   "back": "Appropriate; culturally appropriate; timing; selective and focused; not too frequent; don't burden; remain flexible.",
+   "page": 185
+  },
+  {
+   "front": "Libertarian paternalism in helping?",
+   "back": "Even direct challenges leave decisions in the client's hands (Thaler & Sunstein).",
+   "page": 187
+  },
+  {
+   "front": "When do clients follow recommendations?",
+   "back": "When related to the problem, challenging their strengths and not too difficult.",
+   "page": 187
+  },
+  {
+   "front": "Confrontation should be...",
+   "back": "Empathic, respectful, empowering, action-oriented, used sparingly; never to vent frustration.",
+   "page": 189
+  },
+  {
+   "front": "Motivational interviewing definition?",
+   "back": "Directive, person-centred method to help clients resolve ambivalence and move ahead with change (Miller & Rollnick).",
+   "page": 189
+  },
+  {
+   "front": "Effective encouragement is NOT...",
+   "back": "Patronising, sympathy, or robbing autonomy; it respects self-healing.",
+   "page": 190
+  }
+ ],
+ "summary": [
+  "Helping is about change and choice; self-challenge is a stronger nudge within 'choice architecture' (p. 159).",
+  "All effective helping mixes support and challenge; challenge supplies a 'discordant note' that facilitates change (Martin, Trevino, Claiborn) (p. 160).",
+  "Egan prefers 'challenge' to 'confrontation'; helpers help clients see their beliefs-values-norms drivers (p. 160).",
+  "Goals: reality testing; change self-defeating patterns; find possibilities and resources; counsellor as catalyst for a better future (p. 161).",
+  "Targets: mind-sets, internal behaviour, emotional expression, external behaviour, distorted world view, discrepancies, unused strengths, predictable dishonesties, plus participation (pp. 161-162).",
+  "Mind-sets include prejudices and Ellis's irrational beliefs; Sternberg's four fallacies and schemas (pp. 162-164).",
+  "Dishonesties (distortions, games, excuses) are two-edged; aim is creative coping, not stripping defences; helpers are not conned (pp. 168-170).",
+  "Targets usually mix (Minerva); Hayes's ACT advises defusing rather than warring with bad thoughts (p. 171).",
+  "Blind spots: lack of awareness, failure to think through, self-deception, choosing to stay in the dark, knowing but not caring (pp. 171-175).",
+  "Box 6.1 lists questions clients can ask to uncover blind spots; new perspectives are often called insights (p. 175).",
+  "Indirect skills: advanced empathy (implied explicit, themes, connections, hunches), information sharing, helper self-disclosure (pp. 176-187).",
+  "Self-disclosure guidelines: appropriate, culturally appropriate, timed, selective, infrequent, not burdensome, flexible (pp. 185-186).",
+  "Direct skills: suggestions/recommendations under libertarian paternalism (Cummings) and confrontation as 'strong medicine' (pp. 187-189).",
+  "Encouragement is a mild challenge and support; motivational interviewing embodies it (pp. 189-190)."
+ ],
+ "assessment": [
+  {
+   "q": "Egan argues evidence-based practice should be balanced with",
+   "options": [
+    "practice-based evidence",
+    "randomized trials only",
+    "psychoanalytic theory",
+    "client testimonials"
+   ],
+   "answer": 0,
+   "explain": "p. 159.",
+   "page": 159
+  },
+  {
+   "q": "Claiborn's review concluded that discrepant points of view",
+   "options": [
+    "damage the relationship",
+    "change how clients construe problems and consider solutions",
+    "should be avoided cross-culturally",
+    "increase resistance"
+   ],
+   "answer": 1,
+   "explain": "p. 160.",
+   "page": 160
+  },
+  {
+   "q": "Which Ellis belief did Allison hold?",
+   "options": [
+    "Being competent",
+    "Avoiding",
+    "Being problemless",
+    "Passivity"
+   ],
+   "answer": 2,
+   "explain": "p. 163.",
+   "page": 163
+  },
+  {
+   "q": "'I can be happy by being uncommitted and just enjoying myself' is Ellis's belief of",
+   "options": [
+    "avoiding",
+    "being danger-free",
+    "having one's own way",
+    "passivity"
+   ],
+   "answer": 3,
+   "explain": "p. 163.",
+   "page": 163
+  },
+  {
+   "q": "Nadia's supervisor said her fault-finding showed a lack of",
+   "options": [
+    "intellectual balance",
+    "assertiveness",
+    "information",
+    "empathy"
+   ],
+   "answer": 0,
+   "explain": "p. 164.",
+   "page": 164
+  },
+  {
+   "q": "Cynthia needs to learn that",
+   "options": [
+    "emotions should be hidden",
+    "praise is not an unadulterated good",
+    "her boss is unfair",
+    "the internet causes depression"
+   ],
+   "answer": 1,
+   "explain": "p. 165.",
+   "page": 165
+  },
+  {
+   "q": "Arnie sees his caring supervisor as aloof. This is",
+   "options": [
+    "an excuse",
+    "a game",
+    "a distortion",
+    "a discrepancy"
+   ],
+   "answer": 2,
+   "explain": "p. 168.",
+   "page": 168
+  },
+  {
+   "q": "Roberto's 'for her own good' sabotage was reframed as possibly",
+   "options": [
+    "his concern for safety",
+    "Maria's fault",
+    "cultural respect",
+    "his not being ready for change"
+   ],
+   "answer": 3,
+   "explain": "p. 170.",
+   "page": 170
+  },
+  {
+   "q": "Egan concludes that skilled helpers are caring and empathic but",
+   "options": [
+    "do not let themselves be conned",
+    "never challenge",
+    "always confront games",
+    "avoid excuses"
+   ],
+   "answer": 0,
+   "explain": "p. 170.",
+   "page": 170
+  },
+  {
+   "q": "Giannetti marvels at our ability to",
+   "options": [
+    "see others' blind spots",
+    "believe what we don't believe and lie to ourselves",
+    "catastrophize",
+    "reframe"
+   ],
+   "answer": 1,
+   "explain": "p. 173.",
+   "page": 173
+  },
+  {
+   "q": "Bernice deals with her prejudice by",
+   "options": [
+    "denying it",
+    "fostering it",
+    "becoming aware, refusing to act on it and learning from it",
+    "ignoring it"
+   ],
+   "answer": 2,
+   "explain": "p. 175.",
+   "page": 175
+  },
+  {
+   "q": "Carla is helped to see menopause as",
+   "options": [
+    "a deficiency disease",
+    "a medical crisis",
+    "the end of possibilities",
+    "a natural developmental stage"
+   ],
+   "answer": 3,
+   "explain": "p. 176.",
+   "page": 176
+  },
+  {
+   "q": "Advanced empathy differs from interpretation because it",
+   "options": [
+    "focuses on what the client actually expresses",
+    "draws on theory",
+    "psychs the client out",
+    "ignores context"
+   ],
+   "answer": 0,
+   "explain": "p. 177.",
+   "page": 177
+  },
+  {
+   "q": "Owen's therapist suggested 'let's start over' after Owen",
+   "options": [
+    "quit therapy",
+    "admitted he'd be angry if roles were reversed",
+    "blamed his wife",
+    "denied using porn"
+   ],
+   "answer": 1,
+   "explain": "p. 180.",
+   "page": 180
+  },
+  {
+   "q": "Telling a client she feels 'betrayed' rather than 'let down' helps her",
+   "options": [
+    "see the bigger picture",
+    "own her story",
+    "go a bit deeper",
+    "see implications"
+   ],
+   "answer": 2,
+   "explain": "p. 181.",
+   "page": 181
+  },
+  {
+   "q": "Adrian's new perspective came from information about",
+   "options": [
+    "SIDS",
+    "prostate cancer",
+    "probation",
+    "the educational pyramid"
+   ],
+   "answer": 3,
+   "explain": "p. 183.",
+   "page": 183
+  },
+  {
+   "q": "Henretty and Levitt traced contradictory self-disclosure findings to",
+   "options": [
+    "multiple definitions of therapist self-disclosure",
+    "small samples",
+    "cultural bias",
+    "lack of theory"
+   ],
+   "answer": 0,
+   "explain": "p. 184.",
+   "page": 184
+  },
+  {
+   "q": "Beth's sharing in a drug programme illustrates disclosure as",
+   "options": [
+    "exhibitionism",
+    "modelling",
+    "burdening",
+    "interpretation"
+   ],
+   "answer": 1,
+   "explain": "p. 184.",
+   "page": 184
+  },
+  {
+   "q": "Carlos hesitated to disclose his dual-culture experience to Mara because of",
+   "options": [
+    "timing",
+    "frequency",
+    "cultural appropriateness",
+    "his own burden"
+   ],
+   "answer": 2,
+   "explain": "p. 185.",
+   "page": 185
+  },
+  {
+   "q": "Rick waited several sessions before disclosing, illustrating",
+   "options": [
+    "frequency",
+    "flexibility",
+    "selectivity",
+    "careful timing"
+   ],
+   "answer": 3,
+   "explain": "p. 186.",
+   "page": 186
+  },
+  {
+   "q": "Clients tend to follow recommendations that",
+   "options": [
+    "relate to the problem, challenge strengths and are not too difficult",
+    "are long and detailed",
+    "come early in therapy",
+    "are given by novices"
+   ],
+   "answer": 0,
+   "explain": "p. 187.",
+   "page": 187
+  },
+  {
+   "q": "Hester was reluctant to work on",
+   "options": [
+    "career development",
+    "relationships",
+    "finances",
+    "her health"
+   ],
+   "answer": 1,
+   "explain": "p. 188.",
+   "page": 188
+  },
+  {
+   "q": "Norcross describes MI as therapy that",
+   "options": [
+    "confronts denial",
+    "avoids advice",
+    "expresses empathy and rolls with resistance",
+    "ignores ambivalence"
+   ],
+   "answer": 2,
+   "explain": "p. 190.",
+   "page": 190
+  },
+  {
+   "q": "Effective encouragement is",
+   "options": [
+    "a form of sympathy",
+    "a directive",
+    "unrealistic optimism",
+    "not patronising and not the same as sympathy"
+   ],
+   "answer": 3,
+   "explain": "p. 190.",
+   "page": 190
+  }
+ ]
+}

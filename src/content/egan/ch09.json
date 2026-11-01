@@ -1,0 +1,1999 @@
+{
+ "number": 9,
+ "title": "Stage I-A: Help Clients Tell Their Stories",
+ "theorist": null,
+ "approach": "Part III: The Problem-Management Approach",
+ "pages": [
+  236,
+  258
+ ],
+ "overview": "This chapter opens Stage I of Egan's problem-management model, which has three intermingled tasks: helping clients tell their story (I-A), find the real story (I-B) and focus on the right story (I-C). It explains why these tasks pervade all of helping, presents Stage I as collaborative client-focused assessment, and stresses linking it to action from the start. Focusing on Task I-A, it reviews research on client self-disclosure and illustrates storytelling through the case of Mara and Carlos. It then sets out guidelines framed by Hanna's precursors of change: working with all storytelling styles, starting where the client starts, assessing severity, clarifying key issues, exploring context, talking productively about the past, spotting unused opportunities and resources, and seeing problems as opportunities. It closes with helping clients move into action from the beginning, through proactivity and productive use of time between sessions, and summarises Stage I guidelines in Box 9.2.",
+ "objectives": [
+  "Describe the three tasks of Stage I and explain why they pervade the entire helping process.",
+  "Explain client-focused assessment and the importance of linking Stage I to action early.",
+  "Summarise research on client self-disclosure and its relevance to Task I-A.",
+  "List Hanna's precursors (regulators) of change.",
+  "Explain and illustrate each guideline for helping clients tell their stories.",
+  "Apply Mehrabian and Reed's severity formula and discuss catastrophizing and ongoing assessment.",
+  "Evaluate the debate on exploring the past and describe three productive ways to discuss it.",
+  "Explain how helpers identify unused opportunities and resources.",
+  "Describe ways of helping clients act from the beginning, including between-session work.",
+  "Outline the guidelines for Stage I in Box 9.2."
+ ],
+ "sections": [
+  {
+   "id": "intro-stage-i",
+   "heading": "A Brief Introduction to Stage I",
+   "pages": [
+    237,
+    237
+   ],
+   "detailed": "People seek out helpers because they need help to manage their lives better. Egan opens Part III's first stage by explaining what Stage I is for: it is the stage in which counsellors help clients understand themselves, their problem situations and their unused opportunities, always with an eye to managing them more effectively.\n\nStage I is made up of three tasks, shown in Figure 9.1 (The Tasks of Stage I). Counsellors help clients (1) tell their stories (Task I-A, \"The Story\": what's going on?); (2) reframe those stories, develop new and more useful perspectives and start thinking about more constructive ways of acting (Task I-B, \"The Real Story\": what's really going on?); and (3) stay focused on the key issues and concerns that will actually make a difference in their lives (Task I-C, \"The Right Story\": what should I work on?). The figure sums up Stage I as helping clients explore concerns, get new perspectives, work on substantial issues and move to action, all feeding into ongoing action that leads to problem-managing outcomes.\n\nAlthough the three tasks are described one at a time, Egan reminds the reader (as in Chapter 8) that in real sessions they are intermingled. The two-headed arrows linking A, B and C in Figure 9.1 make the point visually: helping does not move rigidly from the first task to the second to the third. A helper may move back and forth between storytelling, new perspectives and choosing what to work on within a single session.\n\nThis chapter deals with the first task, I-A; Tasks I-B and I-C are taken up in Chapter 10.",
+   "simple": "Stage I helps clients understand their problems and missed opportunities so they can manage them. It has three tasks: tell the story, find the real story through new perspectives, and pick the right story to work on. These tasks overlap in practice rather than following a strict order.",
+   "keyPoints": [
+    "Stage I helps clients understand themselves, their problem situations and unused opportunities.",
+    "Task I-A: the story (what's going on?); I-B: the real story (what's really going on?); I-C: the right story (what should I work on?).",
+    "Figure 9.1 shows the three tasks linked by two-headed arrows.",
+    "The tasks are intermingled in actual sessions, not a rigid sequence.",
+    "Chapter 9 covers I-A; Chapter 10 covers I-B and I-C."
+   ]
+  },
+  {
+   "id": "tasks-pervade",
+   "heading": "How the Tasks of Stage I Pervade the Entire Helping Process",
+   "pages": [
+    237,
+    238
+   ],
+   "detailed": "Egan argues that the three Stage I tasks are not confined to the start of helping. He gives three reasons.\n\nFirst, clients rarely tell the whole story at the outset. The full story tends to \"leak out\" gradually over the course of helping, so story-telling continues long after the first session.\n\nSecond, new perspectives are needed at every point in the helping process: while telling stories, choosing problem-managing goals, developing plans and implementing programmes. Blind spots can show up at any stage, so helping clients see things in a fresh, more useful way is always welcome, not just in Stage I.\n\nThird, Egan stresses the word \"right\". The whole helping process is a search for what adds value for the client. Helpers can encourage clients to keep asking \"right\"-related questions throughout: Am I working on the right issues? Am I setting the right goals? Have I drawn up the right plan? Am I implementing it in the right way? Crucially, \"right\" means right for the client, not what suits the helper's favourite theory or preferred treatment approach. The client's test is whether it fits them, their resources and their personal culture. Clients remain the decision makers, but the helper can, and sometimes should, invite them to think through the implications of the decisions they are making.\n\nThe practical message is that I-A, I-B and I-C are recurring activities that run through Stages II, III and implementation, not boxes to be ticked once.",
+   "simple": "Stage I tasks keep happening throughout helping. Stories come out bit by bit, fresh perspectives are needed at every stage, and clients should keep asking whether they are working on what is right for them, not what suits the helper's theory.",
+   "keyPoints": [
+    "Clients' full stories often 'leak out' over time.",
+    "New perspectives are needed at every stage; blind spots can appear anywhere.",
+    "Helping is a search for value; clients keep asking 'right'-related questions.",
+    "'Right' means right for the client (fit with self, resources, personal culture), not the helper's theory.",
+    "Clients decide, but helpers may invite them to consider implications of decisions."
+   ]
+  },
+  {
+   "id": "client-focused-assessment",
+   "heading": "Client-Focused Assessment",
+   "pages": [
+    238,
+    238
+   ],
+   "detailed": "Stage I can be viewed as the assessment stage of helping (Hood & Johnson, 2007). Assessment here means finding out what is going wrong, which opportunities remain undeveloped and which resources are going unused.\n\nEgan's version is client-centred assessment. It means helping clients to understand themselves, discover what is going on in their lives, notice what they have been ignoring and make sense of the messiness of their lives. Assessment in this sense is not something done to clients by an expert. It is a form of practical learning in which client and helper collaborate.\n\nEgan acknowledges that other forms of assessment exist, such as psychological testing and the application of psychiatric diagnostic categories. These may or may not be useful, but he places them outside the scope of his book. The contrast is useful for exams: formal testing and diagnosis are helper-driven, whereas client-focused assessment is a joint learning process embedded in the client's own story-telling.\n\nLater in the chapter (assessing severity) and in Box 9.2, Egan adds that assessment is ongoing rather than a one-time event at the start, because stories unfold over time.",
+   "simple": "Stage I can be seen as assessment: finding what's going wrong, what opportunities are missed and what resources are unused. For Egan this is a shared learning process between client and helper, not something the helper does to the client. Testing and diagnosis are outside his scope.",
+   "keyPoints": [
+    "Stage I can be seen as the assessment stage (Hood & Johnson, 2007).",
+    "Assessment looks at what's going wrong, undeveloped opportunities and unused resources.",
+    "Client-centred assessment helps clients understand themselves and make sense of their lives.",
+    "It is collaborative practical learning, not something done to clients.",
+    "Psychological testing and psychiatric diagnosis are beyond the book's scope."
+   ]
+  },
+  {
+   "id": "linking-to-action",
+   "heading": "Linking to Action",
+   "pages": [
+    238,
+    239
+   ],
+   "detailed": "Egan insists that the problem-management process should be linked to action early. Early gains signal that therapy is on the right track and is likely to succeed. What clients learn in Tasks A, B and C should be connected to the Action Arrow, and right from the beginning helpers should help clients act on what they are learning.\n\nHis illustration is Sal, a severely burned patient whose first response is to withdraw from people. In his despair Sal needs what Auerbach, Salick and Fine (2006) call \"engagement\": choosing to go on, finding some inner strength, being willing to reach out to people who care and can help, and being open to some way of dealing with the trauma whatever its size. Egan invites the reader to imagine sitting at Sal's bedside and to consider how they would help him open up and become active in his own helping.\n\nThe case shows that clients do not need \"grand plans\" before acting on their own behalf. Sal's therapist spoke with the burn centre's chaplain, who brought along a former patient. Sal opened up about his desperate thoughts; the recovered patient said he too had spent a lot of time chasing such demons away, and when Sal asked whether there was a way out, he told Sal that Sal himself was the way out. Sal asked if he could see him again and reached out to touch him. Telling part of his story to a stranger, asking for a return visit and reaching out were all actions, small ones, but hopefully the start of a flow. Sal was beginning to learn he could not make the journey alone, and that recovery would require many steps taken bit by bit, with formal and informal helpers supporting him.\n\nEgan then returns to the structure of Stage I, the \"current picture\". Here counsellors help clients spell out their issues, concerns, difficulties or problems (he asks what Mara's would be). Each stage has three interrelated tasks, but they are not mechanical \"now do this\" steps. In Stage I they are activities that help clients state their concerns clearly, with neither too much nor too little detail. The three tasks help clients answer three questions: (1) What's going on in my life and what are my main concerns? (2) Looking more closely, what's really going on, and what new perspectives will help? (3) What should I be working on, and which issues, if handled well, will make a real difference?",
+   "simple": "Action should start early, because early gains show therapy is working. Sal, a burn patient, began acting in small ways (talking, asking for another visit, reaching out) without a big plan. Stage I tasks help clients answer: what's going on, what's really going on, and what should I work on?",
+   "keyPoints": [
+    "Link problem management to action early; early gains predict success.",
+    "Connect learning from A, B and C to the Action Arrow from the start.",
+    "Sal's case: 'engagement' (Auerbach, Salick & Fine, 2006) means choosing to go on, inner strength, reaching out, openness.",
+    "Clients need no 'grand plans'; small actions can start a flow.",
+    "Stage I tasks are not mechanistic; they help clients spell out concerns with the right amount of detail.",
+    "Three questions: What's going on? What's really going on? What should I work on?"
+   ]
+  },
+  {
+   "id": "task-i-a",
+   "heading": "Task I-A: Help Clients Tell Their Stories",
+   "pages": [
+    239,
+    240
+   ],
+   "detailed": "Task I-A is the first task of Stage I: helping clients tell their stories. Egan grounds it in research on self-disclosure.\n\nDenise Sloan (2010) reviewed evidence linking self-disclosure in various settings, including psychotherapy, to psychological well-being. People generally want to talk about themselves both when life is going well and when it is going badly, and Sloan notes that besides strengthening social bonds, self-disclosure brings a wide range of health benefits. Egan finds it odd that there is more research on the benefits and dangers of therapist self-disclosure than on the pluses and minuses of client self-disclosure; perhaps, he suggests, the helping professions need to focus more on clients than on treatment modalities. The literature does discuss clients' \"narratives\", but that is a literary rather than a social-science term; most clients do not think in terms of life narratives, though they do have practical concerns about disclosing.\n\nEgan stresses that helping clients tell their stories well should not be underestimated. Pennebaker (1995) observed that therapy lets people translate their experiences into words, and that the disclosure process itself may matter as much as any feedback the therapist gives.\n\nWhile much has been written about clients' reluctance to talk, Farber, Berano and Capobianco (2004) describe the bright side of client self-disclosure. Most clients feel therapy is a safe place to disclose, made safer by a good therapeutic relationship. Disclosure at first produces shame and anticipatory anxiety, but eventually brings feelings of safety, pride and authenticity. Keeping secrets inhibits therapy, whereas disclosing brings relief from physical and emotional tension. Disclosures in therapy make later disclosures easier, both to the therapist and to family and friends. And clients feel therapists should actively pursue material that is hard to disclose.\n\nOn the other hand, fear of self-disclosure is a leading reason people do not seek therapy at all (Vogel & Wester, 2003). So helpers need to discern whether a particular client is eager to disclose or fearful of it. Farber and associates add that many clients not only need the helper's encouragement to talk about difficult issues but also welcome and appreciate it. Farber's (2006) book Self-Disclosure in Psychotherapy gives a comprehensive overview of both client and helper disclosure.",
+   "simple": "Task I-A means helping clients tell their stories. Research shows self-disclosure is linked to well-being and that putting experience into words is itself healing. Most clients find disclosure in therapy relieving after initial shame, but fear of disclosure also keeps some people from seeking help, so helpers must read each client.",
+   "keyPoints": [
+    "Sloan (2010): self-disclosure is linked to psychological well-being and health benefits.",
+    "More research exists on therapist than on client self-disclosure.",
+    "Pennebaker (1995): translating experience into words may matter as much as therapist feedback.",
+    "Farber, Berano & Capobianco (2004): disclosure starts with shame/anxiety but ends in safety, pride, authenticity and relief.",
+    "Vogel & Wester (2003): fear of self-disclosure is a leading reason for not seeking therapy.",
+    "Helpers must discern whether a client is eager or fearful to disclose."
+   ]
+  },
+  {
+   "id": "mara-carlos-i-a",
+   "heading": "Mara and Carlos in Task I-A",
+   "pages": [
+    240,
+    241
+   ],
+   "detailed": "Egan illustrates Task I-A with the continuing case of Mara and her counsellor Carlos (introduced in Chapter 4). Carlos knows that if he can help Mara get a reasonably clear picture of herself, her problems and her unused opportunities, she will have a better chance of acting on them. He uses the communication skills of Part II to help her tell her story.\n\nCarlos opens with a simple invitation: what's going on and how can I help? Mara says she is not there to rehash her accident, though she is still working it through. She soon finds that talking about her broad dissatisfaction with the direction of her life is much more daunting than talking about the accident. She is not used to sharing concerns with anyone, even her parents, wonders whether she should have chosen a woman counsellor, and fears that talking to a stranger might \"cause the dam to burst\". Sensing this, Carlos suggests that some background about her and her family might help. That feels relatively safe, so her background emerges through the give and take of conversation.\n\nOver that session and the next, Mara moves to more immediate concerns. She worries about her father, who has never recovered from the death of his son, the loss of his career or his self-imposed exile; his business is stagnating, he is increasingly dependent on her without admitting it, he neglects his health and may have had a mini-stroke. Mara also has her own issues: she feels she has stayed captive to \"old country\" cultural norms; young people she met in Iran seemed more culturally free and socially rich; she resents her cousins' materialism; she has been meeting a man from work for coffee without telling her parents, and feels guilty; and she has had insomnia and headaches for months while keeping up a good face. She reports all this in a very matter-of-fact way.\n\nAs she becomes more comfortable, Mara talks more freely, though with some hesitancy. Carlos recognises that stories do not tumble out in a neat package; they may \"dribble out\" across the whole relationship. He wonders whether to revisit the accident later, but Mara is in the driver's seat.\n\nEgan draws a general lesson: clients differ radically in their ability to talk about themselves. Reluctance to disclose in sessions often reflects a wider inability to share oneself with others and to be reasonably assertive in everyday social life. Where that is so, one goal of counselling as a whole is to help clients develop the skills, confidence and courage to share themselves appropriately.",
+   "simple": "Carlos helps Mara tell her story by starting with safe background before she moves to harder concerns about her father, her culture, a secret relationship and her health. Stories come out gradually, and the client stays in charge. Reluctance to disclose in counselling may mirror difficulties sharing in everyday life.",
+   "keyPoints": [
+    "Carlos aims to help Mara get a clear picture of herself, problems and unused opportunities.",
+    "Starting with family background gave Mara a safe way in.",
+    "Her concerns: her father's decline, cultural captivity, a secret relationship, guilt, insomnia and headaches.",
+    "Stories may 'dribble out' over the whole relationship; the client is in the driver's seat.",
+    "Reluctance to disclose may signal wider difficulty with sharing and assertiveness; building these can be a counselling goal."
+   ]
+  },
+  {
+   "id": "guidelines-overview",
+   "heading": "Guidelines for Helping Clients Tell Their Stories",
+   "pages": [
+    241,
+    241
+   ],
+   "detailed": "Egan introduces a set of guidelines for Task I-A, stressing that they are guidelines, not hard and fast rules. Some of the guidelines and examples involve the kind of \"nudging\" and invitations to self-challenge described in Chapter 6. Helpers must decide about such invitations on the basis of clients' needs, not their own theories: clients' needs take precedence over helping models.\n\nAs a frame for the guidelines, Egan presents Hanna's (2002) \"precursors\" of change, which together give a comprehensive picture of how people change and why they do not. This is Hanna's version of the readiness-for-change list from Chapter 8. On the client's part, the precursors are:\n1. A sense of necessity (\"I've got to do something about this\").\n2. A willingness to experience anxiety or difficulty.\n3. Awareness of the main factors in the problem situation.\n4. A desire to confront the problem.\n5. Effort directed toward change.\n6. Hope for a better future.\n7. Social support.\n\nHanna calls these \"regulators of change\": the more of them a person has, the faster change will occur and, in some cases, the deeper it will go. As clients tell their stories, helpers can listen and probe for these regulators and even help clients develop them.\n\nThe guidelines that follow are: learn to work with all styles of storytelling; start where the client starts; assess the severity of the client's problems; help clients clarify key issues; help clients discuss the context of their concerns; help clients talk productively about the past; help clients spot unused opportunities; help them search for unused resources as they tell their stories; and help clients see every problem as an opportunity.",
+   "simple": "The guidelines are flexible, and clients' needs come before any helping model. Hanna's seven 'precursors' or 'regulators of change' (necessity, willingness to face anxiety, awareness, desire to confront, effort, hope, social support) speed and deepen change, and helpers can listen for and build them.",
+   "keyPoints": [
+    "Guidelines, not rigid rules; clients' needs take precedence over helping models.",
+    "Some guidelines involve 'nudging' and invitations to self-challenge (Chapter 6).",
+    "Hanna (2002): seven precursors of change on the client's part.",
+    "Precursors: necessity, willingness to experience anxiety, awareness, desire to confront, effort, hope, social support.",
+    "As 'regulators of change', more precursors mean faster and sometimes deeper change.",
+    "Helpers can listen and probe for these and help clients develop them."
+   ]
+  },
+  {
+   "id": "styles-of-storytelling",
+   "heading": "Learn to Work with All Styles of Storytelling",
+   "pages": [
+    242,
+    243
+   ],
+   "detailed": "Both individual and cultural differences affect how willing clients are to talk about themselves, and therefore how they tell their stories.\n\nMartina, 27, is highly verbal and eager. Her story pours out in rich detail, so the helper uses attending, listening, sharing highlights and probing only sparingly. Trained as a nurse, she works in her uncle's business, earns well but feels guilty because service matters to her, and feels hemmed in; a year in Europe whetted her appetite for adventure and she feels far from her great expectations. She has never got along with her mother, feels she abandoned her much younger brother by moving out, and fears her mother will smother him. Her partner of three years wants to marry, but she does not feel ready. She skips from topic to topic and finally laughs at how much she has said. From her story the helper learns she is young, bright, verbal and resourceful, eager and impatient, partly the author of her own problems, has blind spots, and has many unexplored options and opportunities. The counsellor even suspects she would make her way in life, however erratically, without counselling.\n\nNick is the opposite. Referred by a doctor because of trouble with his 9-year-old son, divorced about two years and living in a housing project on public assistance, he sits silently and will not look up. The counsellor uses many probes; even empathy draws out little. Tears come at times; about his ex-wife he says only \"good riddance\". Slowly and painfully the story emerges: his son's \"trouble\", the boy's growing uncontrollability and Nick's helplessness. Martina's story is full of possibilities; Nick's mostly of limitations. They are at opposite ends of the scale in both content and style.\n\nEgan lists the range of variation helpers will meet: voluntary versus sent clients; long, detailed versus short, stark stories; emotional versus cold telling, even of terrible events; single-issue stories (e.g., getting rid of headaches) versus multiple-issue stories; stories about the inner world (self-hate, depression, loneliness), the outer world (finances, work, relationships) or both; clients who tell the core story at once versus those who first tell a secondary story to test the helper; and clients who trust the helper simply because they are a helper versus those who mistrust for the same reason.\n\nIn every case the helper's job is to build a working relationship and help the client tell the story as a prelude to managing problems and seizing the opportunities buried in it. A story brought into the open is the starting point for constructive change, and often airing it is itself a solid first step.\n\nWith clients like Martina, the helper may let them run on or insist on dialogue. If the whole story pours out nonstop, the helper cannot share highlights for every issue, but can help the client review the most salient points in an orderly way (e.g., \"You've said quite a bit. Let's see if I've understood the main points...\"). Such highlights show the client the helper has been listening intently and cares. Clients like Nick, who lack storytelling skills or are reluctant, are a different challenge; dialogue with them can be hard work.",
+   "simple": "Clients tell stories in very different ways. Martina pours out a rich, many-sided story; Nick barely speaks. Helpers must adapt: summarise the main points for talkative clients and use more probes and patience for reluctant ones, always aiming to get the story into the open.",
+   "keyPoints": [
+    "Individual and cultural differences shape willingness to tell one's story.",
+    "Martina: verbal, eager, multiple issues, story full of possibilities; helper uses skills sparingly.",
+    "Nick: silent, reluctant, story mainly of limitations; helper uses many probes.",
+    "Stories vary: voluntary/sent, long/short, emotional/cold, single/multiple issue, inner/outer world, core/secondary, trusting/mistrustful.",
+    "The helper builds a working relationship; airing the story is often a solid first step.",
+    "For nonstop talkers, summarise salient points in order; reluctant clients need hard dialogue work."
+   ]
+  },
+  {
+   "id": "start-where-client-starts",
+   "heading": "Start Where the Client Starts",
+   "pages": [
+    243,
+    245
+   ],
+   "detailed": "Clients begin their stories at different points, and they can start at any stage of the helping process. The helper's job is to join them there. \"Story\" is therefore used in its widest sense, not only as an account of what happened, how the client reacted and how they now feel. Helpers must stay with clients where they are, not where the helper would like them to be. This requires an intimate understanding of the \"geography\" of helping shown in the book's graphics: know where the client is before helping them think about where they need to go.\n\nEgan gives five starting points:\n\nStage I: Exploring the problem situation. Norman returns to therapy after being fired. Last time he was taking drugs, belligerent at work and had lost a girlfriend. He has since got clean, which was hard, and expected that to sort things out. He worked successfully on a problem, but not the key one, which is probably relating to people. The helper can help him start over.\n\nStage II: Setting goals. Thad cannot decide between becoming a doctor or a politician (or political scientist) and must choose college courses this year. He faces an approach-approach conflict: he wants both goals. The helper can help him weigh the pros and cons of each.\n\nStage III: Choosing a course of action. Kimberley, a human resources executive, has learned that her chief executive, due to retire in six months, has behaved unethically. She is torn between exposing him, which could harm the company's reputation, and quietly monitoring him, which lets him get away with it. Her starting point is a dilemma about strategy; the helper can help her search for the strategy that best fits the institution's needs.\n\nImplementation: The Action Arrow. Owen has committed to restraining himself when a neighbour does something \"stupid\", knowing that \"speaking up\" (flying off the handle) makes things worse, but he struggles because others act too slowly. His starting point is difficulty implementing a chosen course of action; the helper can help him find incentives to stick to his programme.\n\nA failed solution. Martha kept tight reins on her teenage son as planned, but the more she controlled him the worse he became. She has gone through the whole helping process on her own and come up empty-handed. Her failed solution has created a new problem; the helper can help her look again at her son's behaviour and find solutions that fit both their needs.",
+   "simple": "Clients can begin at any point in the helping process, so helpers should meet them there rather than forcing a set starting point. Egan's examples show clients starting with problem exploration, goal choice, strategy choice, implementation trouble or a failed solution.",
+   "keyPoints": [
+    "Clients can start at any stage; the helper joins them there.",
+    "'Story' is used in the widest sense.",
+    "Know the 'geography' of helping: where the client is before where they need to go.",
+    "Norman (Stage I): solved the drug problem but not the key problem of relating to people.",
+    "Thad (Stage II): approach-approach conflict; Kimberley (Stage III): strategy dilemma.",
+    "Owen (implementation): trouble sticking to a plan; Martha: a failed solution that spawned a new problem."
+   ]
+  },
+  {
+   "id": "assess-severity",
+   "heading": "Assess the Severity of the Client's Problems",
+   "pages": [
+    245,
+    246
+   ],
+   "detailed": "Clients bring problems of every degree of severity. Egan recommends James Hicks's (2005) award-winning book, written in clear language, on the most common signs of mental illness, a service most abnormal psychology books do not provide.\n\nObjective versus subjective severity. Objectively, problems range from trivial to life-threatening. Subjectively, a client may experience even a minor problem as severe, and if the client thinks a problem is critical, it is critical for them. In such cases the client's tendency to \"catastrophize\", that is, to judge a problem as more severe than it is, becomes an important part of the problem itself. The counsellor's task is then to help the client put the problem in perspective or learn to distinguish degrees of severity.\n\nHoward's life-story view. Howard (1991) observed that, as clients tell the story of a problem, they give the therapist a rough idea of their orientation to life, plans, goals and ambitions, and of the events and pressures surrounding the presenting problem. Over time the therapist must judge whether the problem is a minor deviation from an otherwise healthy life story, a normal developmental adjustment issue, or a sign of more fundamental trouble. If the former, therapy plays a minor supportive role and the life's major themes stay largely unchanged. If the life story's trajectory is fundamentally problematic, more serious, long-term story repair may be needed. Part of therapy can thus be seen as life-story elaboration, adjustment or repair.\n\nLimits of helping. Savvy therapists grasp not only the severity of a problem and the extent of unused resources but also the limits of helping. They ask what the client's highest lifetime level of functioning has been and what expectations are therefore appropriate. Life-story adjustment or repair is not the same as trying to redo a client's personality.\n\nMehrabian and Reed's formula. Mehrabian and Reed (1969) proposed a still-useful, non-mathematical formula: Severity = Distress x Uncontrollability x Frequency. The multiplication signs show the factors are not merely additive: even low-level anxiety, if uncontrollable or persistent, can be a severe problem that badly damages quality of life.\n\nRisk of harm. Sometimes helpers must assess for possible self-harm or harm to others. The suicide literature describes warning signs of self-harm, and the literature on violence in social relationships describes signs of impending aggression. Accounts of social violence, such as fired employees shooting superiors and colleagues, show how easily signs are missed.\n\nEarly warning tools. Cannon and associates (2008) developed a \"new tool\" for predicting, and so possibly preventing, psychosis in high-risk youth. A package of factors (a close relative with a psychotic disorder, problems functioning in daily life, unusual thoughts or suspicions, growing social difficulty and a history of substance abuse) predicted a 35% to 80% likelihood of an episode of losing touch with reality within 30 months. Other medical professionals did not regard this as a breakthrough and called for brain scans and genetic tests.\n\nBecause stories unfold over time, assessment is ongoing, not a one-time intervention at the start.",
+   "simple": "Problems vary from trivial to life-threatening, and what feels critical to the client is critical for them. Severity can be thought of as distress times uncontrollability times frequency. Helpers should watch for risk of harm, know the limits of helping, and keep assessing as the story unfolds.",
+   "keyPoints": [
+    "Objective severity ranges from inconsequential to life-threatening; subjective severity is what counts for the client.",
+    "Catastrophizing (judging a problem worse than it is) becomes part of the problem.",
+    "Howard (1991): therapy as life-story elaboration, adjustment or repair.",
+    "Know the limits of helping: highest lifetime functioning sets expectations; repair is not redoing personality.",
+    "Mehrabian & Reed (1969): Severity = Distress x Uncontrollability x Frequency (multiplicative).",
+    "Assess for self-harm and harm to others; Cannon et al. (2008) psychosis prediction; assessment is ongoing."
+   ]
+  },
+  {
+   "id": "clarify-key-issues",
+   "heading": "Help Clients Clarify Key Issues",
+   "pages": [
+    246,
+    247
+   ],
+   "detailed": "To clarify means to discuss problem situations and unused opportunities as concretely as possible, including future possibilities, goals, strategies, plans, implementation issues and feelings about all of these. Vagueness and ambiguity lead nowhere. Clarity means helping clients move from the general to the specific: specific experiences, thoughts, behaviours, intentions, points of view and decisions.\n\nJanice. Janice's husband John has been severely depressed for over a year. After she faints, she sees a counsellor. Feeling guilty, she is hesitant to discuss her own concerns and says only that her social life is \"a bit restricted\" by his illness. Through empathic highlights and probes, the vague phrase gradually becomes a much fuller story (Egan gives a summary; she did not say it all at once). John has an undiagnosed fatigue-type illness. Janice swings between guilt, anger, indifference, hope and despair. She has no social life because friends avoid them, and she stays home because she feels she should not leave him. He is always tired, so they barely interact; she feels like a prisoner in her home. She sometimes cannot sleep, absorbs his hopelessness, believes a stronger or smarter woman would cope, hides all this from John and visitors, and feels as alone as he is.\n\nThis fuller story is told in specific experiences, thoughts, behaviours and feelings. Egan notes that Janice's own actions, staying at home and covering up her feelings, are part of the problem, not the solution. Now that the story is in the open, something can be done about it.\n\nThe law student with bulimia. A woman under psychiatric care for bulimia says she acted \"a little erratically at times\" with classmates. With highlights and probes, the fuller picture emerges: she sees herself as plain, has preferred going it alone since adolescence to avoid rejection, fantasised about classmates she thought would ignore her, imagined meals and sex with them, then purged to get rid of the fat and the guilt. She would seek out her latest imagined partner and then be rude to him to \"get back at him\". She was not truly delusional, but her external behaviour, through a twisted logic, reinforced her internal fantasies. Once her story became \"public\", that is, discussed openly with her helper, she began to take back control of her life.\n\nThe general lesson: vague labels such as \"a bit restricted\" or \"a little erratic\" conceal concrete patterns. Helping clients spell these out is what makes change possible.",
+   "simple": "Clarifying means moving clients from vague, general statements to specific experiences, thoughts, behaviours and feelings. Janice's 'a bit restricted' and the law student's 'a little erratic' turned into detailed stories once the helper used highlights and probes, and that openness made change possible.",
+   "keyPoints": [
+    "Clarify = discuss problems and opportunities as concretely as possible.",
+    "Vagueness and ambiguity lead nowhere; move from general to specific.",
+    "Janice: 'a bit restricted' became a detailed story of isolation and roller-coaster emotions.",
+    "Janice's own actions (staying home, covering up) were part of the problem.",
+    "Law student with bulimia: 'a little erratic' revealed fantasy, purging and rudeness; going public helped her regain control."
+   ]
+  },
+  {
+   "id": "context-of-concerns",
+   "heading": "Help Clients Discuss the Context of Their Concerns",
+   "pages": [
+    247,
+    248
+   ],
+   "detailed": "Sometimes exploring the background or context of a concern helps clarify it. Egan calls this a further application of the people-in-systems approach to listening (Conyne & Cook, 2004; Cook, 2012; Egan & Cowan, 1979; Hutchison, 2003).\n\nTarik, in a management development seminar, tells his counsellor that he is a manager in a global consulting firm's Southeast Asian office. He is overworked, his new boss wants him on several time-consuming committees, and a subordinate (himself a manager) is undermining his authority. On the surface this is a \"garden-variety\" story found all over the world.\n\nThe counsellor, a Canadian, suspects there is more. He wants to understand Tarik's Middle Eastern culture to get the full picture; he knows there is a layer of Western culture in such firms but wants to deal with Tarik as a whole person. Through sharing highlights and a few probes, the background emerges. Tarik is not just a manager but a newly minted partner. The firm's structure is flat but its culture hierarchical, so he has been given the region's least desirable clients. His American boss has been there only four months, is rumoured to be staying just one more year as a pre-retirement \"fling\" in Asia, and is decent but distant and unhelpful. Tarik therefore sees his real boss as his boss's boss, whom company and cultural protocol prevent him from approaching. The troublesome subordinate is a long-standing but not very successful partner who thought he should have been given Tarik's unit and has been quietly sabotaging him.\n\nA search for background quickly lifts the story out of the routine category. Egan cautions, however, that helpers should not seek background for its own sake. The right kind and amount of background provides both richness and context.",
+   "simple": "Exploring the background of a concern can transform a routine-sounding story. Tarik's work complaints took on new meaning once his counsellor learned about his culture, his status as a new partner, his distant boss and a resentful colleague. Background should be sought for richness and context, not for its own sake.",
+   "keyPoints": [
+    "Exploring context is an application of the people-in-systems approach to listening.",
+    "Tarik's story first seemed 'garden-variety'.",
+    "The Canadian counsellor sought to understand Tarik's culture and treat him as a full person.",
+    "Background revealed hierarchy, a distant boss and a sabotaging rival partner.",
+    "Don't search for background for its own sake; the right kind and amount gives richness and context."
+   ]
+  },
+  {
+   "id": "past-debate",
+   "heading": "Help Clients Talk Productively About the Past: The Debate",
+   "pages": [
+    248,
+    249
+   ],
+   "detailed": "Some schools of psychology hold that problem situations cannot be fully understood until their historic roots are uncovered, so their helpers spend much time exploring the past. Egan grants that if client and helper are \"on the same page\" about this, therapy can succeed. Others disagree. Glasser (2000) argued that although many people have been traumatised, they are not victims of their past unless they currently choose to be, and that solutions are rarely found in the past unless the focus is on past successes.\n\nFish (1995) suggested that searching for hidden root causes of current problem behaviour may be unnecessary, misguided or even counterproductive; constructive change does not depend on past causal connections. Egan sees evidence for this. Long ago Deutsch (1954) noted that even in carefully controlled laboratory conditions it is often almost impossible to establish whether event B, which follows event A, was actually caused by A. Linking complicated present behaviour patterns to complicated past events is an exercise in frustration.\n\nEgan therefore gives three reasons why asking clients to find causal links between current unproductive behaviour and past events may be futile:\n1. Causal connections cannot be proved; they remain hypothetical.\n2. There is little evidence that understanding past behaviour changes present behaviour.\n3. Talking about the past tends to focus on what happened to clients (their experiences) rather than on what they did about it (their thoughts, intentions, decisions and behaviours), and so interferes with the \"bias toward action\" clients need for managing current problems.\n\nThis does not mean the past has no influence or should never be discussed. Being stuck in the past is often a matter of rejection and resentment. But the fact that past experiences may influence present behaviour does not mean they determine it. Kagan (1996) challenged what may be called the \"scarred for life\" assumption: if orphans who spent their early years in a Nazi concentration camp can become productive adults, and young children made homeless by war can learn adaptive strategies after adoption by nurturing families, there is hope for everyone.\n\nEgan admits this is an issue the helping professions argue about endlessly and that it cannot be settled in a few words. He then offers suggestions for talking about the past meaningfully and productively.",
+   "simple": "Some approaches dig deeply into the past, but Egan, citing Glasser, Fish, Deutsch and Kagan, argues that hunting for past causes is often futile: causes can't be proved, insight rarely changes behaviour, and past-talk can block action. The past influences but does not determine the present.",
+   "keyPoints": [
+    "Some schools see current problems as understandable only through historic roots.",
+    "Glasser (2000): we are not victims of the past unless we choose to be; focus on past successes.",
+    "Fish (1995): searching for root causes may be unnecessary, misguided or counterproductive.",
+    "Deutsch (1954): even in the lab, causation between sequential events is hard to establish.",
+    "Three reasons causal past-talk may be futile: unprovable, little evidence insight changes behaviour, undermines bias toward action.",
+    "Kagan (1996) challenged the 'scarred for life' assumption: the past influences but doesn't determine."
+   ]
+  },
+  {
+   "id": "past-guidelines",
+   "heading": "Three Productive Ways to Talk About the Past",
+   "pages": [
+    249,
+    251
+   ],
+   "detailed": "Egan suggests three purposes for which discussing the past is productive.\n\n1. Talk about the past to make sense of the present. Many clients expect or want to talk about the past, and some ways of doing so illuminate the present, but the present must stay centre stage. How the past is discussed matters more than whether it is. In Egan's example, a man discussing how his interpersonal style gets him into trouble realises, with the helper, that his late father's cruel style lives on in him in smaller ways: his father beat his brother, whereas he cuts his brother down verbally; his father dictated to his mother, whereas he pushes \"reasonable\" proposals on her without listening. When the helper asks \"But now what?\", the client says he wants to change, recognising these as bad habits rather than something genetic. Egan notes that whether the father \"caused\" this does not matter; indeed, if linking the present to the past makes the client feel his nasty style is not his fault, that creates a new problem. Helping is about the future. Once the problem is named and in the open, something can be done. Very often problem situations have more to do with \"bad habits\" (Duhigg, 2012) than with sociobiological determinism.\n\n2. Talk about the past to be reconciled to or liberated from it. A dangerous logic can underlie past-talk: I am what I am because of my past; I cannot change my past; so how can I change today? A client who began to dislike himself at 13 and got \"locked into\" believing life gets worse is not using liberation talk; the past still casts its spell. Helpers should understand that clients may see themselves as prisoners of the past, but, in the spirit of Kagan, help them challenge such self-defeating beliefs. By contrast, a father whose son was sexually abused by a church minister found he could not deal with his son's ordeal without revealing his own abuse by his father. After telling the whole story tearfully, he said in the next session that letting it out was like throwing off a dirty cloak of shame worn for years; painful, but now he felt different and good. That is liberation talk. Helpers should know their objective in discussing the past: to learn from it, or to be liberated from it? Expecting a \"silver bullet\" in the past to solve today's problems asks too much of it. King and Hicks (2007) showed that discussing lost opportunities and mistaken expectations, with their regrets, disappointments and humiliation, can be quite beneficial; people can learn and grow by reviewing what might have been, and recognising one's losses may even bring a paradoxical gratitude for loss itself.\n\n3. Talk about the past to prepare for action in the future. Egan quotes historian A. J. Toynbee: history not used is nothing, because all intellectual life is action. Any discussion of problems or opportunities should lead to constructive action from Stage I through implementation, and insights from the past should stir clients to act. Christopher, realising how much his father and a high-school teacher had made him feel inadequate, resolved not to demean anyone around him, recognising that what he had called wit was actually meanness. Helpers should help clients invest the past proactively in the future.\n\nCaveats. These guidelines are not set in stone, and do not mean clients may only talk about the past in approved ways. Short (2006) prefers not to focus on the past or symptoms but listens to such stories with respect and acceptance because people should not suffer alone. Doing otherwise would feed what Hansen (2005) calls the counselling profession's devaluation of clients' inner subjective experiences. Some approaches also make deeper exploration of the past essential. Recalling Chapter 1, in the hands of helpers competent in orchestrating the key ingredients of successful therapy, any solid treatment approach can be useful.",
+   "simple": "Talking about the past is useful when it helps clients make sense of the present, free themselves from the past, or prepare for future action. Helpers should know which purpose they are pursuing, avoid expecting a 'silver bullet' in the past, and still listen respectfully when clients need to tell past stories.",
+   "keyPoints": [
+    "Make sense of the present: how the past is discussed matters more than whether; helping is about the future.",
+    "Problems are often more about 'bad habits' (Duhigg, 2012) than sociobiological determinism.",
+    "Be reconciled to or liberated from the past: contrast prisoner talk with 'liberation talk'.",
+    "King & Hicks (2007): reviewing regrets and lost opportunities can promote growth, even gratitude for loss.",
+    "Prepare for future action: Toynbee's 'history not used is nothing'; Christopher's resolve.",
+    "Caveats: Short (2006) listens with respect; Hansen (2005) warns against devaluing inner experience; any solid approach can work."
+   ]
+  },
+  {
+   "id": "unused-opportunities",
+   "heading": "Help Clients Spot Unused Opportunities",
+   "pages": [
+    251,
+    252
+   ],
+   "detailed": "Martina's story was about both problems and opportunities, and many stories mix the two. Early in modern psychology, William James remarked that few people use more than about 10% of their human potential on life's problems and challenges. Others have since said much the same, with different percentages, and few have challenged it. Egan suggests it is probably no exaggeration to call unused human potential a more serious social problem than emotional disorders, because it is more widespread. People with problems and relatively problem-free people alike have unused opportunities, so most clients will have opportunities that can help them manage their problems. Pursuing an opportunity can be a way of transcending a problem rather than \"solving\" it.\n\nBruno, 23, an accounting graduate student from a strongly religious background, said he was \"obsessed\" by sexual thoughts and felt guilty when he gave in to them. He valued his religion's emphasis on helping others, but studied accounting only for a decent job and found it unstimulating. Working in a bank and studying left little time for socialising or church volunteer work, which he planned to do \"later\". There was a vacuum in his life. Sensing an opportunity, the counsellor asked how far his church's focus on helping extended; Bruno said \"to the whole world\", then realised he knew little about the world. Developing a \"sense of the world\" made sense to him. The counsellor doubted that sexual obsession was the main issue. Bruno set up his own programme of reading, occasional lectures, a course in developing-country finance and the odd conference, made friends, met a like-minded young woman he began to date, and his \"obsession\" disappeared.\n\nClients talk about problems far more readily than about unused opportunities, which is a pity because many problems are better managed by developing opportunities than by tackling the problem directly. Lou Anne, a single woman in her mid-20s, was jailed for breaking into a government computer. In jail a friend, Marion, persuaded her to attend a religious service; the street-smart, \"not too pious\" minister impressed her, and when he learned she was a hacker he said they could really use her. After release she helped him set up a computer training programme for disadvantaged children, who listened to her because she had been a hacker, and she supported herself as a computer security consultant, which kept her up to date with hacking, still her passion. Egan remarks how fortunate it was that the minister saw talent, however misdirected, rather than depravity.\n\nBox 9.1 (Opportunity Finding Questions for Clients) lists questions helpers can help clients ask themselves: What are my unused skills or resources? What are my natural talents? What resources are available in my environment? How could I use these to enhance my life? Which opportunities would help me transcend my problems? Which opportunities do I let go by? Which ambitions remain unfulfilled? What could I accomplish if I put my mind to it? Which opportunities should I be developing? Which role models could I emulate?",
+   "simple": "Most people use only a fraction of their potential, so almost every client has unused opportunities. Developing an opportunity can help a client rise above a problem rather than attack it head-on, as Bruno and Lou Anne show. Box 9.1 gives questions to help clients find these opportunities.",
+   "keyPoints": [
+    "Stories usually mix problems and opportunities.",
+    "William James: most people use only about 10% of their potential.",
+    "Unused potential may be a more serious social problem than emotional disorders because it is more widespread.",
+    "Pursuing an opportunity can transcend rather than 'solve' a problem (Bruno, Lou Anne).",
+    "Clients talk more about problems than opportunities.",
+    "Box 9.1: opportunity-finding questions (unused skills, talents, environment, unfulfilled ambitions, role models)."
+   ]
+  },
+  {
+   "id": "unused-resources",
+   "heading": "As Clients Tell Their Stories, Help Them Begin to Search for Unused Resources",
+   "pages": [
+    252,
+    254
+   ],
+   "detailed": "Incompetent helpers concentrate on clients' deficits. Skilled helpers do not ignore deficits, but they are quick to spot clients' resources, whether used, unused or even abused. These resources can become building blocks for the future.\n\nTerry, in her late teens, is an involuntary or \"mandated\" client, arrested several times for street prostitution and now for drug possession. She ran away at 16 and was drawn into prostitution; she is street-smart and cynical about herself, her work and the world. Seeing counselling as a probation requirement and a game, she is hostile, insisting what she does is her own business and that counsellors are no better than people on the street, just more \"respectable\". The counsellor offers to talk about what is happening in the session itself rather than her life outside, and reflects her claim that no one could be interested in her; she retorts that she isn't even interested in herself. Terry has obvious deficits and a dangerous, self-defeating lifestyle. But the counsellor sees many resources: her toughness and street-smarts, and even the virulence of her cynicism and self-hate, the strength of her resistance and her near-unshakeable determination to go it alone. Many are currently used in self-defeating ways. They are misused resources, but resources nonetheless.\n\nHelpers need a resource-oriented mind-set in all interactions. Egan contrasts two counsellors responding to a client who says he practically never stands up for his rights. Counsellor A, sticking to sharing highlights, reflects that \"clamming up\" is his policy and asks what happens when he speaks up; the client admits the world doesn't fall in and others sometimes listen, though he has little impact. Counsellor A then emphasises that speaking up doesn't get him much, missing the resource. Counsellor B notes that when he speaks up he is not blasted and even gets a hearing, then probes what makes him think he has little influence. The client realises that influence may not be the issue; he usually does not want to get involved. Both counsellors are empathic but focus on different parts of the message: A on the deficit, B on an asset plus a probe, producing a significant clarification. Not wanting to get involved now becomes the issue to explore.\n\nThe search for resources matters most when the story is bleak. Egan recounts a man who had suffered a bitter divorce, false accusations leading to dismissal, unemployment, serious health problems and homelessness, and showed only depression. When the helper reflected that he had been ground down, the man said \"almost doing me in\". The helper asked about the \"almost\"; the man said he was still alive and still talking. The helper observed this said something about his \"fiber\". The man looked up with a glimmer of something other than depression. The helper drew a line down a newsprint pad, listing life blows on the left and \"Fiber\" on the right, and together they added resources: musical talent, honesty, concern for and ability to talk to others. After about half an hour the man smiled, for the first time in months.",
+   "simple": "Skilled helpers look for clients' strengths, even misused ones, not just their weaknesses. Terry's toughness and stubbornness are resources being used badly. A resource-focused response (Counselor B) clarifies the problem better than a deficit-focused one (Counselor A), and spotting 'fiber' can lift even a very bleak story.",
+   "keyPoints": [
+    "Incompetent helpers focus on deficits; skilled helpers spot resources (used, unused, abused).",
+    "Resources are building blocks for the future.",
+    "Terry (mandated client): cynicism, resistance and determination are misused resources.",
+    "Helpers need a resource-oriented mind-set in all interactions.",
+    "Counselor A highlights the deficit; Counselor B notes an asset and probes, clarifying the real issue.",
+    "Bleak stories: the 'fiber' exercise listed resources beside life blows and brought a smile."
+   ]
+  },
+  {
+   "id": "problem-as-opportunity",
+   "heading": "Help Clients See Every Problem as an Opportunity",
+   "pages": [
+    254,
+    255
+   ],
+   "detailed": "Clients come with a mixture of problems and opportunities. Egan cautions that pain should not be romanticised, but the flip side of a problem is an opportunity. His examples:\n- Kevin used his AIDS diagnosis as a starting point for reintegrating into his extended family and challenging family members to face problems they had long denied.\n- Beatrice used her divorce to develop a new approach to men based on mutuality, and, having to make her own way, discovered entrepreneurial skills and started an arts and crafts company.\n- Jerome used a long convalescence after an accident to review and reset his values and life goals, visited other rehabilitation patients, found deep satisfaction, and began exploring the helping professions.\n- Sheila used her incarceration for shoplifting, which she called \"time out\", to finish high school and get a head start on college.\n- A couple mourning the death of their only child started a day-care centre with members of their church.\n\nWilliam C. Miller (1986) described one of the worst days of his life: projects failing, people unresponsive, workload growing. Later, over coffee, he headed a sheet \"Lessons Learned and Relearned\" and listed 27 lessons over seven pages. The day became one of the best of his life. He started a daily \"Lessons Learned\" journal, which helped him avoid self-blame and defeatism; on bad days he would tell himself the day would be full of learnings.\n\nEgan concludes that helping a client spot even a small opportunity, whether the flip side of a problem or a standalone opportunity, can give enough leverage to put the client on a more constructive path.",
+   "simple": "Without glamorising pain, every problem has an opportunity on its other side. Kevin, Beatrice, Jerome, Sheila and a grieving couple all turned hardship into growth, and William C. Miller turned a terrible day into 27 lessons. Even a small opportunity can shift a client in a constructive direction.",
+   "keyPoints": [
+    "Clients bring mixtures of problems and opportunities.",
+    "Don't romanticise pain, but the flip side of a problem is an opportunity.",
+    "Examples: Kevin (AIDS), Beatrice (divorce), Jerome (convalescence), Sheila (incarceration), a bereaved couple.",
+    "William C. Miller (1986): 'Lessons Learned and Relearned' list and daily journal.",
+    "A small opportunity can provide leverage for a more constructive course."
+   ]
+  },
+  {
+   "id": "move-into-action",
+   "heading": "Help Clients Move into Action Right from the Beginning",
+   "pages": [
+    255,
+    255
+   ],
+   "detailed": "Egan returns to one of the book's central themes. In Hamlet, Shakespeare speaks of \"enterprises of great pith and moment\" that lose \"the name of action\". Helping is such an enterprise, and it too can lose the name of action. One of the main reasons clients fail to manage their problem situations is their failure to act intelligently, forcefully and prudently in their own best interests.\n\nEgan links this to positive psychology, whose strength is its focus on personal agency and self-regulation (Bandura, 2001; Caprara & Cervone, 2003). In Chapter 2 this was called a \"bias toward action\".\n\nThe practical implication is that action is not saved for the end of helping. From the very first session, helpers should help clients act on what they are learning. Two sub-guidelines follow: help clients see the importance of being proactive, and help them use the time between sessions productively.",
+   "simple": "Helping can become all talk and no action. Clients often struggle because they don't act wisely and firmly for themselves. Positive psychology's focus on agency and self-regulation supports Egan's 'bias toward action', so helpers should push for action from the start.",
+   "keyPoints": [
+    "Hamlet: great enterprises can lose 'the name of action'; so can helping.",
+    "Clients often fail because they don't act intelligently, forcefully and prudently for themselves.",
+    "Positive psychology stresses personal agency and self-regulation (Bandura; Caprara & Cervone).",
+    "This is the 'bias toward action' from Chapter 2.",
+    "Two sub-guidelines: proactivity and productive use of time between sessions."
+   ]
+  },
+  {
+   "id": "being-proactive",
+   "heading": "Help Clients See the Importance of Being Proactive",
+   "pages": [
+    255,
+    256
+   ],
+   "detailed": "Inactivity can harm body, mind and spirit. A counsellor at a large manufacturing company realised that injured workers who stayed home tended to sit around, gain weight, lose muscle tone and develop psychological symptoms such as psychosomatic complaints unrelated to their injuries. Using a people-in-systems approach (Egan & Cowan, 1979), she worked with management, unions and doctors to create temporary, physically light jobs for injured workers, sometimes with nurses or physical therapists visiting them at work. Counselling sessions helped match the right worker to the right job. Active again, the workers felt better about themselves, and both they and the company benefited.\n\nEgan observes that helping too often involves too much talk and too little action, and offers Marcus's case to show the almost magical effect of action. Marcus's \"helpers\" were his sister-in-law and a friend. Pushed into \"retirement\" from his office manager job because he supposedly did not fit a new e-commerce strategy, Marcus learned he had a cancer with an unpredictable course. Treatment left him tired, and he began having trouble walking for unknown reasons. A new marketing job had to be given up for health reasons. His daughter was expelled from high school for drug use and was sullen and indifferent; she and his wife clashed, and talks with his wife went nowhere. One of his married sons announced a divorce and a custody fight over a 3-year-old.\n\nThough very independent and self-reliant, Marcus told himself he had to take charge of his life or it could fall apart, and that he could use help. He found it in Sarah, a savvy, no-nonsense sister-in-law who was a lay minister, and Sam, an old friend who was a family doctor. Sam helped him stay self-reliant by helping him research his illness online, without becoming preoccupied, so that he could partner with his doctors in choosing treatments. Marcus drew up a living will and gave Sam power of attorney to avoid needless prolonging of life. Sam also helped him pursue art, literature and theatre, interests he had never had time for.\n\nWith help from friends, Marcus used adversity as an opportunity to engage more fully with life, partly redefining life as good conversations with family and friends. Refusing to be a victim, he stayed active. He died two years later, but, in Egan's phrase, he managed to live until he died.",
+   "simple": "Being inactive harms people; staying active helps. Injured workers did better in light-duty jobs than sitting at home. Marcus, facing cancer and family crises, took charge with help from friends, stayed active and 'lived until he died'.",
+   "keyPoints": [
+    "Inactivity harms body, mind and spirit.",
+    "Injured-workers programme: a people-in-systems approach (Egan & Cowan, 1979) created light jobs; workers and company benefited.",
+    "Helping often has too much talk and too little action.",
+    "Marcus faced job loss, cancer and family crises but chose to take charge.",
+    "Informal helpers Sarah and Sam supported his self-reliance, research, planning and interests.",
+    "Refusing to be a victim, he stayed active and 'managed to live until he died'."
+   ]
+  },
+  {
+   "id": "between-sessions",
+   "heading": "Help Clients Use the Time Between Sessions Productively",
+   "pages": [
+    256,
+    257
+   ],
+   "detailed": "If helping turns out to be short term for any reason, counsellors must help clients use the time between sessions as productively as possible. The helper's question becomes: how can I leverage what happens in the session to affect what the client does for the rest of the week (or month)? This does not deny the value of what happens in sessions; it capitalises on whatever learning or change takes place there.\n\nWosket's practice. Wosket (2006) ends each session by asking the client to describe what has happened and where they are, then asks whether there is anything they could do before the next session to move things along. At the start of the next session she asks what they did and what impact it had. If the client did nothing, she asks, without judgement, what they might have done if they had thought of acting. This reinforces the necessity-for-action theme.\n\nResearch on between-session work. Sixty-eight percent of practising psychologists frequently use between-session assignments (Kazantzis, Lampropoulos & Deane, 2005) to help clients act on what they learn in sessions (Detweiler-Bedell & Whisman, 2005; Kazantzis, 2000; Scheel, Hanson & Razzhavaikina, 2004; Tompkins, 2005; much of a 2002 issue of the Journal of Clinical Psychology was on homework). Daitch (2008) considers homework so important that she makes compliance part of the therapeutic contract, telling clients from the start about research showing that willingness to do homework is directly related to therapy's success. Mahrer and associates (1994) reviewed methods helpers use to influence clients to use between-session time productively. Broder (2000) offers many techniques for incorporating homework, discusses why some clients resist it and how to address resistance; with Albert Ellis, originator of Rational Emotive Behavior Therapy, he developed audiotapes on common client problems, which clients use to deepen what they learned in therapy and to work on resolving their conflicts.\n\nThe name versus the principle. There is no need to call between-session activity \"homework\". The word puts some clients off, strikes some helpers as too \"teacherish\", and can sound like an add-on rather than something flowing organically from sessions. The principle matters more than the label: use every stage and task of helping as a stimulus for problem-managing and opportunity-developing action. Use the term or \"assign\" tasks if that works for you and the client, but know clearly why you are assigning any task, and never assign homework routinely for its own sake.\n\nSpontaneous action: Mildred. Homework often has a predetermined cast, but encouraging action can be spontaneous. Mildred, 70, a single retired teacher who had kept teaching past mandatory retirement until she was \"eased out\", was financially but not socially or emotionally ready for retirement. She became depressed and aimless and, at a friend's urging, saw a counsellor of about her own age. Knowing her internal resources had gone dormant, he told her in the second session that she was letting herself become a wreck, that she would never tolerate such behaviour from her students, that she needed to seize life again, and asked what she would do straight after the session. This \"shock treatment\" revived her; she asked what he did, they discussed what life offers after 70, and she decided her first task was to find a community, since school had been her community. She came to the next session with options.\n\nEgan's conclusion: use homework or other, more organic ways of helping clients act. The helper's role demands being a catalyst for client action. Box 9.2 then summarises guidelines for this work.",
+   "simple": "Helpers should make sure clients use the time between sessions to act on what they learn. Wosket asks clients what they will do and follows up; most psychologists use homework, and research links homework to success. The label 'homework' is optional and should never be routine, and sometimes a spontaneous push (as with Mildred) works best.",
+   "keyPoints": [
+    "Leverage in-session work to influence what clients do between sessions.",
+    "Wosket (2006): end-of-session review, plan between-session action, review next time, ask nonjudgmentally if nothing was done.",
+    "68% of practising psychologists frequently use between-session assignments (Kazantzis et al., 2005).",
+    "Daitch (2008) makes homework part of the contract; Mahrer (1994) and Broder (2000) on methods and resistance.",
+    "The principle matters more than the word 'homework'; never assign it routinely.",
+    "Mildred: a spontaneous challenge spurred action; the helper is a catalyst for client action."
+   ]
+  },
+  {
+   "id": "box-9-2",
+   "heading": "Box 9.2: Guidelines for Stage I",
+   "pages": [
+    258,
+    258
+   ],
+   "detailed": "Egan closes the chapter with Box 9.2, a summary of the main guidelines for Stage I work, organised under five headings.\n\nEstablish a working alliance: develop a collaborative working relationship; use the relationship as a vehicle for social-emotional re-education; do not do for clients what they can do for themselves, keeping the client in the driver's seat.\n\nHelp clients tell their stories: use a mix of tuning in, listening, empathy, probing and summarising to help clients tell their stories, share their views, discuss decisions and talk through what they want to do as concretely as possible; help them talk productively about the past; use probes when clients get stuck, wander or lack clarity; understand blocks to self-disclosure and support clients who find it hard to talk about themselves; invite clients to reframe their stories and develop new perspectives; and determine their willingness to engage in self-challenge.\n\nBuild ongoing client assessment into the helping process: get an initial feel for the severity of problems and clients' ability to handle them; note resources, especially unused ones, and help clients work with them; understand problems and opportunities in the larger context of clients' lives.\n\nHelp clients move to action: help clients develop an action orientation; help them spot early opportunities to change self-defeating behaviour or engage in opportunity-developing behaviour; find innovative forms of homework that help clients take problem-managing action in everyday life.\n\nEstablish a feedback and evaluation system: integrate feedback and evaluation into helping; get clients to participate in and own the evaluation process; keep an evaluative eye on the whole process, aiming to add value in every interaction and make each session better.\n\nThe box pulls together the chapter's threads: relationship, storytelling skills, ongoing assessment (severity, resources, context), action from the start, and evaluation.",
+   "simple": "Box 9.2 sums up Stage I under five headings: build a working alliance, help clients tell their stories, assess continuously, move clients to action, and set up feedback and evaluation.",
+   "keyPoints": [
+    "Establish a working alliance; keep the client in the driver's seat.",
+    "Help clients tell their stories using tuning in, listening, empathy, probing and summarising.",
+    "Build ongoing assessment: severity, resources, larger life context.",
+    "Help clients move to action, including innovative homework.",
+    "Establish feedback and evaluation that clients participate in and own."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Stage I",
+   "definition": "The first stage of the problem-management model, in which helpers help clients explore their concerns: tell their stories, find new perspectives and focus on key issues.",
+   "page": 237
+  },
+  {
+   "term": "Task I-A (The Story)",
+   "definition": "The first Stage I task: helping clients tell their stories; answers the question 'What's going on?'.",
+   "page": 237
+  },
+  {
+   "term": "Task I-B (The Real Story)",
+   "definition": "Helping clients reframe stories and develop new perspectives; answers 'What's really going on?'.",
+   "page": 237
+  },
+  {
+   "term": "Task I-C (The Right Story)",
+   "definition": "Helping clients focus on issues that will make a real difference; answers 'What should I work on?'.",
+   "page": 237
+  },
+  {
+   "term": "'Right' (in helping)",
+   "definition": "What is right for the client, fitting their self, resources and personal culture, rather than what suits the helper's theory.",
+   "page": 238
+  },
+  {
+   "term": "Client-focused (client-centred) assessment",
+   "definition": "Collaborative practical learning in which clients come to understand themselves and make sense of their lives; not something done to them.",
+   "page": 238
+  },
+  {
+   "term": "Linking to action",
+   "definition": "Connecting what clients learn in Stage I tasks to the Action Arrow from the very beginning of helping.",
+   "page": 238
+  },
+  {
+   "term": "Engagement (Auerbach, Salick & Fine)",
+   "definition": "Choosing to go on, finding inner strength, reaching out to caring helpers and being open to dealing with trauma.",
+   "page": 238
+  },
+  {
+   "term": "Client self-disclosure",
+   "definition": "Clients revealing themselves and their concerns; linked to well-being and health benefits (Sloan, 2010).",
+   "page": 239
+  },
+  {
+   "term": "Client narrative",
+   "definition": "A literary rather than social-science term for clients' life stories, used in the helping literature.",
+   "page": 239
+  },
+  {
+   "term": "Precursors of change (Hanna)",
+   "definition": "Client conditions that explain how people change: necessity, willingness to experience anxiety, awareness, desire to confront, effort, hope and social support.",
+   "page": 241
+  },
+  {
+   "term": "Regulators of change",
+   "definition": "Hanna's term for the precursors: the more present, the faster and sometimes deeper the change.",
+   "page": 241
+  },
+  {
+   "term": "Single-issue vs multiple-issue stories",
+   "definition": "Stories that centre on one concern (e.g., headaches) versus several concerns, like Martina's.",
+   "page": 243
+  },
+  {
+   "term": "Core story vs secondary story",
+   "definition": "Some clients tell their central story at once; others first tell a secondary story to test the helper's reactions.",
+   "page": 243
+  },
+  {
+   "term": "Start where the client starts",
+   "definition": "Joining clients at whatever stage of the helping process they begin, rather than where the helper would like them to be.",
+   "page": 243
+  },
+  {
+   "term": "Geography of helping",
+   "definition": "An intimate understanding of the stages and tasks of the helping model so the helper knows where the client is.",
+   "page": 243
+  },
+  {
+   "term": "Approach-approach conflict",
+   "definition": "Wanting two attractive but incompatible goals, as with Thad choosing between medicine and politics.",
+   "page": 244
+  },
+  {
+   "term": "Failed solution",
+   "definition": "A starting point where a client's attempted solution has failed and spawned a new problem (Martha).",
+   "page": 245
+  },
+  {
+   "term": "Catastrophizing",
+   "definition": "Judging a problem situation to be more severe than it actually is; it then becomes part of the problem.",
+   "page": 245
+  },
+  {
+   "term": "Life-story elaboration, adjustment or repair",
+   "definition": "Howard's view of therapy as working on a client's life story, from minor support to long-term repair.",
+   "page": 245
+  },
+  {
+   "term": "Severity formula (Mehrabian & Reed)",
+   "definition": "Severity = Distress x Uncontrollability x Frequency; multiplicative, not additive.",
+   "page": 245
+  },
+  {
+   "term": "Clarify",
+   "definition": "Discussing problems and opportunities as concretely as possible, moving from general to specific experiences, thoughts, behaviours and decisions.",
+   "page": 246
+  },
+  {
+   "term": "People-in-systems approach",
+   "definition": "Listening to and working with clients in the context of the social systems around them.",
+   "page": 247
+  },
+  {
+   "term": "'Scarred for life' assumption",
+   "definition": "The belief that early adversity determines later life; challenged by Kagan (1996).",
+   "page": 248
+  },
+  {
+   "term": "Bias toward action",
+   "definition": "A focus on what clients do about what happens to them; undermined by excessive past-talk; linked to agency and self-regulation.",
+   "page": 248
+  },
+  {
+   "term": "Liberation talk",
+   "definition": "Talk about the past that frees the client from it, as with the father who 'threw off a dirty cloak' of shame.",
+   "page": 250
+  },
+  {
+   "term": "Unused opportunities",
+   "definition": "Undeveloped potential; pursuing them can transcend rather than 'solve' problems.",
+   "page": 251
+  },
+  {
+   "term": "Opportunity-finding questions (Box 9.1)",
+   "definition": "Questions clients can ask themselves to identify unused skills, talents, resources and ambitions.",
+   "page": 252
+  },
+  {
+   "term": "Mandated client",
+   "definition": "An involuntary client required to see a counsellor, such as Terry on probation.",
+   "page": 252
+  },
+  {
+   "term": "Misused resources",
+   "definition": "Client strengths currently used in self-defeating ways but still resources (e.g., Terry's toughness).",
+   "page": 253
+  },
+  {
+   "term": "Resource-oriented mind-set",
+   "definition": "A helper's habit of spotting client assets as well as deficits in every interaction.",
+   "page": 253
+  },
+  {
+   "term": "Flip side of a problem",
+   "definition": "The opportunity contained within a problem, without romanticising the pain.",
+   "page": 254
+  },
+  {
+   "term": "'Lessons Learned' journal",
+   "definition": "William C. Miller's daily record of lessons, which helped him avoid self-blame and defeatism.",
+   "page": 255
+  },
+  {
+   "term": "Personal agency and self-regulation",
+   "definition": "Positive psychology's focus (Bandura; Caprara & Cervone) underlying the bias toward action.",
+   "page": 255
+  },
+  {
+   "term": "Between-session assignments (homework)",
+   "definition": "Tasks clients carry out between sessions to act on what they learn; the principle matters more than the label.",
+   "page": 256
+  },
+  {
+   "term": "Catalyst for client action",
+   "definition": "The helper's role of stimulating clients to act, through homework or more organic means.",
+   "page": 257
+  }
+ ],
+ "people": [
+  {
+   "name": "Hood & Johnson",
+   "contribution": "Cited for viewing Stage I as the assessment stage of helping (2007).",
+   "page": 238
+  },
+  {
+   "name": "Auerbach, Salick & Fine",
+   "contribution": "Described 'engagement' (2006), which Sal needed after his burns.",
+   "page": 238
+  },
+  {
+   "name": "Denise Sloan",
+   "contribution": "Reviewed evidence linking self-disclosure, including in psychotherapy, to psychological well-being and health benefits (2010).",
+   "page": 239
+  },
+  {
+   "name": "Pennebaker",
+   "contribution": "Argued therapy lets people put experience into words, and disclosure may matter as much as therapist feedback (1995).",
+   "page": 239
+  },
+  {
+   "name": "Farber, Berano & Capobianco",
+   "contribution": "Outlined the bright side of client self-disclosure (2004); clients welcome encouragement to discuss difficult issues.",
+   "page": 239
+  },
+  {
+   "name": "Vogel & Wester",
+   "contribution": "Showed fear of self-disclosure is a leading factor in not seeking therapy (2003).",
+   "page": 240
+  },
+  {
+   "name": "Farber",
+   "contribution": "Author of Self-Disclosure in Psychotherapy (2006), an overview of client and helper disclosure.",
+   "page": 240
+  },
+  {
+   "name": "Hanna",
+   "contribution": "Proposed precursors or 'regulators' of change (2002).",
+   "page": 241
+  },
+  {
+   "name": "James Hicks",
+   "contribution": "Wrote an award-winning, clear book on common signs of mental illness (2005).",
+   "page": 245
+  },
+  {
+   "name": "Howard",
+   "contribution": "Described therapy as life-story elaboration, adjustment or repair (1991).",
+   "page": 245
+  },
+  {
+   "name": "Mehrabian & Reed",
+   "contribution": "Proposed the formula Severity = Distress x Uncontrollability x Frequency (1969).",
+   "page": 245
+  },
+  {
+   "name": "Cannon and associates",
+   "contribution": "Developed a tool for predicting psychosis in high-risk youth (2008).",
+   "page": 246
+  },
+  {
+   "name": "Egan & Cowan",
+   "contribution": "Cited for the people-in-systems approach (1979), used with Tarik and the injured-workers programme.",
+   "page": 247
+  },
+  {
+   "name": "Conyne & Cook; Cook; Hutchison",
+   "contribution": "Cited with Egan & Cowan as sources of the people-in-systems approach to listening.",
+   "page": 247
+  },
+  {
+   "name": "Glasser",
+   "contribution": "Argued people are not victims of their past unless they choose to be; the past helps only when focusing on successes (2000).",
+   "page": 248
+  },
+  {
+   "name": "Fish",
+   "contribution": "Suggested searching for hidden root causes may be unnecessary, misguided or counterproductive (1995).",
+   "page": 248
+  },
+  {
+   "name": "Deutsch",
+   "contribution": "Noted that even in controlled lab situations causation between successive events is hard to establish (1954).",
+   "page": 248
+  },
+  {
+   "name": "Kagan",
+   "contribution": "Challenged the 'scarred for life' assumption with examples of orphans and war-displaced children (1996).",
+   "page": 248
+  },
+  {
+   "name": "Duhigg",
+   "contribution": "Cited for the idea that problem situations often reflect 'bad habits' (2012).",
+   "page": 249
+  },
+  {
+   "name": "King & Hicks",
+   "contribution": "Showed reviewing regrets and lost opportunities can foster learning, growth and even gratitude for loss (2007).",
+   "page": 250
+  },
+  {
+   "name": "A. J. Toynbee",
+   "contribution": "Historian quoted: history not used is nothing, since intellectual life is action.",
+   "page": 250
+  },
+  {
+   "name": "Short",
+   "contribution": "Listens to past stories with respect because people should not suffer alone (2006).",
+   "page": 250
+  },
+  {
+   "name": "Hansen",
+   "contribution": "Warned against the counselling profession's devaluation of clients' inner subjective experiences (2005).",
+   "page": 251
+  },
+  {
+   "name": "William James",
+   "contribution": "Remarked that few people use more than about 10% of their human potential.",
+   "page": 251
+  },
+  {
+   "name": "William C. Miller",
+   "contribution": "Turned a terrible day into a list of 27 lessons and kept a daily 'Lessons Learned' journal (1986).",
+   "page": 254
+  },
+  {
+   "name": "Shakespeare (Hamlet)",
+   "contribution": "Quoted on enterprises 'of great pith and moment' losing 'the name of action'.",
+   "page": 255
+  },
+  {
+   "name": "Bandura; Caprara & Cervone",
+   "contribution": "Cited for positive psychology's focus on personal agency and self-regulation.",
+   "page": 255
+  },
+  {
+   "name": "Wosket",
+   "contribution": "Ends sessions by planning between-session action and reviews it at the next session (2006).",
+   "page": 256
+  },
+  {
+   "name": "Kazantzis, Lampropoulos & Deane",
+   "contribution": "Reported that 68% of practising psychologists frequently use between-session assignments (2005).",
+   "page": 256
+  },
+  {
+   "name": "Daitch",
+   "contribution": "Makes homework compliance part of the therapeutic contract (2008).",
+   "page": 256
+  },
+  {
+   "name": "Mahrer and associates",
+   "contribution": "Reviewed methods helpers use to influence productive use of between-session time (1994).",
+   "page": 257
+  },
+  {
+   "name": "Broder",
+   "contribution": "Offered homework techniques, ways to address resistance, and audiotapes developed with Albert Ellis (2000).",
+   "page": 257
+  },
+  {
+   "name": "Albert Ellis",
+   "contribution": "Originator of Rational Emotive Behavior Therapy; developed client audiotapes with Broder.",
+   "page": 257
+  }
+ ],
+ "studies": [
+  {
+   "title": "Sloan (2010): review of self-disclosure",
+   "finding": "Self-disclosure in many settings, including psychotherapy, is linked to psychological well-being, social bonds and a range of health benefits.",
+   "page": 239
+  },
+  {
+   "title": "Farber, Berano & Capobianco (2004): client self-disclosure",
+   "finding": "Most clients see therapy as safe; disclosure first brings shame and anxiety but then safety, pride, authenticity and relief; secrets inhibit therapy; disclosure eases later disclosures; therapists should pursue difficult material.",
+   "page": 239
+  },
+  {
+   "title": "Vogel & Wester (2003): fear of disclosure",
+   "finding": "Fear of self-disclosure is a leading factor in people not seeking therapy.",
+   "page": 240
+  },
+  {
+   "title": "Cannon et al. (2008): predicting psychosis",
+   "finding": "A package of risk factors predicted a 35-80% likelihood of a psychotic episode within 30 months in high-risk youth; other medical professionals did not see it as a breakthrough.",
+   "page": 246
+  },
+  {
+   "title": "Deutsch (1954): causation",
+   "finding": "Even in carefully controlled laboratory situations it is often almost impossible to tell whether a later event was caused by an earlier one.",
+   "page": 248
+  },
+  {
+   "title": "King & Hicks (2007): regrets and lost possibilities",
+   "finding": "Discussing lost opportunities and mistaken expectations, with associated regret, can be beneficial and promote learning and growth.",
+   "page": 250
+  },
+  {
+   "title": "Kazantzis, Lampropoulos & Deane (2005): homework use",
+   "finding": "68% of practising psychologists frequently use between-session assignments.",
+   "page": 256
+  },
+  {
+   "title": "Research cited by Daitch (2008)",
+   "finding": "Willingness to engage in homework is directly related to the success of therapy.",
+   "page": 257
+  },
+  {
+   "title": "Mahrer et al. (1994): review",
+   "finding": "Reviewed the methods helpers use to influence clients to use between-session time productively.",
+   "page": 257
+  }
+ ],
+ "examples": [
+  {
+   "title": "Catastrophizing",
+   "text": "A student fails one unit test and tells a counsellor their whole career is finished. Objectively the problem is small, but for the student it feels critical, so part of the work is helping them put it in perspective.",
+   "supplementary": true
+  },
+  {
+   "title": "Severity formula",
+   "text": "Mild exam nerves that come every day and cannot be switched off can be more disruptive than intense nerves felt once a year, because the factors multiply rather than add.",
+   "supplementary": true
+  },
+  {
+   "title": "From vague to specific",
+   "text": "A client says college is 'a bit stressful'. With probes it becomes: skipping meals, sleeping at 3 a.m., avoiding a roommate, and dreading one particular professor's class. Now there is something concrete to work on.",
+   "supplementary": true
+  },
+  {
+   "title": "Problem as opportunity",
+   "text": "Someone who loses a part-time job uses the free months to learn a new skill online and later starts a small freelance business.",
+   "supplementary": true
+  },
+  {
+   "title": "Between-session task",
+   "text": "At the end of a session a client decides to have one honest conversation with a friend before next week, then reports back on how it went.",
+   "supplementary": true
+  }
+ ],
+ "checks": [
+  {
+   "q": "Task I-B of Stage I is summed up by the question",
+   "options": [
+    "What's really going on?",
+    "What's going on?",
+    "What should I work on?",
+    "How do I get there?"
+   ],
+   "answer": 0,
+   "explain": "Figure 9.1 labels I-B 'The Real Story' (p. 237).",
+   "page": 237,
+   "sectionId": "intro-stage-i"
+  },
+  {
+   "q": "The two-headed arrows in Figure 9.1 indicate that the Stage I tasks",
+   "options": [
+    "must be completed in strict order",
+    "are not followed in a rigid sequence",
+    "belong only to Stage I",
+    "are optional"
+   ],
+   "answer": 1,
+   "explain": "They show the tasks are intermingled (p. 237).",
+   "page": 237,
+   "sectionId": "intro-stage-i"
+  },
+  {
+   "q": "Which is NOT one of Egan's reasons that Stage I tasks pervade the whole process?",
+   "options": [
+    "Clients' stories leak out over time",
+    "New perspectives are needed at every stage",
+    "Assessment must be done through psychological testing",
+    "Clients should keep asking 'right'-related questions"
+   ],
+   "answer": 2,
+   "explain": "Testing is said to be beyond the book's scope (pp. 237-238).",
+   "page": 238,
+   "sectionId": "tasks-pervade"
+  },
+  {
+   "q": "For Egan, 'right' in the helping process means right for",
+   "options": [
+    "the helper's theory",
+    "the treatment protocol",
+    "the referral agency",
+    "the client"
+   ],
+   "answer": 3,
+   "explain": "It means what fits the client, not the helper's approach (p. 238).",
+   "page": 238,
+   "sectionId": "tasks-pervade"
+  },
+  {
+   "q": "Client-focused assessment is best described as",
+   "options": [
+    "collaborative practical learning",
+    "psychiatric diagnosis",
+    "psychological testing",
+    "something the helper does to the client"
+   ],
+   "answer": 0,
+   "explain": "Egan describes it as joint practical learning (p. 238).",
+   "page": 238,
+   "sectionId": "client-focused-assessment"
+  },
+  {
+   "q": "Stage I as the assessment stage is attributed to",
+   "options": [
+    "Mehrabian & Reed",
+    "Hood & Johnson",
+    "Vogel & Wester",
+    "Egan & Cowan"
+   ],
+   "answer": 1,
+   "explain": "Hood & Johnson (2007) (p. 238).",
+   "page": 238,
+   "sectionId": "client-focused-assessment"
+  },
+  {
+   "q": "Auerbach, Salick and Fine's concept that Sal needed was",
+   "options": [
+    "catastrophizing",
+    "liberation",
+    "engagement",
+    "reframing"
+   ],
+   "answer": 2,
+   "explain": "Engagement: choosing to go on and reaching out (p. 238).",
+   "page": 238,
+   "sectionId": "linking-to-action"
+  },
+  {
+   "q": "Sal's case shows that clients",
+   "options": [
+    "must finish Stage I before acting",
+    "should act only after insight into the past",
+    "need formal homework to act",
+    "do not need grand plans before acting"
+   ],
+   "answer": 3,
+   "explain": "Small actions began a flow (p. 238).",
+   "page": 238,
+   "sectionId": "linking-to-action"
+  },
+  {
+   "q": "Pennebaker suggested that in therapy the disclosure process itself",
+   "options": [
+    "may be as important as therapist feedback",
+    "is less important than diagnosis",
+    "generally harms clients",
+    "matters only for verbal clients"
+   ],
+   "answer": 0,
+   "explain": "Pennebaker (1995) (p. 239).",
+   "page": 239,
+   "sectionId": "task-i-a"
+  },
+  {
+   "q": "Vogel and Wester found that fear of self-disclosure",
+   "options": [
+    "disappears after one session",
+    "is a leading factor in not seeking therapy",
+    "is rare among clients",
+    "improves outcomes"
+   ],
+   "answer": 1,
+   "explain": "(p. 240).",
+   "page": 240,
+   "sectionId": "task-i-a"
+  },
+  {
+   "q": "Carlos helped Mara get started by suggesting she talk about",
+   "options": [
+    "the accident in detail",
+    "her goals for therapy",
+    "her background and family",
+    "her relationship with a man from work"
+   ],
+   "answer": 2,
+   "explain": "Background felt relatively safe to Mara (p. 240).",
+   "page": 240,
+   "sectionId": "mara-carlos-i-a"
+  },
+  {
+   "q": "Reluctance to disclose in counselling, Egan says, is often a window into",
+   "options": [
+    "a psychotic disorder",
+    "the helper's incompetence",
+    "low intelligence",
+    "difficulty sharing oneself and being assertive in everyday life"
+   ],
+   "answer": 3,
+   "explain": "(p. 241).",
+   "page": 241,
+   "sectionId": "mara-carlos-i-a"
+  },
+  {
+   "q": "Which of these is one of Hanna's precursors of change?",
+   "options": [
+    "Hope for a better future",
+    "Insight into childhood",
+    "A formal diagnosis",
+    "High verbal ability"
+   ],
+   "answer": 0,
+   "explain": "Hanna's list includes hope (p. 241).",
+   "page": 241,
+   "sectionId": "guidelines-overview"
+  },
+  {
+   "q": "Hanna calls the precursors 'regulators of change' because",
+   "options": [
+    "they regulate the helper's behaviour",
+    "the more present, the faster and sometimes deeper the change",
+    "they must occur in fixed order",
+    "they replace the helping model"
+   ],
+   "answer": 1,
+   "explain": "(p. 241).",
+   "page": 241,
+   "sectionId": "guidelines-overview"
+  },
+  {
+   "q": "Martina's story is mainly about possibilities, whereas Nick's is mainly about",
+   "options": [
+    "opportunities",
+    "the past",
+    "limitations",
+    "goals"
+   ],
+   "answer": 2,
+   "explain": "(p. 243).",
+   "page": 243,
+   "sectionId": "styles-of-storytelling"
+  },
+  {
+   "q": "A client who tells a secondary story first is usually",
+   "options": [
+    "lying",
+    "in crisis",
+    "mandated",
+    "testing the helper's reactions"
+   ],
+   "answer": 3,
+   "explain": "(p. 243).",
+   "page": 243,
+   "sectionId": "styles-of-storytelling"
+  },
+  {
+   "q": "Thad, torn between medicine and politics, has",
+   "options": [
+    "an approach-approach conflict",
+    "a failed solution",
+    "an implementation problem",
+    "a strategy dilemma"
+   ],
+   "answer": 0,
+   "explain": "(p. 244).",
+   "page": 244,
+   "sectionId": "start-where-client-starts"
+  },
+  {
+   "q": "Martha's starting point, tight control of her son that backfired, is",
+   "options": [
+    "goal setting",
+    "a failed solution",
+    "choosing a course of action",
+    "exploring the problem situation"
+   ],
+   "answer": 1,
+   "explain": "(p. 245).",
+   "page": 245,
+   "sectionId": "start-where-client-starts"
+  },
+  {
+   "q": "In Mehrabian and Reed's formula, severity equals distress times uncontrollability times",
+   "options": [
+    "duration",
+    "intensity",
+    "frequency",
+    "insight"
+   ],
+   "answer": 2,
+   "explain": "(p. 245).",
+   "page": 245,
+   "sectionId": "assess-severity"
+  },
+  {
+   "q": "Judging a problem as more severe than it is, Egan calls",
+   "options": [
+    "reframing",
+    "engagement",
+    "clarifying",
+    "catastrophizing"
+   ],
+   "answer": 3,
+   "explain": "(p. 245).",
+   "page": 245,
+   "sectionId": "assess-severity"
+  },
+  {
+   "q": "Clarifying means helping clients move",
+   "options": [
+    "from the general to the specific",
+    "from the specific to the general",
+    "from the present to the past",
+    "from feelings to theories"
+   ],
+   "answer": 0,
+   "explain": "(p. 246).",
+   "page": 246,
+   "sectionId": "clarify-key-issues"
+  },
+  {
+   "q": "Janice's actions of staying home and covering up her feelings were",
+   "options": [
+    "a successful coping strategy",
+    "part of the problem, not the solution",
+    "signs of psychosis",
+    "irrelevant to her story"
+   ],
+   "answer": 1,
+   "explain": "(pp. 246-247).",
+   "page": 247,
+   "sectionId": "clarify-key-issues"
+  },
+  {
+   "q": "Exploring the context of Tarik's concerns applies the",
+   "options": [
+    "severity formula",
+    "Box 9.1 questions",
+    "people-in-systems approach",
+    "precursors of change"
+   ],
+   "answer": 2,
+   "explain": "(p. 247).",
+   "page": 247,
+   "sectionId": "context-of-concerns"
+  },
+  {
+   "q": "Egan cautions that background should be sought",
+   "options": [
+    "in every session at length",
+    "only with Western clients",
+    "only through testing",
+    "for richness and context, not for its own sake"
+   ],
+   "answer": 3,
+   "explain": "(p. 248).",
+   "page": 248,
+   "sectionId": "context-of-concerns"
+  },
+  {
+   "q": "Kagan challenged which assumption?",
+   "options": [
+    "'Scarred for life'",
+    "Bias toward action",
+    "Regulators of change",
+    "Client-centred assessment"
+   ],
+   "answer": 0,
+   "explain": "(pp. 248-249).",
+   "page": 248,
+   "sectionId": "past-debate"
+  },
+  {
+   "q": "Glasser held that the past helps solve problems mainly when focusing on",
+   "options": [
+    "past traumas",
+    "past successes",
+    "early childhood",
+    "family secrets"
+   ],
+   "answer": 1,
+   "explain": "(p. 248).",
+   "page": 248,
+   "sectionId": "past-debate"
+  },
+  {
+   "q": "The father who revealed his own abuse is Egan's example of",
+   "options": [
+    "catastrophizing",
+    "a failed solution",
+    "liberation talk",
+    "a secondary story"
+   ],
+   "answer": 2,
+   "explain": "(p. 250).",
+   "page": 250,
+   "sectionId": "past-guidelines"
+  },
+  {
+   "q": "Egan quotes Toynbee to support talking about the past in order to",
+   "options": [
+    "find root causes",
+    "assign blame",
+    "make a diagnosis",
+    "prepare for action in the future"
+   ],
+   "answer": 3,
+   "explain": "(p. 250).",
+   "page": 250,
+   "sectionId": "past-guidelines"
+  },
+  {
+   "q": "According to William James, most people use about what share of their potential?",
+   "options": [
+    "10%",
+    "25%",
+    "50%",
+    "80%"
+   ],
+   "answer": 0,
+   "explain": "(p. 251).",
+   "page": 251,
+   "sectionId": "unused-opportunities"
+  },
+  {
+   "q": "Bruno's 'sexual obsession' disappeared after he",
+   "options": [
+    "explored his childhood",
+    "developed a 'sense of the world'",
+    "changed religions",
+    "left accounting"
+   ],
+   "answer": 1,
+   "explain": "(p. 251).",
+   "page": 251,
+   "sectionId": "unused-opportunities"
+  },
+  {
+   "q": "Terry's cynicism and resistance are, in Egan's view,",
+   "options": [
+    "pure deficits",
+    "signs of psychosis",
+    "misused resources",
+    "irrelevant"
+   ],
+   "answer": 2,
+   "explain": "(p. 253).",
+   "page": 253,
+   "sectionId": "unused-resources"
+  },
+  {
+   "q": "Counselor B differs from Counselor A by",
+   "options": [
+    "refusing to use empathy",
+    "focusing on the deficit",
+    "giving advice",
+    "noting an asset and following up with a probe"
+   ],
+   "answer": 3,
+   "explain": "(p. 253).",
+   "page": 253,
+   "sectionId": "unused-resources"
+  },
+  {
+   "q": "William C. Miller responded to a terrible day by",
+   "options": [
+    "listing 'Lessons Learned and Relearned'",
+    "seeking therapy",
+    "changing jobs",
+    "taking a holiday"
+   ],
+   "answer": 0,
+   "explain": "(pp. 254-255).",
+   "page": 255,
+   "sectionId": "problem-as-opportunity"
+  },
+  {
+   "q": "Sheila called her incarceration for shoplifting",
+   "options": [
+    "'liberation'",
+    "'time out'",
+    "'fiber'",
+    "'engagement'"
+   ],
+   "answer": 1,
+   "explain": "(p. 254).",
+   "page": 254,
+   "sectionId": "problem-as-opportunity"
+  },
+  {
+   "q": "Egan quotes Hamlet about enterprises that lose",
+   "options": [
+    "their meaning",
+    "their support",
+    "the name of action",
+    "their goals"
+   ],
+   "answer": 2,
+   "explain": "(p. 255).",
+   "page": 255,
+   "sectionId": "move-into-action"
+  },
+  {
+   "q": "Positive psychology's strength, according to Egan, is its focus on",
+   "options": [
+    "diagnosis",
+    "childhood roots",
+    "testing",
+    "personal agency and self-regulation"
+   ],
+   "answer": 3,
+   "explain": "(p. 255).",
+   "page": 255,
+   "sectionId": "move-into-action"
+  },
+  {
+   "q": "The counsellor at the manufacturing firm helped injured workers by",
+   "options": [
+    "designing temporary, physically light jobs",
+    "extending sick leave",
+    "prescribing medication",
+    "referring them to psychiatrists"
+   ],
+   "answer": 0,
+   "explain": "(p. 255).",
+   "page": 255,
+   "sectionId": "being-proactive"
+  },
+  {
+   "q": "Marcus's helpers were",
+   "options": [
+    "a psychiatrist and a nurse",
+    "his sister-in-law and a friend",
+    "his wife and daughter",
+    "his former employer"
+   ],
+   "answer": 1,
+   "explain": "(p. 255).",
+   "page": 255,
+   "sectionId": "being-proactive"
+  },
+  {
+   "q": "Kazantzis et al. found that what percentage of psychologists frequently use between-session assignments?",
+   "options": [
+    "38%",
+    "50%",
+    "68%",
+    "88%"
+   ],
+   "answer": 2,
+   "explain": "(p. 256).",
+   "page": 256,
+   "sectionId": "between-sessions"
+  },
+  {
+   "q": "Egan's view of the term 'homework' is that",
+   "options": [
+    "it must always be used",
+    "it should never be used",
+    "it should be assigned routinely",
+    "the principle matters more than the name"
+   ],
+   "answer": 3,
+   "explain": "(p. 257).",
+   "page": 257,
+   "sectionId": "between-sessions"
+  },
+  {
+   "q": "Which heading appears in Box 9.2?",
+   "options": [
+    "Establish a Feedback and Evaluation System",
+    "Diagnose the Disorder",
+    "Explore Childhood",
+    "Test Personality"
+   ],
+   "answer": 0,
+   "explain": "(p. 258).",
+   "page": 258,
+   "sectionId": "box-9-2"
+  },
+  {
+   "q": "Under 'Establish a Working Alliance', Box 9.2 advises",
+   "options": [
+    "make decisions for clients",
+    "don't do for clients what they can do for themselves",
+    "avoid self-challenge",
+    "use testing"
+   ],
+   "answer": 1,
+   "explain": "(p. 258).",
+   "page": 258,
+   "sectionId": "box-9-2"
+  }
+ ],
+ "practice": [
+  {
+   "q": "What is catastrophizing?",
+   "marks": 2,
+   "answer": "Catastrophizing is a client's tendency to judge a problem situation as more severe than it really is. Egan notes that if a client believes a problem is critical, it is critical for them, so the catastrophizing itself becomes part of the problem. The counsellor helps the client put the problem in perspective or learn to distinguish degrees of severity.",
+   "pages": [
+    245,
+    245
+   ]
+  },
+  {
+   "q": "State Mehrabian and Reed's formula for problem severity.",
+   "marks": 2,
+   "answer": "Mehrabian and Reed (1969) proposed: Severity = Distress x Uncontrollability x Frequency. It is not a true mathematical formula, but the multiplication signs show the factors interact rather than simply add up, so even low-level anxiety can be severe if it is uncontrollable or persistent.",
+   "pages": [
+    245,
+    245
+   ]
+  },
+  {
+   "q": "What are Hanna's 'regulators of change'?",
+   "marks": 2,
+   "answer": "Hanna (2002) listed client precursors of change: a sense of necessity, willingness to experience anxiety or difficulty, awareness of the main factors, desire to confront the problem, effort toward change, hope and social support. He calls them regulators because the more are present, the faster and sometimes deeper the change.",
+   "pages": [
+    241,
+    241
+   ]
+  },
+  {
+   "q": "What does Egan mean by 'liberation talk'?",
+   "marks": 2,
+   "answer": "Liberation talk is discussion of the past that frees a client from it rather than keeping them its prisoner. Egan contrasts a client still locked into a teenage belief that life gets worse with a father who, after revealing his own childhood abuse, felt he had thrown off a dirty cloak of shame.",
+   "pages": [
+    249,
+    250
+   ]
+  },
+  {
+   "q": "What is 'engagement' as described by Auerbach, Salick and Fine?",
+   "marks": 2,
+   "answer": "Engagement means choosing to go on, finding inner strength, being willing to reach out to people who care and can help, and being open to dealing with a trauma whatever its size. Egan uses it for Sal, a burn patient whose first reaction was to withdraw.",
+   "pages": [
+    238,
+    238
+   ]
+  },
+  {
+   "q": "Explain the three tasks of Stage I and why they pervade the entire helping process.",
+   "marks": 5,
+   "answer": "Stage I helps clients understand themselves, their problem situations and unused opportunities so they can manage them better. Figure 9.1 shows three tasks. Task I-A, \"the story\", helps clients tell their stories and answers \"What's going on?\". Task I-B, \"the real story\", helps them reframe stories, gain new perspectives and think about more constructive action: \"What's really going on?\". Task I-C, \"the right story\", keeps them focused on issues that will make a real difference: \"What should I work on?\". Two-headed arrows show these are intermingled, not a rigid sequence, and Egan stresses they are activities, not mechanical steps; they help clients spell out concerns with neither too much nor too little detail.\n\nThe tasks are not confined to Stage I for three reasons. First, clients rarely tell everything at the start; the full story leaks out over time. Second, new perspectives are needed at every stage, from goal setting to planning and implementation, because blind spots can appear anywhere. Third, helping is a search for value, so clients should keep asking whether they are working on the right issues, setting the right goals, choosing the right plan and implementing it rightly. \"Right\" means right for the client and their resources and personal culture, not for the helper's theory. Clients make the decisions, though helpers may invite them to consider implications.",
+   "pages": [
+    237,
+    239
+   ]
+  },
+  {
+   "q": "Discuss research on client self-disclosure relevant to helping clients tell their stories.",
+   "marks": 5,
+   "answer": "Egan grounds Task I-A in research on self-disclosure. Sloan (2010) reviewed evidence linking self-disclosure in many settings, including psychotherapy, to psychological well-being; people want to talk about themselves in good times and bad, and disclosure strengthens social bonds and brings health benefits. Egan notes, however, that more research exists on therapist self-disclosure than on client self-disclosure, suggesting the professions should focus more on clients than on treatment modalities.\n\nPennebaker (1995) argued that therapy allows people to translate experiences into words and that disclosure itself may be as important as any feedback from the therapist.\n\nFarber, Berano and Capobianco (2004) described the bright side of disclosure: most clients find therapy a safe place, especially with a good relationship; disclosure initially brings shame and anticipatory anxiety but eventually feelings of safety, pride and authenticity; secrets inhibit therapy while disclosure relieves physical and emotional tension; disclosure in therapy eases later disclosure to the therapist, family and friends; and clients believe therapists should actively pursue difficult material. Many clients welcome the helper's encouragement.\n\nAgainst this, Vogel and Wester (2003) showed that fear of self-disclosure is a leading reason people avoid therapy. The practical implication is that helpers must discern whether each client is eager or fearful to disclose and respond accordingly.",
+   "pages": [
+    239,
+    240
+   ]
+  },
+  {
+   "q": "'Learn to work with all styles of storytelling.' Explain with reference to Martina and Nick.",
+   "marks": 5,
+   "answer": "Individual and cultural differences affect how willing clients are to talk. Martina, 27, is verbal and eager; her multi-issue story about her job in her uncle's business, guilt over not serving others, conflict with her mother, worry about her young brother and uncertainty about marriage pours out in rich detail. The helper uses skills sparingly. She is bright and resourceful but impatient, has blind spots and many unexploited opportunities; her story is full of possibilities. Nick, referred because of trouble with his 9-year-old son, barely speaks; the counsellor uses many probes and the story of his son's uncontrollability and his own helplessness emerges slowly. His story is mainly about limitations.\n\nEgan lists further variations: voluntary or sent clients; long or short stories; emotional or cold telling; single-issue or multiple-issue stories; inner-world, outer-world or mixed concerns; core stories told at once or secondary stories told first to test the helper; trust or mistrust of helpers. In all cases the helper builds a working relationship and helps the client bring the story into the open, often a solid first step to change.\n\nWith nonstop talkers the helper can help the client review salient points in order, which also shows they have been listening. With reluctant clients like Nick, dialogue is hard work.",
+   "pages": [
+    242,
+    243
+   ]
+  },
+  {
+   "q": "Describe the different starting points from which clients may begin their stories.",
+   "marks": 5,
+   "answer": "Egan's guideline is to start where the client starts. Clients can begin at any stage of the helping process, so \"story\" is used in its widest sense, and helpers must know the \"geography\" of helping to locate the client before helping them move on. He gives five examples.\n\nStage I, exploring the problem: Norman, fired again, got off drugs but never tackled his key problem of relating to people; the helper helps him start over. Stage II, setting goals: Thad faces an approach-approach conflict between medicine and politics; the helper helps him weigh pros and cons. Stage III, choosing a course of action: Kimberley must decide whether to expose an unethical chief executive or monitor him until he retires; the helper helps her find the strategy that best fits the institution. Implementation, the Action Arrow: Owen struggles to stick to his resolve not to fly off the handle at neighbours; the helper helps him find incentives. A failed solution: Martha's tight control of her teenage son backfired and created a new problem; the helper helps her look again at his behaviour and find solutions fitting both their needs.\n\nThe point is to meet clients where they are rather than where the helper would like them to be.",
+   "pages": [
+    243,
+    245
+   ]
+  },
+  {
+   "q": "How should a helper assess the severity of a client's problems?",
+   "marks": 5,
+   "answer": "Problems range objectively from inconsequential to life-threatening, but what matters is also subjective: if a client feels a problem is critical, it is critical for them. Catastrophizing then becomes part of the problem, and the helper helps the client put it in perspective.\n\nHoward (1991) suggests that through the story the therapist judges whether the problem is a minor deviation from a healthy life story or a sign of deeper trouble, requiring supportive help or long-term life-story repair. Savvy helpers also know the limits of helping, considering the client's highest lifetime functioning; story repair is not redoing personality.\n\nMehrabian and Reed's formula, Severity = Distress x Uncontrollability x Frequency, shows that factors multiply, so even low-level anxiety can be severe if uncontrollable or persistent. Helpers may also need to assess for self-harm or harm to others, using the suicide and violence literatures, since signs are easily missed. Cannon et al. (2008) offered a tool predicting psychosis in high-risk youth, though other professionals questioned it. Because stories unfold, assessment is not a one-time event at the start but an ongoing part of helping, as Box 9.2 also stresses.",
+   "pages": [
+    245,
+    246
+   ]
+  },
+  {
+   "q": "How can helpers help clients find unused opportunities and resources?",
+   "marks": 5,
+   "answer": "William James claimed few people use more than about 10% of their potential, and Egan suggests unused potential may be a bigger social problem than emotional disorders. Most clients therefore have opportunities that can help them transcend, not just solve, problems. Bruno's supposed sexual obsession faded once he developed a \"sense of the world\"; Lou Anne, a jailed hacker, turned her skills into teaching disadvantaged children. Since clients talk more about problems than opportunities, helpers can use the Box 9.1 questions: unused skills, natural talents, environmental resources, opportunities let go by, unfulfilled ambitions, role models.\n\nSkilled helpers, unlike incompetent ones, look beyond deficits to resources that are used, unused or abused. Terry's toughness, cynicism and determination are misused resources. A resource-oriented mind-set shows in responses: Counselor A highlights the client's deficit, while Counselor B notes that he gets a hearing when he speaks and probes, uncovering the real issue of not wanting to get involved. With bleak stories this matters most. In the \"fiber\" example, a depressed man who had suffered divorce, dismissal, illness and homelessness admitted the blows had \"almost\" done him in; the helper picked up the \"almost\", named his fiber, and together they listed his resources beside the blows. For the first time in months he smiled.",
+   "pages": [
+    251,
+    254
+   ]
+  },
+  {
+   "q": "Discuss the guidelines for helping clients tell their stories.",
+   "marks": 10,
+   "answer": "Introduction\nTask I-A of Egan's problem-management model is helping clients tell their stories. Egan offers guidelines, not rigid rules, and insists that clients' needs take precedence over helping models. He frames them with Hanna's precursors of change: necessity, willingness to experience anxiety, awareness, desire to confront, effort, hope and social support. These are regulators of change, and helpers can listen for and develop them as clients talk.\n\nLearn to work with all styles of storytelling\nClients differ widely. Martina pours out a multi-issue story full of possibilities; Nick barely speaks and tells a story of limitations. Stories may be long or short, emotional or cold, single- or multiple-issue, inner- or outer-world, core or secondary. Helpers build a working relationship, summarise salient points for nonstop talkers and work hard at dialogue with reluctant clients.\n\nStart where the client starts\nClients may begin at any stage: exploring the problem (Norman), setting goals (Thad's approach-approach conflict), choosing a strategy (Kimberley), implementation (Owen) or a failed solution (Martha). Helpers join them there.\n\nAssess the severity of problems\nSeverity is both objective and subjective; catastrophizing becomes part of the problem. Mehrabian and Reed's formula multiplies distress, uncontrollability and frequency. Howard sees therapy as life-story adjustment or repair, within the limits of helping. Helpers watch for risk of harm, and assessment is ongoing.\n\nClarify key issues and discuss context\nClarifying moves clients from vague to specific, as when Janice's \"a bit restricted\" became a detailed story of isolation. Exploring context through a people-in-systems approach turned Tarik's routine work complaint into a story of culture, hierarchy and sabotage, though background should not be sought for its own sake.\n\nTalk productively about the past\nHunting for past causes is often futile (Glasser, Fish, Deutsch), and the past influences but does not determine the present (Kagan). The past is useful for making sense of the present, being liberated from it and preparing for action, while helpers still listen respectfully (Short, Hansen).\n\nSpot unused opportunities and resources\nMost people underuse their potential (William James). Opportunities can transcend problems (Bruno, Lou Anne), and Box 9.1 offers opportunity-finding questions. Skilled helpers spot resources, even misused ones like Terry's toughness, and respond like Counselor B rather than Counselor A.\n\nSee every problem as an opportunity\nWithout romanticising pain, problems have an opportunity side, as with Kevin, Beatrice, Jerome, Sheila and William C. Miller's \"Lessons Learned\".\n\nConclusion\nTogether these guidelines help clients tell their stories fully, concretely and in context, while keeping an eye on strengths, opportunities and action. They are applied flexibly: the helper adapts to the client's style and starting point, keeps assessing as the story unfolds, and treats the client as the decision maker. Underlying all of them is Egan's view that a story brought into the open is the starting point for constructive change, and that airing it is often a solid first step toward a better life. The chapter then links storytelling directly to action from the very beginning.",
+   "pages": [
+    241,
+    255
+   ]
+  },
+  {
+   "q": "'The past influences but does not determine the present.' Discuss Egan's guidelines for helping clients talk productively about the past.",
+   "marks": 10,
+   "answer": "Introduction\nSome schools of psychology hold that current problems can only be understood through their historic roots, and they devote much time to the past. Egan accepts that this can work when client and helper agree, but he presents a more action-oriented view and offers guidelines for productive past-talk.\n\nThe case against searching for causes\nGlasser (2000) argued that people are not victims of their past unless they choose to be, and that the past helps mainly when it focuses on successes. Fish (1995) suggested searching for hidden root causes may be unnecessary, misguided or counterproductive. Deutsch (1954) noted that even in controlled labs causation between successive events is hard to establish, so linking complex present behaviour to complex past events is frustrating. Egan gives three reasons such searches may be futile: causal links remain hypothetical; there is little evidence that understanding the past changes present behaviour; and past-talk focuses on what happened to clients rather than what they did about it, undermining the bias toward action.\n\nThe past still matters\nThe past influences behaviour, and being stuck in it often reflects rejection and resentment. But influence is not determination. Kagan (1996) challenged the \"scarred for life\" assumption, pointing to concentration-camp orphans and war-displaced children who adapted well.\n\nThree productive uses\nFirst, talk about the past to make sense of the present. How the past is discussed matters more than whether. A man saw his late father's cruel style living on in him in smaller ways; the helper's question \"now what?\" turned insight toward change. Whether the father caused it is irrelevant, and blaming the past could create a new problem; problems are often bad habits (Duhigg) rather than determinism.\n\nSecond, talk about the past to be reconciled to or liberated from it. Clients may reason that they cannot change because their past cannot change; helpers help them challenge this. A father who disclosed his own childhood abuse felt he had thrown off a dirty cloak of shame, which is liberation talk. Helpers should know whether they aim to learn from or be liberated from the past, and not expect a silver bullet. King and Hicks (2007) showed reviewing regrets can foster growth and even gratitude for loss.\n\nThird, talk about the past to prepare for future action. Toynbee said history not used is nothing. Christopher, recognising how he had been made to feel inadequate, resolved not to demean others.\n\nCaveats\nThese guidelines are not set in stone. Short (2006) listens to past stories with respect so people do not suffer alone; Hansen (2005) warns against devaluing inner experience. Some approaches require deep exploration of the past, and any solid approach can work in competent hands.\n\nConclusion\nFor Egan, helping is about the future. The past is worth discussing when it illuminates the present, frees the client, or fuels action, and always with respect for the client's experience.",
+   "pages": [
+    248,
+    251
+   ]
+  },
+  {
+   "q": "Explain how counsellors can help clients move into action right from the beginning of helping.",
+   "marks": 10,
+   "answer": "Introduction\nA central theme of Egan's book is that helping must not \"lose the name of action\", in Hamlet's phrase. Clients often fail to manage problems because they do not act intelligently, forcefully and prudently in their own interests. Positive psychology's focus on personal agency and self-regulation (Bandura; Caprara & Cervone) supports this \"bias toward action\".\n\nLinking Stage I to action\nAction should start early, as early gains signal successful therapy. What clients learn in Tasks A, B and C should be linked to the Action Arrow. Sal, a burn patient, needed \"engagement\" (Auerbach, Salick & Fine). With no grand plan, he talked to a recovered patient, asked for another visit and reached out, small actions that began a flow.\n\nHelping clients be proactive\nInactivity harms body, mind and spirit. A workplace counsellor, using a people-in-systems approach, worked with management, unions and doctors to create light jobs for injured workers who otherwise deteriorated at home; they felt better and the company benefited. Marcus, facing forced retirement, cancer and family crises, decided to take charge with help from his sister-in-law Sarah and friend Sam. He researched his illness, partnered with his doctors, made a living will and pursued neglected interests. Refusing to be a victim, he lived until he died.\n\nUsing time between sessions\nEspecially in short-term helping, helpers should leverage sessions to influence what clients do between them. Wosket reviews each session, asks what the client could do before the next and follows up nonjudgmentally. Sixty-eight percent of psychologists frequently use between-session assignments (Kazantzis et al.). Daitch makes homework part of the contract, citing research linking homework willingness to success; Mahrer reviewed methods; Broder offers techniques, addresses resistance and, with Albert Ellis, developed audiotapes.\n\nHomework: principle over label\nThe term \"homework\" can put clients off or feel teacherish. The principle is what matters: use every stage and task as a stimulus for problem-managing and opportunity-developing action, and never assign tasks routinely without a clear purpose. Action can also be spontaneous: Mildred's counsellor bluntly challenged her to seize life again, and she came back with options for finding community.\n\nBox 9.2\nThe Stage I guidelines include helping clients develop an action orientation, spot early opportunities to change self-defeating behaviour and use innovative homework.\n\nConclusion\nFor Egan, action is not something saved for the end of helping. From the first session, helpers link what clients are learning to concrete steps, however small, help them stay active rather than passive, and use the time between sessions to extend the work of each session. Whether through formal homework or spontaneous, organic invitations, the helper's role is to be a catalyst for client action.",
+   "pages": [
+    238,
+    258
+   ]
+  },
+  {
+   "q": "Write a short note on helping clients clarify key issues and discuss the context of their concerns.",
+   "marks": 5,
+   "answer": "To clarify means discussing problems and opportunities, including goals, strategies, plans, implementation and feelings, as concretely as possible. Vagueness leads nowhere; clarity moves clients from the general to specific experiences, thoughts, behaviours, intentions, views and decisions. Janice, whose husband is depressed, first says her social life is \"a bit restricted\"; through empathic highlights and probes it becomes a story of isolation, emotional swings, sleeplessness, self-blame and hidden loneliness. Her own actions, staying home and covering up, are part of the problem. A law student with bulimia who acted \"a little erratically\" revealed fantasies, purging and rudeness; once her story became public with her helper, she began regaining control.\n\nDiscussing context applies the people-in-systems approach. Tarik's complaint of overwork and an undermining subordinate looked routine, but his Canadian counsellor explored his culture and background, learning that Tarik was a new partner given poor clients in a hierarchical culture, with a distant boss and a resentful rival partner. Egan cautions that background should not be sought for its own sake; the right kind and amount provides richness and context. Both guidelines serve the same purpose: turning a vague or routine-sounding story into one concrete enough to act on.",
+   "pages": [
+    246,
+    248
+   ]
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "The three tasks of Stage I?",
+   "back": "I-A: tell the story; I-B: the real story (new perspectives); I-C: the right story (what to work on).",
+   "page": 237
+  },
+  {
+   "front": "Why do Stage I tasks pervade the whole process?",
+   "back": "Stories leak out over time; new perspectives are needed at every stage; clients keep asking 'right' questions.",
+   "page": 237
+  },
+  {
+   "front": "What does 'right' mean in helping?",
+   "back": "Right for the client, fitting self, resources and personal culture, not the helper's theory.",
+   "page": 238
+  },
+  {
+   "front": "Client-focused assessment?",
+   "back": "Collaborative practical learning helping clients understand themselves; not done to them.",
+   "page": 238
+  },
+  {
+   "front": "Engagement (Auerbach, Salick & Fine)?",
+   "back": "Choosing to go on, finding inner strength, reaching out, openness to dealing with trauma.",
+   "page": 238
+  },
+  {
+   "front": "Sloan (2010)?",
+   "back": "Self-disclosure is linked to well-being, social bonds and health benefits.",
+   "page": 239
+  },
+  {
+   "front": "Pennebaker (1995)?",
+   "back": "Translating experience into words; disclosure may matter as much as therapist feedback.",
+   "page": 239
+  },
+  {
+   "front": "Farber et al. (2004) on disclosure?",
+   "back": "Initial shame/anxiety give way to safety, pride, authenticity and relief; secrets inhibit therapy.",
+   "page": 239
+  },
+  {
+   "front": "Vogel & Wester (2003)?",
+   "back": "Fear of self-disclosure is a leading factor in not seeking therapy.",
+   "page": 240
+  },
+  {
+   "front": "Hanna's precursors of change?",
+   "back": "Necessity, willingness to experience anxiety, awareness, desire to confront, effort, hope, social support.",
+   "page": 241
+  },
+  {
+   "front": "Martina vs Nick?",
+   "back": "Martina: verbal, story of possibilities; Nick: reluctant, story of limitations.",
+   "page": 243
+  },
+  {
+   "front": "What to do when a client pours out a story nonstop?",
+   "back": "Help them review the most salient points in order by sharing highlights.",
+   "page": 243
+  },
+  {
+   "front": "Five starting points in 'Start where the client starts'?",
+   "back": "Exploring the problem (Norman), goals (Thad), action strategy (Kimberley), implementation (Owen), failed solution (Martha).",
+   "page": 244
+  },
+  {
+   "front": "Catastrophizing?",
+   "back": "Judging a problem as more severe than it is; becomes part of the problem.",
+   "page": 245
+  },
+  {
+   "front": "Mehrabian & Reed's formula?",
+   "back": "Severity = Distress x Uncontrollability x Frequency (multiplicative).",
+   "page": 245
+  },
+  {
+   "front": "Howard (1991)?",
+   "back": "Therapy as life-story elaboration, adjustment or repair.",
+   "page": 245
+  },
+  {
+   "front": "Cannon et al. (2008)?",
+   "back": "Risk-factor package predicted a 35-80% chance of a psychotic episode within 30 months.",
+   "page": 246
+  },
+  {
+   "front": "Is assessment one-time?",
+   "back": "No; because stories unfold over time, it is ongoing.",
+   "page": 246
+  },
+  {
+   "front": "What does clarifying mean?",
+   "back": "Moving from general to specific experiences, thoughts, behaviours, intentions, views and decisions.",
+   "page": 246
+  },
+  {
+   "front": "Tarik's case illustrates?",
+   "back": "Exploring context via a people-in-systems approach turns a routine story into a rich one.",
+   "page": 247
+  },
+  {
+   "front": "Three reasons causal past-talk may be futile?",
+   "back": "Causes are unprovable; little evidence insight changes behaviour; it undermines the bias toward action.",
+   "page": 248
+  },
+  {
+   "front": "Kagan (1996)?",
+   "back": "Challenged the 'scarred for life' assumption.",
+   "page": 248
+  },
+  {
+   "front": "Three productive ways to talk about the past?",
+   "back": "To make sense of the present; to be reconciled to or liberated from it; to prepare for future action.",
+   "page": 249
+  },
+  {
+   "front": "Liberation talk?",
+   "back": "Past-talk that frees the client, e.g., the father throwing off a 'dirty cloak' of shame.",
+   "page": 250
+  },
+  {
+   "front": "William James on potential?",
+   "back": "Few people use more than about 10% of their potential.",
+   "page": 251
+  },
+  {
+   "front": "Box 9.1?",
+   "back": "Opportunity-finding questions: unused skills, talents, environmental resources, unfulfilled ambitions, role models, etc.",
+   "page": 252
+  },
+  {
+   "front": "Misused resources?",
+   "back": "Strengths used in self-defeating ways, like Terry's toughness and determination.",
+   "page": 253
+  },
+  {
+   "front": "Counselor A vs Counselor B?",
+   "back": "A emphasises the deficit; B notes an asset and probes, clarifying the real issue.",
+   "page": 253
+  },
+  {
+   "front": "William C. Miller (1986)?",
+   "back": "Listed 27 'Lessons Learned and Relearned'; kept a daily lessons journal.",
+   "page": 255
+  },
+  {
+   "front": "Wosket's between-session practice?",
+   "back": "Review session, ask what client could do before next time, review it next session.",
+   "page": 256
+  },
+  {
+   "front": "68% statistic?",
+   "back": "Practising psychologists who frequently use between-session assignments (Kazantzis et al., 2005).",
+   "page": 256
+  },
+  {
+   "front": "Egan on the word 'homework'?",
+   "back": "The principle matters more than the name; never assign it routinely.",
+   "page": 257
+  },
+  {
+   "front": "Box 9.2 headings?",
+   "back": "Working alliance; tell stories; ongoing assessment; move to action; feedback and evaluation.",
+   "page": 258
+  }
+ ],
+ "summary": [
+  "Stage I has three intermingled tasks: help clients tell their story (I-A), find the real story through new perspectives (I-B) and choose the right story to work on (I-C).",
+  "Stage I tasks pervade helping: stories leak out over time, new perspectives are always needed, and 'right' means right for the client.",
+  "Stage I can be seen as client-focused assessment, a collaborative learning process rather than testing or diagnosis.",
+  "Action should be linked to helping from the start; Sal shows small actions can begin a flow without grand plans.",
+  "Client self-disclosure is linked to well-being (Sloan), is valuable in itself (Pennebaker) and is usually experienced positively (Farber et al.), though fear of disclosure keeps some away from therapy (Vogel & Wester).",
+  "Hanna's precursors of change (necessity, anxiety tolerance, awareness, desire to confront, effort, hope, social support) act as regulators of change.",
+  "Clients tell stories in very different styles (Martina vs Nick); helpers adapt while building a working relationship.",
+  "Clients may start at any stage of the helping process; helpers join them there.",
+  "Severity is subjective as well as objective; Mehrabian & Reed's formula multiplies distress, uncontrollability and frequency; risk and limits of helping must be assessed continuously.",
+  "Clarifying moves clients from vague generalities to specifics, and exploring context adds richness (Janice, Tarik).",
+  "Searching for past causes is often futile, but the past can be discussed productively to make sense of the present, gain liberation, or prepare for action.",
+  "Most clients have unused opportunities and resources; skilled helpers adopt a resource-oriented mind-set and help clients see the opportunity in every problem.",
+  "Helping must move into action from the beginning: being proactive and using between-session time productively, with or without the label 'homework'.",
+  "Box 9.2 summarises Stage I: working alliance, storytelling, ongoing assessment, action and feedback/evaluation."
+ ],
+ "assessment": [
+  {
+   "q": "Which task of Stage I answers 'What should I work on?'",
+   "options": [
+    "Task I-A",
+    "Task I-C",
+    "Task I-B",
+    "Stage II"
+   ],
+   "answer": 1,
+   "explain": "I-C is 'The Right Story' (p. 237).",
+   "page": 237
+  },
+  {
+   "q": "Egan regards psychological testing and psychiatric diagnosis as",
+   "options": [
+    "the core of Stage I",
+    "required before storytelling",
+    "beyond the scope of his book",
+    "useless"
+   ],
+   "answer": 2,
+   "explain": "They may or may not be useful but are outside scope (p. 238).",
+   "page": 238
+  },
+  {
+   "q": "Early gains in therapy, according to Egan, are",
+   "options": [
+    "usually short-lived",
+    "unimportant",
+    "a sign of resistance",
+    "a sign therapy is headed in the right direction"
+   ],
+   "answer": 3,
+   "explain": "(p. 238).",
+   "page": 238
+  },
+  {
+   "q": "Egan notes there is more research on",
+   "options": [
+    "therapist self-disclosure than client self-disclosure",
+    "client self-disclosure than therapist",
+    "homework than disclosure",
+    "narratives than disclosure"
+   ],
+   "answer": 0,
+   "explain": "(p. 239).",
+   "page": 239
+  },
+  {
+   "q": "According to Farber et al., disclosure in therapy initially generates",
+   "options": [
+    "pride and authenticity",
+    "shame and anticipatory anxiety",
+    "relief",
+    "anger at the therapist"
+   ],
+   "answer": 1,
+   "explain": "These later give way to safety, pride and authenticity (p. 239).",
+   "page": 239
+  },
+  {
+   "q": "Which is NOT one of Hanna's precursors of change?",
+   "options": [
+    "A sense of necessity",
+    "Social support",
+    "Insight into the historical roots of the problem",
+    "Effort directed toward change"
+   ],
+   "answer": 2,
+   "explain": "Hanna lists necessity, anxiety tolerance, awareness, desire to confront, effort, hope and social support (p. 241).",
+   "page": 241
+  },
+  {
+   "q": "Kimberley's dilemma about her chief executive represents which starting point?",
+   "options": [
+    "Stage II: setting goals",
+    "Implementation",
+    "A failed solution",
+    "Stage III: choosing a course of action"
+   ],
+   "answer": 3,
+   "explain": "(p. 244).",
+   "page": 244
+  },
+  {
+   "q": "Owen's starting point was",
+   "options": [
+    "difficulty implementing a chosen course of action",
+    "an approach-approach conflict",
+    "a failed solution",
+    "exploring the problem"
+   ],
+   "answer": 0,
+   "explain": "(p. 244).",
+   "page": 244
+  },
+  {
+   "q": "The multiplication signs in the severity formula mean that",
+   "options": [
+    "factors are simply added",
+    "even low-level distress can be severe if uncontrollable or frequent",
+    "frequency matters most",
+    "distress alone determines severity"
+   ],
+   "answer": 1,
+   "explain": "(p. 245).",
+   "page": 245
+  },
+  {
+   "q": "Howard's view of therapy includes",
+   "options": [
+    "personality reconstruction",
+    "symptom removal only",
+    "life-story elaboration, adjustment or repair",
+    "diagnostic labelling"
+   ],
+   "answer": 2,
+   "explain": "(p. 245).",
+   "page": 245
+  },
+  {
+   "q": "Cannon and associates' tool predicted the likelihood of a psychotic episode within",
+   "options": [
+    "6 months",
+    "12 months",
+    "5 years",
+    "30 months"
+   ],
+   "answer": 3,
+   "explain": "(p. 246).",
+   "page": 246
+  },
+  {
+   "q": "The law student with bulimia began to regain control of her life when",
+   "options": [
+    "her story became 'public' with her helper",
+    "she was hospitalised",
+    "she left law school",
+    "she was diagnosed"
+   ],
+   "answer": 0,
+   "explain": "(p. 247).",
+   "page": 247
+  },
+  {
+   "q": "Fish suggested that searching for hidden root causes of problem behaviour may be",
+   "options": [
+    "essential",
+    "unnecessary, misguided or counterproductive",
+    "the only route to change",
+    "easy to prove"
+   ],
+   "answer": 1,
+   "explain": "(p. 248).",
+   "page": 248
+  },
+  {
+   "q": "Which is one of Egan's reasons why seeking causal links to the past may be futile?",
+   "options": [
+    "Clients never remember the past",
+    "The past has no influence",
+    "Past-talk focuses on what happened to clients rather than what they did about it",
+    "Helpers lack training"
+   ],
+   "answer": 2,
+   "explain": "It undermines the bias toward action (p. 248).",
+   "page": 248
+  },
+  {
+   "q": "Problem situations, Egan suggests citing Duhigg, are often more about",
+   "options": [
+    "genetics",
+    "childhood trauma",
+    "brain chemistry",
+    "bad habits"
+   ],
+   "answer": 3,
+   "explain": "(p. 249).",
+   "page": 249
+  },
+  {
+   "q": "King and Hicks found that reviewing regrets can lead to",
+   "options": [
+    "learning, growth and even gratitude for loss",
+    "depression",
+    "contentment only",
+    "avoidance"
+   ],
+   "answer": 0,
+   "explain": "(p. 250).",
+   "page": 250
+  },
+  {
+   "q": "Hansen warned against",
+   "options": [
+    "assigning homework",
+    "devaluing clients' inner subjective experiences",
+    "exploring context",
+    "using probes"
+   ],
+   "answer": 1,
+   "explain": "(p. 251).",
+   "page": 251
+  },
+  {
+   "q": "Pursuing an opportunity can be a way of",
+   "options": [
+    "avoiding therapy",
+    "diagnosing a problem",
+    "transcending rather than solving a problem",
+    "blaming others"
+   ],
+   "answer": 2,
+   "explain": "(p. 251).",
+   "page": 251
+  },
+  {
+   "q": "Lou Anne's turnaround came when a minister",
+   "options": [
+    "reported her to police",
+    "sent her to therapy",
+    "found her a job in a bank",
+    "saw talent rather than depravity in her hacking"
+   ],
+   "answer": 3,
+   "explain": "(p. 252).",
+   "page": 252
+  },
+  {
+   "q": "Box 9.1 contains",
+   "options": [
+    "opportunity-finding questions for clients",
+    "guidelines for Stage I",
+    "the severity formula",
+    "Hanna's precursors"
+   ],
+   "answer": 0,
+   "explain": "(p. 252).",
+   "page": 252
+  },
+  {
+   "q": "Incompetent helpers, according to Egan, concentrate on clients'",
+   "options": [
+    "resources",
+    "deficits",
+    "opportunities",
+    "goals"
+   ],
+   "answer": 1,
+   "explain": "(p. 252).",
+   "page": 252
+  },
+  {
+   "q": "In the 'fiber' example, the helper",
+   "options": [
+    "explored his childhood",
+    "assigned homework",
+    "listed life blows beside the man's resources",
+    "referred him"
+   ],
+   "answer": 2,
+   "explain": "(p. 254).",
+   "page": 254
+  },
+  {
+   "q": "Wosket, if a client did nothing between sessions, asks",
+   "options": [
+    "why they failed",
+    "them to sign a contract",
+    "nothing",
+    "nonjudgmentally what they might have done"
+   ],
+   "answer": 3,
+   "explain": "(p. 256).",
+   "page": 256
+  },
+  {
+   "q": "Daitch makes homework compliance part of",
+   "options": [
+    "the therapeutic contract",
+    "the diagnosis",
+    "the fee",
+    "termination"
+   ],
+   "answer": 0,
+   "explain": "(pp. 256-257).",
+   "page": 256
+  },
+  {
+   "q": "Mildred's counsellor helped her move to action by",
+   "options": [
+    "a structured homework sheet",
+    "a spontaneous challenge to seize life again",
+    "exploring her childhood",
+    "testing her personality"
+   ],
+   "answer": 1,
+   "explain": "(p. 257).",
+   "page": 257
+  },
+  {
+   "q": "Broder developed audiotapes for clients together with",
+   "options": [
+    "Carl Rogers",
+    "Glasser",
+    "Albert Ellis",
+    "Wosket"
+   ],
+   "answer": 2,
+   "explain": "(p. 257).",
+   "page": 257
+  }
+ ]
+}

@@ -1,0 +1,1761 @@
+{
+  "number": 2,
+  "title": "Sigmund Freud: Psychoanalysis",
+  "theorist": "Sigmund Freud",
+  "approach": "Psychoanalytic",
+  "pages": [
+    37,
+    78
+  ],
+  "overview": "Freud's psychoanalysis was the first formal theory of personality and remains the best known; many later theories either build on it or were developed in reaction against it. The chapter traces how Freud's own childhood, dreams and sexual conflicts fed into his ideas, then sets out the theory itself: instincts (life and death) as the driving forces of behaviour, the three levels of mental life, the id-ego-superego structure, three kinds of anxiety, the defense mechanisms the ego uses to cope, and the oral, anal, phallic, latency and genital stages of development. It closes with Freud's pessimistic and deterministic image of human nature, his assessment methods (free association and dream analysis), criticisms of his case-study research, a large body of modern research testing his concepts, Anna Freud's ego psychology, and an evaluation of his lasting influence.",
+  "objectives": [
+    "Explain how Freud's life experiences, dreams and personal sexual conflicts shaped key ideas of psychoanalysis.",
+    "Define instincts, distinguish life instincts from death instincts, and explain libido, cathexis and the homeostatic view of motivation.",
+    "Describe the levels of personality (conscious, preconscious, unconscious) and the structures of personality (id, ego, superego) with their operating principles.",
+    "Differentiate reality, neurotic and moral anxiety, state the purpose of anxiety, and define each of Freud's major defense mechanisms with examples.",
+    "Outline the oral, anal, phallic, latency and genital stages, including fixation, the Oedipus and Electra complexes, and the adult character types linked to each stage.",
+    "Summarise Freud's position on the human-nature issues (pessimism, nature-nurture, free will vs determinism, uniqueness vs universality).",
+    "Describe free association and dream analysis as assessment techniques, including resistance and manifest vs latent content.",
+    "Evaluate Freud's case-study research and summarise which Freudian concepts have and have not received empirical support.",
+    "Explain how Anna Freud extended psychoanalysis through ego psychology and assess Freud's overall influence and the main criticisms of his theory."
+  ],
+  "sections": [
+    {
+      "id": "life-of-freud",
+      "heading": "The Life of Freud (1856–1939)",
+      "pages": [
+        38,
+        42
+      ],
+      "detailed": "Freud was born in 1856 in Freiberg, Moravia (today Pribor in the Czech Republic). His father, a not very successful wool merchant, moved the family to Leipzig and then, when Sigmund was 4, to Vienna, where Freud lived for nearly 80 years. His father was 40 and strict and authoritarian; his mother, the father's third wife, was only 20, attractive, and extremely loving and protective toward her first son. Freud recalled hostility toward his father and even felt superior to him by age 2, while he felt a passionate, even sexual attachment to his mother. The book stresses that this family pattern set the stage for the Oedipus complex, and that much of the theory reflects Freud's own childhood. His mother's pride in him helped produce lifelong self-confidence, intense ambition and dreams of fame. He was jealous of every sibling who competed for her attention, and the family favoured his studies (his own room, the only oil lamp, his sisters forbidden to practise piano).\n\nA gifted student, Freud entered high school a year early and mastered several languages. Medicine was one of the few professions open to Jews in Vienna; he chose it not to be a physician but because he hoped it would lead to scientific research and fame. In medical school he experimented with cocaine, called it a miracle drug, and in 1884 published an article praising it. The article was later judged a major contributor to a cocaine epidemic in Europe and the United States, bringing him infamy; he tried to erase his endorsements but kept using the drug until 1896 before switching to wine.\n\nBlocked from a research career by lack of money, and engaged to Martha Bernays for 4 years before they could afford to marry, Freud went into private practice as a clinical neurologist. In Paris he studied with Jean Martin Charcot, a pioneer of hypnosis, whom he overheard insisting that a patient's problem was sexual in origin. A Viennese colleague made a similar point about an anxious woman whose husband was impotent. These incidents, plus his own sexual conflicts, led him toward a sexual explanation of neurosis.\n\nFreud then claimed that most of his women patients reported childhood seduction, usually by an older male relative such as the father, and that these traumas caused adult neurosis. About a year later he announced that most such reports were fantasies; because the fantasies were sexual and real to the patients, sex remained the cause. He never said all reports were false, and years later privately admitted many were genuine. Some scholars think his original view was more correct, and Krüll suggested he retreated because widespread abuse would cast suspicion on many fathers, perhaps including his own.\n\nParadoxically, Freud had many sexual conflicts: he was shy, a virgin when he married at 30, held negative views of sex, ended his sex life at 41 and blamed Martha. In his 40s he suffered a severe neurotic episode with physical symptoms and fears of dying, travel and open spaces; he diagnosed it as anxiety neurosis and neurasthenia and traced it to sexual tension, so his theory of actual neurosis was essentially a theory of his own symptoms (Krüll). He analysed himself through his dreams for the rest of his life, discovering hostility to his father and longings for his mother; this was his most creative period.\n\nFreud attracted weekly disciples, including Carl Jung and Alfred Adler, whom he later treated as traitors when they broke away. In 1909 he lectured at Clark University in the United States and received an honorary doctorate; psychoanalysis was warmly welcomed there, with psychoanalytic societies founded within two years and over 200 books on his work by 1920. From 1923 he underwent 33 operations for mouth cancer, possibly linked to smoking 20 cigars a day. The Nazis burned his books in 1933; after Austria was occupied in 1938 and Anna was arrested, he left for London. In September 1939 his physician Max Schur ended his suffering with morphine.",
+      "simple": "Freud's theory grew out of his own life: a strict father he resented, a doting young mother he adored, and many personal conflicts about sex. After a cocaine episode and training with Charcot, he came to believe neurosis had sexual roots. He analysed his own dreams, gathered followers, became famous after visiting America in 1909, and died in London in 1939 after years of cancer.",
+      "keyPoints": [
+        "Born 1856 in Freiberg, Moravia; lived in Vienna for almost 80 years; fled to London in 1938 and died in 1939.",
+        "Hostility to his authoritarian father and sexual attachment to his young, loving mother set the stage for the Oedipus complex.",
+        "Charcot and a Viennese colleague pointed him toward the sexual basis of neurosis; he later changed his seduction theory into a theory of sexual fantasies.",
+        "His own sexual conflicts, neurotic episode and self-analysis of dreams shaped the theory, which the book calls partly autobiographical.",
+        "Jung and Adler were early disciples who later broke away; the 1909 Clark University lectures brought him fame in America."
+      ]
+    },
+    {
+      "id": "instincts",
+      "heading": "Instincts: The Propelling Forces of the Personality",
+      "pages": [
+        43,
+        44
+      ],
+      "detailed": "For Freud, instincts are the basic elements of personality: the motivating forces that drive behaviour and give it direction. His German word was Trieb, meaning a driving force or impulse. An instinct is a form of energy, transformed physiological energy, that links the needs of the body with the wishes of the mind. The stimuli for instincts, such as hunger and thirst, are internal. When a bodily need is aroused it creates physiological excitation; the mind turns this into a wish, and that wish (the mental representation of the need) is the instinct that pushes the person to act. So the instinct is not hunger itself but hunger transformed into a mental state.\n\nA bodily need is felt as tension, and the aim of an instinct is to satisfy the need and reduce that tension. This makes Freud's theory a homeostatic approach: we are motivated to restore and maintain physiological balance, keeping the body free of tension. Because some level of instinctual tension is always present and cannot be escaped like an external annoyance, instincts are always influencing behaviour in a continuing cycle of need and need reduction.\n\nPeople can take different paths to satisfy the same need; the sex drive, for example, may be expressed in different sexual behaviours or channelled into a different activity entirely. Freud held that psychic energy can be displaced onto substitute objects and that this displacement is central in determining an individual's personality. Although instincts are the only source of energy for behaviour, that energy can be invested in many activities, which explains human diversity. Adult interests, preferences and attitudes are seen as displacements of energy from the original objects that satisfied instinctual needs.\n\nTwo types of instincts. Freud grouped instincts into life instincts and death instincts. The life instincts serve survival of the individual and species by satisfying needs for food, water, air and sex, and are oriented toward growth and development. Their psychic energy is the libido, which can be attached to or invested in objects, a process Freud called cathexis (if you like your roommate, your libido is cathected to that person). The life instinct he considered most important is sex, defined very broadly to include nearly all pleasurable thoughts and behaviours, even affectionate and friendly impulses. He regarded sex as our primary motivation; erotic wishes arise from the erogenous zones (mouth, anus, sex organs), and much of his theory revolves around the need to inhibit or suppress sexual longings.\n\nThe death instincts are destructive. Drawing on biology, Freud noted that all living things decay and return to an inanimate state, and proposed that people have an unconscious wish to die. One component is the aggressive drive, the death wish turned outward against objects other than the self, compelling us to destroy, conquer and kill; Freud came to see aggression as being as central to human nature as sex. He developed this idea late in life, reflecting ageing, worsening cancer, the carnage of World War I and the death of a daughter at 26. The death-instinct concept gained only limited acceptance even among loyal followers; one analyst said it belonged in the dustbin of history, and another called it a genius having a bad day.",
+      "simple": "Instincts are mental wishes that come from bodily needs like hunger, and they push us to act so that tension is reduced. Freud split them into life instincts (survival and sex, powered by libido) and death instincts (an unconscious pull toward destruction, including aggression). Because energy can be shifted to substitute objects, the same basic drives produce very different personalities.",
+      "keyPoints": [
+        "An instinct is the mental representation (a wish) of an internal bodily need; its aim is tension reduction.",
+        "Freud's model is homeostatic: we are always acting to restore physiological balance.",
+        "Displacement of psychic energy onto substitute objects explains the diversity of adult interests and personality.",
+        "Life instincts serve survival and growth; their energy is libido, and investing libido in an object is cathexis.",
+        "Sex, broadly defined, is the primary motivation; the death instincts include the aggressive drive but were poorly accepted even by followers."
+      ]
+    },
+    {
+      "id": "levels-of-personality",
+      "heading": "The Levels of Personality",
+      "pages": [
+        44,
+        45
+      ],
+      "detailed": "Freud's original model divided personality into three levels: the conscious, the preconscious and the unconscious. The conscious has its everyday meaning: all the sensations and experiences we are aware of at a given moment, such as what you are reading, a message you plan to send, and noise from next door. Freud saw the conscious as a limited part of personality because only a small portion of our thoughts, sensations and memories is in awareness at any one time.\n\nHe compared the mind to an iceberg. The conscious is the tip above the waterline. Far more important is the unconscious, the large invisible mass below the surface, which is the focus of psychoanalytic theory. Its dark depths are home to the instincts, the wishes and desires that direct behaviour. The unconscious contains the main driving power behind all behaviour and is the store of forces we can neither see nor control.\n\nBetween the two lies the preconscious, the storehouse of memories, perceptions and thoughts we are not aware of at the moment but can easily bring into consciousness. If your mind drifts from the page to what you did last night, you are summoning material from the preconscious. Attention often shifts back and forth between present experience and preconscious memories.\n\nFigure 2.1 in the chapter combines the levels with the later structural model: the conscious is in contact with the outside world, the preconscious holds material just below awareness, and the unconscious holds material that is difficult to retrieve, well below the surface. Freud later revised this three-level scheme and replaced it with the three structures of id, ego and superego, but the idea that most mental life is unconscious remained the core of psychoanalysis. Later in the chapter, modern research is shown to support the general claim that unconscious processes influence thought and behaviour.",
+      "simple": "Freud first described the mind as having three layers: what we are aware of now (conscious), what we can easily recall (preconscious), and a huge hidden part we cannot reach (unconscious). Like an iceberg, the unconscious is the biggest and most powerful part, holding the instincts that drive behaviour.",
+      "keyPoints": [
+        "Conscious: everything we are aware of at a given moment; only a small, limited part of personality.",
+        "Preconscious: memories and thoughts not currently in awareness but easily recalled.",
+        "Unconscious: the largest and most important level, home of the instincts and the main driving force of behaviour.",
+        "Freud used the iceberg analogy: the conscious is only the tip above the water.",
+        "This three-level model was later replaced by the id-ego-superego structure."
+      ]
+    },
+    {
+      "id": "structure-of-personality",
+      "heading": "The Structure of Personality",
+      "pages": [
+        45,
+        47
+      ],
+      "detailed": "Freud later replaced the three levels with three basic structures: the id, the ego and the superego. The id roughly corresponds to the earlier unconscious, although the ego and superego also have unconscious aspects.\n\nThe id. The id is the reservoir of the instincts and of libido. It is powerful because it supplies all the energy for the other two structures. Being directly tied to bodily needs, it operates by the pleasure principle: it seeks to increase pleasure and avoid pain by reducing tension. It demands immediate gratification and tolerates no delay, wanting what it wants when it wants it, regardless of others. The book describes it as selfish, primitive, amoral, insistent and rash, with no awareness of reality, like a newborn who cries and flails but cannot obtain food on its own. The id can try to satisfy needs only through reflex action and wish-fulfilling hallucination or fantasy, which Freud called primary-process thought.\n\nThe ego. Children learn that they cannot simply grab what they want; they must postpone pleasures (for example, waiting for the bathroom) and cannot freely vent sexual or aggressive urges. They develop perception, recognition, judgment and memory, which Freud called secondary-process thought. These rational abilities make up the ego, the rational master of personality. The ego does not try to block the id but to help it obtain tension reduction in a realistic way, deciding the appropriate and socially acceptable times, places and objects for satisfaction. It postpones, delays or redirects gratification, and so operates by the reality principle, which stands opposed to the pleasure principle. Freud compared the ego to a rider guiding the raw power of a horse. The ego serves two masters, the id and reality, constantly striking compromises, and it is never independent of the id, from which it draws its energy. It is the ego that keeps you in a job you dislike to feed your family. If the ego's controlling function lapses, id impulses may take over, making the person a danger to society; Freud therefore proposed unconscious mechanisms to defend the ego.\n\nThe superego. The third structure is a powerful, largely unconscious set of moral beliefs acquired in childhood, what we commonly call conscience. Freud believed it is usually learned by age 5 or 6 and at first consists of parental rules taught through praise, punishment and example. It has two parts: the conscience, made up of behaviours for which the child was punished, and the ego-ideal, made up of good behaviours for which the child was praised. Over time children internalize these standards, so rewards and punishments become self-administered and parental control is replaced by self-control. Violating the code, or even thinking about it, then produces guilt or shame.\n\nThe superego is relentless, even cruel, in seeking moral perfection; in intensity, irrationality and demand for obedience it resembles the id. Unlike the ego, which merely postpones id demands, the superego tries to inhibit them completely, especially sexual and aggressive ones. The id presses for satisfaction, the ego tries to delay it, and the superego urges morality above all, admitting no compromise. The ego is therefore caught in the middle with three masters: the id, reality and the superego. When the ego is too severely strained by this friction, the result is anxiety.",
+      "simple": "Personality has three parts. The id is the selfish, pleasure-seeking source of all energy; the ego is the rational part that finds realistic ways to satisfy the id; and the superego is our internalized morality from parents. The ego is squeezed between the id, reality and the superego, and when the pressure is too much, anxiety results.",
+      "keyPoints": [
+        "Id: reservoir of instincts and libido; pleasure principle; immediate gratification; primary-process thought.",
+        "Ego: rational master; reality principle; secondary-process thought; delays or redirects rather than blocks id satisfaction (rider-and-horse analogy).",
+        "Superego: internalized parental morality learned by about age 5 or 6; made up of the conscience (punished acts) and ego-ideal (praised acts).",
+        "The superego seeks moral perfection and tries to inhibit id impulses completely, especially sex and aggression.",
+        "The ego serves three masters (id, reality, superego); excessive strain produces anxiety."
+      ]
+    },
+    {
+      "id": "anxiety",
+      "heading": "Anxiety: A Threat to the Ego",
+      "pages": [
+        47,
+        49
+      ],
+      "detailed": "Anxiety resembles fear, but we may not know what we fear; Freud described it as an objectless fear whose source we cannot point to. He made it central to his theory, claiming it underlies the development of all neurotic and psychotic behaviour. The prototype of all anxiety, he suggested, is the birth trauma. In the womb every need is met immediately, but at birth the infant is thrust into a hostile world, bombarded by stimuli its immature nervous system cannot handle, and must begin adapting to reality. Its massive motor movements, rapid breathing and raised heart rate, together with the fear that id needs will not be met, form our first experience of anxiety and the pattern for later reactions to threat. When anxiety cannot be coped with and threatens to overwhelm us, it is traumatic: the person at any age is reduced to infantile helplessness, which is re-enacted to some degree whenever the ego is threatened.\n\nFreud proposed three types of anxiety. Reality anxiety (objective anxiety) is the first, from which the others derive. It is fear of real dangers in the world, such as fires, earthquakes, wild animals or speeding cars. It serves a positive purpose by guiding us to escape or protect ourselves, and it fades when the threat goes. It can be carried to extremes, as in a person who cannot leave home for fear of being hit by a car.\n\nNeurotic anxiety is more troublesome to mental health. It begins in childhood in a conflict between instinctual gratification and reality: children are often punished for openly expressing sexual or aggressive impulses, so the wish to gratify certain id impulses comes to generate anxiety. It is an unconscious fear of punishment for impulsively displaying id-dominated behaviour. The fear is not of the instincts themselves but of what may follow from gratifying them. The conflict is between the id and the ego, and it has some basis in reality.\n\nMoral anxiety results from a conflict between the id and the superego; it is essentially fear of one's own conscience. When we are motivated to express an impulse that violates our moral code, the superego retaliates with shame or guilt, leaving us conscience-stricken. Its strength depends on how well developed the superego is: someone with a strict, inhibiting conscience will feel more conflict. It too has some basis in reality, since children and adults are punished for breaking moral codes, but the guilt arises from within, and Freud believed the superego exacts terrible retribution.\n\nThe purpose of anxiety is to warn the person that something is wrong within the personality. Anxiety creates tension and so acts as a drive, much like hunger or thirst, that must be reduced. It signals that the ego is threatened and could be overthrown unless action is taken. The ego may respond rationally by fleeing the situation, inhibiting the impulse, or obeying the conscience. If none of these rational options works, the person may resort to defense mechanisms, the nonrational strategies designed to protect the ego.",
+      "simple": "Anxiety is a fear without a clear object, and Freud traced its origin to the trauma of birth. There are three types: reality anxiety (fear of real dangers), neurotic anxiety (fear of being punished for giving in to id impulses), and moral anxiety (fear of one's own conscience). Anxiety works as a warning signal, and if rational solutions fail, the ego turns to defense mechanisms.",
+      "keyPoints": [
+        "Anxiety is an objectless fear and, for Freud, the basis of all neurotic and psychotic behaviour; its prototype is the birth trauma.",
+        "Reality (objective) anxiety: fear of real external dangers; the source of the other two types.",
+        "Neurotic anxiety: id versus ego; unconscious fear of punishment for expressing id impulses.",
+        "Moral anxiety: id versus superego; fear of one's conscience, felt as shame or guilt.",
+        "Anxiety warns that the ego is threatened and acts as a drive to be reduced, by rational means or by defense mechanisms."
+      ]
+    },
+    {
+      "id": "defenses-against-anxiety",
+      "heading": "Defenses against Anxiety",
+      "pages": [
+        49,
+        51
+      ],
+      "detailed": "Anxiety signals danger to the ego, which must reduce the conflict between id demands and the restrictions of society represented by the superego. Since instincts always press for satisfaction and social taboos always limit it, this conflict is ever present. Freud therefore believed that defenses are always operating to some extent: just as all behaviour is motivated by instincts, all behaviour is defensive in the sense of guarding against anxiety. We rarely use only one defense, usually several at once, and the mechanisms overlap. All defense mechanisms share two features: they are denials or distortions of reality (necessary ones, but distortions), and they operate unconsciously, so at the conscious level we hold distorted pictures of ourselves and the world. Table 2.1 lists the main mechanisms.\n\nRepression is the most fundamental and frequently used defense: an involuntary removal from awareness, an unconscious forgetting, of something that causes discomfort or pain. It can affect memories, perception of the present (failing to see something disturbing right in front of us), and even bodily functioning, as when a man represses the sex drive so strongly that he becomes impotent. Once in place it is hard to remove, because we would have to realize the material is no longer dangerous, which requires lifting the repression. Repression is the basis of much of the theory and is involved in all neurotic behaviour.\n\nDenial, related to repression, involves denying the existence of an external threat or traumatic event, such as a terminally ill person denying approaching death, or parents keeping a dead child's room unchanged.\n\nReaction formation means defending against a disturbing impulse by actively expressing its opposite. A person threatened by sexual longings may crusade against pornography; someone with strong aggressive impulses may become excessively friendly. Lust becomes virtue and hatred becomes love.\n\nProjection means attributing one's own disturbing impulses (lustful, aggressive) to someone else: \"I don't hate him, he hates me,\" or a mother ascribing her sex drive to her adolescent daughter. The impulse is still expressed, but in a less threatening form.\n\nRegression is retreating to an earlier, more pleasant period of life that was free of current frustration, usually a childhood stage, and behaving as one did then, for example in a childish and dependent way.\n\nRationalization is reinterpreting behaviour to make it seem rational and acceptable, persuading ourselves there is a reasonable explanation. Someone fired from a job says they disliked it anyway; a person who rejects you suddenly seems full of faults. Blaming something else is less threatening than blaming ourselves.\n\nDisplacement is shifting an id impulse from an unavailable or threatening object to a substitute. A child who hates a parent or an adult who hates a boss, afraid of punishment, may take out the aggression on a younger sibling or the dog, someone less likely to retaliate. The substitute never reduces tension as well as the original, so repeated displacement leaves a growing reservoir of undischarged tension.\n\nSublimation alters the id impulses themselves rather than just the object: instinctual energy is diverted into channels society considers acceptable and admirable, such as sexual energy into artistic creativity. Freud saw many human activities, especially artistic ones, as sublimated id impulses. Sublimation is a form of displacement and, as a compromise, never brings total satisfaction, so tension still builds.\n\nLying to ourselves. Defenses are unconscious self-deceptions; they work only because we do not know we are using them. When they work well they keep threatening material out of awareness, so we may hold a distorted picture of our needs, fears and desires. Under unusual stress (or in psychoanalysis) defenses can break down, flooding us with overwhelming anxiety, worthlessness and depression; unless they are restored or replaced, neurotic or psychotic symptoms may develop. Thus Freud regarded defenses as necessary for mental health.",
+      "simple": "Defense mechanisms are unconscious tricks the ego uses to protect itself from anxiety, and all of them distort reality. The main ones are repression, denial, reaction formation, projection, regression, rationalization, displacement and sublimation. We are lying to ourselves without knowing it, but Freud thought we could not stay mentally healthy without these defenses.",
+      "keyPoints": [
+        "All defense mechanisms are unconscious and involve denial or distortion of reality; we usually use several at once.",
+        "Repression (unconscious forgetting) is the most fundamental defense and is involved in all neurotic behaviour.",
+        "Denial, reaction formation, projection and regression respectively deny a threat, express the opposite impulse, attribute the impulse to others, or retreat to an earlier stage.",
+        "Rationalization offers acceptable excuses; displacement shifts impulses to a safer object; sublimation diverts energy into socially valued activities.",
+        "Displacement and sublimation are compromises that leave undischarged tension; when defenses fail, overwhelming anxiety and symptoms follow."
+      ]
+    },
+    {
+      "id": "psychosexual-stages",
+      "heading": "Psychosexual Stages of Personality Development",
+      "pages": [
+        51,
+        57
+      ],
+      "detailed": "Everyone is driven by the same id impulses, but the content of the ego and superego differs because these structures are formed through experience, and no two people, not even siblings, have identical experiences. Part of personality is therefore formed through the unique relationships we have as children.\n\nGrowing up is not easy. Freud argued that a person's character type develops in childhood, largely through parent-child interactions: the child tries to maximize pleasure while parents, representing society, impose reality and morality. He believed adult personality is firmly shaped by age 5, a conclusion drawn from his own memories and from patients who invariably reached back into childhood. He also sensed strong sexual conflicts in young children centred on different body regions at different ages. Hence each psychosexual stage is defined by an erogenous zone (Table 2.2), and each contains a conflict that must be resolved before moving on. If a conflict is unresolved, or if needs are so fully satisfied by an indulgent parent that the child does not want to move on, the person becomes fixated: some libido stays invested in that stage, leaving less for later stages. Central to the theory is infant sexuality, which shocked Freud's contemporaries, although he meant a diffuse bodily pleasure from the mouth, anus and genitals.\n\nOral stage (birth to some time in the second year). The mouth is the main source of pleasure through sucking, biting and swallowing; Freud emphasised its erotic rather than survival role. The infant depends totally on the mother, who becomes the primary object of libido, and her responses teach the infant to see the world as good or bad, satisfying or frustrating, safe or perilous. There are two modes. Oral incorporative behaviour (taking in) comes first; adults fixated here are preoccupied with eating, drinking, smoking and kissing. If overindulged as infants they become oral passive personalities: optimistic, dependent, gullible, believing anything and trusting others excessively. Oral aggressive or oral sadistic behaviour (biting, spitting out) arises with painful teething, when the infant comes to view the mother with hatred as well as love. Fixation here produces pessimism, hostility, aggressiveness, sarcasm and biting remarks, envy, and attempts to exploit and dominate others. The stage ends at weaning.\n\nAnal stage (from about 18 months; Table 2.2 gives ages 1 to 3). Toilet training is the first time gratification of an instinct is interfered with, as parents regulate when and where the child defecates. The child learns it has a weapon against the parents. If training goes badly, the child may defecate whenever and wherever the parents do not want, leading to an anal aggressive personality: hostile, cruel, destructive, given to tantrums, disorderly, and treating people as possessions. Alternatively the child may retain the feces, gaining pleasure and parental attention, leading to an anal retentive personality: stubborn, stingy, hoarding, rigid, compulsively neat, obstinate and overly conscientious.\n\nPhallic stage (around ages 4 to 5). Pleasure shifts to the genitals; children explore them, become curious about birth and sex differences, and may talk of marrying the opposite-sex parent. It is the last pregenital stage and its conflicts are the most complex. In the Oedipus complex, named after Sophocles' Oedipus Rex, the child unconsciously desires the opposite-sex parent and wishes to replace or destroy the same-sex parent. The boy desires his mother, sees his father as a rival, and fears the father will retaliate by cutting off his penis, called castration anxiety (Freud drew on his own childhood here). This fear forces the boy to repress his desire for his mother, replace it with acceptable affection, and identify strongly with his father, adopting his mannerisms, attitudes and superego standards and gaining vicarious satisfaction. Freud was less clear about girls; some followers called the female version the Electra complex. The girl's first love object is the mother, but on discovering that boys have a penis she blames her mother, transfers her love to the father, and develops penis envy, the counterpart of castration anxiety. Freud held that the female complex is never fully resolved, leading to poorly developed superegos in women, and that a woman can partly compensate by having a male child; how the girl comes to identify with her mother was left unclear. Poor resolution produces the phallic personality, marked by narcissism, a need for constant recognition and difficulty forming mature relationships: brash, vain, self-assured men seeking sexual conquests, and women who exaggerate femininity to conquer men. The whole phallic drama is repressed in all of us.\n\nLatency period (about age 5 to puberty). By around 5 the id, ego and superego are formed. Latency is not a psychosexual stage: the sex instinct is dormant and sublimated in school, hobbies, sports and same-sex friendships.\n\nGenital stage (from puberty). The body matures and, if no major fixations occurred, a normal life is possible. Conflict is less intense and is reduced through sublimation; sexual energy is partly satisfied through acceptable substitutes and later a committed adult relationship. The genital personality finds satisfaction in love and work.\n\nThe importance of childhood. For Freud the first 5 years are crucial; he paid little attention to later childhood, adolescence or adult development. How we behave, think and feel as adults is set by conflicts faced before most of us can read.",
+      "simple": "Freud said children pass through stages, each centred on a body zone: oral (mouth), anal (toilet training), phallic (genitals and the Oedipus complex), a quiet latency period, and the genital stage at puberty. Getting stuck (fixated) at a stage through too much frustration or indulgence produces lasting adult character types, such as the dependent oral passive or the stingy, neat anal retentive. He believed personality is basically set by age 5.",
+      "keyPoints": [
+        "Each stage is defined by an erogenous zone and a conflict; fixation leaves libido invested in a stage due to excessive frustration or gratification.",
+        "Oral stage: oral incorporative (leading to dependent, gullible oral passive types) and oral aggressive/sadistic (leading to hostile, sarcastic, exploitative types).",
+        "Anal stage: toilet training is the first interference with instinctual gratification; it produces anal aggressive or anal retentive personalities.",
+        "Phallic stage: Oedipus complex, castration anxiety in boys (resolved by identifying with the father) and penis envy in girls (the Electra complex, never fully resolved in Freud's view).",
+        "Latency (not a true stage) sublimates the sex instinct; the genital stage brings mature love and work.",
+        "Freud held that adult personality is basically formed by age 5."
+      ]
+    },
+    {
+      "id": "human-nature",
+      "heading": "Questions about Human Nature",
+      "pages": [
+        57,
+        58
+      ],
+      "detailed": "Freud's image of human nature is neither flattering nor optimistic. Each person is a dark cellar of conflict where a battle rages continuously. People are portrayed in gloomy, pessimistic terms, condemned to a struggle with inner forces they are almost always destined to lose, doomed to anxiety, to the frustration of at least some impulses, and to constant tension and defense against the id.\n\nGoal of life. In Freud's system there is only one ultimate and necessary goal: to reduce tension.\n\nNature versus nurture. Freud took a middle position. The id, the most powerful part of personality, is inherited and physiologically based, and so are the psychosexual stages. Other parts of personality, however, are learned in early childhood through parent-child interactions.\n\nUniversality versus uniqueness. Freud saw universality in that everyone passes through the same psychosexual stages and is moved by the same id forces. Yet part of personality is unique: the ego and superego perform the same functions for all, but their content varies because they are formed through personal experience, and different character types can develop during the stages.\n\nFree will versus determinism. Freud was deterministic: nearly everything we do, think and even dream is predetermined by the life and death instincts, invisible forces within us, and adult personality is fixed by interactions before age 5, when we had little control. However, he also argued that people who undergo psychoanalysis can gain greater free will and take responsibility for their choices; the more unconscious material is made conscious, the more a person can take charge of life. Psychoanalysis therefore had the potential to free people from determinism.\n\nPast versus future and overall tone. The emphasis falls on early childhood rather than future goals. The book notes that this bleak picture reflects Freud's own view of humanity, which darkened with age and illness; he once wrote that he had found little good in people and that most were trash, and this harsh judgment shows in his theory.",
+      "simple": "Freud's view of people is gloomy: we are always in conflict, doomed to anxiety, and our only real goal is to reduce tension. He thought personality is partly inherited (the id and the stages) and partly learned from parents, that behaviour is largely determined by forces we cannot control, but that psychoanalysis can give people more freedom.",
+      "keyPoints": [
+        "Pessimistic image: humans are locked in an inner battle they usually lose.",
+        "The single ultimate goal of life is tension reduction.",
+        "Nature-nurture: middle ground; the id and the stages are inherited, other parts learned from parent-child interaction.",
+        "Universal stages and id forces, but the content of ego and superego is unique to each person.",
+        "Deterministic overall, though psychoanalysis can increase free will by making the unconscious conscious."
+      ]
+    },
+    {
+      "id": "assessment",
+      "heading": "Assessment in Freud's Theory",
+      "pages": [
+        58,
+        60
+      ],
+      "detailed": "Freud saw the unconscious as the main motivating force in life and the store of repressed childhood conflicts. The goal of psychoanalysis was to bring repressed memories, fears and thoughts back into awareness. To reach this otherwise inaccessible part of the mind he developed two assessment methods: free association and dream analysis.\n\nFree association. The technique owes much to Josef Breuer, a Viennese physician who befriended Freud. While treating a young woman with symptoms of hysteria, Breuer found that hypnosis helped her remember repressed events, and reliving them relieved her symptoms. Freud used hypnosis with some success and called the process catharsis, from the Greek for purification. He later abandoned hypnosis, partly because some patients could not be hypnotized and partly because some who revealed disturbing events under hypnosis could not recall them afterward.\n\nInstead, he had patients lie on a couch while he sat behind them, out of sight, for both personal reasons (he disliked being stared at all day) and professional ones (he did not want his facial expressions to influence what patients said). Patients were asked to relax, focus on the past and daydream out loud, saying everything that came to mind, however trivial, embarrassing or painful, without omitting or rearranging anything. Freud believed nothing in free association was random or consciously chosen; the material was predetermined by the nature of the patient's conflict.\n\nFree association is not always so free. Some memories were too painful, and patients became reluctant to disclose them. Freud called these blockages resistances and considered them significant because they showed the analysis was nearing the source of the problem. Resistance meant the analyst should keep probing in that area, and part of the analyst's job was to break down resistances so the patient could confront the repressed experience.\n\nDream analysis. Freud believed dreams express repressed desires, fears and conflicts in symbolic form; so strongly repressed are these feelings that they can surface only in disguise during sleep. Dreams have a manifest content (the actual events in the dream) and a latent content (the hidden symbolic meaning). Freud found symbols that seemed to mean the same thing for nearly everyone (Table 2.3): for instance, climbing stairs or ladders signified intercourse, elongated objects the male genitals, enclosed spaces the female genitals, king and queen the parents, beginning a journey dying, and flying a desire to be admired. He warned, though, that many symbols are specific to the individual. Dreams present conflicts in condensed, intensified form, events can have many sources, and dreams can also have mundane origins such as room temperature, contact with a partner, fever or an upset stomach. The chapter mentions studies linking sleeping on the stomach to dreams of sex and of being smothered or tied up (Yu, 2012), and a German study identifying flying, repeated attempts, being chased, sex and school as the most typical dreams (Goritz, 2014). Interestingly, of over 40 of his own dreams in The Interpretation of Dreams, only a few were sexual; their dominant theme was ambition, which Freud denied having.\n\nUncovering the conflicts. Both methods reveal repressed material only in disguised, symbolic form, which the analyst must interpret. Freud likened this to an archeologist reconstructing a buried community from fragments. Assessment therefore depends heavily on the skill, training and experience of the analyst.",
+      "simple": "Freud used two methods to reach the unconscious. In free association, the patient says whatever comes to mind, and moments of resistance show the analyst is close to something important. In dream analysis, the analyst interprets the hidden (latent) meaning behind the surface (manifest) story of a dream.",
+      "keyPoints": [
+        "The aim of assessment and therapy is to bring repressed material into conscious awareness.",
+        "Free association grew out of Breuer's use of hypnosis and catharsis; Freud replaced hypnosis with daydreaming aloud on the couch.",
+        "Resistance (reluctance to disclose painful memories) signals that the analysis is near the source of the problem.",
+        "Dreams have manifest content (actual events) and latent content (symbolic meaning); some symbols seem universal but many are personal.",
+        "Interpretation is like archeological reconstruction and depends on the analyst's skill."
+      ]
+    },
+    {
+      "id": "criticisms-of-research",
+      "heading": "Criticisms of Freud's Research",
+      "pages": [
+        60,
+        62
+      ],
+      "detailed": "Freud's main research method was the case study, which has well-known limits: it does not rely on objective observation, data are not gathered systematically, and the psychoanalytic session cannot be duplicated or verified. We cannot vary childhood conditions or recreate a home environment in the laboratory, so clinical observations cannot be repeated as controlled experiments can.\n\nThe nature of the data. Freud kept no verbatim records, advised analysts not to take notes during sessions, and wrote his notes from memory hours later in the evening. His data may therefore be incomplete, and his memory may have been selective, recording or interpreting only what supported his theory. We cannot check his reports against what patients actually said. Even complete records would not establish the truth of patients' statements, and Freud rarely tried to verify their stories, for example by questioning friends or relatives. The first step of his research, data collection, must thus be called incomplete and possibly inaccurate.\n\nSeduction reports. Some critics argue that patients did not actually report childhood seduction; Freud inferred it from their symptoms. Although he claimed nearly all his women patients said their fathers had seduced them, his case notes show no patient making that claim (Kihlstrom, 1994). Others say he suggested such accounts because he had already formed his hypothesis, or even implanted false memories through suggestion (McCullough, 2001; Webster, 1995).\n\nSampling. His sample was small and unrepresentative: himself and those who sought analysis with him. Only about a dozen cases were detailed in his writings, mostly young, unmarried, upper-class, well-educated women, making generalization difficult.\n\nDiscrepancies between notes and published cases. Comparisons of Freud's notes with the published case of the Rat Man found a lengthened period of analysis, an incorrect sequence of events, and unsupported claims of cure (Eagle, 1988; Mahoney, 1986). Whether the changes were deliberate or unconscious cannot be known, and Freud destroyed most of his patient files. A biographer (Sulloway, 1992) concluded some cases offered such weak evidence that one wonders why Freud published them. These criticisms also apply to later case-study theorists; their work is not worthless, but accepting it must rest on something other than experimental verification.\n\nFreud's negative views on experimental research. Freud knew the experimental method but had little faith in it, seeing scientific research and psychoanalysis as incompatible. When an American psychologist sent him experiments supporting his concepts, he rejected them impatiently, saying he placed little value on such confirmation since they told him nothing he had not already learned clinically. He insisted his work was scientific and that only analysts using his techniques were qualified to judge it. The difficulty is that his observations cannot be repeated, because we do not know exactly how he collected his data or turned observations into hypotheses.",
+      "simple": "Freud built his theory from case studies, which are not objective, systematic or repeatable. He wrote notes from memory, rarely checked patients' stories, studied a small and unusual sample, and his published cases do not always match his notes. He also dismissed experiments as unnecessary, saying only psychoanalysts could judge his work.",
+      "keyPoints": [
+        "The case study is not objective, systematic, controlled or replicable.",
+        "Freud wrote notes from memory hours later, so his data may be incomplete, selective and unverified.",
+        "Critics say seduction stories were inferred or suggested by Freud; his notes show no patient reporting seduction by a father (Kihlstrom).",
+        "His sample was small (about a dozen detailed cases) and mostly young, upper-class, educated women.",
+        "The Rat Man case shows discrepancies between notes and the published version; Freud rejected experimental testing of his ideas."
+      ]
+    },
+    {
+      "id": "scientific-testing",
+      "heading": "Scientific Testing of Freudian Concepts",
+      "pages": [
+        62,
+        73
+      ],
+      "detailed": "Since Freud's death many of his ideas have been tested experimentally. A review of about 2,500 studies, excluding case histories and restricted to objective data (Fisher & Greenberg, 1977, 1996), found that the id, ego, superego, death wish, libido and anxiety could not be tested experimentally. Testable concepts that received some (if slight) support included the oral and anal character types, the basic Oedipal triangle, castration anxiety, and the idea that women compensate for lacking a penis by having a child. Not supported were dreams as disguised wish fulfilment, the male Oedipus complex being resolved through fear-driven identification with the father, women's inadequate superegos, the psychosexual stages, and links between Oedipal variables and later sexual problems.\n\nThe unconscious. That unconscious forces affect thought and behaviour is now well established and may be more pervasive than Freud thought; much cognitive processing is unconscious, and the unconscious appears smarter than once believed, playing a role in problem solving and creativity. Subliminal perception research shows people are influenced by stimuli below the threshold of awareness: after unseen exposure to a picture of a bee, subjects free-associated words like sting and honey (Shevrin, 1977). Subliminally activated goals such as performing well or cooperating led to matching behaviour (Bargh et al., 2001); unseen happy faces made students drink more of a beverage than unseen angry faces (Winkielman et al., 2005). The subliminal message Mommy and I are one improved male schizophrenic patients, while females improved with Daddy and I are one (Silverman & Weinberger, 1985), and similar messages helped people stop smoking and drinking and reduce fears. Anxiety-sensitive adults detected subliminal anxiety words more readily (Hunt et al., 2006), and unseen fearful faces raised stress levels (Hansel & von Kanel, 2013).\n\nThe ego. Researchers identify ego control (how much we restrain impulses, from under- to over-controlled, both maladaptive) and ego resiliency (flexibility in adjusting control to circumstances; low resiliency is 'ego brittle'). Low ego control in children goes with aggression and noncompliance; high resiliency with coping, low anxiety, intelligence, good grades, popularity and life satisfaction; low control and low resiliency relate to adolescent drug abuse (Block & Block and others). Mothers with satisfying mothering experiences had higher resiliency (Paris & Helson, 2002); Dutch 5-year-olds low in resiliency showed more physiological stress with parents (Smeekens et al., 2007). Ego control and resiliency strengthen from age 3 to 23 (Block & Block, 2006), and resiliency relates to well-being, extraversion and agreeableness across many countries.\n\nCatharsis. Popular belief that venting anger reduces it is wrong. Students who read a pro-catharsis message and were then insulted hit a punching bag more and later behaved more aggressively, even toward innocent people (Bushman, Baumeister & Stack, 1999); venting increases anger, and believers in catharsis prefer violent video games.\n\nDisplacement. A review of 97 studies found displaced aggression reliable, stronger in more negative settings (Marcus-Newhall et al., 2000); brooding for 25 minutes after provocation increased displaced aggression (Bushman et al., 2005).\n\nRepression. Subjects forgot words paired with electric shock, and similar words on a second list (Glucksberg & King, 1967). Repressors are low in anxiety, high in defensiveness, recall fewer negative childhood memories, avoid romantic attachments, deny threatening traits, avoid looking at threatening pictures, and show physiological but not verbal arousal (Davis, 1987); after a disturbing film they recalled more happy memories (Boden & Baumeister, 1997). Chronically ill children were more likely to be repressors (Phipps & Steele, 2002).\n\nProjection and other defenses. Accusing others of cheating shifted blame away from oneself (Rucker & Pratkanis, 2001); unemployed job seekers projected depression onto partners (Schul & Vinokur, 2000). Defenses form a hierarchy: simple ones like denial decline with age while complex ones like identification increase (Tallandini & Caudek, 2010; Porcerelli et al., 1998; Cramer, 2007). Men still using denial at 23 had shown problems in nursery school (Cramer & Block, 1998). Denial was common in girls with anorexia and abused women; Americans and Thai Buddhists used defenses similarly (Tori & Bilmes, 2002).\n\nDreams. Research confirms dreams reflect emotional concerns, but not that they are wish fulfilments. Dreams reflect trauma (war-related dreams in Germans 50 years later, soldiers, children in danger zones), everyday mood, smells (roses vs rotten eggs), well-being (Pesant & Zadra, 2006), media exposure, and culture; a Japanese team decoded dream images from brain activity with 66 percent accuracy (Horikawa et al., 2013).\n\nOedipus complex. Most research finds no validity for it (Kupfersmid, 1995), though children 3 to 6 showed more affection to the opposite-sex parent and aggression to the same-sex parent, peaking at 4 (Watson & Getz, 1990); men reported more castration-anxiety dreams and women more penis-envy dreams (Hall & Van de Castle, 1965); and ambivalence toward fathers predicted less secure attachment (Maio et al., 2000).\n\nOral and anal types. Oral orientation related to obesity (Masling et al., 1967) and to conformity (Tribich & Messer, 1974); there is some support for oral and anal types but little for the phallic type, and no sex difference in oral dependency (O'Neill & Bornstein, 1990).\n\nAge and personality. Personality changes markedly after the preschool years; Kagan concluded temperament and later childhood matter more than early parent-child interaction.\n\nFreudian slips. Men expecting shock made slips like damn shock, and sexually anxious men slips like nude breasts (Motley, 1987), supporting the idea that some slips reveal hidden anxiety.\n\nRepressed memories of abuse. Abuse can be forgotten and later recalled, but false memories are easily implanted: a third of children agreed with suggestions of being hugged and kissed by a man who never touched them (Ceci & Bruck, 1993), and dream interpretation implanted false childhood trauma in Italian students (Mazzoni et al., 1999). Loftus concluded there is little support for reliable recovery of banished trauma, while stressing that childhood sexual abuse is real and harmful.",
+      "simple": "Modern research gives Freud mixed marks. The power of the unconscious, repression, displacement, denial, projection, Freudian slips and some features of oral and anal types are supported, and the ego has been studied as ego control and ego resiliency. But catharsis does not reduce anger, dreams are not wish fulfilments, the Oedipus complex and psychosexual stages lack support, personality keeps developing after age 5, and 'recovered' memories can be falsely implanted.",
+      "keyPoints": [
+        "Fisher and Greenberg's review: id, ego, superego, death wish, libido and anxiety are untestable; oral/anal types and some Oedipal ideas get slight support; dreams as wish fulfilment and the stages do not.",
+        "Subliminal perception research strongly supports unconscious influence on thought, behaviour and emotion.",
+        "The ego is studied as ego control and ego resiliency, which predict adjustment and well-being.",
+        "Repression, displacement, projection and denial are supported; defenses follow a developmental hierarchy; catharsis is not supported.",
+        "Dreams reflect emotional concerns but not wish fulfilment; Freudian slips get some support; personality continues to develop after age 5.",
+        "Abuse memories may be real, but false memories can be implanted by suggestion (Ceci & Bruck; Mazzoni; Loftus)."
+      ]
+    },
+    {
+      "id": "extensions",
+      "heading": "Extensions of Freudian Theory",
+      "pages": [
+        73,
+        74
+      ],
+      "detailed": "Some later theorists opposed Freud, but others stayed faithful to his basic assumptions while trying to expand or elaborate them. One of the most important was his daughter Anna Freud, who set out to correct perceived weaknesses and omissions in psychoanalysis.\n\nAnna Freud's life. Anna Freud (1895–1982) was the only one of Freud's six children to follow his path. She was an unhappy child, jealous of an older sister favoured by her mother and ignored by her other siblings, but she was her father's favourite. By 14 she was attending his psychoanalytic group meetings, and at 22 she began 4 years of psychoanalysis with her father. This was later sharply criticized, because analysing one's own child seriously violated Freud's own rules, and it was kept secret for years. In analysis she reported violent dreams and shared sexual fantasies, emerging more devoted to him than ever. Her first paper to the Vienna Psychoanalytic Society, on beating fantasies and daydreams, claimed to describe a patient but actually described her own fantasies. She devoted her life to her father and his system, dreamed of him after his death, and near her own death some 40 years later wore his old wool coat.\n\nAnna Freud's approach. Whereas Sigmund Freud worked only with adults, reconstructing their childhoods from memories, fantasies and dreams, Anna worked only with children. She set up a clinic and a training centre for analysts next to her father's London home and in 1927 published Four Lectures on Child Analysis; her father said her views were independent of his though he shared them.\n\nHer major theoretical change was to expand the role of the ego greatly, arguing that the ego operates independently of the id. The book calls this a fundamental and radical change to the Freudian system. She set out these ideas in The Ego and the Mechanisms of Defense (1936), published while her father was alive, which clarified how the defense mechanisms operate. The book was widely praised and is considered a basic work of ego psychology; the standard defense mechanisms described in the chapter owe their full development and articulation to her. The Anna Freud Centre in London continues her work with emotionally disturbed children and adolescents.",
+      "simple": "Anna Freud, Sigmund's daughter, stayed loyal to psychoanalysis but changed it in an important way. She worked with children rather than adults and argued that the ego works independently of the id. Her 1936 book The Ego and the Mechanisms of Defense laid the foundation of ego psychology and fully developed the defense mechanisms.",
+      "keyPoints": [
+        "Anna Freud (1895–1982) was the only one of Freud's six children to follow his path; her analysis by her own father broke his own rules.",
+        "She worked only with children and published Four Lectures on Child Analysis (1927).",
+        "She greatly expanded the role of the ego, arguing it operates independently of the id, a radical change to orthodox theory.",
+        "The Ego and the Mechanisms of Defense (1936) is a basic work of ego psychology; the standard defense mechanisms owe their full development to her."
+      ]
+    },
+    {
+      "id": "reflections",
+      "heading": "Reflections on Freud's Theory",
+      "pages": [
+        74,
+        76
+      ],
+      "detailed": "Freud's psychoanalysis has had a phenomenal impact on psychology and psychiatry, on our image of human nature and on understanding personality, as well as on popular culture; one article called him an inescapable force decades after his death. Psychoanalysis fuelled American psychologists' interest in personality from the 1930s and influenced the study of motivation in the 1940s and 1950s. Contemporary psychology has absorbed many Freudian ideas, including the role of the unconscious, the importance of childhood experience for adult behaviour, and the defense mechanisms, all of which still generate research. His importance is also seen in later theorists who built on his system or opposed it; great ideas inspire both by being accepted and by being judged wrong.\n\nThe decline of Freudian psychotherapy. Freud's theory remains more influential than his therapy. Psychoanalysis as a treatment has declined, especially in the United States, although it has grown in China, where U.S. analysts train Chinese analysts via Skype, and online sessions are growing in some European countries; companion robots have been reported to enhance its effectiveness with the elderly. More people seek therapy, but fewer choose Freud's expensive, long-term method; brief therapies of 1 to 15 sessions and psychotherapeutic drugs have become the norm. Managed care reinforces this: drugs are cheaper for insurers than years of analysis, and insurers demand empirical evidence of effectiveness, which is weak for this kind of psychotherapy.\n\nCriticisms of psychoanalysis. Beyond the flaws of the case-study method, other personality theorists raise several objections. Freud placed too much emphasis on instinctual biological forces. He overemphasized sex and aggression, whereas we may be shaped more by social than sexual experiences. His determinism is challenged by those who believe we have more free will, can grow spontaneously and partly control our fate. He stressed the past at the expense of goals and aspirations, although hopes and plans for the future may influence us as much as experiences before age 5. He focused on the emotionally disturbed rather than the healthy and mature, prompting the question of why not study the best and healthiest human qualities. His views on women, including penis envy, poorly developed female superegos and women's supposed inferiority feelings about their bodies, are widely rejected. Finally, concepts such as id, ego and superego are ambiguously defined: are they physical brain structures or fluid processes? Freud acknowledged these definitional difficulties, but the questions remain.\n\nFreud's lasting influence. The book concludes that we are never free of our past, and the past provides a foundation on which to build. Even if psychoanalysis had served only to inspire others and provide a framework for new insights, Freud's importance would be secure. He gave personality theorists a highly original, stimulating and challenging base.",
+      "simple": "Freud's ideas changed psychology and wider culture, and concepts like the unconscious, the importance of childhood and defense mechanisms are still studied. His long, costly therapy has declined, especially in the U.S., and critics fault his focus on biology, sex, the past and disturbed patients, his determinism, his views of women and his vague concepts. Still, he gave later theorists a powerful foundation to build on or argue against.",
+      "keyPoints": [
+        "Freud's theory had a phenomenal impact on psychology, psychiatry and culture; contemporary psychology has absorbed the unconscious, childhood influence and defense mechanisms.",
+        "Psychoanalytic therapy has declined in the U.S. due to cost, brief therapies, drugs and managed care, though it has grown in China and online.",
+        "Criticisms: overemphasis on biology, sex and aggression, the past and the disturbed; excessive determinism; negative views of women; ambiguous concepts.",
+        "His lasting importance lies in providing an original, stimulating foundation for later theorists, both followers and opponents."
+      ]
+    }
+  ],
+  "terms": [
+    {
+      "term": "Psychoanalysis",
+      "definition": "Freud's theory of personality and his system of therapy for treating mental disorders; the first formal personality theory.",
+      "page": 37
+    },
+    {
+      "term": "Instincts",
+      "definition": "Mental representations of internal bodily stimuli such as hunger that drive a person to act; transformed physiological energy linking bodily needs with mental wishes.",
+      "page": 43
+    },
+    {
+      "term": "Homeostatic approach",
+      "definition": "Freud's view that we are motivated to restore and maintain physiological balance by reducing the tension created by needs.",
+      "page": 43
+    },
+    {
+      "term": "Life instincts",
+      "definition": "Drives that ensure survival of the individual and species by satisfying needs for food, water, air and sex; oriented toward growth and development.",
+      "page": 44
+    },
+    {
+      "term": "Libido",
+      "definition": "The psychic energy of the life instincts that drives a person toward pleasurable thoughts and behaviours.",
+      "page": 44
+    },
+    {
+      "term": "Cathexis",
+      "definition": "The investment of psychic energy (libido) in an object or person.",
+      "page": 44
+    },
+    {
+      "term": "Death instincts",
+      "definition": "An unconscious drive toward decay, destruction and aggression, based on the idea that living things seek to return to an inanimate state.",
+      "page": 44
+    },
+    {
+      "term": "Aggressive drive",
+      "definition": "A component of the death instincts: the death wish turned outward, compelling people to destroy, conquer and kill.",
+      "page": 44
+    },
+    {
+      "term": "Conscious",
+      "definition": "The level of personality containing all sensations and experiences we are aware of at a given moment; only a small, limited part of mental life.",
+      "page": 44
+    },
+    {
+      "term": "Unconscious",
+      "definition": "The largest, invisible level of personality, home of the instincts and the main driving power behind behaviour; forces we cannot see or control.",
+      "page": 45
+    },
+    {
+      "term": "Preconscious",
+      "definition": "The storehouse of memories, perceptions and thoughts not currently in awareness but easily brought into consciousness.",
+      "page": 45
+    },
+    {
+      "term": "Id",
+      "definition": "The part of personality allied with the instincts; the reservoir of libido and source of all psychic energy, operating by the pleasure principle.",
+      "page": 45
+    },
+    {
+      "term": "Pleasure principle",
+      "definition": "The principle by which the id seeks to avoid pain and maximize pleasure through immediate tension reduction.",
+      "page": 46
+    },
+    {
+      "term": "Primary-process thought",
+      "definition": "Childlike thinking, using reflex action and wish-fulfilling fantasy or hallucination, by which the id tries to satisfy instinctual drives.",
+      "page": 46
+    },
+    {
+      "term": "Secondary-process thought",
+      "definition": "Mature, rational thought processes such as perception, recognition, judgment and memory needed to deal realistically with the world.",
+      "page": 46
+    },
+    {
+      "term": "Ego",
+      "definition": "The rational part of personality that directs and controls the instincts according to the reality principle, mediating among id, reality and superego.",
+      "page": 46
+    },
+    {
+      "term": "Reality principle",
+      "definition": "The principle by which the ego places appropriate constraints on id expression, postponing or redirecting gratification to fit reality.",
+      "page": 46
+    },
+    {
+      "term": "Superego",
+      "definition": "The moral part of personality; the internalization of parental and societal values and standards, striving for moral perfection.",
+      "page": 47
+    },
+    {
+      "term": "Conscience",
+      "definition": "The component of the superego containing behaviours for which the child has been punished.",
+      "page": 47
+    },
+    {
+      "term": "Ego-ideal",
+      "definition": "The component of the superego containing the good or ideal behaviours for which the child was praised and toward which a person strives.",
+      "page": 47
+    },
+    {
+      "term": "Anxiety",
+      "definition": "An objectless feeling of fear and dread without an obvious cause; for Freud, the basis of all neurotic and psychotic behaviour.",
+      "page": 47
+    },
+    {
+      "term": "Birth trauma",
+      "definition": "The infant's first experience of anxiety on being thrust from the secure womb into a hostile world; the prototype of all later anxiety.",
+      "page": 47
+    },
+    {
+      "term": "Reality (objective) anxiety",
+      "definition": "Fear of tangible dangers in the real world; the type from which the other two kinds of anxiety are derived.",
+      "page": 48
+    },
+    {
+      "term": "Neurotic anxiety",
+      "definition": "Unconscious fear of punishment for impulsively displaying id-dominated behaviour; a conflict between the id and the ego.",
+      "page": 48
+    },
+    {
+      "term": "Moral anxiety",
+      "definition": "Fear of one's own conscience, experienced as shame or guilt; a conflict between the id and the superego.",
+      "page": 48
+    },
+    {
+      "term": "Defense mechanisms",
+      "definition": "Unconscious strategies the ego uses to defend against anxiety; all involve denial or distortion of reality.",
+      "page": 49
+    },
+    {
+      "term": "Repression",
+      "definition": "The most fundamental defense: involuntary, unconscious removal from awareness of something that causes anxiety or pain.",
+      "page": 49
+    },
+    {
+      "term": "Denial",
+      "definition": "A defense that involves denying the existence of an external threat or traumatic event.",
+      "page": 50
+    },
+    {
+      "term": "Reaction formation",
+      "definition": "A defense in which a person expresses an impulse opposite to the one truly driving them, e.g. hatred shown as excessive friendliness.",
+      "page": 50
+    },
+    {
+      "term": "Projection",
+      "definition": "A defense that attributes one's own disturbing impulses to someone else.",
+      "page": 50
+    },
+    {
+      "term": "Regression",
+      "definition": "A defense involving retreat to an earlier, less frustrating period of life and display of the childish, dependent behaviour of that time.",
+      "page": 50
+    },
+    {
+      "term": "Rationalization",
+      "definition": "A defense that reinterprets behaviour to make it seem more rational, acceptable and less threatening.",
+      "page": 50
+    },
+    {
+      "term": "Displacement",
+      "definition": "A defense that shifts id impulses from a threatening or unavailable object to an available substitute, e.g. hostility toward a boss vented on one's child.",
+      "page": 50
+    },
+    {
+      "term": "Sublimation",
+      "definition": "A defense that alters or displaces id impulses by diverting instinctual energy into socially acceptable behaviours such as artistic creation.",
+      "page": 50
+    },
+    {
+      "term": "Psychosexual stages of development",
+      "definition": "The oral, anal, phallic and genital stages through which all children pass, each defined by an erogenous zone whose stimulation gratifies the id.",
+      "page": 51
+    },
+    {
+      "term": "Fixation",
+      "definition": "A condition in which part of the libido remains invested in a psychosexual stage because of excessive frustration or gratification.",
+      "page": 52
+    },
+    {
+      "term": "Oral stage",
+      "definition": "The first psychosexual stage (birth to the second year), when the mouth is the main source of pleasure through sucking, biting and swallowing.",
+      "page": 52
+    },
+    {
+      "term": "Oral incorporative behaviour",
+      "definition": "The first oral mode, involving pleasurable taking in through the mouth; fixation leads to preoccupation with eating, drinking, smoking and kissing.",
+      "page": 52
+    },
+    {
+      "term": "Oral passive personality",
+      "definition": "An adult type resulting from overindulgence in the oral stage: optimistic, dependent, gullible and overly trusting.",
+      "page": 53
+    },
+    {
+      "term": "Oral aggressive (oral sadistic) behaviour",
+      "definition": "The second oral mode, biting or spitting out, arising with teething; fixation produces pessimism, hostility, sarcasm and exploitation of others.",
+      "page": 53
+    },
+    {
+      "term": "Anal stage",
+      "definition": "The psychosexual stage (about age 1 to 3) when toilet training first interferes with gratification of an instinctual impulse.",
+      "page": 53
+    },
+    {
+      "term": "Anal aggressive personality",
+      "definition": "An adult type rooted in defiant defecation during toilet training: hostile, cruel, destructive, disorderly, treating others as possessions.",
+      "page": 54
+    },
+    {
+      "term": "Anal retentive personality",
+      "definition": "An adult type rooted in withholding feces: stubborn, stingy, hoarding, rigid, compulsively neat and overly conscientious.",
+      "page": 54
+    },
+    {
+      "term": "Phallic stage",
+      "definition": "The psychosexual stage (about ages 4 to 5) when pleasure centres on the genitals; the last pregenital stage, with the most complex conflicts.",
+      "page": 54
+    },
+    {
+      "term": "Oedipus complex",
+      "definition": "In the phallic stage, a boy's unconscious desire for his mother accompanied by a wish to replace or destroy his father.",
+      "page": 54
+    },
+    {
+      "term": "Castration anxiety",
+      "definition": "A boy's fear during the Oedipal period that his father will cut off his penis.",
+      "page": 55
+    },
+    {
+      "term": "Electra complex",
+      "definition": "Term some followers used for the female phallic conflict: a girl's unconscious desire for her father with a wish to replace or destroy her mother.",
+      "page": 56
+    },
+    {
+      "term": "Penis envy",
+      "definition": "The girl's envy of the male for possessing a penis, with a sense of loss; Freud's counterpart to castration anxiety.",
+      "page": 56
+    },
+    {
+      "term": "Phallic personality",
+      "definition": "An adult type from poorly resolved phallic conflicts, marked by narcissism, need for constant recognition and difficulty forming mature relationships.",
+      "page": 56
+    },
+    {
+      "term": "Latency period",
+      "definition": "Approximately age 5 to puberty, when the sex instinct is dormant and sublimated in school, sports, hobbies and same-sex friendships; not a true psychosexual stage.",
+      "page": 57
+    },
+    {
+      "term": "Genital stage",
+      "definition": "The final psychosexual stage, beginning at puberty; the genital personality finds satisfaction in love and work.",
+      "page": 57
+    },
+    {
+      "term": "Free association",
+      "definition": "A technique in which the patient says whatever comes to mind; daydreaming out loud.",
+      "page": 58
+    },
+    {
+      "term": "Catharsis",
+      "definition": "The expression of emotions, originally through recalling traumatic events, expected to reduce disturbing symptoms.",
+      "page": 58
+    },
+    {
+      "term": "Resistance",
+      "definition": "In free association, a blockage or refusal to disclose painful memories, signalling the analysis is near the source of the problem.",
+      "page": 59
+    },
+    {
+      "term": "Manifest content",
+      "definition": "The actual events that occur in a dream.",
+      "page": 59
+    },
+    {
+      "term": "Latent content",
+      "definition": "The hidden, symbolic meaning of a dream.",
+      "page": 59
+    },
+    {
+      "term": "Case study",
+      "definition": "A detailed history of an individual containing data from a variety of sources; Freud's main research method.",
+      "page": 60
+    },
+    {
+      "term": "Subliminal perception",
+      "definition": "Perception of stimuli presented below the threshold of conscious awareness.",
+      "page": 63
+    },
+    {
+      "term": "Ego control",
+      "definition": "The amount of control a person exerts over impulses and feelings, ranging from under-controlled to over-controlled; both extremes are maladaptive.",
+      "page": 64
+    },
+    {
+      "term": "Ego resiliency",
+      "definition": "Flexibility in adjusting one's level of ego control to meet changing circumstances; people low in it are called ego brittle.",
+      "page": 64
+    },
+    {
+      "term": "Freudian slip",
+      "definition": "An apparently casual lapse in speech or ordinary forgetting that actually reflects unconscious motives or anxieties.",
+      "page": 71
+    }
+  ],
+  "people": [
+    {
+      "name": "Jean Martin Charcot",
+      "contribution": "Paris psychiatrist and pioneer of hypnosis with whom Freud studied; his remark that a patient's problem was sexual alerted Freud to the possible sexual basis of neurosis.",
+      "page": 40
+    },
+    {
+      "name": "Martha Bernays",
+      "contribution": "Freud's fiancée, then wife; their 4-year engagement pushed him into private practice, and he later blamed her for ending his sex life.",
+      "page": 40
+    },
+    {
+      "name": "Krüll",
+      "contribution": "Biographer who argued Freud's theory of actual neurosis was a theory of his own symptoms and that he abandoned the seduction theory partly because it would implicate fathers, perhaps his own.",
+      "page": 40
+    },
+    {
+      "name": "Carl Jung and Alfred Adler",
+      "contribution": "Early disciples of Freud who later broke away to develop their own theories; Freud regarded them as traitors.",
+      "page": 41
+    },
+    {
+      "name": "Max Schur",
+      "contribution": "Freud's physician, who administered morphine in September 1939 to end Freud's suffering.",
+      "page": 42
+    },
+    {
+      "name": "Josef Breuer",
+      "contribution": "Viennese physician whose use of hypnosis to help a hysterical patient recall repressed events led to catharsis and, indirectly, to Freud's free association technique.",
+      "page": 58
+    },
+    {
+      "name": "Kihlstrom",
+      "contribution": "Critic who noted that Freud's case notes show no patient actually claiming seduction by her father.",
+      "page": 61
+    },
+    {
+      "name": "Sulloway",
+      "contribution": "Freud biographer who concluded that some of Freud's published case histories offer such dubious evidence that it is unclear why Freud published them.",
+      "page": 61
+    },
+    {
+      "name": "Fisher and Greenberg",
+      "contribution": "Reviewed some 2,500 objective studies of Freudian concepts, sorting them into untestable, supported and unsupported ideas.",
+      "page": 62
+    },
+    {
+      "name": "Shevrin",
+      "contribution": "Showed that subliminally presented words and pictures influenced later free associations (e.g. a bee picture eliciting sting and honey).",
+      "page": 63
+    },
+    {
+      "name": "Silverman and Weinberger",
+      "contribution": "Found that the subliminal message Mommy and I are one improved male schizophrenic patients and had therapeutic value in other groups.",
+      "page": 63
+    },
+    {
+      "name": "Block and Block",
+      "contribution": "Researched ego control and ego resiliency, linking them to children's behaviour and showing both grow stronger from childhood to early adulthood.",
+      "page": 64
+    },
+    {
+      "name": "Bushman",
+      "contribution": "Showed that venting anger (catharsis) increases rather than reduces aggression, and that brooding increases displaced aggression.",
+      "page": 65
+    },
+    {
+      "name": "Glucksberg and King",
+      "contribution": "Demonstrated repression experimentally: words paired with electric shock, and related words, were forgotten.",
+      "page": 66
+    },
+    {
+      "name": "Davis",
+      "contribution": "Studied repressors, finding poorer recall of negative childhood memories, avoidance of threatening stimuli and physiological arousal without verbal expression.",
+      "page": 66
+    },
+    {
+      "name": "Cramer",
+      "contribution": "Studied developmental changes in defense mechanisms, including increased projection and identification across adolescence and links between preschool personality and adult denial.",
+      "page": 67
+    },
+    {
+      "name": "Hall and Van de Castle",
+      "contribution": "Classic study finding more castration-anxiety dreams in men and more penis-envy dreams in women.",
+      "page": 70
+    },
+    {
+      "name": "Motley",
+      "contribution": "Induced Freudian slips experimentally with shock-related and sexual anxiety conditions.",
+      "page": 71
+    },
+    {
+      "name": "Jerome Kagan",
+      "contribution": "Child development psychologist who concluded personality depends more on temperament and later childhood experience than on early parent-child interaction.",
+      "page": 71
+    },
+    {
+      "name": "Ceci and Bruck",
+      "contribution": "Showed how suggestive interviewing led young children to agree to events that never happened.",
+      "page": 73
+    },
+    {
+      "name": "Elizabeth Loftus",
+      "contribution": "Pioneering researcher on false memories who concluded there is little support for reliable recovery of banished traumatic memories and showed how false memories can be implanted.",
+      "page": 73
+    },
+    {
+      "name": "Anna Freud",
+      "contribution": "Freud's daughter and founder of ego psychology; worked with children, argued the ego is independent of the id, and fully developed the defense mechanisms in The Ego and the Mechanisms of Defense (1936).",
+      "page": 73
+    }
+  ],
+  "studies": [
+    {
+      "title": "Sleeping position and dream content (Yu, 2012)",
+      "finding": "People in Hong Kong who slept face-down were more likely to dream of sexual activity and of being smothered, locked up, tied or unable to move.",
+      "page": 60
+    },
+    {
+      "title": "Typical dreams in Germany (Goritz, 2014)",
+      "finding": "The five most typical dreams involved flying, trying something repeatedly, being chased, sexual experiences and school.",
+      "page": 60
+    },
+    {
+      "title": "Rat Man case comparison (Eagle, 1988; Mahoney, 1986)",
+      "finding": "Freud's published case differed from his notes: a lengthened analysis, incorrect sequence of events and unsupported claims of cure.",
+      "page": 61
+    },
+    {
+      "title": "Review of 2,500 studies (Fisher & Greenberg, 1977, 1996)",
+      "finding": "Id, ego, superego, death wish, libido and anxiety were untestable; oral/anal types, the Oedipal triangle and castration anxiety got slight support; dreams as wish fulfilment and the psychosexual stages were not supported.",
+      "page": 62
+    },
+    {
+      "title": "Subliminal stimuli and free association (Shevrin, 1977)",
+      "finding": "Words and pictures shown too briefly to be seen shaped later free associations, e.g. a bee picture produced sting and honey.",
+      "page": 63
+    },
+    {
+      "title": "Unconscious goal activation (Bargh et al., 2001)",
+      "finding": "Subliminally activated goals of performing well or cooperating led students to perform better or cooperate without conscious choice.",
+      "page": 63
+    },
+    {
+      "title": "Subliminal faces and drinking (Winkielman, Berridge & Wilbarger, 2005)",
+      "finding": "Students shown unseen happy faces drank more and would pay more for a beverage than those shown angry faces.",
+      "page": 63
+    },
+    {
+      "title": "Mommy and I are one (Silverman & Weinberger, 1985)",
+      "finding": "The subliminal message improved male schizophrenic patients; females improved with Daddy and I are one; such messages also helped people stop smoking and drinking and reduce fears.",
+      "page": 63
+    },
+    {
+      "title": "Anxiety sensitivity and subliminal words (Hunt, Keogh & French, 2006)",
+      "finding": "Adults high in anxiety sensitivity detected subliminal anxiety-related words more often than those low in it.",
+      "page": 63
+    },
+    {
+      "title": "Mothering and ego resiliency (Paris & Helson, 2002)",
+      "finding": "Mothers aged 21 to 27 who found mothering satisfying had high ego resiliency; negative experiences were linked to decreased resiliency.",
+      "page": 64
+    },
+    {
+      "title": "Ego resiliency in Dutch children (Smeekens et al., 2007)",
+      "finding": "Five-year-olds low in ego resiliency showed greater physiological stress during negative interactions with parents.",
+      "page": 64
+    },
+    {
+      "title": "Longitudinal ego development (Block & Block, 2006)",
+      "finding": "Ego control and ego resiliency were generally stronger in later life than in childhood (ages 3 to 23), and individual differences appeared early.",
+      "page": 64
+    },
+    {
+      "title": "Catharsis and the punching bag (Bushman, Baumeister & Stack, 1999)",
+      "finding": "Insulted students who read a pro-catharsis message hit a punching bag more and then acted more aggressively, even toward innocent people; venting did not reduce anger.",
+      "page": 65
+    },
+    {
+      "title": "Meta-analysis of displaced aggression (Marcus-Newhall et al., 2000)",
+      "finding": "Across 97 studies displaced aggression was reliable and more intense in more negative, stressful settings.",
+      "page": 65
+    },
+    {
+      "title": "Brooding and displaced aggression (Bushman et al., 2005)",
+      "finding": "Provoked students who spent 25 minutes dwelling on their anger showed more displaced aggression.",
+      "page": 65
+    },
+    {
+      "title": "Shock-paired word lists (Glucksberg & King, 1967)",
+      "finding": "Subjects forgot words accompanied by shock and conceptually similar words on a second list, supporting repression.",
+      "page": 66
+    },
+    {
+      "title": "Repressors vs non-repressors (Davis, 1987)",
+      "finding": "Repressors recalled fewer negative childhood memories, avoided threatening pictures, and showed physiological but not verbal arousal to sexual or aggressive phrases.",
+      "page": 66
+    },
+    {
+      "title": "Repressors and a disturbing film (Boden & Baumeister, 1997)",
+      "finding": "After a grisly film, repressors recalled more happy memories, coping with negative stimuli by accessing positive ones.",
+      "page": 66
+    },
+    {
+      "title": "Repression in chronically ill children (Phipps & Steele, 2002)",
+      "finding": "Children with cancer or chronic illness were more likely to be repressors and less likely to express anger than healthy children.",
+      "page": 66
+    },
+    {
+      "title": "Projection of blame (Rucker & Pratkanis, 2001)",
+      "finding": "Accusing another of lying and cheating increased blame on them and reduced self-blame for the same behaviour.",
+      "page": 67
+    },
+    {
+      "title": "Projection onto spouses (Schul & Vinokur, 2000)",
+      "finding": "Unemployed job seekers projected their depression onto partners, more so when partners were actually similar.",
+      "page": 67
+    },
+    {
+      "title": "Hierarchy of defenses (Tallandini & Caudek, 2010; Porcerelli et al., 1998)",
+      "finding": "Simple defenses like denial are used mostly by young children and decline with age; complex ones like identification increase.",
+      "page": 67
+    },
+    {
+      "title": "Preschool personality and adult denial (Cramer & Block, 1998)",
+      "finding": "Men still using denial at 23 had shown emotional immaturity and low competence and ego resiliency in nursery school; no clear link for women.",
+      "page": 67
+    },
+    {
+      "title": "Defenses in Americans and Thai Buddhists (Tori & Bilmes, 2002)",
+      "finding": "The two cultures were strongly similar in use of regression, reaction formation, projection, repression, denial and compensation.",
+      "page": 68
+    },
+    {
+      "title": "War-related dreams in Germany (Schredl & Piel, 2006)",
+      "finding": "Germans directly affected by World War II still had highly emotional war-related dreams more than 50 years later.",
+      "page": 68
+    },
+    {
+      "title": "Smell and dreams (Hutson, 2010)",
+      "finding": "Ten seconds of rose scent during sleep produced more pleasant dreams than the smell of rotten eggs.",
+      "page": 68
+    },
+    {
+      "title": "Dreams and well-being (Pesant & Zadra, 2006)",
+      "finding": "Canadians with lower well-being dreamed more of aggression, negative emotion and failure; those with higher well-being dreamed of friendly interaction and success.",
+      "page": 69
+    },
+    {
+      "title": "Decoding dream images (Horikawa et al., 2013)",
+      "finding": "Computers learned to decode dream images from brain activity with about 66 percent accuracy.",
+      "page": 70
+    },
+    {
+      "title": "Oedipal behaviour in children (Watson & Getz, 1990)",
+      "finding": "Children aged 3 to 6 showed more affection to the opposite-sex parent and aggression to the same-sex parent, peaking around 4 and declining by 5.",
+      "page": 70
+    },
+    {
+      "title": "Dreams of castration anxiety and penis envy (Hall & Van de Castle, 1965)",
+      "finding": "More men reported castration-anxiety dreams; more women reported castration-wish or penis-envy dreams.",
+      "page": 70
+    },
+    {
+      "title": "Ambivalence toward fathers (Maio, Fincham & Lycett, 2000)",
+      "finding": "Welsh 12- to 14-year-olds ambivalent toward their fathers showed less secure attachment to others.",
+      "page": 70
+    },
+    {
+      "title": "Oral personality and obesity (Masling, Rabie & Blondheim, 1967)",
+      "finding": "Oral orientation measured by the Rorschach was strongly related to obesity.",
+      "page": 71
+    },
+    {
+      "title": "Oral vs anal conformity (Tribich & Messer, 1974)",
+      "finding": "Oral types conformed more to an authority figure's suggestions than anal types.",
+      "page": 71
+    },
+    {
+      "title": "Induced Freudian slips (Motley, 1987)",
+      "finding": "Men anxious about shock made slips like damn shock; sexually anxious men made slips like nude breasts; controls made no such slips.",
+      "page": 71
+    },
+    {
+      "title": "Recovered memories and fantasy proneness (McNally et al., 2000)",
+      "finding": "Women reporting recovered abuse memories scored higher on fantasy proneness and dissociation.",
+      "page": 72
+    },
+    {
+      "title": "Suggestive interviews of children (Ceci & Bruck, 1993)",
+      "finding": "Four years later, a third of children agreed they had been hugged and kissed by a man who never touched them.",
+      "page": 73
+    },
+    {
+      "title": "False memories via dream interpretation (Mazzoni et al., 1999)",
+      "finding": "Most Italian students told their dreams reflected repressed childhood trauma later agreed the trauma had happened.",
+      "page": 73
+    }
+  ],
+  "examples": [
+    {
+      "title": "Displacement after a bad day",
+      "text": "A student scolded by a professor cannot answer back, so she snaps at her younger brother at home. The brother is a safer target, but the anger never fully goes away, matching Freud's point that substitutes leave leftover tension.",
+      "supplementary": true
+    },
+    {
+      "title": "Rationalization after rejection",
+      "text": "Someone who is not selected for a college team tells friends the coach plays favourites and the team is not that good anyway. The excuse protects self-esteem by blaming something outside the self.",
+      "supplementary": true
+    },
+    {
+      "title": "Id, ego and superego at exam time",
+      "text": "The night before an exam, the id wants to keep scrolling reels, the superego insists you must study every page or you are a bad student, and the ego compromises: study for two hours, then a short break.",
+      "supplementary": true
+    },
+    {
+      "title": "Sublimation in creative work",
+      "text": "A teenager with strong aggressive feelings channels them into intense sports practice or writing powerful poetry. Freud would see the energy as redirected into socially admired outlets.",
+      "supplementary": true
+    },
+    {
+      "title": "Preconscious recall",
+      "text": "You are not thinking of your friend's phone number right now, but if asked you can bring it to mind instantly. That number was sitting in the preconscious.",
+      "supplementary": true
+    }
+  ],
+  "checks": [
+    {
+      "q": "Which experience in Freud's childhood does the chapter link to the later concept of the Oedipus complex?",
+      "options": [
+        "His passionate attachment to his young, loving mother",
+        "His early experiments with cocaine",
+        "His studies with Charcot in Paris",
+        "His fluency in several languages"
+      ],
+      "answer": 0,
+      "explain": "The chapter says Freud's passionate, even sexual attachment to his mother set the stage for the Oedipus complex.",
+      "page": 38,
+      "sectionId": "life-of-freud"
+    },
+    {
+      "q": "After first claiming that his patients' reports of childhood seduction caused their neuroses, Freud announced that most of these reports were:",
+      "options": [
+        "Caused by hypnosis",
+        "Fantasies",
+        "Invented by his colleagues",
+        "Unrelated to sex"
+      ],
+      "answer": 1,
+      "explain": "About a year later Freud said most reported seductions had never happened and were fantasies, though still sexual and real to the patients.",
+      "page": 40,
+      "sectionId": "life-of-freud"
+    },
+    {
+      "q": "Freud's theory is described as homeostatic because it holds that people are motivated to:",
+      "options": [
+        "Seek constant stimulation",
+        "Achieve self-actualization",
+        "Restore physiological balance by reducing tension",
+        "Obey parental rules"
+      ],
+      "answer": 2,
+      "explain": "Freud's view is homeostatic: instincts aim to satisfy needs and reduce tension, restoring equilibrium.",
+      "page": 43,
+      "sectionId": "instincts"
+    },
+    {
+      "q": "If you like your roommate, Freud would say your libido is invested in that person. This investment is called:",
+      "options": [
+        "Sublimation",
+        "Fixation",
+        "Projection",
+        "Cathexis"
+      ],
+      "answer": 3,
+      "explain": "Cathexis is Freud's term for attaching or investing libido in an object or person; the roommate example is from the text.",
+      "page": 44,
+      "sectionId": "instincts"
+    },
+    {
+      "q": "Memories you are not aware of now but can easily recall belong to the:",
+      "options": [
+        "Unconscious",
+        "Preconscious",
+        "Superego",
+        "Id"
+      ],
+      "answer": 1,
+      "explain": "The preconscious stores memories and thoughts not currently in awareness but easily summoned into consciousness.",
+      "page": 45,
+      "sectionId": "levels-of-personality"
+    },
+    {
+      "q": "In Freud's iceberg analogy, the large portion beneath the water represents the:",
+      "options": [
+        "Unconscious",
+        "Conscious",
+        "Ego-ideal",
+        "Reality principle"
+      ],
+      "answer": 0,
+      "explain": "The conscious is the tip above water; the much larger hidden portion is the unconscious, home of the instincts.",
+      "page": 45,
+      "sectionId": "levels-of-personality"
+    },
+    {
+      "q": "Which structure operates according to the reality principle and uses secondary-process thought?",
+      "options": [
+        "Id",
+        "Superego",
+        "Conscience",
+        "Ego"
+      ],
+      "answer": 3,
+      "explain": "The ego, the rational master, operates by the reality principle and uses perception, judgment and memory (secondary-process thought).",
+      "page": 46,
+      "sectionId": "structure-of-personality"
+    },
+    {
+      "q": "The part of the superego made up of good behaviours for which a child was praised is the:",
+      "options": [
+        "Conscience",
+        "Libido",
+        "Ego-ideal",
+        "Preconscious"
+      ],
+      "answer": 2,
+      "explain": "The ego-ideal consists of praised, correct behaviours; the conscience consists of behaviours that were punished.",
+      "page": 47,
+      "sectionId": "structure-of-personality"
+    },
+    {
+      "q": "Moral anxiety arises from a conflict between:",
+      "options": [
+        "The ego and reality",
+        "The id and the superego",
+        "The id and the ego",
+        "The conscious and preconscious"
+      ],
+      "answer": 1,
+      "explain": "Moral anxiety is fear of one's conscience, resulting from conflict between the id and the superego.",
+      "page": 48,
+      "sectionId": "anxiety"
+    },
+    {
+      "q": "According to Freud, the prototype of all anxiety is:",
+      "options": [
+        "The Oedipus complex",
+        "Toilet training",
+        "Castration anxiety",
+        "The birth trauma"
+      ],
+      "answer": 3,
+      "explain": "Freud proposed that the birth trauma, being thrust from the womb into a hostile world, is our first experience and prototype of anxiety.",
+      "page": 47,
+      "sectionId": "anxiety"
+    },
+    {
+      "q": "A person disturbed by strong sexual longings becomes a fierce crusader against pornography. This illustrates:",
+      "options": [
+        "Reaction formation",
+        "Projection",
+        "Rationalization",
+        "Regression"
+      ],
+      "answer": 0,
+      "explain": "In reaction formation one expresses the opposite of the disturbing impulse; the anti-pornography crusader is the book's example.",
+      "page": 50,
+      "sectionId": "defenses-against-anxiety"
+    },
+    {
+      "q": "Which defense mechanism alters the id impulse itself by diverting energy into socially admired activities such as art?",
+      "options": [
+        "Denial",
+        "Displacement",
+        "Sublimation",
+        "Repression"
+      ],
+      "answer": 2,
+      "explain": "Displacement changes the object, but sublimation alters the impulse itself, channelling it into acceptable outlets like artistic creativity.",
+      "page": 50,
+      "sectionId": "defenses-against-anxiety"
+    },
+    {
+      "q": "An adult who is gullible, dependent and overly trusting was most likely, according to Freud, overindulged in the:",
+      "options": [
+        "Anal stage",
+        "Oral incorporative phase",
+        "Phallic stage",
+        "Latency period"
+      ],
+      "answer": 1,
+      "explain": "Overgratification in the oral incorporative phase produces the oral passive personality: optimistic, dependent, gullible and trusting.",
+      "page": 53,
+      "sectionId": "psychosexual-stages"
+    },
+    {
+      "q": "How does a boy resolve the Oedipus complex, according to Freud?",
+      "options": [
+        "By developing penis envy",
+        "By sublimating his desire into sports",
+        "By regressing to the oral stage",
+        "By repressing desire for his mother and identifying with his father"
+      ],
+      "answer": 3,
+      "explain": "Castration anxiety forces the boy to repress his desire for his mother and identify with his father, adopting his superego standards.",
+      "page": 56,
+      "sectionId": "psychosexual-stages"
+    },
+    {
+      "q": "On the nature-nurture issue, Freud's position was that:",
+      "options": [
+        "Personality is entirely learned",
+        "The id and psychosexual stages are inherited while other parts are learned in childhood",
+        "Personality is entirely inherited",
+        "Culture alone determines the superego and the id"
+      ],
+      "answer": 1,
+      "explain": "Freud took a middle ground: the id and stages are inherited, but other aspects are learned through parent-child interactions.",
+      "page": 57,
+      "sectionId": "human-nature"
+    },
+    {
+      "q": "According to the chapter, what did Freud see as the one ultimate goal of life?",
+      "options": [
+        "Reducing tension",
+        "Achieving moral perfection",
+        "Fulfilling one's potential",
+        "Gaining social interest"
+      ],
+      "answer": 0,
+      "explain": "In Freud's system there is only one ultimate and necessary goal in life: to reduce tension.",
+      "page": 57,
+      "sectionId": "human-nature"
+    },
+    {
+      "q": "During free association, a patient suddenly becomes reluctant to talk about certain memories. Freud called this:",
+      "options": [
+        "Catharsis",
+        "Latent content",
+        "Resistance",
+        "Transference"
+      ],
+      "answer": 2,
+      "explain": "Resistance is a blockage or refusal to disclose painful memories, signalling the analysis is near the problem's source.",
+      "page": 59,
+      "sectionId": "assessment"
+    },
+    {
+      "q": "The hidden symbolic meaning of a dream is its:",
+      "options": [
+        "Manifest content",
+        "Primary process",
+        "Preconscious content",
+        "Latent content"
+      ],
+      "answer": 3,
+      "explain": "Manifest content is the actual dream events; latent content is the hidden symbolic meaning.",
+      "page": 59,
+      "sectionId": "assessment"
+    },
+    {
+      "q": "Which criticism of Freud's data is supported by his own description of his methods?",
+      "options": [
+        "He wrote notes from memory in the evening, so data may be incomplete",
+        "He used too many statistical tests",
+        "He studied mostly children",
+        "He relied on large random samples"
+      ],
+      "answer": 0,
+      "explain": "Freud said he wrote down patients' comments from memory after work, so his data may be incomplete or selective.",
+      "page": 60,
+      "sectionId": "criticisms-of-research"
+    },
+    {
+      "q": "Freud's detailed case histories were drawn mainly from:",
+      "options": [
+        "Hospitalized male soldiers",
+        "Young, unmarried, upper-class, well-educated women",
+        "Children in a clinic",
+        "A random sample of Viennese adults"
+      ],
+      "answer": 1,
+      "explain": "Only about a dozen cases were detailed, mostly young, unmarried, upper-class women of good education, limiting generalization.",
+      "page": 61,
+      "sectionId": "criticisms-of-research"
+    },
+    {
+      "q": "In Fisher and Greenberg's review, which Freudian concepts were found to be untestable by the experimental method?",
+      "options": [
+        "Oral and anal character types",
+        "Castration anxiety",
+        "Id, ego, superego, death wish, libido and anxiety",
+        "The Oedipal triangle"
+      ],
+      "answer": 2,
+      "explain": "The review found the id, ego, superego, death wish, libido and anxiety could not be tested experimentally.",
+      "page": 62,
+      "sectionId": "scientific-testing"
+    },
+    {
+      "q": "Bushman, Baumeister and Stack's punching-bag research showed that venting anger:",
+      "options": [
+        "Reduced anger in most students",
+        "Had no effect",
+        "Only worked for men",
+        "Did not dissipate anger and may have increased aggression"
+      ],
+      "answer": 3,
+      "explain": "Students who believed in catharsis hit the bag more and were later more aggressive, even toward innocent people.",
+      "page": 65,
+      "sectionId": "scientific-testing"
+    },
+    {
+      "q": "Anna Freud's most radical change to orthodox psychoanalysis was to argue that:",
+      "options": [
+        "The ego operates independently of the id",
+        "The death instinct is the main motive",
+        "Dreams have no latent content",
+        "The superego develops in adolescence"
+      ],
+      "answer": 0,
+      "explain": "She greatly expanded the ego's role, arguing it operates independently of the id, described as a fundamental and radical change.",
+      "page": 74,
+      "sectionId": "extensions"
+    },
+    {
+      "q": "Unlike her father, who worked only with adults, Anna Freud worked:",
+      "options": [
+        "Only with the elderly",
+        "Only with soldiers",
+        "Only with children",
+        "Only with hypnotized patients"
+      ],
+      "answer": 2,
+      "explain": "The chapter states that Anna worked only with children and set up a clinic and training centre in London.",
+      "page": 74,
+      "sectionId": "extensions"
+    },
+    {
+      "q": "Which is NOT one of the reasons the chapter gives for the decline of psychoanalytic therapy in the United States?",
+      "options": [
+        "Managed care prefers cheaper drug treatment",
+        "Brief therapies have become the norm",
+        "Insurers demand evidence of effectiveness",
+        "Psychoanalysis was banned by law"
+      ],
+      "answer": 3,
+      "explain": "The decline is attributed to cost, brief therapy, drugs and managed care's demand for evidence; no legal ban is mentioned.",
+      "page": 75,
+      "sectionId": "reflections"
+    },
+    {
+      "q": "Critics question whether id, ego and superego are physical brain structures or fluid processes. This is a criticism of Freud's:",
+      "options": [
+        "Views on women",
+        "Ambiguous definitions of concepts",
+        "Emphasis on the future",
+        "Focus on healthy people"
+      ],
+      "answer": 1,
+      "explain": "The chapter cites confusion and contradiction in terms like id, ego and superego as a criticism of ambiguous definitions.",
+      "page": 76,
+      "sectionId": "reflections"
+    }
+  ],
+  "practice": [
+    {
+      "q": "Define cathexis.",
+      "marks": 2,
+      "answer": "Cathexis is Freud's term for the investment of psychic energy, the libido of the life instincts, in an object or person. For example, if you like your roommate, your libido is said to be cathected to that person. The concept explains how instinctual energy becomes attached to particular people, objects and activities in the course of development.",
+      "pages": [
+        44,
+        44
+      ]
+    },
+    {
+      "q": "Distinguish between manifest and latent content of dreams.",
+      "marks": 2,
+      "answer": "In Freud's dream analysis, the manifest content is the actual storyline or events the dreamer experiences and reports. The latent content is the hidden, symbolic meaning behind those events, representing repressed desires, fears and conflicts. The analyst's task is to interpret the latent content from the manifest content, for example reading climbing stairs as a symbol of sexual intercourse.",
+      "pages": [
+        59,
+        60
+      ]
+    },
+    {
+      "q": "What is fixation?",
+      "marks": 2,
+      "answer": "Fixation is a condition in which part of the libido remains invested in one psychosexual stage because the conflict of that stage was not resolved (excessive frustration) or because needs were so fully satisfied by an indulgent parent (excessive gratification) that the child did not want to move on. Less energy is then available for later stages, and characteristic adult personality types result, such as the oral passive or anal retentive personality.",
+      "pages": [
+        52,
+        52
+      ]
+    },
+    {
+      "q": "Explain the three types of anxiety proposed by Freud.",
+      "marks": 5,
+      "answer": "Freud defined anxiety as an objectless fear, a feeling of dread whose source we cannot identify, and considered it fundamental to all neurotic and psychotic behaviour. Its prototype is the birth trauma, when the infant is thrust from the secure womb into a hostile world. Anxiety arises when the ego is strained by the competing demands of the id, reality and the superego, and Freud identified three types.\n\nReality (objective) anxiety is fear of real dangers in the external world, such as fires, earthquakes or wild animals. It is the original type from which the others derive and is usually adaptive, guiding us to escape danger and fading once the threat passes, though it can become exaggerated, as in someone afraid to leave home.\n\nNeurotic anxiety originates in childhood conflicts between instinctual gratification and reality. Children are punished for openly expressing sexual or aggressive impulses, so the wish to satisfy id impulses itself comes to trigger anxiety. It is an unconscious fear of punishment for id-dominated behaviour, a conflict between the id and the ego.\n\nMoral anxiety is a conflict between the id and the superego, essentially fear of one's own conscience. When we want to act against our moral code, the superego punishes us with shame or guilt. People with a strict superego experience more moral anxiety.\n\nAll three serve as warnings that the ego is threatened; if rational coping fails, the ego turns to defense mechanisms.",
+      "pages": [
+        47,
+        49
+      ]
+    },
+    {
+      "q": "Describe the oral and anal stages of psychosexual development and the adult personality types associated with fixation at each.",
+      "marks": 5,
+      "answer": "Freud held that children pass through stages each defined by an erogenous zone and a conflict; unresolved conflict or overindulgence leads to fixation and a lasting character type.\n\nOral stage (birth to the second year). The mouth is the main source of pleasure through sucking, biting and swallowing, and the infant depends totally on the mother. In the oral incorporative mode the infant takes in pleasurable stimulation; fixation leads to adult preoccupation with eating, drinking, smoking and kissing. Overindulged infants become oral passive personalities: optimistic, dependent, gullible and overly trusting. The oral aggressive or sadistic mode appears with painful teething, when the infant comes to hate as well as love the mother; fixation here produces pessimism, hostility, argumentativeness, sarcastic 'biting' remarks, envy and exploitation of others. The stage ends at weaning.\n\nAnal stage (around 18 months; ages 1 to 3 in Table 2.2). Toilet training is the first interference with instinctual gratification, and the child learns it can defy or please its parents. A child who defecates whenever the parents do not want may develop an anal aggressive personality: cruel, destructive, disorderly and prone to tantrums, treating people as possessions. A child who withholds feces to gain pleasure and attention may develop an anal retentive personality: stubborn, stingy, hoarding, rigid, compulsively neat and overly conscientious.\n\nResearch gives some support to oral and anal types, for example links between oral orientation and obesity (Masling et al., 1967) and greater conformity in oral types (Tribich & Messer, 1974).",
+      "pages": [
+        52,
+        54
+      ]
+    },
+    {
+      "q": "Discuss the criticisms made of Freud's case study method.",
+      "marks": 5,
+      "answer": "Freud's main research method was the case study, and the chapter identifies several weaknesses.\n\nFirst, the method itself is not objective or systematic, and the psychoanalytic session cannot be repeated or verified. Childhood conditions cannot be varied, nor home environments recreated in a laboratory.\n\nSecond, the data were problematic. Freud kept no verbatim records and wrote notes from memory hours after sessions, so his data may be incomplete and selectively remembered to fit his theory. He rarely checked patients' stories with friends or relatives, so even accurate notes might not reflect true events.\n\nThird, critics argue Freud inferred or even suggested seduction stories. Kihlstrom noted that although Freud claimed nearly all his women patients reported seduction by fathers, his notes show no such claim; others suggest he implanted memories through suggestion.\n\nFourth, his sample was small and unrepresentative: himself and about a dozen detailed cases, mostly young, unmarried, upper-class, educated women.\n\nFifth, published cases did not always match his notes; the Rat Man case showed a lengthened analysis, wrong sequence of events and unsupported claims of cure, and Freud destroyed most patient files.\n\nFinally, Freud distrusted experimentation, insisting only analysts could judge his work. The book concludes that his ideas may still have merit, but they must be accepted on some basis other than experimental verification.",
+      "pages": [
+        60,
+        62
+      ]
+    },
+    {
+      "q": "Explain Freud's structure of personality. How do the id, ego and superego interact?",
+      "marks": 10,
+      "answer": "Introduction. Freud first described personality in terms of three levels of awareness (conscious, preconscious and unconscious) but later replaced this with three structures: the id, the ego and the superego. The id roughly corresponds to the unconscious, although the ego and superego also have unconscious parts. Personality, in this model, is a dynamic system in which these three structures constantly compete, and the outcome of their conflict shapes behaviour and anxiety.\n\nThe id. The id is the reservoir of the instincts and of libido, and it supplies all the psychic energy for the other two structures, which makes it the most powerful part of personality. Directly tied to bodily needs, it operates by the pleasure principle, seeking to increase pleasure and avoid pain by reducing tension immediately. It cannot tolerate delay and has no awareness of reality or of other people's wishes; Freud described it as selfish, primitive, amoral, insistent and rash. Like a hungry newborn who cries but cannot find food, the id can satisfy needs only through reflexes and wish-fulfilling fantasy or hallucination, called primary-process thought.\n\nThe ego. As children grow, they learn they cannot grab what they want or vent sexual and aggressive urges whenever they like. They develop perception, recognition, judgment and memory, known as secondary-process thought. These rational capacities form the ego, the rational master of personality, which operates by the reality principle. The ego's job is not to block the id but to help it gain satisfaction in realistic and socially acceptable ways, choosing suitable times, places and objects. It delays, postpones or redirects gratification. Freud compared it to a rider who must guide and restrain the raw power of a horse. Importantly, the ego is never independent of the id; it draws its energy from the id and must constantly mediate between the id and reality. It is the ego that keeps a person in a disliked job to support a family.\n\nThe superego. The third structure is our internalized morality, learned from parents by about age 5 or 6 through praise, punishment and example. It has two parts: the conscience, made up of behaviours for which the child was punished, and the ego-ideal, made up of behaviours for which the child was praised. Over time these rules are internalized, so rewards and punishments become self-administered and parental control becomes self-control; violating the code, even in thought, brings guilt or shame. The superego is relentless and even cruel in its pursuit of moral perfection. Like the id it is intense, irrational and uncompromising, and it seeks not to delay id impulses but to inhibit them completely, especially sexual and aggressive ones.\n\nInteraction. The three structures pull in different directions: the id presses for satisfaction, the ego tries to delay it to fit reality, and the superego demands morality above all. The ego is caught in the middle, serving three masters, the id, reality and the superego. Freud saw personality as being in constant battle, walking a tightrope between these demands. When the ego is too severely strained, the result is anxiety: neurotic anxiety reflects conflict between id and ego, and moral anxiety reflects conflict between id and superego. To cope, the ego relies on unconscious defense mechanisms. If the ego fails, the id may dominate and the person may become a danger to society.\n\nConclusion. Freud's structural model offers a vivid picture of inner conflict and explains anxiety and defense. However, the chapter notes that research reviewed by Fisher and Greenberg found the id, ego and superego could not be tested experimentally, and critics complain the concepts are ambiguous: it is unclear whether they are brain structures or processes. Later work, such as Anna Freud's ego psychology and research on ego control and ego resiliency, has nonetheless expanded the importance of the ego.",
+      "pages": [
+        45,
+        47
+      ]
+    },
+    {
+      "q": "Describe Freud's psychosexual stages of personality development. Critically evaluate the theory in the light of research evidence.",
+      "marks": 10,
+      "answer": "Introduction. Freud believed adult character develops in childhood through parent-child interactions, as the child seeks pleasure and parents impose reality and morality. From his own memories and his patients' recollections he concluded that personality is largely formed by age 5. He proposed that development passes through psychosexual stages, each defined by an erogenous zone (mouth, anus, genitals) and a conflict that must be resolved. Failure to resolve a conflict, or excessive indulgence, leads to fixation, in which libido remains invested in that stage and produces a characteristic adult personality.\n\nOral stage (birth to the second year). Pleasure comes from sucking, biting and swallowing, and the mother is the main object of libido; her responses teach the infant whether the world is safe or perilous. The oral incorporative mode leads, with fixation, to preoccupation with eating, drinking, smoking and kissing, and overindulgence produces the dependent, gullible oral passive personality. The oral aggressive or sadistic mode, arising with teething, can produce a hostile, sarcastic, envious and exploitative adult.\n\nAnal stage (about 18 months; 1 to 3 years). Toilet training is the first interference with instinctual pleasure. Defiant defecation can lead to an anal aggressive personality (cruel, destructive, disorderly), while withholding can lead to an anal retentive personality (stubborn, stingy, rigid, compulsively neat).\n\nPhallic stage (4 to 5 years). Pleasure centres on the genitals. In the Oedipus complex, the boy desires his mother and sees his father as a rival; castration anxiety forces him to repress his desire and identify with the father, adopting his superego standards. Girls, in what followers called the Electra complex, turn from mother to father after discovering they lack a penis and develop penis envy; Freud believed girls never fully resolve this, leaving weaker superegos. Poor resolution produces the narcissistic phallic personality.\n\nLatency (5 to puberty) and genital stage (puberty onward). Latency is not a true stage: the sex instinct is dormant and sublimated into school, sports and same-sex friendships. In the genital stage, if no major fixations exist, the person can find satisfaction in love and work.\n\nEvaluation. Research gives the theory mixed support. Fisher and Greenberg found slight support for oral and anal character types, the basic Oedipal triangle and castration anxiety. Oral orientation has been linked to obesity (Masling et al., 1967) and to conformity (Tribich & Messer, 1974), and the anal character seems to resurface under labels like conscientiousness and obsessive-compulsive personality. Watson and Getz (1990) found children aged 3 to 6 showed more affection to the opposite-sex parent and aggression to the same-sex parent, peaking at 4, and Hall and Van de Castle (1965) found sex differences in castration-anxiety and penis-envy dreams. However, most research finds no validity in the Oedipus complex as Freud described it (Kupfersmid, 1995); there is no support for the psychosexual stages as such, for resolution through fearful identification with the father, for women's weaker superegos, or for women being more orally dependent (O'Neill & Bornstein, 1990). There is little evidence for the phallic personality. Crucially, the claim that personality is fixed by age 5 is contradicted: preschool personality changes dramatically (Kagan et al., 1978), middle childhood may matter more, and Kagan concluded temperament and later experience outweigh early parent-child interaction. Critics also reject Freud's views on women and his neglect of later development.\n\nConclusion. The psychosexual theory was original and influential in emphasising childhood, and parts of it, especially oral and anal character types, have some support. But its central claims about universal stages, the Oedipus complex and the fixity of personality by age 5 are not supported by research.",
+      "pages": [
+        51,
+        71
+      ]
+    },
+    {
+      "q": "Critically evaluate the contributions and limitations of Freud's psychoanalysis, including the research evidence for his concepts.",
+      "marks": 10,
+      "answer": "Introduction. Freud's psychoanalysis was the first formal theory of personality and is still the best known. It proposed that behaviour is driven by unconscious instincts, structured by the id, ego and superego, protected by defense mechanisms, and shaped by psychosexual stages in early childhood. An evaluation must weigh its enormous influence against weaknesses in its method and its mixed empirical record.\n\nContributions. Freud's system has had a phenomenal impact on psychology, psychiatry and popular culture. It stimulated American interest in personality from the 1930s and in motivation in the 1940s and 1950s. Contemporary psychology has absorbed key Freudian ideas: the role of the unconscious, the importance of childhood experience for adult behaviour, and defense mechanisms. His assessment methods, free association and dream analysis, along with concepts such as resistance and latent content, shaped therapy. His theory also stimulated later theorists, both followers like Anna Freud, who developed ego psychology and fully articulated the defense mechanisms, and opponents who built alternatives.\n\nResearch support. Several concepts have strong support. Unconscious influence is now well established and may be more pervasive than Freud thought: subliminal stimuli affect associations (Shevrin), goals and behaviour (Bargh et al.), consumption (Winkielman et al.) and emotional processes (Silverman and Weinberger's Mommy and I are one studies). Repression is supported by Glucksberg and King's shock-paired words and by studies of repressors (Davis; Boden & Baumeister). Displacement is reliable across 97 studies (Marcus-Newhall et al.), and projection and denial have been demonstrated, with defenses forming a developmental hierarchy. Freudian slips have been induced experimentally (Motley), dreams do reflect emotional concerns, and oral and anal character types have some support. Research on ego control and ego resiliency has extended the concept of the ego and links it to adjustment and well-being.\n\nLimitations. Fisher and Greenberg found the id, ego, superego, death wish, libido and anxiety untestable. Dreams as wish fulfilment, the psychosexual stages, the Oedipus complex as described, and women's weaker superegos are not supported. Catharsis is contradicted: venting anger increases aggression (Bushman et al.). Personality continues to develop after age 5 (Kagan). Research on recovered memories shows false memories can be implanted (Ceci & Bruck; Mazzoni et al.; Loftus). Methodologically, Freud's case studies were unsystematic and unverifiable, based on notes written from memory, a small unrepresentative sample of mostly upper-class young women, and published cases that differed from his notes, as in the Rat Man case. Freud also dismissed experimental tests. Other theorists criticise his overemphasis on biology, sex and aggression, his determinism, his focus on the past rather than future goals, his concentration on disturbed rather than healthy people, his negative views of women, and the ambiguity of concepts like id, ego and superego. As therapy, psychoanalysis has declined in the United States because of its cost and length, the rise of brief therapy and drugs, and managed care's demand for evidence, though it has grown in China and online.\n\nConclusion. Freud's theory is more influential than his therapy, and many specific claims have not survived testing. Yet his insights into the unconscious, defenses and the importance of childhood remain central to psychology. As the chapter concludes, by giving later theorists an original and challenging foundation to build on or argue against, Freud secured his place in the history of personality theory.",
+      "pages": [
+        60,
+        76
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "What is psychoanalysis?",
+      "back": "Freud's theory of personality and his system of therapy for mental disorders; the first formal personality theory.",
+      "page": 37
+    },
+    {
+      "front": "Where and when was Freud born?",
+      "back": "1856, in Freiberg, Moravia (now Pribor, Czech Republic); he moved to Vienna at age 4.",
+      "page": 38
+    },
+    {
+      "front": "Why was Freud's 1884 article on cocaine later criticized?",
+      "back": "It was judged a major contributor to a cocaine epidemic in Europe and the U.S. lasting into the 1920s.",
+      "page": 39
+    },
+    {
+      "front": "Which Paris psychiatrist alerted Freud to the sexual basis of neurosis?",
+      "back": "Jean Martin Charcot, a pioneer of hypnosis.",
+      "page": 40
+    },
+    {
+      "front": "Which two disciples broke away from Freud to form their own theories?",
+      "back": "Carl Jung and Alfred Adler.",
+      "page": 41
+    },
+    {
+      "front": "What happened in 1909?",
+      "back": "Freud lectured at Clark University, Massachusetts, and received an honorary doctorate, bringing formal American recognition.",
+      "page": 42
+    },
+    {
+      "front": "What is an instinct in Freud's theory?",
+      "back": "The mental representation (a wish) of an internal bodily need that drives behaviour to reduce tension.",
+      "page": 43
+    },
+    {
+      "front": "What is libido?",
+      "back": "The psychic energy of the life instincts that drives a person toward pleasurable thoughts and behaviours.",
+      "page": 44
+    },
+    {
+      "front": "What is the aggressive drive?",
+      "back": "A component of the death instincts: the death wish turned outward, compelling us to destroy, conquer and kill.",
+      "page": 44
+    },
+    {
+      "front": "Name Freud's three levels of personality.",
+      "back": "Conscious, preconscious and unconscious (the iceberg model).",
+      "page": 44
+    },
+    {
+      "front": "By what principle does the id operate, and what type of thought does it use?",
+      "back": "The pleasure principle; primary-process thought (reflexes and wish-fulfilling fantasy).",
+      "page": 46
+    },
+    {
+      "front": "What analogy did Freud use for the ego and the id?",
+      "back": "A rider (ego) guiding and reining in a powerful horse (id).",
+      "page": 46
+    },
+    {
+      "front": "What are the two parts of the superego?",
+      "back": "The conscience (behaviours that were punished) and the ego-ideal (behaviours that were praised).",
+      "page": 47
+    },
+    {
+      "front": "Who are the ego's three masters?",
+      "back": "The id, reality and the superego.",
+      "page": 47
+    },
+    {
+      "front": "What is the prototype of all anxiety?",
+      "back": "The birth trauma.",
+      "page": 47
+    },
+    {
+      "front": "Neurotic anxiety: which conflict?",
+      "back": "Id versus ego; an unconscious fear of punishment for expressing id impulses.",
+      "page": 48
+    },
+    {
+      "front": "Moral anxiety: which conflict?",
+      "back": "Id versus superego; fear of one's own conscience, felt as guilt or shame.",
+      "page": 48
+    },
+    {
+      "front": "What two features do all defense mechanisms share?",
+      "back": "They deny or distort reality, and they operate unconsciously.",
+      "page": 49
+    },
+    {
+      "front": "Which defense mechanism is the most fundamental and frequently used?",
+      "back": "Repression, the involuntary, unconscious forgetting of disturbing material.",
+      "page": 49
+    },
+    {
+      "front": "Defense: parents keep a dead child's room unchanged.",
+      "back": "Denial.",
+      "page": 50
+    },
+    {
+      "front": "Defense: 'I don't hate him. He hates me.'",
+      "back": "Projection.",
+      "page": 50
+    },
+    {
+      "front": "Defense: a fired worker says they never liked the job anyway.",
+      "back": "Rationalization.",
+      "page": 50
+    },
+    {
+      "front": "Defense: an adult angry at the boss shouts at the dog.",
+      "back": "Displacement.",
+      "page": 50
+    },
+    {
+      "front": "How does sublimation differ from displacement?",
+      "back": "Displacement changes the object of an impulse; sublimation alters the impulse itself into socially acceptable activity. Sublimation is a form of displacement.",
+      "page": 50
+    },
+    {
+      "front": "What is fixation?",
+      "back": "Libido remaining invested in a psychosexual stage because of excessive frustration or gratification.",
+      "page": 52
+    },
+    {
+      "front": "Traits of the oral aggressive (oral sadistic) personality?",
+      "back": "Pessimism, hostility, aggressiveness, sarcastic 'biting' remarks, envy, exploiting and dominating others.",
+      "page": 53
+    },
+    {
+      "front": "Traits of the anal retentive personality?",
+      "back": "Stubborn, stingy, hoarding, rigid, compulsively neat, obstinate and overly conscientious.",
+      "page": 54
+    },
+    {
+      "front": "Where does the name Oedipus complex come from?",
+      "back": "Sophocles' play Oedipus Rex, in which Oedipus unknowingly kills his father and marries his mother.",
+      "page": 54
+    },
+    {
+      "front": "What is castration anxiety?",
+      "back": "A boy's fear during the Oedipal period that his father will cut off his penis.",
+      "page": 55
+    },
+    {
+      "front": "What did Freud believe resulted from girls never fully resolving the female Oedipus complex?",
+      "back": "Poorly developed superegos in women.",
+      "page": 56
+    },
+    {
+      "front": "Why is latency not a psychosexual stage?",
+      "back": "The sex instinct is dormant, sublimated in school, hobbies, sports and same-sex friendships.",
+      "page": 57
+    },
+    {
+      "front": "What does the genital personality find satisfaction in?",
+      "back": "Love and work.",
+      "page": 57
+    },
+    {
+      "front": "Freud on free will vs determinism?",
+      "back": "Largely deterministic, but psychoanalysis can increase free will by making the unconscious conscious.",
+      "page": 58
+    },
+    {
+      "front": "Who influenced Freud's development of free association?",
+      "back": "Josef Breuer, whose hypnosis of a hysterical patient led to catharsis.",
+      "page": 58
+    },
+    {
+      "front": "What is resistance?",
+      "back": "A patient's blockage or refusal to disclose painful memories in free association; a sign analysis is near the problem's source.",
+      "page": 59
+    },
+    {
+      "front": "What did Fisher and Greenberg's review of 2,500 studies find untestable?",
+      "back": "The id, ego, superego, death wish, libido and anxiety.",
+      "page": 62
+    },
+    {
+      "front": "Ego control vs ego resiliency?",
+      "back": "Ego control is the amount of restraint over impulses; ego resiliency is flexibility in adjusting that control to circumstances.",
+      "page": 64
+    },
+    {
+      "front": "Does venting anger reduce it, according to research?",
+      "back": "No. Bushman and colleagues found venting increased aggression.",
+      "page": 65
+    },
+    {
+      "front": "What did Motley's study show about Freudian slips?",
+      "back": "Shock-anxious men said 'damn shock' and sexually anxious men 'nude breasts', suggesting some slips reveal hidden anxiety.",
+      "page": 71
+    },
+    {
+      "front": "What major change did Anna Freud make to psychoanalysis?",
+      "back": "She expanded the ego's role, arguing it operates independently of the id (The Ego and the Mechanisms of Defense, 1936).",
+      "page": 74
+    }
+  ],
+  "summary": [
+    "Freud's psychoanalysis is the first and best-known formal personality theory, and it is partly autobiographical: it drew on his childhood, his dreams and his sexual conflicts.",
+    "Instincts are mental representations of internal bodily needs that drive behaviour to reduce tension (a homeostatic model); displacement of their energy explains the diversity of personality.",
+    "Life instincts serve survival, their energy is libido, and investing it in objects is cathexis. Death instincts are an unconscious drive toward decay and aggression.",
+    "The mind has conscious, preconscious and unconscious levels; the unconscious is the largest and most powerful (iceberg analogy).",
+    "The id (pleasure principle, primary-process thought) supplies all energy. The ego (reality principle, secondary-process thought) mediates. The superego (conscience and ego-ideal) demands moral perfection.",
+    "Anxiety, whose prototype is the birth trauma, arises when the ego is overstrained. Reality anxiety is fear of real dangers, neurotic anxiety is id versus ego, and moral anxiety is id versus superego.",
+    "Defense mechanisms (repression, denial, reaction formation, projection, regression, rationalization, displacement, sublimation) are unconscious distortions of reality that protect the ego; Freud saw them as necessary for mental health.",
+    "The psychosexual stages are oral (incorporative and aggressive modes), anal (toilet training; anal aggressive and retentive types), phallic (Oedipus complex, castration anxiety, penis envy), latency (sublimation) and genital (love and work). Fixation produces lasting character types.",
+    "Freud's image of human nature is pessimistic and largely deterministic. The goal of life is tension reduction. Personality is partly inherited (id, stages) and partly learned, and it is universal in its stages but unique in the content of ego and superego.",
+    "Assessment uses free association (with resistance as a key sign) and dream analysis (manifest vs latent content), both requiring skilled interpretation.",
+    "Freud's case-study method is criticized as unsystematic, unverifiable, based on notes written from memory and on a small unrepresentative sample, and his published cases did not always match his notes.",
+    "Research supports unconscious influence, repression, displacement, projection, denial, Freudian slips, dreams reflecting emotional concerns, and some oral/anal traits. It does not support dreams as wish fulfilment, the stages, the Oedipus complex as described, catharsis, or personality being fixed by age 5. False memories can be implanted.",
+    "Anna Freud founded ego psychology, arguing the ego works independently of the id, and fully developed the defense mechanisms.",
+    "Psychoanalytic therapy has declined in the U.S., and Freud is criticized for overemphasizing biology, sex, the past and pathology, for his determinism, his views on women and his vague concepts. His influence on psychology and culture remains enormous."
+  ],
+  "assessment": [
+    {
+      "q": "Freud's German term for instinct, Trieb, is best translated as:",
+      "options": [
+        "A driving force or impulse",
+        "A moral rule",
+        "A defense",
+        "A dream symbol"
+      ],
+      "answer": 0,
+      "explain": "The chapter notes that Trieb means a driving force or impulse (Bettelheim, 1984).",
+      "page": 43
+    },
+    {
+      "q": "Which of these is NOT listed as a need served by the life instincts?",
+      "options": [
+        "Food",
+        "Air",
+        "Destruction",
+        "Sex"
+      ],
+      "answer": 2,
+      "explain": "Life instincts serve needs for food, water, air and sex; destruction belongs to the death instincts.",
+      "page": 44
+    },
+    {
+      "q": "The idea of the death instincts was received by Freud's followers with:",
+      "options": [
+        "Universal enthusiasm",
+        "Only limited acceptance",
+        "Immediate experimental confirmation",
+        "Complete indifference"
+      ],
+      "answer": 1,
+      "explain": "The chapter says the death instincts achieved only limited acceptance even among dedicated followers.",
+      "page": 44
+    },
+    {
+      "q": "Which structure strives for neither pleasure nor realistic goals but solely for moral perfection?",
+      "options": [
+        "Id",
+        "Ego",
+        "Preconscious",
+        "Superego"
+      ],
+      "answer": 3,
+      "explain": "The superego strives solely for moral perfection, unlike the id (pleasure) and the ego (realistic goals).",
+      "page": 47
+    },
+    {
+      "q": "A hungry infant who cries and imagines food but cannot obtain it illustrates:",
+      "options": [
+        "Secondary-process thought",
+        "Primary-process thought",
+        "Reality anxiety",
+        "Sublimation"
+      ],
+      "answer": 1,
+      "explain": "The id satisfies needs only through reflexes and wish-fulfilling fantasy, which is primary-process thought.",
+      "page": 46
+    },
+    {
+      "q": "Someone who cannot light a match for fear of fire shows:",
+      "options": [
+        "Moral anxiety",
+        "Neurotic anxiety",
+        "Reality anxiety carried to an extreme",
+        "Castration anxiety"
+      ],
+      "answer": 2,
+      "explain": "The chapter gives this as an example of reality-based fear carried beyond the point of normality.",
+      "page": 48
+    },
+    {
+      "q": "Which defense involves retreating to an earlier, more secure period of life and behaving in a childish, dependent way?",
+      "options": [
+        "Regression",
+        "Projection",
+        "Reaction formation",
+        "Rationalization"
+      ],
+      "answer": 0,
+      "explain": "Regression is retreating to an earlier, less frustrating stage and displaying that period's behaviour.",
+      "page": 50
+    },
+    {
+      "q": "According to Freud, why does repeated displacement lead to a build-up of tension?",
+      "options": [
+        "It is a conscious process",
+        "It strengthens the superego",
+        "It reverses repression",
+        "Substitute objects do not reduce tension as well as the original object"
+      ],
+      "answer": 3,
+      "explain": "A substitute object does not reduce tension as satisfactorily as the original, so undischarged tension accumulates.",
+      "page": 50
+    },
+    {
+      "q": "In Table 2.2, which stage is characterised by 'incestuous fantasies; Oedipus complex; anxiety; superego development'?",
+      "options": [
+        "Anal",
+        "Latency",
+        "Phallic",
+        "Genital"
+      ],
+      "answer": 2,
+      "explain": "Table 2.2 lists these characteristics for the phallic stage (ages 4 to 5).",
+      "page": 52
+    },
+    {
+      "q": "The anal stage is significant because it involves:",
+      "options": [
+        "The first interference with gratification of an instinctual impulse",
+        "The dormancy of the sex instinct",
+        "The development of sex-role identity",
+        "Weaning"
+      ],
+      "answer": 0,
+      "explain": "With toilet training, gratification of an instinctual impulse is interfered with for the first time.",
+      "page": 54
+    },
+    {
+      "q": "Which personality type does Freud describe as narcissistic and needing constant recognition?",
+      "options": [
+        "Oral passive",
+        "Anal retentive",
+        "Genital",
+        "Phallic"
+      ],
+      "answer": 3,
+      "explain": "The phallic personality shows strong narcissism and needs constant recognition and appreciation.",
+      "page": 56
+    },
+    {
+      "q": "Why did Freud sit behind the couch, out of the patient's sight?",
+      "options": [
+        "To hypnotize patients more easily",
+        "Because he disliked being stared at and did not want his expressions to influence patients",
+        "To take verbatim notes",
+        "To record dreams on tape"
+      ],
+      "answer": 1,
+      "explain": "He gave both a personal reason (disliking being stared at) and a professional one (not influencing patients with his expressions).",
+      "page": 58
+    },
+    {
+      "q": "In Table 2.3 of Freud's dream symbols, 'beginning a journey' signifies:",
+      "options": [
+        "Birth",
+        "Sexual intercourse",
+        "Dying",
+        "Desire to be admired"
+      ],
+      "answer": 2,
+      "explain": "Table 2.3 lists beginning a journey as symbolising dying; bathing signifies birth and flying a desire to be admired.",
+      "page": 59
+    },
+    {
+      "q": "What was the dominant theme of the more than 40 of Freud's own dreams reported in The Interpretation of Dreams?",
+      "options": [
+        "Sex",
+        "Death",
+        "Hostility to his father",
+        "Ambition"
+      ],
+      "answer": 3,
+      "explain": "Only a few had sexual content; the dominant theme was ambition, which Freud denied having.",
+      "page": 60
+    },
+    {
+      "q": "In Glucksberg and King's (1967) study, subjects forgot:",
+      "options": [
+        "Words paired with electric shock and conceptually similar words",
+        "All words on both lists equally",
+        "Only words that were never shocked",
+        "Only words presented subliminally"
+      ],
+      "answer": 0,
+      "explain": "They forgot the shock-paired words and similar words on the second list, supporting repression.",
+      "page": 66
+    },
+    {
+      "q": "Research on the hierarchy of defense mechanisms shows that, with age:",
+      "options": [
+        "Denial increases and identification decreases",
+        "Denial decreases and identification increases",
+        "All defenses disappear by adolescence",
+        "Only girls use denial"
+      ],
+      "answer": 1,
+      "explain": "Simple defenses like denial are used mainly by young children and decline, while more complex ones like identification increase.",
+      "page": 67
+    },
+    {
+      "q": "Watson and Getz (1990) found that Oedipal-type behaviours in children were greatest at around age:",
+      "options": [
+        "2",
+        "7",
+        "4",
+        "10"
+      ],
+      "answer": 2,
+      "explain": "Affection to the opposite-sex parent and aggression to the same-sex parent peaked around age 4 and declined by 5.",
+      "page": 70
+    },
+    {
+      "q": "Jerome Kagan concluded that personality depends more on:",
+      "options": [
+        "Toilet training practices",
+        "Resolution of the Oedipus complex",
+        "Death instincts",
+        "Temperament and later childhood experiences"
+      ],
+      "answer": 3,
+      "explain": "Kagan concluded personality depends more on temperament and later childhood than on early parent-child interactions.",
+      "page": 71
+    },
+    {
+      "q": "Mazzoni et al. (1999) showed that false memories of childhood trauma could be implanted through:",
+      "options": [
+        "Hypnosis",
+        "Electric shock",
+        "Dream interpretation",
+        "Subliminal faces"
+      ],
+      "answer": 2,
+      "explain": "Italian students told their dreams reflected repressed trauma later came to believe the traumatic events had happened.",
+      "page": 73
+    },
+    {
+      "q": "Anna Freud's 1936 book considered a basic work of ego psychology is:",
+      "options": [
+        "The Ego and the Mechanisms of Defense",
+        "The Interpretation of Dreams",
+        "Four Lectures on Child Analysis",
+        "Beating Fantasies and Daydreams"
+      ],
+      "answer": 0,
+      "explain": "The Ego and the Mechanisms of Defense (1936) clarified the defenses and is a basic work of ego psychology.",
+      "page": 74
+    }
+  ]
+}

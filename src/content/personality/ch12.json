@@ -1,0 +1,2176 @@
+{
+  "number": 12,
+  "title": "B. F. Skinner: Reinforcement Theory",
+  "theorist": "B. F. Skinner",
+  "approach": "Behavioral",
+  "pages": [
+    317,
+    338
+  ],
+  "overview": "B. F. Skinner did not offer a personality theory. He tried to explain all behavior by what can be observed, measured and controlled, treating people as 'empty organisms' whose behavior is caused by external consequences rather than inner states. Working with rats and pigeons, he distinguished respondent behavior (elicited by stimuli, as in Pavlov's conditioning) from operant behavior (emitted, acting on the environment and controlled by reinforcement). He saw personality as a collection of reinforced operant behaviors. The chapter covers his life, operant conditioning in the Skinner box, schedules of reinforcement, shaping by successive approximation, superstitious behavior, techniques of self-control, and applications such as token economies and behavior modification, including why he preferred positive reinforcement to punishment. It also covers his deterministic image of human nature, functional analysis and the assessment of behavior, his single-subject research, criticisms including instinctive drift, and his decline in influence after the rise of cognitive psychology.",
+  "objectives": [
+    "Explain how Skinner's behavioral approach differs from other personality theories, including the idea of the 'empty organism'.",
+    "Describe how Skinner's life experiences relate to his view of behavior.",
+    "Distinguish respondent from operant behavior and explain conditioning, reinforcement and extinction.",
+    "Describe operant conditioning in the Skinner box and its application to personality.",
+    "Compare the four schedules of reinforcement with continuous reinforcement.",
+    "Explain shaping by successive approximation and the origin of superstitious behavior.",
+    "Describe the four self-control techniques and the research on benefits of self-control.",
+    "Explain token economies, behavior modification, punishment and negative reinforcement.",
+    "Outline Skinner's position on questions of human nature.",
+    "Describe functional analysis and the three methods of assessing behavior, and evaluate Skinner's research approach, criticisms and current status."
+  ],
+  "sections": [
+    {
+      "id": "empty-organism",
+      "heading": "Rats, Pigeons, and an Empty Organism",
+      "pages": [
+        317,
+        318
+      ],
+      "detailed": "Skinner is the odd one out in a personality textbook. He never proposed a personality theory, and his research was not aimed at personality at all. He wanted to explain all behavior, not just personality, using only factual, descriptive terms. In his view psychology had to stay with facts: what can be seen, manipulated and measured in the laboratory. In practice that meant studying only the overt responses an organism makes. For Skinner, psychology is simply the science of behavior, of what an organism does.\n\nBecause of this, the chapter calls his work the antithesis (direct opposite) of the psychoanalytic, trait, life-span, cognitive and humanistic approaches. It differs from them in subject matter, in methods and in aims. Those theorists explain personality by looking inside the person. They point to causes, motives and drives that originate within each individual and steer development and behavior.\n\nSkinner made no use of internal, subjective states to explain behavior. Unconscious influences, defense mechanisms, traits and other inner driving forces cannot be observed, so he argued they have no place in a scientific psychology. He said they are worth no more to science than the old theological idea of the soul. It is important for exams to note that he did not deny that such inner forces exist. He denied only that they are useful for science.\n\nHe applied the same reasoning to physiological processes. They are not overtly observable either, so they too are irrelevant to a science of behavior. He described the inside of the organism as irrelevant, whether as the site of physiology or of mental activity (quoted in Evans, 1968). This is the meaning of his description of people as \"empty organisms\": nothing inside us can explain behavior in scientific terms. The causes of behavior lie outside the person, in the environment and in the consequences that follow behavior. The chapter's opening quotation sums this up: it is the environment that must be changed.\n\nThe behavioral approach therefore rests on three commitments. First, the subject matter is observable behavior only. Second, the method is controlled laboratory experimentation. Third, the explanation is always external: environmental stimuli and the reinforcers that follow responses.",
+      "simple": "Skinner did not offer a personality theory. He thought psychology should study only behavior that can be seen and measured. Inner things like the unconscious, traits or even brain processes cannot be observed, so he left them out of science. That is why he called people \"empty organisms\".",
+      "keyPoints": [
+        "Skinner offered no personality theory; he tried to explain all behavior in factual, descriptive terms.",
+        "Psychology is the science of overt behavior: what can be seen, manipulated and measured.",
+        "Internal states (unconscious, defenses, traits) were rejected as useless for science, though not denied to exist.",
+        "Physiological processes were also treated as irrelevant because they are not overtly observable.",
+        "\"Empty organism\": nothing inside the person explains behavior scientifically; causes are external."
+      ]
+    },
+    {
+      "id": "where-are-the-people",
+      "heading": "Where Are the People?",
+      "pages": [
+        318,
+        318
+      ],
+      "detailed": "Skinner also differed from other theorists in his choice of research subjects. Some personality theorists built their ideas on emotionally disturbed patients and others on normal, average people. Abraham Maslow based his theory on the best and brightest. Skinner's behavioral research used rats and pigeons, although his ideas were later applied to people.\n\nHe justified this choice in several ways. First, he was interested in behavioral responses to stimuli, not in childhood memories or adult feelings. Responding to stimuli is something animals do well, sometimes better than humans. Second, he admitted that human behavior is more complex than animal behavior. But he held that the difference is one of degree, not of kind, because the fundamental processes are similar. Third, a science must move from the simple to the complex, so the more elementary processes should be studied first. Animal behavior is simpler, so it was the logical place to start.\n\nEven though his research was on animals, his work has had wide practical use in changing human behavior. Behavior therapy techniques derived from his research are used in clinical settings to treat disorders including psychoses, mental retardation (the book's term) and autism. Behavior-modification techniques are widely used in schools, businesses, correctional institutions and hospitals. This answers the obvious question, \"what can pigeons teach us about people?\": the same principles of reinforcement turned out to work on human behavior in real settings.",
+      "simple": "Skinner studied rats and pigeons instead of people. He believed animal and human behavior differ only in degree, and that science should study simple processes first. His findings were later used widely to change human behavior in clinics, schools and workplaces.",
+      "keyPoints": [
+        "Skinner's subjects were rats and pigeons, unlike theorists who studied patients, normal people or (Maslow) the best and brightest.",
+        "His interest was responses to stimuli, which animals display well.",
+        "Human and animal behavior differ in degree, not kind; the basic processes are similar.",
+        "Science proceeds from simple to complex, so simpler animal behavior was studied first.",
+        "His work led to behavior therapy and behavior modification in clinics, schools, businesses, prisons and hospitals."
+      ]
+    },
+    {
+      "id": "life-early",
+      "heading": "The Life of Skinner (1904–1990): A Strict Childhood, Machines and Animals, A Dark Year",
+      "pages": [
+        318,
+        319
+      ],
+      "detailed": "A strict childhood. B. F. Skinner was born in Susquehanna, Pennsylvania, the older of two sons. His younger brother died at 16. His hardworking parents kept setting out clear rules of proper behavior, and he said he was raised to fear God, the police and what people would think. His mother never relaxed her strict standards and controlled him with a disapproving \"tut tut\". His grandmother made sure he understood the punishments of Hell by pointing to the red-hot coals in the parlor stove. His father taught him what happens to criminals by showing him the county jail and taking him to a lecture on life in a notorious New York state prison.\n\nIn his autobiography Skinner described how these warnings shaped him as an adult. When he visited a cathedral, he took care not to step on the gravestones in the floor, because as a child he had been told again and again that this was improper. Experiences like this convinced him that his adult behavior had been determined by the rewards and punishments (the reinforcements) he had received in childhood. The chapter therefore argues that his system, and his view of people as complex systems behaving in lawful ways (Skinner, 1971), reflected his own early life.\n\nMachines and animals. As a child Skinner spent many hours building mechanical devices: wagons, seesaws, carousels, slingshots, model airplanes, and a steam cannon that fired potato and carrot plugs over neighbors' houses. He also tried to build a perpetual-motion machine, which, as the book jokes, perpetually failed. This tinkering foreshadowed his view of people as machines that operate predictably. His interest in animals also began in childhood. He kept turtles, snakes, toads, lizards and chipmunks. At a county fair he was fascinated by performing pigeons that raced onstage, pulled a toy fire engine to a burning building, put a ladder against it, and climbed up (one wearing a fireman's hat) to rescue a stranded pigeon. As an adult he trained pigeons to play Ping-Pong and to guide a missile to its target. He taught his daughters' cat to play the piano and his Beagle to play hide and seek.\n\nA dark year. Skinner majored in English at Hamilton College in upstate New York and expected to become a novelist. He set up a study in the attic of his parents' home in Scranton, Pennsylvania, but the writing never came. He read, listened to the radio, played the piano and built ship models while waiting for inspiration. He thought of seeing a psychiatrist, but his father said it would be a waste of money. At 22 he was a failure at the one thing he wanted to do. He later called this his dark year, which the chapter likens to what Erikson called an identity crisis. His occupational identity as a writer collapsed and took his self-worth with it. A move to Greenwich Village in New York City did not help his writing. Several women also rejected his declarations of love, and he was so upset that he branded one woman's initial on his arm, where it stayed for years (Skinner, 1983).",
+      "simple": "Skinner grew up with strict parents and grandparents who used warnings and threats of punishment. He came to believe his own adult habits were produced by these childhood rewards and punishments. He loved building machines and keeping animals. After college he failed as a novelist, a period he called his dark year.",
+      "keyPoints": [
+        "Born in Susquehanna, Pennsylvania; strict family taught him to fear God, the police and others' opinions.",
+        "Childhood warnings (e.g., not stepping on gravestones) persuaded him that behavior is determined by past reinforcements.",
+        "Building gadgets foreshadowed his view of people as predictable machines; pets and fair pigeons sparked his animal interest.",
+        "Majored in English at Hamilton College; failed as a novelist at 22, his 'dark year', likened to Erikson's identity crisis.",
+        "Rejection in love led him to brand a woman's initial on his arm."
+      ]
+    },
+    {
+      "id": "life-later",
+      "heading": "The Life of Skinner: A New Identity, A Period of Depression, and Quirky, Conscientious, and Somewhat Neurotic",
+      "pages": [
+        319,
+        321
+      ],
+      "detailed": "A new identity. Just as he was losing hope, Skinner found an identity he kept for the rest of his life. He decided that writing had failed him, not the other way round, and that he would study human behavior with the methods of science instead of fiction. He read Pavlov and Watson and committed himself completely to behaviorism. He entered Harvard in 1928 to study psychology without ever having taken a course in it, and he earned his Ph.D. in three years.\n\nChoosing behaviorism meant rejecting the feelings and emotions he had tried to draw on as a writer. The historian Mindess (1988) contrasted the two careers. Fiction depends on inspiration, intuition, free association, the stream of consciousness, the unconscious, fantasies and feelings. Behaviorism dismisses that whole inner world as \"pre-scientific\" and attends only to observable behavior and how to record, predict and control it. The chapter notes that psychic processes appeared in Skinner's work only to be mocked.\n\nA period of depression. Supported by postdoctoral fellowships, Skinner stayed at Harvard until 1936. He then taught at the University of Minnesota and Indiana University and returned to Harvard in 1947. In his 40s he went through a period of depression. He resolved it by going back to his failed identity as a writer and producing the novel Walden Two (1948). Its main character voices Skinner's own personal and professional frustrations. The book is still in print and has sold more than two million copies. It describes a society in which every part of life is controlled by positive reinforcement, the basic principle of his psychology (Altus & Morris, 2009). Adams (2012) suggested that Walden Two anticipated major themes of the later positive psychology movement.\n\nQuirky, conscientious, and somewhat neurotic. Early in his career Skinner agreed to take both the Rorschach and the Thematic Apperception Test. In 2012 a group of Norwegian psychologists analysed his results (Overskeid, Gronnerod, & Simonton, 2012; Gronerod, Overskeid, & Hartmann, 2013; Koren, 2013). They rated him high in conscientiousness and openness to experience, somewhat extraverted, and neurotic. They also described him as quirky and driven in his work, with strained social relationships and a lack of liveliness. One of his daughters, however, called him a wonderful father who spent a great deal of time with his children (Freeman, 2013).\n\nInto his 80s Skinner kept working with enthusiasm. He regulated his habits, recording his daily work output and the average time he spent per published word, which was 2 minutes. He thus became a living example of his own definition of humans as complex systems behaving in lawful ways. He once told a friend that he was cited in the psychology literature more often than Freud. Asked whether that had been his goal, he answered that he thought he might make it (quoted in Bjork, 1993).",
+      "simple": "Skinner turned from fiction to science, read Pavlov and Watson, and got a Harvard Ph.D. in three years. In his 40s he beat depression by writing Walden Two, a novel about a society run on positive reinforcement. Later analysis of his projective tests described him as conscientious, open, quirky and somewhat neurotic. He worked into his 80s and kept careful records of his own output.",
+      "keyPoints": [
+        "Committed to behaviorism after reading Pavlov and Watson; entered Harvard in 1928 and earned a Ph.D. in three years.",
+        "Behaviorism meant rejecting feelings, fantasies and the unconscious as 'pre-scientific' (Mindess).",
+        "Depression in his 40s resolved by writing Walden Two (1948), a society controlled by positive reinforcement.",
+        "Norwegian analysis of his Rorschach and TAT: high conscientiousness and openness, somewhat extraverted, neurotic, quirky.",
+        "Recorded his own output (2 minutes per published word), living out his idea of humans as lawful systems."
+      ]
+    },
+    {
+      "id": "reinforcement-basis",
+      "heading": "Reinforcement: The Basis of Behavior",
+      "pages": [
+        321,
+        321
+      ],
+      "detailed": "Skinner's approach is simple in concept, but it rests on thousands of hours of carefully controlled research. Its central idea is that behavior is controlled by its consequences, that is, by what follows it. Skinner believed that an animal or a person could be trained to do almost anything, and that the kind of reinforcement following the behavior would determine it.\n\nThe social implication is significant and often examined. Whoever controls the reinforcers has the power to control human behavior, just as an experimenter controls the behavior of a laboratory rat. This places the cause of behavior wholly outside the person, in the pattern of consequences supplied by the environment, parents, teachers, employers and governments.\n\nSkinner then separated two kinds of behavior, respondent and operant, explained in the next sections. Both depend on reinforcement, but they differ in how they are produced and whether they change the environment.",
+      "simple": "Skinner's key idea is that what happens after a behavior controls whether it happens again. With the right reinforcement, almost any behavior can be trained. So whoever controls the rewards controls the behavior.",
+      "keyPoints": [
+        "Behavior is controlled by its consequences, by what follows it.",
+        "Almost any act can be trained; the type of reinforcement determines the behavior.",
+        "Whoever controls the reinforcers controls behavior, as an experimenter controls a rat.",
+        "Skinner distinguished respondent from operant behavior."
+      ]
+    },
+    {
+      "id": "respondent-behavior",
+      "heading": "Respondent Behavior (Conditioning, Reinforcement, Extinction)",
+      "pages": [
+        321,
+        322
+      ],
+      "detailed": "Respondent behavior is a response made to, or elicited by, a specific stimulus. The simplest kind is reflexive, such as the knee jerk: a tap on the knee (stimulus) produces a jerk of the leg (response). This behavior is unlearned. It happens automatically and involuntarily, and we need no training or conditioning to make it.\n\nConditioning. At a higher level is respondent behavior that is learned. This learning, called conditioning, involves substituting one stimulus for another. The concept came from the Russian physiologist Ivan Pavlov in the early 1900s, and John B. Watson later adopted Pavlov's ideas as the basic research method of behaviorism. Pavlov noticed that his dogs salivated to neutral stimuli such as the sound of their keeper's footsteps, although salivation had earlier been produced only by the sight of food. He then studied this systematically by sounding a bell shortly before feeding a dog. At first the dog salivated only to the food, because the bell meant nothing. After a number of bell-then-food pairings, the dog salivated to the bell alone. It had been conditioned: its response had shifted from the food to a formerly neutral stimulus.\n\nReinforcement. Pavlov's experiment showed the importance of reinforcement. The dogs would not learn to respond to the bell unless they were rewarded for doing so, and here the reward was food. Pavlov stated a basic law of learning: a conditioned response cannot be established without reinforcement. Reinforcing a response strengthens it and makes it more likely to be repeated.\n\nExtinction. A conditioned response will also not be maintained without reinforcement. Suppose the experimenter keeps ringing the bell but stops giving food. Each time the bell sounds and nothing follows, the dog's salivation drops in frequency and intensity until it disappears. This is extinction: the response is wiped out because the reinforcement has stopped. Much research shows that the more reinforcement is given during training, the more resistant the conditioned response is to extinction (Shull & Grimes, 2006). Eventually, however, extinction does occur.\n\nExam tip: respondent behavior is elicited by a known stimulus, depends on reinforcement, and does nothing to change the environment. This is the contrast with operant behavior.",
+      "simple": "Respondent behavior is a reaction that a particular stimulus pulls out of us, like a knee jerk. Pavlov showed that a dog could learn to salivate to a bell paired with food, which is conditioning. The response forms only if it is reinforced, and it fades away (extinction) when reinforcement stops.",
+      "keyPoints": [
+        "Respondent behavior is elicited by a specific stimulus; reflexes like the knee jerk are unlearned and involuntary.",
+        "Conditioning (learned respondent behavior) substitutes one stimulus for another (Pavlov; adopted by Watson).",
+        "Pavlov's dogs came to salivate to a bell after repeated bell-food pairings.",
+        "Pavlov's law: no conditioned response can be established without reinforcement.",
+        "Extinction: withholding reinforcement eliminates the response; more reinforcement in training gives more resistance to extinction."
+      ]
+    },
+    {
+      "id": "operant-behavior",
+      "heading": "Operant Behavior",
+      "pages": [
+        322,
+        323
+      ],
+      "detailed": "Respondent behavior depends on reinforcement and is tied directly to a physical stimulus, so each response is elicited by a specific stimulus. Skinner considered respondent behavior less important than operant behavior. We are conditioned to respond to many stimuli, but this cannot explain all behavior. Much human behavior seems spontaneous and cannot be traced to any particular stimulus. Such behavior is emitted, not elicited. It looks voluntary rather than an involuntary reaction to a conditioned stimulus.\n\nOperant behavior is behavior emitted spontaneously or voluntarily that operates on the environment and changes it. Its nature and frequency are determined or modified by the reinforcement that follows it.\n\nThe key contrast concerns the environment. Respondent behavior has no effect on the environment: the salivation of Pavlov's dog did not change the bell or the food that followed it. Operant behavior acts on the environment and changes it as a result. The word 'operant' itself means that the organism operates on its surroundings.\n\nComparison for exams. Respondent behavior is elicited by a known stimulus, is often reflexive or involuntary, and leaves the environment unchanged; the knee jerk and the dog salivating to a bell are examples. Operant behavior is emitted with no identifiable eliciting stimulus, appears voluntary, changes the environment, and is controlled by the consequences that follow it; the rat pressing a bar for food is the example. Skinner considered operant behavior far more important for understanding human behavior.",
+      "simple": "Operant behavior is behavior we give out on our own, not something a stimulus pulls out of us. It changes the world around us, and what happens afterwards (reinforcement) decides how often we repeat it. Skinner thought this kind of behavior mattered much more than respondent behavior.",
+      "keyPoints": [
+        "Operant behavior is emitted, not elicited; it appears spontaneous and voluntary.",
+        "Its nature and frequency are determined by the reinforcement that follows it.",
+        "Respondent behavior does not change the environment; operant behavior operates on it and changes it.",
+        "Skinner rated operant behavior as more important than respondent behavior."
+      ]
+    },
+    {
+      "id": "skinner-box",
+      "heading": "Operant Conditioning and the Skinner Box",
+      "pages": [
+        323,
+        324
+      ],
+      "detailed": "Operant conditioning is the procedure by which a change in the consequences of a response affects the rate at which the response occurs. Skinner illustrated it with his operant-conditioning apparatus, known as the Skinner box (Figure 12.1).\n\nA food-deprived rat placed in the box at first behaves spontaneously and randomly: it is active, sniffing, poking and exploring. These behaviors are emitted, not elicited, because the rat is not responding to any particular stimulus. At some point during this random activity, it presses a lever or bar on one wall, and a food pellet drops into a trough. Its behavior has operated on the environment and changed it, since the environment now contains food. The food is a reinforcer for bar pressing.\n\nThe rat begins pressing the bar more often, gets more food, and presses still more. Its behavior is now under the control of the reinforcers. Its activity becomes less random because it spends most of its time pressing and eating. If the rat is put back the next day, we can predict its behavior and control its bar pressing by presenting or withholding reinforcers, or by presenting them at a different rate. Withholding food extinguishes operant behavior just as it extinguishes respondent behavior: a behavior that no longer brings a reward eventually stops. So whoever controls the reinforcers controls the subject's behavior.\n\nFrom the Skinner box to the real world. Many animals have been taught complex behaviors through operant conditioning. Dogs have been conditioned to sniff out drugs or explosives. Giant African rats in Mozambique have been trained to detect buried land mines. Lobsters have learned to grasp a bar with their claws to get food. Whales and dolphins perform tricks at places like SeaWorld, and calves have been taught to urinate only in designated places (Gillaspy, Brinegar, & Bailey, 2014; Poling et al., 2010; Tomina & Takahata, 2010; Vaughan et al., 2014).",
+      "simple": "In the Skinner box, a hungry rat happens to press a lever and gets food. Because the food follows the press, the rat presses more and more, and its behavior comes under the control of the food. Stop the food and the pressing dies out. The same method has trained dogs, rats, lobsters, dolphins and calves to do useful tasks.",
+      "keyPoints": [
+        "Operant conditioning: changing the consequences of a response changes its rate.",
+        "In the Skinner box, a random bar press produces food, which reinforces further pressing.",
+        "The experimenter can predict and control behavior by presenting, withholding or re-timing reinforcers.",
+        "Withholding reinforcement extinguishes operant behavior too.",
+        "Real-world uses: drug and explosive dogs, mine-detecting rats in Mozambique, lobsters, dolphins, calves."
+      ]
+    },
+    {
+      "id": "operating-on-environment",
+      "heading": "Operating on the Environment",
+      "pages": [
+        324,
+        324
+      ],
+      "detailed": "Skinner believed that most human and animal behavior is learned through operant conditioning. Babies show how. An infant first produces random, spontaneous behaviors, and only some of them are reinforced by parents, siblings or caregivers, for example with food, hugs or toys. As the child grows, the positively reinforced behaviors that parents approve of persist. Those the parents disapprove of are extinguished.\n\nThe principle is the same as for the rat in the Skinner box. Behaviors that work, such as pressing the bar for food, are shown often, and behaviors that do not work are dropped. The relationship runs both ways. The organism's behavior operates on the environment, and the environment, in the form of reinforcement, operates back on the behavior.\n\nThis shows how powerful reinforcement can be. Skinner (1953) compared operant conditioning to a sculptor shaping a lump of clay. If the organism needs the reinforcer badly enough, there is almost no limit to how its behavior can be shaped. The shaper might be an experimenter with a food pellet, a puppy owner with a dog biscuit, a mother with a smile, a boss with a pat on the back, or a government with a promise.",
+      "simple": "Babies do lots of random things, and the ones parents reward stick while the rest fade. Behavior changes the environment, and the environment's rewards change behavior back. If someone needs a reward badly enough, their behavior can be shaped almost without limit.",
+      "keyPoints": [
+        "Most human and animal behavior is learned through operant conditioning.",
+        "Infants' reinforced behaviors persist; unreinforced or disapproved ones are extinguished.",
+        "Two-way process: behavior operates on the environment, and reinforcement operates on behavior.",
+        "Operant conditioning shapes behavior as a sculptor shapes clay; reinforcers range from food pellets to a government's promise."
+      ]
+    },
+    {
+      "id": "personality-operant",
+      "heading": "Personality: A Collection of Operant Behaviors",
+      "pages": [
+        324,
+        324
+      ],
+      "detailed": "From infancy we emit many behaviors, and those that are reinforced grow stronger and form patterns. This is how Skinner understood personality: as a pattern or collection of operant behaviors, not as an inner structure or set of traits.\n\nThe same view explains abnormality. What other psychologists called neurotic or abnormal behavior was, for Skinner, nothing mysterious. It was simply the continued performance of undesirable behaviors that had somehow been reinforced. This implies that changing the reinforcement can change abnormal behavior, which is the logic of behavior modification later in the chapter.\n\nHaving shown that behavior could be changed by continuous reinforcement, that is, giving a reinforcer after every response, Skinner asked what would happen if he varied the rate of reinforcement. This led to his work on schedules of reinforcement.",
+      "simple": "For Skinner, personality is just the set of behaviors that have been rewarded and have become habits. 'Abnormal' behavior is simply unwanted behavior that has somehow been rewarded. He then asked what happens if behavior is rewarded only some of the time.",
+      "keyPoints": [
+        "Personality = a pattern or collection of operant behaviors that have been reinforced.",
+        "Neurotic or abnormal behavior = undesirable behavior that has somehow been reinforced.",
+        "Continuous reinforcement means a reinforcer after every response.",
+        "Skinner next varied the rate of reinforcement, which led to schedules of reinforcement."
+      ]
+    },
+    {
+      "id": "schedules-fixed",
+      "heading": "Schedules of Reinforcement: Fixed Interval and Fixed Ratio",
+      "pages": [
+        324,
+        326
+      ],
+      "detailed": "Skinner noted that outside the laboratory behavior is rarely reinforced every time it happens. Babies are not picked up every time they cry. Baseball stars do not hit a home run at every at-bat. A supermarket bagger is not tipped for every bag, and a favorite band does not win a Grammy for every song. Yet these behaviors persist on occasional reinforcement. Skinner also observed that his rats kept pressing at a fairly steady rate even when not every press was reinforced. He therefore tested different reinforcement schedules, meaning patterns or rates of providing or withholding reinforcers, to see how well they control behavior. The four he tested were fixed interval, fixed ratio, variable interval and variable ratio.\n\nFixed interval (FI). The reinforcer is given for the first response that occurs after a fixed period of time has passed, such as 1 or 3 minutes. Timing has nothing to do with the number of responses. Whether the rat presses 3 or 20 times a minute, the reinforcer comes only after the set time has elapsed and the correct response is made. A job paid weekly or monthly works this way: pay depends on the time worked, not on the number of items made or sales closed.\n\nSkinner found that the shorter the interval between reinforcers, the more often the animal responded, and response rate fell as the interval grew longer. How often reinforcers came also affected how quickly the response could be extinguished. The response stopped sooner when a continuously reinforced rat lost its reinforcement than when an intermittently reinforced rat did. FI schedules have proved highly effective in real situations, including special education classrooms, where they reduced disruptive behavior (Tomlin & Reed, 2012).\n\nFixed ratio (FR). Reinforcers are given only after a set number of responses, for example every 10th or 20th. Unlike FI, reinforcement here depends on how often the subject responds: the rat gets no pellet until it has made the required number of presses. FR produces a faster rate of responding than FI, and this holds for humans too. In piece-rate work, earnings depend on how much is produced. A salesperson on commission earns more by selling more. By contrast, a salesperson on a weekly salary is on an FI schedule and earns the same regardless of sales.",
+      "simple": "Real-life behavior is usually rewarded only some of the time. On a fixed-interval schedule, the reward comes for the first response after a set time, like a monthly salary. On a fixed-ratio schedule, the reward comes after a set number of responses, like piece-rate pay or commission, and this makes people respond faster.",
+      "keyPoints": [
+        "Reinforcement schedules are patterns or rates of providing or withholding reinforcers; Skinner tested FI, FR, VI and VR.",
+        "Fixed interval: reinforcement for the first response after a fixed time (weekly or monthly salary).",
+        "Shorter FI intervals give higher response rates; continuous reinforcement extinguishes faster than intermittent.",
+        "FI has reduced disruptive behavior in special education classrooms (Tomlin & Reed, 2012).",
+        "Fixed ratio: reinforcement after a set number of responses (piece-rate, commission); faster responding than FI."
+      ]
+    },
+    {
+      "id": "schedules-variable",
+      "heading": "Schedules of Reinforcement: Variable Interval and Variable Ratio",
+      "pages": [
+        326,
+        326
+      ],
+      "detailed": "Everyday life does not always allow fixed schedules, so reinforcers often come on a variable basis.\n\nVariable interval (VI). The time between reinforcers varies. The reinforcer might come after 2 hours the first time, after 1 hour 30 minutes the next, and after 2 hours 15 minutes the third. Someone fishing all day is rewarded, if at all, on a VI basis, because the schedule depends on fish biting at random times.\n\nVariable ratio (VR). Reinforcement is based on an average number of responses between reinforcers, with wide variation around that average. Skinner found VR very effective at producing high and stable response rates, which, the book notes, casino operators can confirm. Slot machines, roulette wheels, horse races and state lotteries all pay on VR schedules, an extremely effective way to control behavior.\n\nGeneral conclusions. Variable schedules produce lasting responses that tend to resist extinction. Most everyday learning happens on variable-interval or variable-ratio schedules. Overall, Skinner's research showed that reinforcement schedules are effective for controlling, modifying and shaping behavior. Anyone in charge of rats, salespeople or assembly-line workers, or training a pet or a child, can use these techniques to produce the behavior they want.\n\nQuick comparison of all five. Continuous: every response is reinforced; learning is quick, but extinction is also quick. FI: reinforcement after a fixed time; response rate rises as the interval shortens. FR: reinforcement after a fixed number of responses; faster than FI. VI: reinforcement after varying times. VR: reinforcement after a varying number of responses around an average; high, stable and very resistant to extinction.",
+      "simple": "On a variable-interval schedule, the reward comes after unpredictable amounts of time, like waiting for a fish to bite. On a variable-ratio schedule, the reward comes after an unpredictable number of tries, like a slot machine. Variable schedules make behavior very persistent and hard to extinguish, and most everyday learning happens this way.",
+      "keyPoints": [
+        "Variable interval: reinforcer after varying time periods (fishing).",
+        "Variable ratio: reinforcer after a varying number of responses around an average (slot machines, roulette, lotteries).",
+        "VR produces high, stable response rates.",
+        "Variable schedules produce lasting behavior that resists extinction; most everyday learning is VI or VR.",
+        "Schedules can be used to control, modify and shape behavior in workers, pets and children."
+      ]
+    },
+    {
+      "id": "shaping",
+      "heading": "The Shaping of Behavior (Successive Approximation; Shaping a Person in Five Minutes)",
+      "pages": [
+        326,
+        328
+      ],
+      "detailed": "In Skinner's original experiment the operant behavior, pressing a lever, is simple. A rat exploring at random is likely to do it eventually, given a patient experimenter. But animals and people show many complex operant behaviors that are very unlikely to occur in the normal course of events. How can a pigeon or a child be conditioned to perform behaviors it would probably never produce on its own?\n\nSuccessive approximation. Skinner's answer was successive approximation, or shaping (Skinner, 1953). He trained a pigeon to peck a particular spot in its cage, something it was unlikely to do by chance. First, the pigeon was reinforced with food simply for turning toward the spot. Then reinforcement was withheld until it made some movement, however slight, toward the spot. Next, only movements that brought it closer were reinforced. After that, it was reinforced only for thrusting its head toward the spot, and finally only when its beak touched the spot. This sounds slow, but Skinner conditioned pigeons this way in less than 3 minutes.\n\nThe procedure explains the name. The organism is reinforced as its behavior, in successive or consecutive stages, comes closer and closer to the final desired behavior. Successive approximation is therefore the chapter's explanation of how complex behavior is acquired.\n\nLearning to speak. Skinner suggested that children learn the complex behavior of speaking in this way. Infants spontaneously make meaningless sounds, which parents reinforce by smiling, laughing and talking. After a while parents reinforce the babbling differently, giving stronger reinforcers for sounds that resemble real words. As the process continues, parental reinforcement becomes more selective and is given only for correct usage and proper pronunciation. Language is thus shaped by differential reinforcement in stages.\n\nShaping the behavior of a person in five minutes. Skinner once shaped the behavior of the psychoanalyst Erich Fromm, whose comments in a lecture annoyed him, especially when Fromm argued that people are not pigeons. Skinner passed a note to a colleague saying he would shape a chopping motion of Fromm's left hand. Whenever Fromm's left hand rose, Skinner looked straight at him. When the hand came down, he nodded and smiled. Within five minutes Fromm was chopping the air so vigorously that his wristwatch kept slipping over his hand (Skinner, 1983). Attention and approval served as reinforcers, showing that shaping works on people even without their awareness.",
+      "simple": "Shaping, or successive approximation, means rewarding small steps that get closer and closer to the behavior you want. Skinner taught pigeons to peck a spot this way in under 3 minutes. Children learn to speak the same way, as parents reward babbling, then word-like sounds, then correct words. Skinner even shaped Erich Fromm's hand gestures during a lecture just by nodding and smiling.",
+      "keyPoints": [
+        "Complex, low-probability behaviors are learned by successive approximation (shaping).",
+        "Pigeon example: reinforce turning toward the spot, then movement toward it, head thrust, and finally a beak touch; done in under 3 minutes.",
+        "Reinforcement is given at successive stages as behavior approximates the final desired behavior.",
+        "Speech is shaped by parents' increasingly selective, differential reinforcement of babbling, word-like sounds and correct words.",
+        "Skinner shaped Erich Fromm's left-hand chopping motion within five minutes using looks, nods and smiles."
+      ]
+    },
+    {
+      "id": "superstitious",
+      "heading": "Superstitious Behavior (How to Shape Superstitious Behavior)",
+      "pages": [
+        328,
+        329
+      ],
+      "detailed": "Life is not as orderly as a laboratory. Sometimes we are reinforced by accident just after doing something. That behavior did not cause the reinforcement in any way, yet it may be repeated in similar situations. Skinner called this superstitious behavior: persistent behavior that has a coincidental, not a functional, relationship to the reinforcement received.\n\nFootball examples. A Tampa Bay Buccaneers offensive lineman having a terrible season early in his career asked his roommate to switch beds so he could sleep nearer the bathroom. His play immediately improved, and for the rest of his career he insisted on the bed nearest the bathroom door in every motel. An NFL kicker hugged the goal posts before each game because he had once done so just before a successful kick. He said he wanted the posts to know he loved them and to stay still when he kicked.\n\nHow to shape superstitious behavior. Skinner showed this in the laboratory. A hungry pigeon in the apparatus was reinforced every 15 seconds on a fixed-interval schedule. The pigeon was almost certainly doing something when each pellet arrived: turning, raising its head, strutting, hopping or standing still. Whatever it was doing at that moment was reinforced. Skinner found that a single reinforcement was enough to make the pigeon repeat the accidentally reinforced behavior more often for a while. That raised the chance that the next pellet would arrive during the same behavior. With short intervals between reinforcers, superstitious behaviors are learned quickly.\n\nAs with the footballers, the pigeon's behavior has no functional link to the reinforcer; the connection is unintentional. In humans, such behaviors may last a lifetime and need only occasional reinforcement to keep them going. The chapter summary adds that superstitious behavior arises when reinforcement is presented on a fixed- or variable-interval schedule.\n\nResearch. A study of major league baseball players in the United States and Japan found that 74 percent admitted to superstitious behavior. American players were more superstitious than Japanese players, suggesting that culture may influence the extent of such actions (Burger & Lynn, 2005).",
+      "simple": "Superstitious behavior happens when a reward arrives by coincidence right after some action, so we keep repeating that action even though it did nothing. Skinner fed pigeons every 15 seconds no matter what, and they kept repeating whatever they happened to be doing at feeding time. Athletes' rituals work the same way. A study found 74 percent of baseball players had superstitions.",
+      "keyPoints": [
+        "Superstitious behavior: persistent behavior with a coincidental, not functional, link to reinforcement.",
+        "Examples: lineman insisting on the bed nearest the bathroom; NFL kicker hugging the goal posts.",
+        "Lab demo: hungry pigeon reinforced every 15 seconds (FI); whatever it was doing got repeated.",
+        "One reinforcement is enough; short intervals speed learning; in humans occasional reinforcement can sustain it for life.",
+        "Burger & Lynn (2005): 74% of US and Japanese baseball players superstitious; Americans more so."
+      ]
+    },
+    {
+      "id": "self-control",
+      "heading": "The Self-Control of Behavior (Stimulus Avoidance, Self-Administered Satiation, Aversive Stimulation, Self-Reinforcement)",
+      "pages": [
+        329,
+        330
+      ],
+      "detailed": "For Skinner, behavior is controlled and modified by variables outside the organism. No process, drive or other internal activity determines it. Even so, he allowed that we can exercise self-control, which he described as acting to alter the impact of external events. Self-control is the ability to exert control over the variables that determine our behavior. He did not mean control by some mysterious inner 'self'. He meant that, to some extent, we can manage the external variables that control us. He described four techniques.\n\n1. Stimulus avoidance. We remove ourselves from an external variable that affects our behavior. If a noisy roommate is disturbing your study before a morning exam, you can go to the library. By avoiding a person or situation that makes you angry, you reduce the control it has over you. Similarly, alcoholics can avoid a stimulus that controls their drinking by not keeping liquor in their homes.\n\n2. Self-administered satiation. We cure ourselves of a bad habit by overdoing the behavior. A smoker who wants to quit can chain-smoke for a time, inhaling until he or she becomes so disgusted, uncomfortable or sick that quitting follows. This technique has worked in formal therapeutic programs designed to eliminate smoking.\n\n3. Aversive stimulation. We arrange unpleasant or repugnant consequences for failing. Obese people who want to lose weight might announce their plan to friends in person or to a larger audience on Facebook or other social networking sites. If they do not keep their resolution, they face the unpleasant consequences of personal failure, embarrassment and criticism.\n\n4. Self-reinforcement. We reward ourselves for good or desirable behavior. A teenager who commits to reaching a certain grade point average, or to looking after a younger brother or sister, might reward himself or herself with concert tickets or new clothes.\n\nThe crucial point for Skinner is that external variables still shape and control behavior. But sometimes, through our own actions, we can modify how those external forces affect us. Self-control in his system is therefore not free will. It is a person rearranging their own environment and consequences.",
+      "simple": "Skinner said behavior is controlled from outside, but we can partly control those outside forces ourselves. We can avoid tempting situations, overdo a bad habit until we are sick of it, set up embarrassing consequences for failing, or reward ourselves for doing well. Self-control is about rearranging our environment, not an inner willpower.",
+      "keyPoints": [
+        "Self-control: the ability to exert control over the external variables that determine our behavior; not a mysterious 'self'.",
+        "Stimulus avoidance: leave or remove the controlling stimulus (go to the library; keep no liquor at home).",
+        "Self-administered satiation: overdo the habit until it becomes aversive (chain-smoking); used in anti-smoking programs.",
+        "Aversive stimulation: arrange unpleasant consequences for failure (public announcement of a weight-loss goal).",
+        "Self-reinforcement: reward yourself for desirable behavior (concert tickets for reaching a target GPA)."
+      ]
+    },
+    {
+      "id": "self-control-benefits",
+      "heading": "Benefits of Self-Control",
+      "pages": [
+        330,
+        330
+      ],
+      "detailed": "The chapter reports several findings on the value of self-control. A large-scale study of American college students found that those scoring high on a measure of self-control had better grades, higher psychological adjustment, and more self-acceptance and self-esteem. They also had better interpersonal skills and family relationships and lower levels of anger than low scorers (Tangney, Baumeister, & Boone, 2004).\n\nHigh self-control is also linked to satisfaction with life, happiness and avoiding frequent conflict (Hofmann, Luhmann, Fisher, Vohs, & Baumeister, 2014).\n\nParenting matters. In a study of African-American children with an average age of 11.2 years, those whose parents were more nurturing and involved had higher self-control than those whose parents were less so (Wills et al., 2007). In Skinner's terms, this fits the idea that self-control is itself learned from the environment.\n\nBaumeister (quoted in Weir, 2012) noted that self-control had become a 'hot topic'. He argued that most problems of modern society involve self-control failure to some degree, including addiction, overeating, crime, domestic violence, sexually transmitted diseases, prejudice, debt, unwanted pregnancy, underperformance at school and work, lack of savings and failure to exercise.",
+      "simple": "Research shows that people with high self-control get better grades, are better adjusted, have higher self-esteem, get along better with others and are happier. Children with nurturing, involved parents develop more self-control. Many modern social problems involve failures of self-control.",
+      "keyPoints": [
+        "Tangney, Baumeister & Boone (2004): high self-control students had better grades, adjustment, self-esteem, relationships and less anger.",
+        "Hofmann et al. (2014): self-control is linked to life satisfaction, happiness and less conflict.",
+        "Wills et al. (2007): nurturing, involved parents produce higher self-control in African-American children (mean age 11.2).",
+        "Baumeister: most modern problems (addiction, crime, debt, etc.) involve self-control failure."
+      ]
+    },
+    {
+      "id": "token-economy",
+      "heading": "Applications of Operant Conditioning: Token Economy Programs",
+      "pages": [
+        330,
+        331
+      ],
+      "detailed": "Psychologists have applied Skinner's operant-conditioning techniques to change human behavior in clinical, business and educational settings. Behavior modification, a form of therapy that applies the principles of reinforcement to bring about desired behavioral change, has worked with children and adults, with the mentally healthy and the mentally disturbed, and with individuals and groups.\n\nThe classic application is the token economy: a behavior-modification technique in which tokens, exchangeable for valued objects or privileges, are awarded for desirable behaviors. In the pioneering study, a ward of female psychotic patients in a state mental institution was run as a giant Skinner box (Ayllon & Azrin, 1968). Conventional treatments could no longer help these patients. They had been institutionalized for a long time and could not care for themselves.\n\nThe patients were offered work normally done by paid attendants and earned tokens that functioned like money. Tokens bought goods and privileges: candy, cigarettes, lipstick, gloves and newspapers, a movie on the ward, a walk around the grounds, or a better room. The most expensive privileges, at 100 tokens, were an escorted trip into town and a private meeting with a social worker. A private meeting with a psychologist cost only 20 tokens. Patients earned a token each for bathing at the set time, brushing their teeth, making their beds, combing their hair and dressing properly. They earned up to 10 tokens for each work period in the kitchen or laundry, or for cleaning the ward, running errands or taking other patients for walks.\n\nThese tasks look simple, but before the program the patients were considered helpless, aimless and incapable of doing almost anything for themselves. The conditioning worked dramatically. The patients groomed themselves, cleaned their surroundings and kept busy with many tasks. They began interacting socially with each other and with staff, and some even took responsibility for patient care. Their self-esteem improved markedly and they became less dependent.\n\nToken economies have reduced problem behaviors in many institutional settings. Aggressive behavior among cognitively impaired psychiatric patients fell by 79 percent after a nine-month program (DePhilippis et al., 2008). The approach was also highly effective with autistic children in Japan (Ogasahara, Hirono, & Kato, 2013).\n\nThe token economy online. Heavy smokers in one study made video recordings of themselves at home twice a day for four weeks. They used a web camera to provide carbon monoxide samples, which were sent electronically to the clinic. They earned vouchers for lowering their carbon monoxide level over a four-day period and for keeping it at a non-smoker's level, and the vouchers could be exchanged for items bought online. The smokers showed significant drops in carbon monoxide and sustained abstinence throughout the study (Dallery, Glenn, & Raiff, 2007).\n\nWhat happens when the tokens stop? Reinforcement must continue if the changes are to last. When tokens are withdrawn, behaviors usually revert to their original state (Kazdin & Bootzin, 1972; Repucci & Saunders, 1974). However, if caregivers are trained to reward desirable behavior with smiles, praise, hugs and other signs of affection, the behaviors learned in the institution are more likely to continue at home (Kazdin, 1989).",
+      "simple": "In a token economy, people earn tokens for good behavior and spend them on treats and privileges. In the first study, long-term psychiatric patients who seemed hopeless began caring for themselves, working and socializing. Token systems have also cut aggression, helped autistic children, and even helped smokers quit online. The catch is that behavior slides back when the tokens stop, unless caregivers keep rewarding it with praise and affection.",
+      "keyPoints": [
+        "Behavior modification applies reinforcement principles to produce desired behavior change.",
+        "Token economy: tokens earned for desirable behavior are exchanged for goods and privileges.",
+        "Ayllon & Azrin (1968): female psychotic patients earned tokens for grooming and work; they became active, social and less dependent.",
+        "Later results: 79% drop in aggression (DePhilippis et al., 2008); autistic children in Japan; online vouchers for smokers (Dallery et al., 2007).",
+        "Behavior reverts when tokens stop, unless caregivers continue with social reinforcers (Kazdin, 1989)."
+      ]
+    },
+    {
+      "id": "behavior-modification",
+      "heading": "Behavior Modification Programs",
+      "pages": [
+        331,
+        331
+      ],
+      "detailed": "Education. Behavior modification has been applied successfully in schools. It has improved academic performance and social behavior in classrooms and reduced behavioral, emotional and developmental problems (Lang & Rispoli, 2015).\n\nBusiness and industry. Behavior modification programs at major manufacturers, financial institutions and government agencies have reduced absenteeism, lateness and abuse of sick leave, and have improved job performance and safety. The techniques can also be used to teach low-level job skills. Reinforcers used in business include pay, job security, recognition from supervisors, perks and status within the company, and opportunities for personal growth.\n\nWhat these programs ignore is as important as what they do. They make no attempt to deal with supposed anxieties, repressed traumas or unconscious motives. The focus is entirely on changing overt behavior: defining the appropriate reinforcers and working out the best rate at which to present them. This is Skinner's 'empty organism' principle put into practice.",
+      "simple": "Behavior modification has improved learning and behavior in schools. In businesses, it has cut absenteeism and lateness and improved performance and safety, using rewards like pay, recognition and status. It works only on visible behavior and ignores inner causes like anxiety or the unconscious.",
+      "keyPoints": [
+        "Education: better academic performance and social behavior; fewer behavioral, emotional and developmental problems (Lang & Rispoli, 2015).",
+        "Business: less absenteeism, lateness and sick-leave abuse; better performance and safety; teaching low-level job skills.",
+        "Business reinforcers: pay, job security, supervisor recognition, perks and status, personal growth.",
+        "Ignores anxieties, repressed traumas and unconscious forces; targets overt behavior, the right reinforcers and their optimal rate."
+      ]
+    },
+    {
+      "id": "punishment-negative-reinforcement",
+      "heading": "Punishment and Negative Reinforcement",
+      "pages": [
+        332,
+        332
+      ],
+      "detailed": "Most operant-conditioning applications use positive reinforcement rather than punishment. The token-economy patients were not punished for failing to behave appropriately. They were reinforced when their behavior improved. Punishment is the application of an aversive stimulus after a response in order to decrease the likelihood that the response will recur.\n\nSkinner held that punishment does not work for changing behavior from undesirable to desirable or from abnormal to normal. Positive reinforcement of desirable behavior is much more effective. In an interview (Goleman, 1987) he argued that punishment works immediately but gives no long-term results. He said people respond to it with an urge to escape, to counterattack, or with stubborn apathy, effects seen in prisons, schools and wherever punishment is used.\n\nNegative reinforcement is not the same as punishment. Negative reinforcement is the strengthening of a response by removing an aversive stimulus. A negative reinforcer is an aversive or noxious stimulus whose removal is rewarding. In a laboratory or classroom, an unpleasant stimulus such as a loud noise or an electric shock can be kept on until the subject emits the desired response. As with positive reinforcement, the environment changes because of the behavior; here the noxious stimulus disappears.\n\nAn everyday example: a person may stop smoking to escape the aversive stimulus of a nagging spouse or colleague. The nagging should stop once the desired behavior, not lighting up at home or in the office, appears.\n\nSkinner opposed using noxious stimuli to change behavior. Their consequences are less predictable than those of positive reinforcement, and negative reinforcement does not always work, whereas positive reinforcement is more consistently effective.\n\nDistinguishing the three (a favorite exam question). Positive reinforcement adds something pleasant after a response, so the response becomes more likely. Negative reinforcement removes something unpleasant after a response, so the response also becomes more likely. Punishment adds something unpleasant after a response, so the response becomes less likely. Both kinds of reinforcement strengthen behavior; punishment aims to weaken it.",
+      "simple": "Skinner preferred positive reinforcement to punishment. Punishment works quickly but does not last, and it makes people want to escape, fight back or stop caring. Negative reinforcement is different from punishment: it strengthens a behavior by taking away something unpleasant, as when a smoker quits so the nagging will stop.",
+      "keyPoints": [
+        "Most applications use positive reinforcement, not punishment.",
+        "Punishment: an aversive stimulus after a response, to make it less likely.",
+        "Skinner: punishment works immediately but not long term; it produces escape, counterattack or apathy.",
+        "Negative reinforcement strengthens a response by removing an aversive stimulus (nagging stops when smoking stops).",
+        "Skinner opposed noxious stimuli: results are less predictable, and negative reinforcement is less consistent than positive."
+      ]
+    },
+    {
+      "id": "human-nature",
+      "heading": "Questions about Human Nature",
+      "pages": [
+        332,
+        333
+      ],
+      "detailed": "Nature versus nurture. Skinner's position is clear. People are mainly products of learning, shaped more by external variables than by genetic factors.\n\nChildhood versus later experience. We can infer that childhood experiences matter more than later ones, because our basic behaviors are formed in childhood. But behavior can still change in adulthood. What was learned in childhood can be modified, and new behavior patterns can be acquired at any age. The success of behavior-modification programs supports this.\n\nUniqueness versus universality. Because behavior is shaped by learning, and everyone has different experiences, especially in childhood, each person is unique. No two people behave in exactly the same way.\n\nUltimate goal. Skinner did not address the idea of a necessary life goal. He made no mention of overcoming inferiority, reducing anxiety or striving for self-actualization, because these assume internal, subjective states that he rejected. Any life goal in his work is societal rather than individual. In Walden Two and elsewhere he described an ideal society and argued that individual behavior should be directed toward the kind of society with the best chance of survival.\n\nFree will versus determinism. Skinner believed people function like machines, in lawful, orderly and predetermined ways. He rejected any idea of an inner being or autonomous self that chooses to act freely and spontaneously. From his scholarly work to his utopian novel, his message was the same: behavior is controlled by reinforcers. In a sense this makes it pointless to blame or punish people. On this view, a dictator who orders mass killings, or a serial killer, is no more responsible than a driverless car rolling down a hill, since both operate lawfully under external control.\n\nOptimism versus pessimism. This does not leave us as helpless, passive robots. Although controlled by the environment, we are responsible for designing that environment. Buildings, cities, consumer goods, factories, media and government institutions are human creations. So are social systems, languages, laws, customs and recreations. We constantly change our environment, often to our advantage, and so we are both controller and controlled: we design the controlling culture and are products of it. Skinner said we may not be free agents but can improve our lives by rearranging the controls on our behavior. His aim, he said, was not to change people but to change the world they live in (quoted in Bjork, 1993).\n\nSummary of his image of human nature: nurture over nature, childhood important but change possible at any age, uniqueness, a societal survival goal, strict determinism, and qualified optimism through environmental design.",
+      "simple": "Skinner believed people are shaped by learning, not genes. Childhood matters most, but behavior can change at any age, and everyone is unique because their experiences differ. There is no free will: we behave like machines controlled by reinforcers. Still, humans design their own environment, so we can improve our lives by changing it.",
+      "keyPoints": [
+        "Nature–nurture: people are products of learning; external variables matter more than genetics.",
+        "Childhood forms basic behaviors, but new patterns can be learned at any age (shown by behavior modification).",
+        "Each person is unique because experiences differ.",
+        "No individual ultimate goal; the only goal is societal survival (Walden Two).",
+        "Strict determinism (people as machines), yet we are both controller and controlled because we design our environment."
+      ]
+    },
+    {
+      "id": "assessment",
+      "heading": "Assessment in Skinner's Theory (Direct Observation, Self-Reports, Physiological Measurements)",
+      "pages": [
+        333,
+        334
+      ],
+      "detailed": "Skinner did not use the usual assessment methods of other theorists. There was no place in his work for free association, dream analysis or projective techniques. Since he was not dealing with personality, he had no interest in assessing it. He did, however, assess behavior.\n\nBefore any behavior-modification program, two things must be assessed. The first is the specific behaviors, both desirable and undesirable. The second is the environmental factors that act as reinforcers and can be manipulated to change behavior. No behavior can be properly modified without this prior assessment.\n\nFunctional analysis. Skinner's approach to assessing behavior is called functional analysis. It examines three aspects: (1) the frequency of the behavior, (2) the situation in which it occurs, and (3) the reinforcement associated with it. A behavior-modification program cannot be planned until these are known. For example, smokers who want to quit are asked to keep an accurate daily record of how many cigarettes they smoke and in what situations. Does smoking happen in a particular place or at a certain time? With others or alone? After meals or while driving? What are the reinforcers? Most smokers smoke more in the presence of certain stimuli. Identifying these is necessary, because changing the stimuli should change the smoking.\n\nThree approaches. Behavior is assessed through direct observation, self-reports and physiological measurements.\n\nDirect observation. Many behaviors can be observed directly, usually by two or more observers to ensure accuracy and reliability. In a classic case (Hawkins, Peterson, Schweid, & Bijou, 1966), a mother sought help for her unruly 4-year-old son. Two psychologists observed mother and child at home to record the nature and frequency of his undesirable behaviors, when and where they occurred, and what reinforcers he received. They identified nine undesirable behaviors, including kicking, throwing things, biting and pushing a sibling. They saw that the mother gave the boy toys or food when he misbehaved, hoping to make him stop. She was actually rewarding and thus reinforcing the misbehavior. The observation took 16 hours, but without it the psychologists would not have known which behaviors to target or what reinforcers the child expected. The mother was then told to use attention and approval as reinforcers when the child behaved well and never to reward any of the nine undesirable behaviors. The frequencies recorded during observation provided a baseline against which behavior during and after treatment could be compared.\n\nSelf-reports. Interviews and questionnaires ask people to observe and report on their own behavior. For example, a questionnaire might assess how much fear a person feels when driving, going to the dentist or speaking in public. These questionnaires are similar in format to self-report personality inventories.\n\nPhysiological measurements. Heart rate, muscle tension and brain waves can be recorded to evaluate the physiological effects of various stimuli. They can also confirm the accuracy of information from other methods. A person too embarrassed to admit a fear of elevators in an interview or questionnaire might still show a change in heart rate or muscle tension when asked about elevators.\n\nWhatever technique is used, the focus stays on what people do, not on what might have motivated them. The ultimate goal is to modify behavior, not to change personality.",
+      "simple": "Skinner did not assess personality, only behavior. His functional analysis asks how often a behavior happens, in what situations, and what reinforces it. Behavior is measured by directly watching it, by asking people to report on themselves, or by recording body signals like heart rate. The goal is always to change behavior, not personality.",
+      "keyPoints": [
+        "No free association, dream analysis or projective tests; Skinner assessed behavior, not personality.",
+        "Functional analysis: frequency of the behavior, situation in which it occurs, and its reinforcers.",
+        "Direct observation, usually by two or more observers; Hawkins et al. (1966) found a mother was reinforcing her son's nine misbehaviors.",
+        "Self-reports via interviews and questionnaires (e.g., fear of driving, the dentist, public speaking).",
+        "Physiological measures (heart rate, muscle tension, brain waves) evaluate stimulus effects and check other methods."
+      ]
+    },
+    {
+      "id": "research",
+      "heading": "Research on Skinner's Theory",
+      "pages": [
+        334,
+        335
+      ],
+      "detailed": "Skinner's research methods differed from mainstream experimental psychology as much as his assessment methods differed from other theorists'. The usual procedure is to study large groups of animal or human subjects and compare their average responses statistically. Skinner instead preferred the intensive study of a single subject.\n\nHis reasons were these. Data on the average performance of a group are of little value in dealing with a particular case. A science built on averages offers little help in understanding the unique individual. Skinner believed that valid and replicable results could be obtained without statistical analysis, as long as enough data were collected from a single subject under well-controlled experimental conditions. Large groups force the experimenter to deal with average behavior. The resulting data cannot reflect individual response behavior or individual differences.\n\nSkinner and his followers conducted thousands of operant-conditioning experiments on topics such as reinforcement schedules, language acquisition, behavior shaping, superstitious behavior and behavior modification. The results have been highly supportive of his ideas.\n\nResearch highlights from the chapter: (1) greater reinforcement during training makes a conditioned response more resistant to extinction; (2) operant conditioning can shape most forms of behavior in humans and animals; (3) even a lobster can be conditioned; (4) American major league players show more superstitious behavior than Japanese players; (5) college students high in self-control get better grades, are better adjusted and have higher self-esteem; (6) token economies have cut aggression in cognitively impaired patients by as much as 79 percent.",
+      "simple": "Most psychologists study large groups and compare averages with statistics. Skinner instead studied one subject in great detail, because averages say little about any single individual. Thousands of experiments by Skinner and his followers have strongly supported his ideas.",
+      "keyPoints": [
+        "Mainstream research compares group averages statistically; Skinner preferred intensive study of a single subject.",
+        "Group averages are of little value for a particular case or the unique individual.",
+        "Valid, replicable results are possible without statistics, given enough data under well-controlled conditions.",
+        "Thousands of experiments on schedules, language, shaping, superstition and behavior modification have been highly supportive."
+      ]
+    },
+    {
+      "id": "reflections",
+      "heading": "Reflections on Skinner's Theory",
+      "pages": [
+        335,
+        336
+      ],
+      "detailed": "Criticisms. Those who oppose determinism find much to dislike in Skinner. Humanistic psychologists, who see people as more complex than machines, rats or pigeons, object to his image of human nature. They argue that focusing only on overt behavior ignores uniquely human qualities such as conscious free will.\n\nCritics also question his choice of subjects and the simplicity of his experimental situations. Skinner made broad, confident claims about human behavior and society, covering social, economic, religious and cultural issues. Critics ask whether one can really extrapolate from a pigeon pecking a disc to a person functioning in the real world. The gap seems too vast for such broad generalizations, and many aspects of human behavior cannot be meaningfully reduced to the level at which Skinner worked. The chapter summary also mentions criticism of his lack of interest in any behavior other than response rate.\n\nInstinctive drift. Skinner's belief that all behavior is learned was challenged by two of his former students, Breland and Breland. They conditioned more than 6,000 animals of 38 species, including pigs, raccoons, chickens, hamsters, porpoises, whales and cows, to perform in television commercials and tourist attractions. The animals showed instinctive drift: they substituted instinctive behaviors for the behaviors that had been reinforced, even when this interfered with getting food. For example, pigs and raccoons were trained to pick up a coin, carry it some distance and drop it into a toy piggy bank, earning food after a certain number of coins. They learned quickly, but after a while the pigs began burying the coin and rooting it out with their snouts, and the raccoons spent a long time rubbing it with washing-like movements (Richelle, 1993). Instinctive behavior took precedence over learned behavior, even though it delayed reinforcement. Commercially it was a disaster. The trainers' article, \"The Misbehavior of Organisms\" (Breland & Breland, 1961), parodied the title of Skinner's book The Behavior of Organisms (1938) and reportedly displeased him (Gillaspy, 2009).\n\nSkinner's response. He ignored most criticism. He once said of a critic's review that he read a bit, saw the critic had missed the point, and had better things to do than correct misunderstandings (quoted in Rice, 1968). Asked how he coped with being misunderstood so often, he said he needed to be understood only three or four times a year (quoted in Blackman, 1995).\n\nContributions and recognition. Skinner was a potent force in 20th-century American psychology and perhaps shaped the field more than anyone else. The Journal of the Experimental Analysis of Behavior, begun in 1958, publishes research on individual subjects. The Journal of Applied Behavior Analysis was founded in 1968 for work on behavior-modification techniques. He received the American Psychological Foundation's Gold Medal and the APA's Distinguished Scientific Contribution Award (1958). Its citation praised his profound impact on psychology and on promising younger psychologists. His first book, The Behavior of Organisms: An Experimental Analysis (1938), was described as one of the few books to truly change the field (Thompson, 1988). He also received the U.S. National Medal of Science and appeared on the cover of Time as the world's most famous American psychologist. His controversial Beyond Freedom and Dignity (1971) became a best seller. It made him a celebrity on talk shows, swamped with mail, calls and visits, and asked by strangers to shake his hand in restaurants (Bjork, 1993).",
+      "simple": "Critics say Skinner treated people like machines, ignored free will, and generalized too far from simple animal experiments. His own former students, the Brelands, found that trained animals drift back to instinctive behaviors, which showed that not everything is learned. Skinner mostly ignored critics. He was still one of the most influential and famous psychologists of the 20th century.",
+      "keyPoints": [
+        "Criticized by opponents of determinism and by humanists for ignoring conscious free will and uniquely human qualities.",
+        "Critics question generalizing from simple animal experiments (a pigeon pecking a disc) to complex human society.",
+        "Instinctive drift (Breland & Breland, 1961): animals replaced reinforced behaviors with instinctive ones, challenging 'all behavior is learned'.",
+        "Skinner ignored most criticism ('understood only three or four times a year').",
+        "Honors: APA Distinguished Scientific Contribution Award (1958), APF Gold Medal, National Medal of Science, Time cover; two journals founded."
+      ]
+    },
+    {
+      "id": "current-status",
+      "heading": "Current Status",
+      "pages": [
+        336,
+        336
+      ],
+      "detailed": "Skinner's radical behaviorism is still applied in laboratory, clinical and organizational settings. However, its dominance has been challenged by the cognitive movement in psychology, which began in the 1960s. Skinner himself admitted that his kind of psychology had lost ground to the cognitive approach. Other psychologists agreed. Baars (1986) wrote that Skinnerian behaviorism had fallen from favor with most active researchers and was often referred to in the past tense.\n\nDespite these inroads by cognitive psychology, Skinner's position remains influential in many areas: classrooms, assembly lines, Skinner boxes and treatment programs for behavior disorders. Skinner believed that operant conditioning offered a technique for improving human nature and the societies people design.\n\nFor exam answers on the impact of cognitive psychology: the cognitive movement reinstated the inner mental processes that Skinner excluded, and it displaced radical behaviorism as the dominant approach. Behaviorism's applied techniques, especially behavior modification, nonetheless remain popular and effective.",
+      "simple": "Since the 1960s, cognitive psychology, which studies the mind, has pushed Skinner's behaviorism out of first place, and even Skinner admitted it. But his methods are still widely used in schools, workplaces and therapy programs.",
+      "keyPoints": [
+        "Radical behaviorism is still applied in laboratory, clinical and organizational settings.",
+        "The cognitive movement (from the 1960s) challenged and overtook its dominance; Skinner conceded this.",
+        "Baars (1986): behaviorism had fallen from favor and was often spoken of in the past tense.",
+        "Still influential in classrooms, assembly lines, Skinner boxes and treatment of behavior disorders."
+      ]
+    }
+  ],
+  "terms": [
+    {
+      "term": "Behavioral approach",
+      "definition": "Skinner's approach of studying only overt, observable behavior and explaining it by external consequences, without reference to inner states.",
+      "page": 317
+    },
+    {
+      "term": "Empty organism",
+      "definition": "Skinner's description of humans: nothing inside the organism (mental or physiological) can explain behavior in scientific terms.",
+      "page": 318
+    },
+    {
+      "term": "Respondent behavior",
+      "definition": "Responses made to, or elicited by, specific environmental stimuli, such as a reflexive knee jerk.",
+      "page": 321
+    },
+    {
+      "term": "Conditioning",
+      "definition": "Learned respondent behavior in which one stimulus comes to substitute for another, as when Pavlov's dogs salivated to a bell.",
+      "page": 321
+    },
+    {
+      "term": "Reinforcement",
+      "definition": "Strengthening a response by adding a reward, which makes the response more likely to be repeated.",
+      "page": 322
+    },
+    {
+      "term": "Extinction",
+      "definition": "Eliminating a behavior by withholding reinforcement.",
+      "page": 322
+    },
+    {
+      "term": "Operant behavior",
+      "definition": "Behavior emitted spontaneously or voluntarily that operates on the environment and changes it.",
+      "page": 322
+    },
+    {
+      "term": "Emitted vs. elicited behavior",
+      "definition": "Elicited behavior is drawn out by a specific stimulus (respondent); emitted behavior occurs with no identifiable stimulus (operant).",
+      "page": 322
+    },
+    {
+      "term": "Operant conditioning",
+      "definition": "The procedure by which changing the consequences of a response affects the rate at which the response occurs.",
+      "page": 323
+    },
+    {
+      "term": "Skinner box",
+      "definition": "Skinner's operant-conditioning apparatus, in which a rat's lever press delivers a food pellet.",
+      "page": 323
+    },
+    {
+      "term": "Continuous reinforcement",
+      "definition": "Presenting a reinforcer after every response.",
+      "page": 324
+    },
+    {
+      "term": "Reinforcement schedules",
+      "definition": "Patterns or rates of providing or withholding reinforcers.",
+      "page": 325
+    },
+    {
+      "term": "Fixed-interval schedule",
+      "definition": "Reinforcement for the first response after a fixed time period has elapsed, regardless of the number of responses (e.g., a monthly salary).",
+      "page": 325
+    },
+    {
+      "term": "Fixed-ratio schedule",
+      "definition": "Reinforcement only after a specified number of responses (e.g., piece-rate pay, commission).",
+      "page": 326
+    },
+    {
+      "term": "Variable-interval schedule",
+      "definition": "Reinforcement after time periods that vary from one reinforcement to the next (e.g., fishing).",
+      "page": 326
+    },
+    {
+      "term": "Variable-ratio schedule",
+      "definition": "Reinforcement after a number of responses that varies around an average (e.g., slot machines); produces high, stable, extinction-resistant responding.",
+      "page": 326
+    },
+    {
+      "term": "Intermittent reinforcement",
+      "definition": "Reinforcing only some responses; responses reinforced this way take longer to extinguish than continuously reinforced ones.",
+      "page": 326
+    },
+    {
+      "term": "Successive approximation (shaping)",
+      "definition": "Explanation of how complex behavior is acquired: behavior is reinforced only as it comes closer to the final desired behavior.",
+      "page": 327
+    },
+    {
+      "term": "Differential reinforcement",
+      "definition": "Giving stronger or more selective reinforcement to responses closer to the target, as when parents shape speech in stages.",
+      "page": 328
+    },
+    {
+      "term": "Superstitious behavior",
+      "definition": "Persistent behavior that has a coincidental, not functional, relationship to the reinforcement received.",
+      "page": 328
+    },
+    {
+      "term": "Self-control",
+      "definition": "The ability to exert control over the variables that determine our behavior.",
+      "page": 329
+    },
+    {
+      "term": "Stimulus avoidance",
+      "definition": "Self-control technique of removing oneself from, or removing, a stimulus that controls one's behavior.",
+      "page": 329
+    },
+    {
+      "term": "Self-administered satiation",
+      "definition": "Self-control technique of curing a bad habit by overdoing the behavior until it becomes aversive.",
+      "page": 329
+    },
+    {
+      "term": "Aversive stimulation",
+      "definition": "Self-control technique of arranging unpleasant consequences (embarrassment, criticism) for failing to keep a resolution.",
+      "page": 329
+    },
+    {
+      "term": "Self-reinforcement",
+      "definition": "Self-control technique of rewarding oneself for good or desirable behavior.",
+      "page": 329
+    },
+    {
+      "term": "Behavior modification",
+      "definition": "A form of therapy that applies the principles of reinforcement to bring about desired behavioral changes.",
+      "page": 330
+    },
+    {
+      "term": "Token economy",
+      "definition": "A behavior-modification technique in which tokens, exchangeable for valued objects or privileges, are awarded for desirable behaviors.",
+      "page": 330
+    },
+    {
+      "term": "Positive reinforcement",
+      "definition": "Strengthening behavior by presenting a reward after it; the basic principle of Skinner's system and of Walden Two.",
+      "page": 332
+    },
+    {
+      "term": "Punishment",
+      "definition": "Applying an aversive stimulus after a response to decrease the likelihood that the response will recur.",
+      "page": 332
+    },
+    {
+      "term": "Negative reinforcement",
+      "definition": "Strengthening a response by removing an aversive stimulus.",
+      "page": 332
+    },
+    {
+      "term": "Functional analysis",
+      "definition": "Studying behavior by assessing its frequency, the situation in which it occurs, and the reinforcers associated with it.",
+      "page": 333
+    },
+    {
+      "term": "Direct observation",
+      "definition": "Assessing behavior by having observers, usually two or more, watch and record it.",
+      "page": 333
+    },
+    {
+      "term": "Baseline",
+      "definition": "The pre-treatment frequency of a behavior, against which behavior during and after treatment is compared.",
+      "page": 334
+    },
+    {
+      "term": "Self-report (behavioral)",
+      "definition": "Assessing behavior through interviews and questionnaires in which people observe and report on their own behavior.",
+      "page": 334
+    },
+    {
+      "term": "Physiological measurement",
+      "definition": "Assessing behavior by recording heart rate, muscle tension or brain waves to evaluate the effects of stimuli and check other methods.",
+      "page": 334
+    },
+    {
+      "term": "Instinctive drift",
+      "definition": "The substitution of instinctive behaviors for behaviors that had been reinforced.",
+      "page": 335
+    },
+    {
+      "term": "Radical behaviorism",
+      "definition": "Skinner's behaviorist position, still applied but overtaken in dominance by the cognitive movement.",
+      "page": 336
+    },
+    {
+      "term": "Walden Two",
+      "definition": "Skinner's 1948 novel describing a society in which all aspects of life are controlled by positive reinforcement.",
+      "page": 320
+    }
+  ],
+  "people": [
+    {
+      "name": "B. F. Skinner (1904–1990)",
+      "contribution": "Founder of reinforcement theory and operant conditioning; studied rats and pigeons; denied that inner states are useful for science; wrote Walden Two and Beyond Freedom and Dignity.",
+      "page": 318
+    },
+    {
+      "name": "Ivan Pavlov",
+      "contribution": "Russian physiologist who discovered conditioning in dogs (salivation to a bell) and stated that no conditioned response forms without reinforcement; Skinner read his work.",
+      "page": 321
+    },
+    {
+      "name": "John B. Watson",
+      "contribution": "Adopted Pavlov's conditioning as the basic research method of behaviorism; his work influenced Skinner's turn to behaviorism.",
+      "page": 321
+    },
+    {
+      "name": "Abraham Maslow",
+      "contribution": "Mentioned as basing his theory on the best and brightest people, in contrast to Skinner's rats and pigeons.",
+      "page": 318
+    },
+    {
+      "name": "Erik Erikson",
+      "contribution": "His concept of identity crisis is used to describe Skinner's 'dark year' after failing as a writer.",
+      "page": 319
+    },
+    {
+      "name": "Erich Fromm",
+      "contribution": "Psychoanalyst whose left-hand chopping gesture Skinner shaped within five minutes during a lecture.",
+      "page": 328
+    },
+    {
+      "name": "Mindess",
+      "contribution": "Historian who contrasted the inner-world demands of a fiction career with behaviorism's rejection of the intra-psychic domain (1988).",
+      "page": 320
+    },
+    {
+      "name": "Overskeid, Gronnerod & Simonton",
+      "contribution": "Norwegian psychologists who analysed Skinner's Rorschach and TAT results in 2012.",
+      "page": 320
+    },
+    {
+      "name": "Ayllon & Azrin",
+      "contribution": "Conducted the pioneering token-economy study (1968) with female psychotic patients in a state institution.",
+      "page": 330
+    },
+    {
+      "name": "Kazdin",
+      "contribution": "Showed that token-economy gains revert when tokens stop (with Bootzin, 1972) but last at home if caregivers use social reinforcers (1989).",
+      "page": 331
+    },
+    {
+      "name": "Hawkins, Peterson, Schweid & Bijou",
+      "contribution": "Classic 1966 direct-observation case of an unruly 4-year-old whose mother was reinforcing his misbehavior.",
+      "page": 334
+    },
+    {
+      "name": "Tangney, Baumeister & Boone",
+      "contribution": "Large 2004 study linking high self-control in college students to better grades, adjustment and self-esteem.",
+      "page": 330
+    },
+    {
+      "name": "Baumeister",
+      "contribution": "Argued that self-control is a 'hot topic' and that most modern social problems involve self-control failure.",
+      "page": 330
+    },
+    {
+      "name": "Burger & Lynn",
+      "contribution": "Found that 74% of US and Japanese major league baseball players admitted superstitious behavior, with Americans more superstitious (2005).",
+      "page": 329
+    },
+    {
+      "name": "Breland & Breland",
+      "contribution": "Former students of Skinner who trained over 6,000 animals and described instinctive drift in 'The Misbehavior of Organisms' (1961).",
+      "page": 335
+    },
+    {
+      "name": "Baars",
+      "contribution": "Observed in 1986 that Skinnerian behaviorism had fallen from favor and was referred to in the past tense.",
+      "page": 336
+    }
+  ],
+  "studies": [
+    {
+      "title": "Pavlov: conditioning in dogs",
+      "finding": "After repeated pairings of a bell with food, dogs salivated to the bell alone; when food stopped following the bell, salivation declined until it was extinguished.",
+      "page": 321
+    },
+    {
+      "title": "Shull & Grimes (2006): resistance to extinction",
+      "finding": "The more reinforcement given during training, the more resistant a conditioned response is to extinction.",
+      "page": 322
+    },
+    {
+      "title": "Skinner box: rat bar pressing",
+      "finding": "A food-deprived rat's accidental lever press was reinforced with food; pressing increased and came under the control of reinforcers; withholding food extinguished it.",
+      "page": 323
+    },
+    {
+      "title": "Operant conditioning of animals (Gillaspy et al., 2014; Poling et al., 2010)",
+      "finding": "Dogs, giant African rats (land mines in Mozambique), lobsters, whales, dolphins and calves have all been trained through operant conditioning.",
+      "page": 324
+    },
+    {
+      "title": "Overskeid, Gronnerod & Simonton (2012): Skinner's personality",
+      "finding": "Analysis of Skinner's Rorschach and TAT rated him high in conscientiousness and openness, somewhat extraverted, neurotic, quirky and driven, with strained relationships.",
+      "page": 320
+    },
+    {
+      "title": "Skinner: fixed-interval schedules",
+      "finding": "Shorter intervals between reinforcers produced higher response rates; continuously reinforced responses extinguished sooner than intermittently reinforced ones.",
+      "page": 325
+    },
+    {
+      "title": "Tomlin & Reed (2012): FI in classrooms",
+      "finding": "A fixed-interval schedule reduced disruptive behavior in special education classrooms.",
+      "page": 326
+    },
+    {
+      "title": "Skinner: fixed-ratio and variable-ratio schedules",
+      "finding": "Fixed-ratio schedules produced faster responding than fixed-interval; variable-ratio schedules produced high, stable, extinction-resistant responding.",
+      "page": 326
+    },
+    {
+      "title": "Skinner: shaping a pigeon",
+      "finding": "By reinforcing successive approximations, Skinner conditioned pigeons to peck a specific spot in under 3 minutes.",
+      "page": 327
+    },
+    {
+      "title": "Skinner: shaping Erich Fromm",
+      "finding": "By looking at Fromm when his left hand rose and nodding and smiling when it fell, Skinner produced a vigorous chopping motion within five minutes.",
+      "page": 328
+    },
+    {
+      "title": "Skinner: superstitious pigeons",
+      "finding": "Pigeons fed every 15 seconds regardless of behavior repeated whatever they were doing at the moment of reinforcement; one reinforcement was enough, and short intervals sped learning.",
+      "page": 328
+    },
+    {
+      "title": "Burger & Lynn (2005): baseball superstitions",
+      "finding": "74% of US and Japanese major league players admitted superstitious behavior; American players were more superstitious, suggesting cultural influence.",
+      "page": 329
+    },
+    {
+      "title": "Self-administered satiation for smoking",
+      "finding": "Overdoing smoking until disgusted has been successful in formal therapeutic programs designed to eliminate smoking.",
+      "page": 329
+    },
+    {
+      "title": "Tangney, Baumeister & Boone (2004): self-control in students",
+      "finding": "High self-control was linked to better grades, adjustment, self-acceptance, self-esteem, interpersonal skills and family relationships, and lower anger.",
+      "page": 330
+    },
+    {
+      "title": "Hofmann et al. (2014): self-control and well-being",
+      "finding": "High self-control was related to life satisfaction, happiness and avoiding frequent conflict.",
+      "page": 330
+    },
+    {
+      "title": "Wills et al. (2007): parenting and self-control",
+      "finding": "African-American children (mean age 11.2) with more nurturing and involved parents had higher self-control.",
+      "page": 330
+    },
+    {
+      "title": "Ayllon & Azrin (1968): first token economy",
+      "finding": "Long-hospitalized female psychotic patients who earned tokens for grooming and work became active, social, more responsible and less dependent, with much higher self-esteem.",
+      "page": 330
+    },
+    {
+      "title": "DePhilippis et al. (2008): token economy and aggression",
+      "finding": "A nine-month token economy reduced aggressive behavior among cognitively impaired psychiatric patients by 79%.",
+      "page": 331
+    },
+    {
+      "title": "Ogasahara, Hirono & Kato (2013): autistic children",
+      "finding": "A token economy was highly effective in changing the behavior of autistic children in Japan.",
+      "page": 331
+    },
+    {
+      "title": "Dallery, Glenn & Raiff (2007): online token economy",
+      "finding": "Heavy smokers earning online vouchers for lower carbon monoxide readings showed significant decreases and sustained abstinence over four weeks.",
+      "page": 331
+    },
+    {
+      "title": "Kazdin & Bootzin (1972); Repucci & Saunders (1974): stopping tokens",
+      "finding": "When tokens were withdrawn, reinforced behaviors usually reverted to their original state.",
+      "page": 331
+    },
+    {
+      "title": "Kazdin (1989): maintaining gains at home",
+      "finding": "If caregivers rewarded desirable behavior with smiles, praise, hugs and affection, institution-learned behaviors were more likely to continue at home.",
+      "page": 331
+    },
+    {
+      "title": "Lang & Rispoli (2015): behavior modification in education",
+      "finding": "Behavior modification improved academic performance and social behavior and reduced behavioral, emotional and developmental problems.",
+      "page": 331
+    },
+    {
+      "title": "Behavior modification in business",
+      "finding": "Programs at manufacturers, financial institutions and government agencies reduced absenteeism, lateness and sick-leave abuse and improved performance and safety.",
+      "page": 331
+    },
+    {
+      "title": "Hawkins, Peterson, Schweid & Bijou (1966): unruly child",
+      "finding": "16 hours of home observation identified nine misbehaviors that the mother was reinforcing with toys and food; switching to attention and approval for good behavior was planned against this baseline.",
+      "page": 334
+    },
+    {
+      "title": "Skinner and followers: operant research program",
+      "finding": "Thousands of experiments on schedules, language acquisition, shaping, superstition and behavior modification were highly supportive of Skinner's ideas.",
+      "page": 335
+    },
+    {
+      "title": "Breland & Breland (1961): instinctive drift",
+      "finding": "Pigs and raccoons trained to bank coins drifted to instinctive rooting and washing movements, even at the cost of delayed food.",
+      "page": 335
+    }
+  ],
+  "examples": [
+    {
+      "title": "Fixed ratio vs fixed interval at a phone shop",
+      "text": "Two sales staff at a mobile phone shop: one earns a fixed monthly salary (fixed interval) and the other earns per phone sold (fixed ratio). Skinner would predict the commission earner pushes sales harder, because pay depends directly on the number of responses.",
+      "supplementary": true
+    },
+    {
+      "title": "Variable ratio: why reels and loot boxes are addictive",
+      "text": "Scrolling short videos sometimes gives a great clip and sometimes not, and you never know which swipe will pay off. This unpredictable payoff after a varying number of responses works like a slot machine, producing high, steady and hard-to-extinguish responding.",
+      "supplementary": true
+    },
+    {
+      "title": "Shaping a dog to walk in a circle",
+      "text": "Reinforce the dog with a treat when it turns its head slightly to one side, then only for a quarter turn, then a half turn, then three-quarters, and finally only for completing a full circle. Each step is a successive approximation to the target behavior.",
+      "supplementary": true
+    },
+    {
+      "title": "Superstition before exams",
+      "text": "A student wears a particular pen or shirt on the day she happens to score well, and then insists on it for every exam. The pen had no functional link to the marks; the good result accidentally reinforced the ritual.",
+      "supplementary": true
+    },
+    {
+      "title": "Negative reinforcement vs punishment at home",
+      "text": "A parent stops nagging the moment a teen starts studying (removing an unpleasant stimulus strengthens studying: negative reinforcement). Taking away the phone after the teen skips study adds an aversive consequence to reduce skipping (punishment).",
+      "supplementary": true
+    },
+    {
+      "title": "Self-control for exam prep",
+      "text": "Leaving your phone in another room while studying is stimulus avoidance; promising friends you will finish a chapter and facing teasing if you do not is aversive stimulation; treating yourself to a movie after a week of revision is self-reinforcement.",
+      "supplementary": true
+    }
+  ],
+  "checks": [
+    {
+      "q": "Why did Skinner call humans 'empty organisms'?",
+      "options": [
+        "Nothing inside the organism can explain behavior scientifically",
+        "Humans lack any internal states at all",
+        "Humans are born as blank slates with no reflexes",
+        "The mind is empty until language develops"
+      ],
+      "answer": 0,
+      "explain": "He did not deny inner states exist; he held that nothing inside us explains behavior in scientific terms (p. 318).",
+      "page": 318,
+      "sectionId": "empty-organism"
+    },
+    {
+      "q": "Skinner's attitude to unconscious forces and traits was that they",
+      "options": [
+        "are the main causes of behavior",
+        "may exist but are useless for a science of behavior",
+        "can be measured with physiological instruments",
+        "are learned operant behaviors"
+      ],
+      "answer": 1,
+      "explain": "He denied only their usefulness for science, comparing them to the theological soul (p. 318).",
+      "page": 318,
+      "sectionId": "empty-organism"
+    },
+    {
+      "q": "Skinner justified using animals because",
+      "options": [
+        "animals have an unconscious like humans",
+        "human subjects were unethical to use",
+        "human and animal behavior differ in degree, not in kind",
+        "animals show more complex behavior"
+      ],
+      "answer": 2,
+      "explain": "He held the fundamental processes are similar and science should proceed from simple to complex (p. 318).",
+      "page": 318,
+      "sectionId": "where-are-the-people"
+    },
+    {
+      "q": "Which theorist is contrasted with Skinner for basing his theory on the 'best and brightest' people?",
+      "options": [
+        "Erich Fromm",
+        "Ivan Pavlov",
+        "John B. Watson",
+        "Abraham Maslow"
+      ],
+      "answer": 3,
+      "explain": "The chapter contrasts Maslow's subjects with Skinner's rats and pigeons (p. 318).",
+      "page": 318,
+      "sectionId": "where-are-the-people"
+    },
+    {
+      "q": "Skinner concluded from childhood experiences such as avoiding gravestones in a cathedral that",
+      "options": [
+        "adult behavior is determined by the reinforcements received in childhood",
+        "adult behavior is driven by unconscious guilt",
+        "religion shapes personality traits",
+        "fear is an inborn instinct"
+      ],
+      "answer": 0,
+      "explain": "These experiences showed him that his adult behavior had been determined by rewards and punishments (p. 319).",
+      "page": 319,
+      "sectionId": "life-early"
+    },
+    {
+      "q": "Skinner's 'dark year' refers to",
+      "options": [
+        "his depression in his 40s",
+        "his failure to become a novelist after college",
+        "his first year at Harvard",
+        "the year his brother died"
+      ],
+      "answer": 1,
+      "explain": "At 22 he failed as a writer, likened to Erikson's identity crisis (p. 319).",
+      "page": 319,
+      "sectionId": "life-early"
+    },
+    {
+      "q": "Skinner resolved his depression in his 40s by",
+      "options": [
+        "undergoing psychoanalysis",
+        "returning to Hamilton College",
+        "writing the novel Walden Two",
+        "training pigeons to guide missiles"
+      ],
+      "answer": 2,
+      "explain": "He returned to writing and projected his frustrations onto the protagonist of Walden Two (p. 320).",
+      "page": 320,
+      "sectionId": "life-later"
+    },
+    {
+      "q": "Norwegian psychologists who examined Skinner's Rorschach and TAT rated him high in",
+      "options": [
+        "agreeableness and liveliness",
+        "introversion and emotional stability",
+        "neuroticism only",
+        "conscientiousness and openness to experience"
+      ],
+      "answer": 3,
+      "explain": "They rated him high in conscientiousness and openness, somewhat extraverted, and neurotic (p. 320).",
+      "page": 320,
+      "sectionId": "life-later"
+    },
+    {
+      "q": "Skinner's fundamental idea about behavior is that it is controlled by",
+      "options": [
+        "its consequences",
+        "inner drives",
+        "inherited traits",
+        "unconscious conflicts"
+      ],
+      "answer": 0,
+      "explain": "Behavior is controlled by what follows it (p. 321).",
+      "page": 321,
+      "sectionId": "reinforcement-basis"
+    },
+    {
+      "q": "According to Skinner, who has the power to control human behavior?",
+      "options": [
+        "The person's ego",
+        "Whoever controls the reinforcers",
+        "Genetic endowment",
+        "The collective unconscious"
+      ],
+      "answer": 1,
+      "explain": "Whoever controls the reinforcers controls behavior, as an experimenter controls a rat (p. 321).",
+      "page": 321,
+      "sectionId": "reinforcement-basis"
+    },
+    {
+      "q": "A knee jerk to a tap on the knee is an example of",
+      "options": [
+        "operant behavior",
+        "superstitious behavior",
+        "unlearned respondent behavior",
+        "successive approximation"
+      ],
+      "answer": 2,
+      "explain": "Reflexes are respondent behaviors that are automatic and unlearned (p. 321).",
+      "page": 321,
+      "sectionId": "respondent-behavior"
+    },
+    {
+      "q": "Pavlov's fundamental law of learning states that",
+      "options": [
+        "punishment is more effective than reward",
+        "responses are emitted, not elicited",
+        "behavior is shaped by successive approximation",
+        "a conditioned response cannot be established without reinforcement"
+      ],
+      "answer": 3,
+      "explain": "Pavlov's law is that no conditioned response forms in the absence of reinforcement (p. 322).",
+      "page": 322,
+      "sectionId": "respondent-behavior"
+    },
+    {
+      "q": "Operant behavior differs from respondent behavior in that operant behavior",
+      "options": [
+        "operates on the environment and changes it",
+        "is elicited by a specific stimulus",
+        "is always reflexive",
+        "does not depend on reinforcement"
+      ],
+      "answer": 0,
+      "explain": "Respondent behavior has no effect on the environment; operant behavior changes it (p. 323).",
+      "page": 323,
+      "sectionId": "operant-behavior"
+    },
+    {
+      "q": "Behavior that appears spontaneous and cannot be traced to a specific stimulus is described as",
+      "options": [
+        "elicited",
+        "emitted",
+        "reflexive",
+        "respondent"
+      ],
+      "answer": 1,
+      "explain": "Operant behavior is emitted rather than elicited (p. 322).",
+      "page": 322,
+      "sectionId": "operant-behavior"
+    },
+    {
+      "q": "In the Skinner box, what reinforces the rat's lever pressing?",
+      "options": [
+        "A tone sounded before feeding",
+        "Removal of the lever",
+        "A food pellet delivered into a trough",
+        "The experimenter's praise"
+      ],
+      "answer": 2,
+      "explain": "Pressing the bar drops a food pellet, which reinforces pressing (p. 323).",
+      "page": 323,
+      "sectionId": "skinner-box"
+    },
+    {
+      "q": "Which animal does the chapter say was trained in Mozambique to detect buried land mines?",
+      "options": [
+        "Pigeons",
+        "Lobsters",
+        "Beagles",
+        "Giant African rats"
+      ],
+      "answer": 3,
+      "explain": "Giant African rats in Mozambique were trained to detect land mines (p. 324).",
+      "page": 324,
+      "sectionId": "skinner-box"
+    },
+    {
+      "q": "Skinner compared operant conditioning to",
+      "options": [
+        "a sculptor shaping a lump of clay",
+        "a gardener pruning a tree",
+        "a programmer writing code",
+        "an iceberg mostly below water"
+      ],
+      "answer": 0,
+      "explain": "He wrote that operant conditioning shapes behavior as a sculptor shapes clay (p. 324).",
+      "page": 324,
+      "sectionId": "operating-on-environment"
+    },
+    {
+      "q": "In infancy, according to Skinner, behaviors that parents disapprove of are usually",
+      "options": [
+        "repressed",
+        "extinguished",
+        "sublimated",
+        "reinforced intermittently"
+      ],
+      "answer": 1,
+      "explain": "Approved behaviors persist; disapproved behaviors are extinguished (p. 324).",
+      "page": 324,
+      "sectionId": "operating-on-environment"
+    },
+    {
+      "q": "Skinner conceived of personality as",
+      "options": [
+        "a set of inherited traits",
+        "the interaction of id, ego and superego",
+        "a pattern or collection of operant behaviors",
+        "a drive toward self-actualization"
+      ],
+      "answer": 2,
+      "explain": "Personality is a collection of reinforced operant behaviors (p. 324).",
+      "page": 324,
+      "sectionId": "personality-operant"
+    },
+    {
+      "q": "For Skinner, neurotic or abnormal behavior is",
+      "options": [
+        "the result of unconscious conflict",
+        "an inherited weakness",
+        "a failure of self-actualization",
+        "undesirable behavior that has somehow been reinforced"
+      ],
+      "answer": 3,
+      "explain": "He saw it as the continued performance of reinforced undesirable behaviors (p. 324).",
+      "page": 324,
+      "sectionId": "personality-operant"
+    },
+    {
+      "q": "A worker paid a fixed monthly salary is on which schedule?",
+      "options": [
+        "Fixed interval",
+        "Fixed ratio",
+        "Variable interval",
+        "Variable ratio"
+      ],
+      "answer": 0,
+      "explain": "Pay depends on the time elapsed, not on output (p. 325).",
+      "page": 325,
+      "sectionId": "schedules-fixed"
+    },
+    {
+      "q": "Compared with a fixed-interval schedule, a fixed-ratio schedule produces",
+      "options": [
+        "a slower rate of responding",
+        "a faster rate of responding",
+        "no responding at all",
+        "only superstitious responding"
+      ],
+      "answer": 1,
+      "explain": "Fixed ratio brings about faster responding than fixed interval (p. 326).",
+      "page": 326,
+      "sectionId": "schedules-fixed"
+    },
+    {
+      "q": "A person fishing all day is reinforced on which schedule?",
+      "options": [
+        "Fixed ratio",
+        "Fixed interval",
+        "Variable interval",
+        "Continuous"
+      ],
+      "answer": 2,
+      "explain": "Fish bite at random times, so reinforcement comes after varying intervals (p. 326).",
+      "page": 326,
+      "sectionId": "schedules-variable"
+    },
+    {
+      "q": "Slot machines and lotteries pay on which schedule?",
+      "options": [
+        "Fixed interval",
+        "Variable interval",
+        "Fixed ratio",
+        "Variable ratio"
+      ],
+      "answer": 3,
+      "explain": "They pay after a varying number of responses around an average (p. 326).",
+      "page": 326,
+      "sectionId": "schedules-variable"
+    },
+    {
+      "q": "How long did Skinner take to condition pigeons to peck a specific spot through shaping?",
+      "options": [
+        "Less than 3 minutes",
+        "About 3 hours",
+        "Three days",
+        "Several weeks"
+      ],
+      "answer": 0,
+      "explain": "Skinner conditioned pigeons in under 3 minutes (p. 327).",
+      "page": 327,
+      "sectionId": "shaping"
+    },
+    {
+      "q": "Skinner shaped which behavior in Erich Fromm during a lecture?",
+      "options": [
+        "Tapping his foot",
+        "A chopping motion of his left hand",
+        "Scratching his head",
+        "Raising his voice"
+      ],
+      "answer": 1,
+      "explain": "Skinner shaped a vigorous left-hand chopping motion within five minutes (p. 328).",
+      "page": 328,
+      "sectionId": "shaping"
+    },
+    {
+      "q": "Superstitious behavior has what kind of relationship to reinforcement?",
+      "options": [
+        "Functional and causal",
+        "Inborn and instinctive",
+        "Coincidental, not functional",
+        "Purely cognitive"
+      ],
+      "answer": 2,
+      "explain": "By definition the link is coincidental (p. 328).",
+      "page": 328,
+      "sectionId": "superstitious"
+    },
+    {
+      "q": "In Skinner's superstition demonstration, hungry pigeons were reinforced",
+      "options": [
+        "after every 10th peck",
+        "only when they pecked a disc",
+        "at random after many responses",
+        "every 15 seconds on a fixed-interval schedule"
+      ],
+      "answer": 3,
+      "explain": "Food came every 15 seconds regardless of behavior (p. 328).",
+      "page": 328,
+      "sectionId": "superstitious"
+    },
+    {
+      "q": "An alcoholic who keeps no liquor at home is using which self-control technique?",
+      "options": [
+        "Stimulus avoidance",
+        "Self-administered satiation",
+        "Aversive stimulation",
+        "Self-reinforcement"
+      ],
+      "answer": 0,
+      "explain": "Removing the controlling stimulus is stimulus avoidance (p. 329).",
+      "page": 329,
+      "sectionId": "self-control"
+    },
+    {
+      "q": "Chain-smoking until sick in order to quit is an example of",
+      "options": [
+        "stimulus avoidance",
+        "self-administered satiation",
+        "negative reinforcement",
+        "self-reinforcement"
+      ],
+      "answer": 1,
+      "explain": "Overdoing a habit until it becomes aversive is self-administered satiation (p. 329).",
+      "page": 329,
+      "sectionId": "self-control"
+    },
+    {
+      "q": "Tangney, Baumeister and Boone (2004) found that college students high in self-control had",
+      "options": [
+        "more anger and conflict",
+        "lower grades but more friends",
+        "better grades and higher self-esteem",
+        "more superstitious behavior"
+      ],
+      "answer": 2,
+      "explain": "High self-control was linked to better grades, adjustment and self-esteem (p. 330).",
+      "page": 330,
+      "sectionId": "self-control-benefits"
+    },
+    {
+      "q": "Wills et al. (2007) found higher self-control in children whose parents were",
+      "options": [
+        "stricter and more punitive",
+        "more permissive",
+        "less educated",
+        "more nurturing and involved"
+      ],
+      "answer": 3,
+      "explain": "Nurturing, involved parenting was linked to higher self-control (p. 330).",
+      "page": 330,
+      "sectionId": "self-control-benefits"
+    },
+    {
+      "q": "In Ayllon and Azrin's token economy, the most expensive privileges (100 tokens) included",
+      "options": [
+        "an escorted trip into town",
+        "a meeting with a psychologist",
+        "a newspaper",
+        "candy and cigarettes"
+      ],
+      "answer": 0,
+      "explain": "A trip to town and a meeting with a social worker cost 100 tokens; a psychologist cost 20 (p. 330).",
+      "page": 330,
+      "sectionId": "token-economy"
+    },
+    {
+      "q": "What usually happens when tokens are no longer provided?",
+      "options": [
+        "Behaviors improve further",
+        "Behaviors revert to their original state",
+        "Superstitious behaviors develop",
+        "Patients become aggressive"
+      ],
+      "answer": 1,
+      "explain": "Reinforced behaviors usually revert when tokens stop (p. 331).",
+      "page": 331,
+      "sectionId": "token-economy"
+    },
+    {
+      "q": "Behavior modification programs in business have been shown to reduce",
+      "options": [
+        "salaries",
+        "job security",
+        "absenteeism and lateness",
+        "supervisor recognition"
+      ],
+      "answer": 2,
+      "explain": "They reduced absenteeism, lateness and sick-leave abuse (p. 331).",
+      "page": 331,
+      "sectionId": "behavior-modification"
+    },
+    {
+      "q": "Behavior modification programs focus on",
+      "options": [
+        "resolving repressed traumas",
+        "uncovering unconscious motives",
+        "reducing existential anxiety",
+        "changing overt behavior and its reinforcers"
+      ],
+      "answer": 3,
+      "explain": "No attempt is made to deal with anxieties or unconscious forces (p. 331).",
+      "page": 331,
+      "sectionId": "behavior-modification"
+    },
+    {
+      "q": "Negative reinforcement involves",
+      "options": [
+        "removing an aversive stimulus to strengthen a response",
+        "adding an aversive stimulus to weaken a response",
+        "withholding all reinforcement",
+        "rewarding a response with tokens"
+      ],
+      "answer": 0,
+      "explain": "It strengthens a response by removing an aversive stimulus (p. 332).",
+      "page": 332,
+      "sectionId": "punishment-negative-reinforcement"
+    },
+    {
+      "q": "According to Skinner, people typically respond to punishment with",
+      "options": [
+        "lasting improvement",
+        "escape, counterattack or stubborn apathy",
+        "increased self-esteem",
+        "superstitious behavior"
+      ],
+      "answer": 1,
+      "explain": "Skinner said punishment yields an urge to escape, counterattack, or apathy (p. 332).",
+      "page": 332,
+      "sectionId": "punishment-negative-reinforcement"
+    },
+    {
+      "q": "On the nature–nurture issue, Skinner held that people are",
+      "options": [
+        "primarily products of genetics",
+        "equally shaped by both",
+        "primarily products of learning",
+        "shaped by archetypes"
+      ],
+      "answer": 2,
+      "explain": "People are shaped more by external variables than genetic factors (p. 332).",
+      "page": 332,
+      "sectionId": "human-nature"
+    },
+    {
+      "q": "In Skinner's view, how are people both controller and controlled?",
+      "options": [
+        "The ego controls the id",
+        "We choose freely but are punished",
+        "Genes control us until adulthood",
+        "We design the environment that in turn controls us"
+      ],
+      "answer": 3,
+      "explain": "We design the controlling culture and are products of it (p. 333).",
+      "page": 333,
+      "sectionId": "human-nature"
+    },
+    {
+      "q": "Which three aspects of behavior does functional analysis assess?",
+      "options": [
+        "Frequency, situation and reinforcement",
+        "Dreams, memories and wishes",
+        "Traits, types and motives",
+        "Id, ego and superego"
+      ],
+      "answer": 0,
+      "explain": "Functional analysis covers frequency, the situation and the associated reinforcers (p. 333).",
+      "page": 333,
+      "sectionId": "assessment"
+    },
+    {
+      "q": "In Hawkins et al. (1966), the mother had been",
+      "options": [
+        "punishing all good behavior",
+        "reinforcing her son's misbehavior with toys and food",
+        "ignoring the child entirely",
+        "using a token economy"
+      ],
+      "answer": 1,
+      "explain": "She gave toys or food to stop misbehavior, which reinforced it (p. 334).",
+      "page": 334,
+      "sectionId": "assessment"
+    },
+    {
+      "q": "Skinner preferred to study",
+      "options": [
+        "large groups with statistical averages",
+        "only human patients",
+        "a single subject intensively",
+        "cross-cultural samples"
+      ],
+      "answer": 2,
+      "explain": "He favored intensive study of a single subject (p. 334).",
+      "page": 334,
+      "sectionId": "research"
+    },
+    {
+      "q": "Why did Skinner reject group averages?",
+      "options": [
+        "They are too expensive to compute",
+        "They exaggerate reinforcement effects",
+        "They require projective tests",
+        "They give little help in understanding the unique individual"
+      ],
+      "answer": 3,
+      "explain": "Averages are of little value for a particular case (p. 334).",
+      "page": 334,
+      "sectionId": "research"
+    },
+    {
+      "q": "Instinctive drift was demonstrated by",
+      "options": [
+        "Breland and Breland",
+        "Ayllon and Azrin",
+        "Burger and Lynn",
+        "Tangney and Baumeister"
+      ],
+      "answer": 0,
+      "explain": "Two of Skinner's former students described it in 'The Misbehavior of Organisms' (p. 335).",
+      "page": 335,
+      "sectionId": "reflections"
+    },
+    {
+      "q": "Humanistic psychologists criticized Skinner mainly for",
+      "options": [
+        "relying on case studies of patients",
+        "ignoring uniquely human qualities such as conscious free will",
+        "overemphasizing the unconscious",
+        "using statistics too heavily"
+      ],
+      "answer": 1,
+      "explain": "They argued his focus on overt behavior ignores qualities like free will (p. 335).",
+      "page": 335,
+      "sectionId": "reflections"
+    },
+    {
+      "q": "Which movement challenged the dominance of Skinner's behaviorism from the 1960s?",
+      "options": [
+        "Psychoanalysis",
+        "Trait theory",
+        "The cognitive movement",
+        "Positive psychology"
+      ],
+      "answer": 2,
+      "explain": "The cognitive movement began in the 1960s and challenged behaviorism (p. 336).",
+      "page": 336,
+      "sectionId": "current-status"
+    },
+    {
+      "q": "Baars (1986) described Skinnerian behaviorism as",
+      "options": [
+        "the dominant force in psychology",
+        "a branch of cognitive science",
+        "unsupported by research",
+        "often referred to in the past tense"
+      ],
+      "answer": 3,
+      "explain": "Baars said it had fallen from favor and was referred to in the past tense (p. 336).",
+      "page": 336,
+      "sectionId": "current-status"
+    }
+  ],
+  "practice": [
+    {
+      "q": "What did Skinner mean by describing humans as 'empty organisms'?",
+      "marks": 2,
+      "answer": "Skinner meant that nothing inside the person, whether mental states such as the unconscious, traits and defenses or physiological processes, can explain behavior in scientific terms. He did not deny that such inner forces exist, only that they are useful for science, because they cannot be observed. The causes of behavior lie in the external environment and its reinforcers.",
+      "pages": [
+        318,
+        318
+      ]
+    },
+    {
+      "q": "Define superstitious behavior with an example.",
+      "marks": 2,
+      "answer": "Superstitious behavior is persistent behavior that has a coincidental, not functional, relationship to the reinforcement received. It arises when reinforcement accidentally follows a behavior. For example, an NFL kicker hugged the goal posts before each game because he had once done so before a successful kick. Skinner produced it in pigeons fed every 15 seconds regardless of what they did.",
+      "pages": [
+        328,
+        329
+      ]
+    },
+    {
+      "q": "What is instinctive drift?",
+      "marks": 2,
+      "answer": "Instinctive drift is the substitution of instinctive behaviors for behaviors that have been reinforced. Breland and Breland, two of Skinner's former students, found that pigs trained to bank coins began rooting them in the dirt and raccoons began rubbing them, even though this delayed food. It challenged Skinner's belief that all behavior is learned.",
+      "pages": [
+        335,
+        335
+      ]
+    },
+    {
+      "q": "Which reinforcement schedule applies to a person selling software on commission, and to a child given an ice-cream cone for good behavior only occasionally?",
+      "marks": 2,
+      "answer": "The commission seller is on a fixed-ratio schedule, because earnings depend directly on the number of sales (responses). The child rewarded only occasionally is on a variable schedule. If the treat comes after an unpredictable number of good acts it is variable ratio; if it comes after unpredictable lengths of time it is variable interval. Either way, variable reinforcement makes the good behavior persistent and resistant to extinction.",
+      "pages": [
+        325,
+        326
+      ]
+    },
+    {
+      "q": "Explain the use of self-administered satiation in getting rid of bad habits.",
+      "marks": 2,
+      "answer": "Self-administered satiation is a self-control technique in which a person cures a bad habit by deliberately overdoing it. A smoker who wants to quit may chain-smoke for a period, inhaling until becoming disgusted, uncomfortable or sick, so that smoking becomes aversive and is given up. The chapter notes this has worked in formal therapeutic programs to eliminate smoking.",
+      "pages": [
+        329,
+        329
+      ]
+    },
+    {
+      "q": "What is functional analysis?",
+      "marks": 2,
+      "answer": "Functional analysis is Skinner's approach to assessing behavior before modifying it. It evaluates three aspects: the frequency of the behavior, the situation in which it occurs, and the reinforcement associated with it. For example, smokers record how many cigarettes they smoke and when, where and with whom, so that the controlling stimuli can be identified and changed.",
+      "pages": [
+        333,
+        333
+      ]
+    },
+    {
+      "q": "Distinguish between operant behavior and respondent behavior. Give an example of each.",
+      "marks": 5,
+      "answer": "Skinner distinguished two kinds of behavior, both dependent on reinforcement but different in origin and effect.\n\nRespondent behavior is a response made to, or elicited by, a specific environmental stimulus. At its simplest it is reflexive, unlearned, automatic and involuntary. The knee jerk to a tap on the knee is an example. Respondent behavior can also be learned through conditioning, in which one stimulus substitutes for another. Pavlov's dogs, for instance, learned to salivate to a bell that had been paired with food. Respondent behavior has no effect on the environment: the dog's salivation did not change the bell or the food.\n\nOperant behavior is emitted rather than elicited. It appears spontaneous and voluntary, and it cannot be traced to any specific stimulus. Its nature and frequency are determined by the reinforcement that follows it, and it operates on the environment and changes it. The example is the rat in the Skinner box. While exploring at random, it presses a lever, a food pellet drops, and the environment now contains food. The rat then presses more often because the behavior has been reinforced.\n\nSkinner considered operant behavior far more important, because much human behavior is spontaneous and is controlled by its consequences rather than by eliciting stimuli. He believed that most human and animal behavior is learned through operant conditioning, and that personality itself is a collection of operant behaviors.",
+      "pages": [
+        321,
+        323
+      ]
+    },
+    {
+      "q": "Describe Pavlov's classical conditioning experiment with dogs. How did Pavlov extinguish conditioned responses?",
+      "marks": 5,
+      "answer": "Pavlov, a Russian physiologist working in the early 1900s, noticed that his dogs salivated not only at the sight of food but also at neutral stimuli such as the sound of their keeper's footsteps. He studied this systematically.\n\nIn his experiment he sounded a bell shortly before feeding a dog. At first the dog salivated only to the food, because the bell meant nothing to it. After a number of pairings of bell followed by food, however, the dog began salivating at the sound of the bell alone. The dog had been conditioned: its response had shifted from the food to a previously neutral stimulus. This kind of learned respondent behavior involves substituting one stimulus for another, and John B. Watson later made it the basic method of behaviorism.\n\nThe experiment showed the importance of reinforcement. The dogs learned only because they were rewarded with food. Pavlov stated a basic law: a conditioned response cannot be established without reinforcement, and reinforcing a response makes it more likely to recur.\n\nTo extinguish the response, Pavlov withheld the reinforcement. He kept ringing the bell but no longer followed it with food. With each unreinforced ringing, the dog's salivation decreased in frequency and intensity until it stopped altogether. This is extinction. Research shows that the more reinforcement given during training, the more resistant the response is to extinction (Shull & Grimes, 2006), but extinction eventually occurs.",
+      "pages": [
+        321,
+        322
+      ]
+    },
+    {
+      "q": "Distinguish between positive reinforcement, negative reinforcement and punishment. Why did Skinner consider positive reinforcement more effective than punishment?",
+      "marks": 5,
+      "answer": "Positive reinforcement strengthens a response by adding a reward after it, which increases the chance it will be repeated. For example, token-economy patients received tokens for grooming and work.\n\nNegative reinforcement also strengthens a response, but it does so by removing an aversive or noxious stimulus. An unpleasant stimulus such as a loud noise or shock continues until the desired response occurs, and then it stops. In everyday life, a person may stop smoking so that a spouse's or colleague's nagging will stop. The chapter stresses that negative reinforcement is not punishment.\n\nPunishment is the application of an aversive stimulus after a response, in order to decrease the likelihood that the response will recur. So both kinds of reinforcement increase behavior, while punishment aims to decrease it.\n\nSkinner held that punishment is ineffective for changing behavior from undesirable to desirable or from abnormal to normal. Punishment works immediately but produces no long-term results. People respond to it with an urge to escape, a counterattack or stubborn apathy, effects seen in prisons and schools. He also opposed using noxious stimuli at all, because their consequences are less predictable than those of positive reinforcement, and negative reinforcement does not always work. Positive reinforcement of desirable behavior is consistently more effective. This is why most behavior-modification programs, such as token economies, reward good behavior rather than punishing bad behavior.",
+      "pages": [
+        332,
+        332
+      ]
+    },
+    {
+      "q": "Explain the four schedules of reinforcement studied by Skinner, especially the difference between fixed-interval and variable-interval schedules.",
+      "marks": 5,
+      "answer": "Skinner noted that real-life behavior is rarely reinforced every time, yet it persists. His rats also kept pressing steadily without being reinforced for every response. He therefore studied reinforcement schedules, patterns or rates of providing or withholding reinforcers.\n\nFixed interval (FI): the reinforcer follows the first response made after a fixed period of time, regardless of how many responses occur, as with a weekly or monthly salary. Shorter intervals produce higher response rates. Variable interval (VI): the time between reinforcers varies, for example 2 hours, then 1 hour 30 minutes, then 2 hours 15 minutes. Someone fishing is rewarded on a VI basis, because fish bite at random times. The difference, then, is that in FI the waiting time is constant and predictable, while in VI it changes unpredictably. In both, reinforcement depends on time, not on the number of responses.\n\nFixed ratio (FR): reinforcement follows a set number of responses, such as every 10th, as in piece-rate pay or sales commission. It produces faster responding than FI. Variable ratio (VR): reinforcement follows a varying number of responses around an average, as with slot machines, roulette, horse races and lotteries. It produces high, stable rates.\n\nVariable schedules produce lasting behavior that resists extinction, and most everyday learning occurs on VI or VR schedules. Continuously reinforced responses extinguish sooner than intermittently reinforced ones.",
+      "pages": [
+        324,
+        326
+      ]
+    },
+    {
+      "q": "Explain how a complex behavior such as learning to speak is acquired through successive approximation. How could the method be used to train a dog to walk in a circle?",
+      "marks": 5,
+      "answer": "Simple operant behaviors, like a rat's lever press, are likely to occur by chance. Complex behaviors have a low probability of appearing on their own. Skinner explained their acquisition through successive approximation, or shaping: reinforcing behavior in stages as it comes closer to the final desired behavior.\n\nHe demonstrated it with a pigeon trained to peck a specific spot. It was reinforced first for turning toward the spot, then only for moving toward it, then for moving closer, then for thrusting its head toward it, and finally only for touching it with its beak. Skinner achieved this in under 3 minutes.\n\nSpeech is acquired in the same way. Infants spontaneously produce meaningless sounds, which parents reinforce by smiling, laughing and talking. Later, parents give stronger reinforcement for sounds that resemble real words. Finally, reinforcement is reserved for correct usage and proper pronunciation. Language is thus shaped by differential reinforcement in stages.\n\nTo train a dog to walk in a circle (an illustration, not from the chapter), the trainer would first reward any slight turn of the head to one side. Next, reward would be given only for a quarter turn of the body, then a half turn, then three-quarters, and finally only for a complete circle. Each step demands a closer approximation to the target before the treat is given, exactly as with Skinner's pigeon.",
+      "pages": [
+        326,
+        328
+      ]
+    },
+    {
+      "q": "Describe the token-economy approach to behavior modification. Give an example.",
+      "marks": 5,
+      "answer": "A token economy is a behavior-modification technique in which tokens, exchangeable for valued objects or privileges, are awarded for desirable behaviors. It applies operant conditioning to an institutional setting.\n\nThe pioneering example is Ayllon and Azrin (1968). They treated a ward of long-hospitalized female psychotic patients, whom conventional treatment could not help, as a giant Skinner box. Patients earned a token each for bathing on time, brushing their teeth, making their beds, combing their hair and dressing properly. They earned up to 10 tokens per work period in the kitchen or laundry, or for cleaning, running errands or walking other patients. Tokens bought candy, cigarettes, lipstick, newspapers, ward movies, walks, a better room, or, for 100 tokens, an escorted trip to town or a private meeting with a social worker. A meeting with a psychologist cost only 20 tokens.\n\nThe results were dramatic. Patients groomed themselves, cleaned their surroundings, worked, socialized with each other and staff, took some responsibility for patient care, gained self-esteem and became less dependent. Later programs reduced aggression in cognitively impaired patients by 79 percent (DePhilippis et al., 2008), helped autistic children in Japan, and worked online with smokers who earned vouchers for lower carbon monoxide readings (Dallery et al., 2007).\n\nA limitation is that behaviors usually revert when tokens stop. They last better if caregivers continue reinforcing with praise and affection (Kazdin, 1989).",
+      "pages": [
+        330,
+        331
+      ]
+    },
+    {
+      "q": "Why did Skinner prefer to study the individual case rather than groups of subjects?",
+      "marks": 5,
+      "answer": "Skinner's research methods departed from mainstream experimental psychology. The usual approach is to study large groups of animal or human subjects and compare their average responses statistically. Skinner instead preferred intensive study of a single subject.\n\nHe gave several reasons. First, data on the average performance of a group are of little value when dealing with a particular case. A science based on averages says little about the unique individual. Second, using large groups forces the experimenter to deal with average behavior, so the data cannot show individual response patterns or individual differences. Third, he believed that valid and replicable results do not require statistical analysis, as long as enough data are collected from one subject under well-controlled experimental conditions.\n\nThis method suited his focus on how reinforcement controls the response rate of a specific organism, such as one rat in a Skinner box. It also matched his applied interest in modifying the behavior of particular individuals, as in functional analysis of one child's misbehavior.\n\nThe approach proved productive. Skinner and his followers conducted thousands of operant experiments on reinforcement schedules, language acquisition, shaping, superstitious behavior and behavior modification, with results highly supportive of his ideas. The Journal of the Experimental Analysis of Behavior, founded in 1958, publishes research on individual subjects.",
+      "pages": [
+        334,
+        335
+      ]
+    },
+    {
+      "q": "How did Skinner's childhood experiences influence his later approach to studying behavior? How did he justify using rats and pigeons?",
+      "marks": 5,
+      "answer": "Skinner grew up in Susquehanna, Pennsylvania, with strict parents who constantly laid down rules of proper behavior. He was taught to fear God, the police and what people would think. His mother controlled him with a disapproving 'tut tut', his grandmother pointed to the stove's hot coals to show him Hell, and his father showed him a jail and took him to a lecture on prison life. As an adult he still avoided stepping on cathedral gravestones because he had been warned about it as a child. These experiences convinced him that adult behavior is determined by the rewards and punishments received in childhood. His system, and his view of people as complex systems behaving in lawful ways, reflected this.\n\nHis childhood tinkering with machines, such as wagons, carousels, a steam cannon and a failed perpetual-motion machine, foreshadowed his view of people as predictable machines. His pets and his fascination with performing pigeons at a fair foreshadowed his use of animals.\n\nHe justified animal subjects in several ways. His interest was in responses to stimuli, which animals display well. Human behavior is more complex, but the difference is one of degree, not of kind, because the basic processes are similar. And science should move from simple to complex, so simpler animal behavior should be studied first.",
+      "pages": [
+        318,
+        319
+      ]
+    },
+    {
+      "q": "What techniques do Skinner's followers use to assess human behavior?",
+      "marks": 5,
+      "answer": "Skinner rejected free association, dream analysis and projective tests, and he was not interested in assessing personality. But behavior modification requires assessing specific desirable and undesirable behaviors and the environmental reinforcers that can be manipulated.\n\nThe overall approach is functional analysis, which assesses the frequency of a behavior, the situation in which it occurs, and the reinforcement associated with it. For example, smokers record how many cigarettes they smoke and where, when and with whom, so the controlling stimuli can be identified and changed.\n\nThree methods are used. (1) Direct observation, usually by two or more observers for accuracy and reliability. In Hawkins et al. (1966), two psychologists spent 16 hours observing a mother and her unruly 4-year-old at home. They identified nine misbehaviors, such as kicking, biting and pushing a sibling, and found the mother was reinforcing them with toys and food. She was taught to reward good behavior with attention and approval instead, and the observed frequencies served as a baseline. (2) Self-reports through interviews and questionnaires, for example on fear of driving, the dentist or public speaking; these resemble personality inventories in format. (3) Physiological measurements such as heart rate, muscle tension and brain waves, which show the effects of stimuli and can reveal fears, such as of elevators, that a person is too embarrassed to report.\n\nThroughout, the focus is on what people do, and the goal is to change behavior, not personality.",
+      "pages": [
+        333,
+        334
+      ]
+    },
+    {
+      "q": "Discuss the impact of cognitive psychology on Skinnerian behaviorism.",
+      "marks": 5,
+      "answer": "Skinner's radical behaviorism excluded all inner, mental processes from scientific psychology and studied only overt behavior and its reinforcers. In the middle of the 20th century it was enormously influential. Skinner perhaps shaped American psychology more than anyone else, and his work spawned journals, awards and best-selling books.\n\nFrom the 1960s, however, the cognitive movement in psychology challenged behaviorism's dominance by bringing back the study of mental processes that Skinner had rejected. Skinner himself conceded that his form of psychology had lost ground to the cognitive approach. Other psychologists agreed. Baars (1986) wrote that Skinnerian behaviorism had fallen from favor among most active researchers and was often referred to in the past tense. The chapter summary concludes that his behavioristic position has been overtaken by the cognitive movement.\n\nThe impact was not total, however. Radical behaviorism continues to be applied in laboratory, clinical and organizational settings. Its techniques remain influential in classrooms, on assembly lines, in Skinner-box research and in treatment programs for behavior disorders. Behavior modification and token economies are still popular and effective.\n\nIn short, cognitive psychology displaced behaviorism as a general theory of mind and behavior, but Skinner's practical technology of operant conditioning has survived. He believed it offered a way to improve human nature and the societies people design.",
+      "pages": [
+        336,
+        337
+      ]
+    },
+    {
+      "q": "Explain Skinner's theory of operant conditioning, including reinforcement, extinction, schedules of reinforcement and shaping.",
+      "marks": 10,
+      "answer": "Introduction. B. F. Skinner did not propose a personality theory. He aimed to explain all behavior in factual, descriptive terms, limiting psychology to observable responses. He treated people as 'empty organisms' whose behavior is explained by external consequences, not inner states. His central principle is that behavior is controlled by its consequences, so whoever controls the reinforcers controls behavior.\n\nRespondent and operant behavior. Skinner distinguished respondent behavior, which is elicited by a specific stimulus (a reflex such as the knee jerk, or Pavlov's dogs salivating to a bell paired with food), from operant behavior. Operant behavior is emitted spontaneously or voluntarily, operates on the environment and changes it, and is controlled by the reinforcement that follows it. Respondent behavior leaves the environment unchanged. Skinner regarded operant behavior as far more important.\n\nOperant conditioning and reinforcement. Operant conditioning is the procedure by which changing the consequences of a response changes its rate. In the Skinner box, a food-deprived rat explores at random, accidentally presses a lever and receives a food pellet. The food reinforces pressing, so the rat presses more, and its behavior comes under the control of the reinforcer. Reinforcement is the strengthening of a response by adding a reward, which makes repetition more likely. Pavlov's law states that no conditioned response can form without reinforcement. Animals from dogs and lobsters to mine-detecting rats have been trained this way. Skinner believed most human behavior is learned through operant conditioning: an infant's reinforced behaviors persist, and personality is simply a collection of reinforced operant behaviors.\n\nExtinction. Withholding reinforcement eliminates a behavior, in both respondent and operant conditioning. Pavlov's dog stopped salivating when the bell no longer brought food, and the rat stops pressing when pellets stop. The more reinforcement given in training, the more resistant a response is to extinction.\n\nSchedules of reinforcement. Since everyday behavior is rarely reinforced every time, Skinner studied how different schedules affect behavior. Under continuous reinforcement every response is rewarded. A fixed-interval schedule rewards the first response after a fixed time, as with a monthly salary; shorter intervals give higher rates. A fixed-ratio schedule rewards after a set number of responses, as with piece-rate pay or commission, and gives faster responding than FI. A variable-interval schedule rewards after varying times, as in fishing. A variable-ratio schedule rewards after a varying number of responses around an average, as with slot machines and lotteries, and produces high, stable responding. Intermittent and especially variable schedules produce behavior that resists extinction, and most everyday learning is VI or VR.\n\nShaping. Complex behaviors rarely occur by chance, so they are taught by successive approximation, reinforcing behavior only as it comes closer to the target. Skinner trained pigeons to peck a spot in under 3 minutes. Children's speech is shaped as parents reinforce babbling, then word-like sounds, then correct usage. Skinner even shaped a chopping gesture in Erich Fromm within five minutes using looks and nods. Accidental reinforcement can also shape superstitious behavior, as when pigeons fed every 15 seconds repeated whatever they happened to be doing.\n\nConclusion. Operant conditioning offers a simple, testable and highly practical account of how behavior is acquired, maintained and extinguished. It is supported by thousands of experiments and is applied in token economies and behavior modification. Its limits are the deterministic view of people, the leap from simple animal studies to complex human life, and evidence such as instinctive drift showing that not all behavior is learned.",
+      "pages": [
+        321,
+        328
+      ]
+    },
+    {
+      "q": "Describe Skinner's techniques for the self-control of behavior and explain the main applications of operant conditioning, including the role of punishment and negative reinforcement.",
+      "marks": 10,
+      "answer": "Introduction. For Skinner, behavior is controlled by external variables, not by internal drives or an autonomous self. Yet he accepted that people can exercise self-control: the ability to exert control over the variables that determine their behavior. He also showed that operant principles can be applied deliberately to change behavior in clinics, schools and workplaces.\n\nSelf-control techniques. Skinner described four. (1) Stimulus avoidance: removing oneself from, or removing, a controlling stimulus. Examples are going to the library to escape a noisy roommate, avoiding a person who makes you angry, or an alcoholic keeping no liquor at home. (2) Self-administered satiation: overdoing a bad habit until it becomes aversive, as when a smoker chain-smokes until sick; this has worked in formal anti-smoking programs. (3) Aversive stimulation: arranging unpleasant consequences for failure, such as an obese person announcing a weight-loss goal to friends or on Facebook so that failure brings embarrassment and criticism. (4) Self-reinforcement: rewarding oneself for desirable behavior, such as a teenager buying concert tickets after reaching a target grade average. External variables still control behavior, but our own actions can modify their effects. Research supports the value of self-control. High scorers have better grades, adjustment, self-esteem and relationships and less anger (Tangney, Baumeister, & Boone, 2004), and are happier and more satisfied with life (Hofmann et al., 2014). Nurturing, involved parenting is linked to higher self-control (Wills et al., 2007).\n\nApplications: token economy. Behavior modification applies reinforcement principles to produce desired change in children and adults, healthy and disturbed, individuals and groups. In the classic token economy (Ayllon & Azrin, 1968), long-hospitalized female psychotic patients earned tokens for grooming and ward work and exchanged them for goods and privileges. They became active, sociable, more responsible and less dependent, with improved self-esteem. Token systems later cut aggression by 79 percent in cognitively impaired patients, helped autistic children in Japan, and helped smokers quit through online vouchers. Gains usually fade when tokens stop, unless caregivers continue with praise and affection.\n\nApplications: education and business. In education, behavior modification improves academic performance and social behavior and reduces behavioral and emotional problems. In business, it reduces absenteeism, lateness and sick-leave abuse and improves performance and safety, using reinforcers such as pay, security, recognition, status and growth. These programs ignore anxieties and unconscious motives and focus only on overt behavior and the right reinforcers.\n\nPunishment and negative reinforcement. Most applications use positive reinforcement. Punishment, an aversive stimulus applied to reduce a response, works immediately but has no lasting effect, and it produces escape, counterattack or apathy. Negative reinforcement strengthens a response by removing an aversive stimulus, as when a smoker quits to stop a spouse's nagging. Skinner opposed noxious stimuli because their effects are less predictable and less consistent than positive reinforcement.\n\nConclusion. Skinner's self-control techniques and behavior-modification programs show his theory's practical power: changing behavior by rearranging environments and consequences. His preference for positive reinforcement over punishment remains one of his most influential and humane recommendations.",
+      "pages": [
+        329,
+        332
+      ]
+    },
+    {
+      "q": "Discuss Skinner's view of human nature, with special reference to the nature–nurture and free will–determinism issues.",
+      "marks": 10,
+      "answer": "Introduction. Skinner's image of human nature follows from his belief that behavior is controlled by external reinforcers and that inner states have no place in science. His positions on the major questions about human nature are among the clearest of any theorist.\n\nNature versus nurture. Skinner came down firmly on the side of nurture. People are mainly products of learning, shaped far more by external variables than by genetic factors. Personality is a collection of operant behaviors that have been reinforced, and even abnormal behavior is simply undesirable behavior that has been reinforced.\n\nThe role of childhood. Because basic behaviors are formed in childhood, we can infer that early experience matters more than later experience. But Skinner did not think adult behavior is fixed. What is learned in childhood can be modified, and new behavior patterns can be acquired at any age, as the success of behavior-modification programs with adults shows.\n\nUniqueness. Since everyone's experiences differ, especially in childhood, and behavior is shaped by experience, each person is unique. No two people behave in exactly the same way.\n\nUltimate goal. Skinner did not address an individual life goal. He made no reference to overcoming inferiority, reducing anxiety or self-actualization, because these assume internal subjective states that he rejected. Any goal in his work is societal. In Walden Two and other writings he described an ideal society and argued that individual behavior should be directed toward the kind of society most likely to survive.\n\nFree will versus determinism. Skinner was a strict determinist. He believed people function like machines, in lawful, orderly and predetermined ways, and he rejected any idea of an inner being or autonomous self that freely chooses. Behavior is controlled by reinforcers. One consequence is that it is pointless to blame or punish people. A dictator ordering mass killings or a serial killer is, on this view, no more responsible than a driverless car rolling downhill, since all are controlled by external variables. Even his idea of self-control is not free will. It is a person rearranging the external variables that control them.\n\nOptimism. This might seem to portray people as passive robots, but Skinner rejected that conclusion. We are controlled by our environment, but we are also responsible for designing it. Buildings, cities, factories, media, governments, languages, laws and customs are human creations, so we are both controller and controlled. He said he did not want to change people, only the world they live in. This gives his view a qualified optimism: by redesigning environments with operant principles, we can improve individuals and society.\n\nConclusion. Skinner's image of humanity emphasizes learning over heredity, the formative but modifiable role of childhood, uniqueness, determinism, and a societal goal of survival. Humanistic psychologists and opponents of determinism criticize it for ignoring conscious free will and uniquely human qualities. Its strength is a hopeful, practical message: change the environment and behavior will change.",
+      "pages": [
+        332,
+        333
+      ]
+    },
+    {
+      "q": "Critically evaluate Skinner's reinforcement theory. How does it differ from other approaches, and what is its value?",
+      "marks": 10,
+      "answer": "Introduction. B. F. Skinner's reinforcement theory is unusual in a personality text, because Skinner offered no personality theory at all. He sought to explain all behavior in factual terms, studying only overt responses and their consequences. Evaluating it involves comparing it with other approaches and weighing its strengths and criticisms.\n\nHow it differs. Other approaches (psychoanalytic, trait, life-span, cognitive and humanistic) look inside the person for causes such as unconscious forces, traits, motives or drives. Skinner rejected all internal and physiological explanations as unobservable and called humans 'empty organisms'. He differed in subject matter (observable behavior), method (controlled experiments on rats and pigeons, with intensive study of single subjects rather than group averages), assessment (functional analysis, direct observation, self-reports and physiological measures instead of dream analysis, free association or projective tests) and aims (to predict and control behavior rather than understand inner personality).\n\nStrengths. First, the theory has strong empirical support. Thousands of experiments on reinforcement schedules, language acquisition, shaping, superstition and behavior modification have been highly supportive. Second, its concepts are precise and testable: reinforcement, extinction, the four schedules and successive approximation. Third, it has great practical value. Token economies transformed hopeless psychiatric patients (Ayllon & Azrin, 1968), cut aggression by 79 percent, helped autistic children and smokers, and behavior modification improves classroom behavior and workplace attendance and safety. Fourth, it offers a humane preference for positive reinforcement over punishment. Fifth, Skinner's influence was enormous: journals founded in 1958 and 1968, the APA Distinguished Scientific Contribution Award, the National Medal of Science, and best sellers such as Walden Two and Beyond Freedom and Dignity.\n\nCriticisms. Opponents of determinism and humanistic psychologists object that people are more complex than machines, rats or pigeons, and that focusing on overt behavior ignores uniquely human qualities such as conscious free will. Critics question generalizing from a pigeon pecking a disc to complex social, economic, religious and cultural issues; the gap seems too vast, and much human behavior cannot be reduced to that level. The theory has also been faulted for caring only about response rate. Breland and Breland's work on instinctive drift showed trained animals reverting to instinctive behaviors even at the cost of food, which challenges the claim that all behavior is learned. Practically, token-economy gains tend to fade once reinforcement stops. Finally, since the 1960s the cognitive movement has overtaken behaviorism, and Skinner admitted his approach had lost ground.\n\nValue compared with other approaches. Compared with psychoanalytic and humanistic theories, which are rich but hard to test, Skinner's system is scientifically rigorous and directly useful for changing behavior. Its weakness is the reverse: it says little about thoughts, feelings, and the inner experience that most personality theorists consider central.\n\nConclusion. Skinner's reinforcement theory is best seen not as a full account of personality but as a powerful, well-supported technology of behavior change. Its behavior-modification techniques remain popular in classrooms, workplaces and clinics, even though his broader behaviorist position has given way to cognitive psychology.",
+      "pages": [
+        317,
+        337
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "What did Skinner call humans, and why?",
+      "back": "'Empty organisms': nothing inside the person can explain behavior scientifically.",
+      "page": 318
+    },
+    {
+      "front": "Did Skinner deny that inner forces exist?",
+      "back": "No; he denied only that they are useful for science.",
+      "page": 318
+    },
+    {
+      "front": "Skinner's research subjects?",
+      "back": "Rats and pigeons.",
+      "page": 318
+    },
+    {
+      "front": "Why did Skinner think animal research applies to people?",
+      "back": "Human and animal behavior differ in degree, not kind; science goes from simple to complex.",
+      "page": 318
+    },
+    {
+      "front": "Skinner's 'dark year'?",
+      "back": "His failure as a novelist at 22, likened to Erikson's identity crisis.",
+      "page": 319
+    },
+    {
+      "front": "When did Skinner enter Harvard, and how fast was his Ph.D.?",
+      "back": "1928; three years.",
+      "page": 320
+    },
+    {
+      "front": "What is Walden Two?",
+      "back": "Skinner's 1948 novel about a society controlled by positive reinforcement.",
+      "page": 320
+    },
+    {
+      "front": "Skinner's fundamental idea?",
+      "back": "Behavior is controlled by its consequences.",
+      "page": 321
+    },
+    {
+      "front": "Respondent behavior?",
+      "back": "Responses elicited by specific environmental stimuli (e.g., knee jerk).",
+      "page": 321
+    },
+    {
+      "front": "Conditioning?",
+      "back": "Learned respondent behavior: one stimulus substitutes for another.",
+      "page": 321
+    },
+    {
+      "front": "Pavlov's law of learning?",
+      "back": "A conditioned response cannot be established without reinforcement.",
+      "page": 322
+    },
+    {
+      "front": "Extinction?",
+      "back": "Eliminating a behavior by withholding reinforcement.",
+      "page": 322
+    },
+    {
+      "front": "Operant behavior?",
+      "back": "Behavior emitted spontaneously that operates on and changes the environment.",
+      "page": 322
+    },
+    {
+      "front": "Key difference: respondent vs operant?",
+      "back": "Respondent is elicited and does not change the environment; operant is emitted and changes it.",
+      "page": 323
+    },
+    {
+      "front": "Operant conditioning?",
+      "back": "Changing a response's consequences changes the rate at which it occurs.",
+      "page": 323
+    },
+    {
+      "front": "Personality, according to Skinner?",
+      "back": "A pattern or collection of operant behaviors.",
+      "page": 324
+    },
+    {
+      "front": "Continuous reinforcement?",
+      "back": "A reinforcer after every response.",
+      "page": 324
+    },
+    {
+      "front": "Fixed-interval schedule example?",
+      "back": "Weekly or monthly salary.",
+      "page": 325
+    },
+    {
+      "front": "Fixed-ratio schedule example?",
+      "back": "Piece-rate pay or sales commission.",
+      "page": 326
+    },
+    {
+      "front": "Variable-interval schedule example?",
+      "back": "Fishing.",
+      "page": 326
+    },
+    {
+      "front": "Variable-ratio schedule example?",
+      "back": "Slot machines, roulette, lotteries.",
+      "page": 326
+    },
+    {
+      "front": "Which schedules most resist extinction?",
+      "back": "Variable schedules (VR gives high, stable rates).",
+      "page": 326
+    },
+    {
+      "front": "Successive approximation?",
+      "back": "Reinforcing behavior only as it comes closer to the desired final behavior (shaping).",
+      "page": 327
+    },
+    {
+      "front": "Whose hand gesture did Skinner shape in five minutes?",
+      "back": "Erich Fromm's (a chopping motion).",
+      "page": 328
+    },
+    {
+      "front": "Superstitious behavior?",
+      "back": "Persistent behavior with a coincidental, not functional, link to reinforcement.",
+      "page": 328
+    },
+    {
+      "front": "Burger & Lynn (2005) finding?",
+      "back": "74% of US and Japanese baseball players superstitious; Americans more so.",
+      "page": 329
+    },
+    {
+      "front": "Four self-control techniques?",
+      "back": "Stimulus avoidance, self-administered satiation, aversive stimulation, self-reinforcement.",
+      "page": 329
+    },
+    {
+      "front": "Token economy?",
+      "back": "Tokens earned for desirable behavior, exchanged for goods and privileges.",
+      "page": 330
+    },
+    {
+      "front": "Pioneering token-economy study?",
+      "back": "Ayllon & Azrin (1968), female psychotic patients.",
+      "page": 330
+    },
+    {
+      "front": "What happens when tokens stop?",
+      "back": "Behaviors usually revert, unless caregivers keep reinforcing socially.",
+      "page": 331
+    },
+    {
+      "front": "Negative reinforcement?",
+      "back": "Strengthening a response by removing an aversive stimulus.",
+      "page": 332
+    },
+    {
+      "front": "Punishment?",
+      "back": "An aversive stimulus after a response, to decrease its likelihood.",
+      "page": 332
+    },
+    {
+      "front": "Skinner on free will?",
+      "back": "Strict determinism: people function like machines.",
+      "page": 332
+    },
+    {
+      "front": "Functional analysis assesses?",
+      "back": "Frequency, situation and reinforcers of a behavior.",
+      "page": 333
+    },
+    {
+      "front": "Three ways to assess behavior?",
+      "back": "Direct observation, self-reports, physiological measurements.",
+      "page": 333
+    },
+    {
+      "front": "Why study a single subject?",
+      "back": "Group averages say little about the unique individual.",
+      "page": 334
+    },
+    {
+      "front": "Instinctive drift?",
+      "back": "Substitution of instinctive behaviors for reinforced ones (Breland & Breland).",
+      "page": 335
+    },
+    {
+      "front": "What challenged behaviorism from the 1960s?",
+      "back": "The cognitive movement.",
+      "page": 336
+    }
+  ],
+  "summary": [
+    "Skinner offered no personality theory; he studied only overt, observable behavior and treated people as 'empty organisms' whose behavior has external causes.",
+    "He used rats and pigeons, arguing that human and animal behavior differ only in degree and that science should proceed from simple to complex.",
+    "His strict childhood, mechanical tinkering, failure as a writer and turn to behaviorism shaped his view of people as lawful, predictable systems.",
+    "Behavior is controlled by its consequences; whoever controls the reinforcers controls behavior.",
+    "Respondent behavior is elicited by specific stimuli; conditioning (Pavlov) substitutes one stimulus for another and needs reinforcement; withholding reinforcement causes extinction.",
+    "Operant behavior is emitted, operates on the environment and changes it; operant conditioning (the Skinner box) controls its rate through consequences.",
+    "Personality is a collection of reinforced operant behaviors; abnormal behavior is undesirable behavior that has been reinforced.",
+    "The four reinforcement schedules are fixed interval, fixed ratio, variable interval and variable ratio; variable schedules are most resistant to extinction.",
+    "Complex behaviors, including speech, are acquired by shaping (successive approximation).",
+    "Superstitious behavior arises from accidental reinforcement and has no functional link to the reward.",
+    "Self-control techniques are stimulus avoidance, self-administered satiation, aversive stimulation and self-reinforcement; high self-control predicts better outcomes.",
+    "Behavior modification and token economies apply operant principles in hospitals, schools and businesses, favoring positive reinforcement over punishment.",
+    "Negative reinforcement removes an aversive stimulus and is less effective than positive reinforcement; punishment gives no long-term change.",
+    "Skinner's image of human nature stresses nurture, uniqueness, determinism and a societal survival goal, but we can control our lives by designing our environment.",
+    "Assessment uses functional analysis plus direct observation, self-reports and physiological measures; research uses intensive single-subject designs.",
+    "Criticisms include determinism, oversimplified animal experiments and instinctive drift; behaviorism has been overtaken by the cognitive movement, though its techniques remain popular."
+  ],
+  "assessment": [
+    {
+      "q": "Which statement best describes Skinner's position on personality?",
+      "options": [
+        "He offered no personality theory and studied only overt behavior",
+        "He proposed a trait theory of personality",
+        "He explained personality through unconscious conflicts",
+        "He saw personality as striving toward self-actualization"
+      ],
+      "answer": 0,
+      "explain": "Skinner did not offer a personality theory; he studied observable behavior only (p. 317).",
+      "page": 317
+    },
+    {
+      "q": "Pavlov's dogs came to salivate to a bell because",
+      "options": [
+        "the bell was painful",
+        "the bell had been repeatedly paired with food",
+        "salivation was reinforced by removing noise",
+        "they imitated other dogs"
+      ],
+      "answer": 1,
+      "explain": "After repeated bell-food pairings the bell alone elicited salivation (p. 321).",
+      "page": 321
+    },
+    {
+      "q": "Extinction occurs when",
+      "options": [
+        "reinforcement is doubled",
+        "a new stimulus is added",
+        "reinforcement is withheld",
+        "punishment is applied"
+      ],
+      "answer": 2,
+      "explain": "Extinction is the elimination of behavior by withholding reinforcement (p. 322).",
+      "page": 322
+    },
+    {
+      "q": "According to Shull and Grimes (2006), resistance to extinction is greater when",
+      "options": [
+        "no reinforcement is given",
+        "punishment accompanies training",
+        "training is very brief",
+        "more reinforcement is given during training"
+      ],
+      "answer": 3,
+      "explain": "The greater the reinforcement in training, the more resistant the response (p. 322).",
+      "page": 322
+    },
+    {
+      "q": "Operant conditioning is defined as",
+      "options": [
+        "a change in consequences of a response affecting its rate",
+        "the pairing of two stimuli",
+        "reflexive responding to stimuli",
+        "learning by observing models"
+      ],
+      "answer": 0,
+      "explain": "That is the chapter's definition (p. 323).",
+      "page": 323
+    },
+    {
+      "q": "A salesperson paid on commission is on which schedule?",
+      "options": [
+        "Fixed interval",
+        "Fixed ratio",
+        "Variable interval",
+        "Continuous"
+      ],
+      "answer": 1,
+      "explain": "Income depends on the number of sales, i.e., number of responses (p. 326).",
+      "page": 326
+    },
+    {
+      "q": "Which schedule produces high, stable response rates that resist extinction, as in gambling?",
+      "options": [
+        "Fixed interval",
+        "Continuous",
+        "Variable ratio",
+        "Fixed ratio"
+      ],
+      "answer": 2,
+      "explain": "Skinner found VR produces high, stable responding (p. 326).",
+      "page": 326
+    },
+    {
+      "q": "Responses that were reinforced continuously, compared to intermittently, are",
+      "options": [
+        "never extinguished",
+        "extinguished at the same rate",
+        "turned into superstitions",
+        "extinguished sooner"
+      ],
+      "answer": 3,
+      "explain": "The response stopped sooner after continuous reinforcement (p. 326).",
+      "page": 326
+    },
+    {
+      "q": "Skinner's explanation of how children learn to speak relies on",
+      "options": [
+        "successive approximation",
+        "instinctive drift",
+        "self-administered satiation",
+        "negative reinforcement"
+      ],
+      "answer": 0,
+      "explain": "Parents give differential reinforcement in stages (pp. 327-328).",
+      "page": 328
+    },
+    {
+      "q": "The Tampa Bay lineman who insisted on the bed nearest the bathroom illustrates",
+      "options": [
+        "stimulus avoidance",
+        "superstitious behavior",
+        "instinctive drift",
+        "shaping"
+      ],
+      "answer": 1,
+      "explain": "His improved play coincided with the bed switch, an accidental reinforcement (p. 328).",
+      "page": 328
+    },
+    {
+      "q": "Burger and Lynn (2005) found what percentage of US and Japanese baseball players admitted superstitious behavior?",
+      "options": [
+        "24 percent",
+        "50 percent",
+        "74 percent",
+        "94 percent"
+      ],
+      "answer": 2,
+      "explain": "74 percent admitted superstitious behavior (p. 329).",
+      "page": 329
+    },
+    {
+      "q": "Announcing a weight-loss goal on Facebook so that failure brings embarrassment is",
+      "options": [
+        "self-reinforcement",
+        "stimulus avoidance",
+        "self-administered satiation",
+        "aversive stimulation"
+      ],
+      "answer": 3,
+      "explain": "Arranging unpleasant consequences for failure is aversive stimulation (p. 329).",
+      "page": 329
+    },
+    {
+      "q": "A token economy program reduced aggressive behavior in cognitively impaired psychiatric patients by",
+      "options": [
+        "79 percent",
+        "19 percent",
+        "49 percent",
+        "99 percent"
+      ],
+      "answer": 0,
+      "explain": "DePhilippis et al. (2008) reported a 79% reduction after nine months (p. 331).",
+      "page": 331
+    },
+    {
+      "q": "In Dallery, Glenn and Raiff's (2007) online study, smokers earned vouchers for",
+      "options": [
+        "attending group therapy",
+        "lowering their carbon monoxide levels",
+        "reporting fewer cravings",
+        "chain-smoking until sick"
+      ],
+      "answer": 1,
+      "explain": "Vouchers were earned for reducing CO and maintaining non-smoker levels (p. 331).",
+      "page": 331
+    },
+    {
+      "q": "A smoker who quits so that a spouse's nagging will stop illustrates",
+      "options": [
+        "punishment",
+        "positive reinforcement",
+        "negative reinforcement",
+        "extinction"
+      ],
+      "answer": 2,
+      "explain": "Removal of the aversive nagging strengthens not smoking (p. 332).",
+      "page": 332
+    },
+    {
+      "q": "Why did Skinner oppose noxious stimuli for changing behavior?",
+      "options": [
+        "They are always ineffective",
+        "They work too slowly",
+        "They strengthen superstitions",
+        "Their consequences are less predictable than positive reinforcement"
+      ],
+      "answer": 3,
+      "explain": "He noted unpredictable consequences and inconsistent effectiveness (p. 332).",
+      "page": 332
+    },
+    {
+      "q": "On free will versus determinism, Skinner believed people",
+      "options": [
+        "function like machines in lawful, predetermined ways",
+        "have complete free will",
+        "are free in adulthood only",
+        "are guided by an autonomous self"
+      ],
+      "answer": 0,
+      "explain": "He rejected an autonomous self and stressed determinism (p. 332).",
+      "page": 332
+    },
+    {
+      "q": "Any life goal in Skinner's work is",
+      "options": [
+        "overcoming inferiority",
+        "societal: building a society with the best chance of survival",
+        "self-actualization",
+        "reducing anxiety"
+      ],
+      "answer": 1,
+      "explain": "He rejected individual goals as internal states; his goal was societal (p. 332).",
+      "page": 332
+    },
+    {
+      "q": "Physiological measurements of behavior include",
+      "options": [
+        "dream reports",
+        "inkblot responses",
+        "heart rate, muscle tension and brain waves",
+        "free associations"
+      ],
+      "answer": 2,
+      "explain": "These are the physiological measures listed (p. 334).",
+      "page": 334
+    },
+    {
+      "q": "In Hawkins et al. (1966), the observed frequency of misbehaviors served as",
+      "options": [
+        "a reinforcer for the child",
+        "a projective test score",
+        "a punishment schedule",
+        "a baseline for comparison during and after treatment"
+      ],
+      "answer": 3,
+      "explain": "The frequencies provided a baseline (p. 334).",
+      "page": 334
+    },
+    {
+      "q": "Breland and Breland's raccoons, trained to deposit coins, began to",
+      "options": [
+        "rub the coins with washing-like movements",
+        "deposit coins faster",
+        "refuse all food",
+        "peck at the bank"
+      ],
+      "answer": 0,
+      "explain": "Instinctive washing movements replaced the reinforced behavior (p. 335).",
+      "page": 335
+    },
+    {
+      "q": "The title 'The Misbehavior of Organisms' parodied Skinner's book",
+      "options": [
+        "Walden Two",
+        "The Behavior of Organisms",
+        "Beyond Freedom and Dignity",
+        "Science and Human Behavior"
+      ],
+      "answer": 1,
+      "explain": "It parodied The Behavior of Organisms (1938) (p. 335).",
+      "page": 335
+    },
+    {
+      "q": "Which of the following honors did Skinner receive from the APA in 1958?",
+      "options": [
+        "Nobel Prize",
+        "Gold Medal of the Royal Society",
+        "Distinguished Scientific Contribution Award",
+        "Lifetime Achievement in Psychoanalysis"
+      ],
+      "answer": 2,
+      "explain": "The APA gave him the Distinguished Scientific Contribution Award in 1958 (p. 336).",
+      "page": 336
+    },
+    {
+      "q": "Which journal was founded in 1968 for work on behavior-modification techniques?",
+      "options": [
+        "Journal of the Experimental Analysis of Behavior",
+        "Psychological Review",
+        "Journal of Personality",
+        "Journal of Applied Behavior Analysis"
+      ],
+      "answer": 3,
+      "explain": "JABA was established in 1968; JEAB began in 1958 (p. 336).",
+      "page": 336
+    }
+  ]
+}

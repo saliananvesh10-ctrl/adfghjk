@@ -1,0 +1,1597 @@
+{
+  "number": 1,
+  "title": "Personality: What It Is and Why You Should Care",
+  "theorist": null,
+  "approach": "Introduction",
+  "pages": [
+    1,
+    34
+  ],
+  "overview": "This introductory chapter explains what personality is and why it matters. It examines definitions (from the Latin persona to the interactionist view), how social media, race, gender and culture shape personality, the main methods of assessing personality and their reliability and validity, the four research methods used to study it, the role of theory (including its autobiographical side), and six questions about human nature used to compare all later theorists.",
+  "objectives": [
+    "Define personality and explain the different ways of looking at it, including the persona and interactionist views.",
+    "Describe how social media, race, gender and culture influence personality.",
+    "Explain reliability and validity and evaluate the major methods of personality assessment (self-report, projective, interview, behavioural, thought/experience sampling).",
+    "Discuss how gender, ethnicity and culture affect personality assessment and test translation.",
+    "Compare the clinical, experimental, virtual and correlational research methods, including their limitations.",
+    "Explain the role of theory, the autobiographical nature of personality theories, and the six issues defining a theorist's image of human nature."
+  ],
+  "sections": [
+    {
+      "id": "take-a-look-at-the-word",
+      "heading": "Take a Look at the Word",
+      "pages": [
+        1,
+        2
+      ],
+      "detailed": "The chapter opens by asking what the word personality actually means. Three ordinary dictionary definitions are offered: the state of being a person; the characteristics and qualities that make up someone's distinctive character; and the sum total of a person's physical, mental, emotional and social characteristics. Put together, these suggest that personality is everything about you that makes you a unique individual, different in big and small ways from everyone else.\n\nThe authors stress that although personality is a simple, everyday word, it is a hard concept to grasp properly. That is why it takes a whole course to start understanding it. Their strategy is to approach the concept through the various theories psychologists have put forward over the years to explain it.\n\nThe book's plan is then laid out. Theories are grouped according to their differing views of human nature. The sequence begins with Sigmund Freud and psychoanalysis, moves to the theorists who revised or rebelled against Freud, then the life-span approach (personality development from birth to old age), followed by theories centred on traits, psychological health, predetermined behaviour patterns, and cognitive learning in social situations. The book ends with newer 21st-century ideas and some conclusions.\n\nAn important caution is raised here: personality theorists of the last century seldom took ethnic and cultural differences into account. It is not meaningful to generalise to everyone from ideas built on, for example, clinical observations of neurotic European women, or tests given to American male college students. So when the book discusses research and real-world use of theories in diagnosis and therapy, it promises to show the influence of age, gender, race, ethnic and national origin, religion and sexual orientation.\n\nFinally, the authors describe the learning aids in the book: Highlights boxes summarising research, chapter outlines, summaries, review questions, reading lists, margin definitions collected in a glossary, and Log On web resources.",
+      "simple": "Personality means everything about you that makes you a unique person. It is an easy word but a hard idea, so the book studies it through the different theories psychologists have proposed, starting with Freud. The authors warn that older theories mostly ignored culture, gender and ethnicity, and they plan to correct for that.",
+      "keyPoints": [
+        "Dictionary meanings: the state of being a person; one's distinctive qualities; the sum of physical, mental, emotional and social traits.",
+        "Personality = whatever makes a person a unique individual, different from everyone else.",
+        "Book order: Freud and psychoanalysis, neo-Freudians, life-span, traits, psychological health, predetermined behaviour, social-cognitive learning, 21st-century ideas.",
+        "Older theorists rarely considered ethnic and cultural differences, so their ideas cannot simply be generalised to all people.",
+        "The book promises attention to age, gender, race, ethnicity, nationality, religion and sexual orientation."
+      ]
+    },
+    {
+      "id": "everybody-has-one",
+      "heading": "Everybody Has One",
+      "pages": [
+        2,
+        3
+      ],
+      "detailed": "This section argues that personality is one of a person's most important assets. Everyone has one, and it sets the limits of how successful and fulfilled we can become. It has already shaped our experiences and will continue to do so throughout life. Our achievements, our hopes for the future, how good a spouse, partner or parent we will be, and even our health can be affected by our own personality and by the personalities of the people around us.\n\nPersonality can widen or narrow our options and choices. It can stop some people from having certain experiences, or allow others to make full use of them. For some it acts as a restraint; for others it opens up new opportunities.\n\nThe authors then look at how people use the word casually. Saying someone has a \"terrific personality\" usually means they are pleasant, likeable and easy to get along with: the kind of person you would pick as a friend, roommate or colleague, hire if you were a manager, or even marry. A \"terrible personality\", by contrast, describes someone aloof, hostile, aggressive, unfriendly or hard to deal with. Such people tend to be avoided, rejected and left isolated.\n\nA key point is that personality judgements run both ways. While we judge others' personalities, they are judging ours. These mutual judgements are made again and again whenever we meet new people, and they shape the lives of both sides. Even the number and type of social situations we enter depend on our personality, for instance on how sociable or shy we are. Most people already know roughly where they stand on such traits and have a fairly clear picture of their overall personality.",
+      "simple": "Your personality affects nearly everything: success, relationships, parenting and even health. People casually call personalities \"terrific\" or \"terrible\", and they choose friends, employees and partners on that basis. Others judge us in the same way, and our personality even decides how many social situations we enter.",
+      "keyPoints": [
+        "Personality is one of our most important assets and sets limits on success and life fulfilment.",
+        "It can influence achievements, expectations, relationships, parenting and health.",
+        "It can restrict some people's options and open opportunities for others.",
+        "Everyday judgements ('terrific' vs 'terrible' personality) guide choices of friends, hires and partners.",
+        "Judgements are mutual, and traits like sociability or shyness decide which social situations we enter."
+      ]
+    },
+    {
+      "id": "describing-your-personality",
+      "heading": "Describing Your Personality",
+      "pages": [
+        3,
+        3
+      ],
+      "detailed": "Labels such as terrific or terrible are too vague and simplistic to capture the whole pattern of a person's characteristics. Personality is complex because people are complex and behave differently across situations and with different people. Psychologists therefore need more precise language to define and describe it, and this is why they have invested so much effort in building tests to assess, or measure, personality.\n\nThe authors admit that you may not need a test to know what you are like, since you probably know yourself better than anyone, as long as you are honest. They invite readers to write down as many adjectives as they can that describe their real self, not the self they would like to be or the image they want teachers, parents or Facebook friends to see. Most people come up with perhaps six to ten words.\n\nBy comparison, a widely used test called the Adjective Check List contains 300 adjectives describing personality, and test-takers tick those that best fit them. The chapter gives a 30-item sample (Table 1.1) including words such as affectionate, ambitious, assertive, cynical, moody, optimistic, sociable, submissive, trusting and withdrawn. Ticking these gives a more detailed self-description than an unaided list, yet the full test would offer another 270 items. The exercise shows how much richer and more systematic a structured instrument is compared with casual self-description.",
+      "simple": "Words like \"terrific\" are too fuzzy to describe a personality, because people are complex and change across situations. Psychologists build tests to describe personality more precisely. The Adjective Check List, for example, offers 300 adjectives for people to pick from.",
+      "keyPoints": [
+        "Everyday labels are too vague; people are complex and vary across situations and people.",
+        "Psychologists have developed tests to assess (measure) personality precisely.",
+        "Self-description should reflect the real self, not the ideal or the image shown to others.",
+        "The Adjective Check List offers 300 adjectives; Table 1.1 samples 30 of them."
+      ]
+    },
+    {
+      "id": "how-does-personality-develop",
+      "heading": "How Does Personality Develop?",
+      "pages": [
+        3,
+        4
+      ],
+      "detailed": "The authors clarify that the course is not about discovering what your own personality is like; you do not need psychology for that. Its real focus is on the forces and factors that shape personality.\n\nSeveral basic questions will run through the book: whether we are born with a certain kind of personality or learn it from our parents; whether unconscious forces influence it; and whether it can change as we get older. A range of theories has been proposed to answer these and related questions about human nature. For each theory the book will describe what it says, how it came about and its current standing, and then judge how useful it is in explaining how personality develops.\n\nThe authors use the image of a huge online jigsaw puzzle. Each theorist contributes individual pieces. This is why even theories whose concepts are decades old are still studied: psychologists keep trying to fit the pieces together to get a clearer, more complete picture of what makes us who we are and how we see the world.\n\nA Log On box points to resources such as the Personality Project at Northwestern University, a personality theories e-textbook by C. George Boeree, and the Society for Personality and Social Psychology, described as the world's largest organisation of personality and social psychologists and a division of the American Psychological Association.",
+      "simple": "The book is about what shapes personality, not just what yours is like. It asks whether personality is inborn or learned, whether the unconscious affects it, and whether it changes with age. Each theory is like a piece of a giant jigsaw puzzle that psychologists are still putting together.",
+      "keyPoints": [
+        "Focus is on forces and factors that shape personality, not on describing one's own personality.",
+        "Core questions: born or learned? influenced by unconscious forces? changeable with age?",
+        "Each theory is described, traced to its origins, assessed for current status and evaluated for usefulness.",
+        "Theorists contribute pieces to a jigsaw puzzle, so even old theories remain worth studying."
+      ]
+    },
+    {
+      "id": "ways-of-looking-at-personality",
+      "heading": "Ways of Looking at Personality",
+      "pages": [
+        4,
+        6
+      ],
+      "detailed": "Moving away from dictionary definitions, the chapter looks at how we use the word personality in everyday life, mostly when describing ourselves and others. One psychologist (Adams, 1954) proposed that we can grasp its meaning by examining what we mean whenever we say I. The word I sums up everything about us: likes and dislikes, fears and virtues, strengths and weaknesses. It marks us as individuals separate from everyone else.\n\nHow others see us. Another route is the origin of the word. Personality dates back to about the year 1500 and comes from the Latin persona, the mask worn by actors in a play. From this, persona came to mean our outward appearance, the public face we show to others. On this view personality would mean our external, visible characteristics: the impression we make on others, or the mask we wear when facing the world. The authors argue this is too narrow. When we talk about personality we also mean many attributes that go beyond surface physical qualities, including subjective social and emotional qualities that may not be directly visible, that someone may hide from us, or that we may hide from others.\n\nStable and predictable characteristics. We also use personality to refer to enduring characteristics, assuming it is relatively stable and predictable. A friend who is usually calm may sometimes become nervous or panicky, so personality can vary with the situation, but it is not rigid and generally resists sudden change. In the 1960s a debate arose over whether behaviour is driven more by enduring personal variables such as traits and needs, or by situational variables (Mischel, 1968, 1973). The controversy lasted about 20 years. It ended with the recognition, voiced by Funder (2001), that the person-versus-situation split had always been a false dichotomy. The resolution was the interactionist approach: stable personal traits, changing features of the situation, and the interaction between the two must all be considered to fully explain human nature.\n\nUnique characteristics. Personality also includes the idea of uniqueness. We notice similarities among people, yet each of us has special qualities that set us apart. Combining these ideas, the authors suggest that personality is an enduring and unique cluster of characteristics that may change in response to different situations. The margin definition puts it as the unique, relatively enduring internal and external aspects of a person's character that influence behaviour in different situations.\n\nEven this is not universally accepted. Each theorist offers a personal vision of personality, and that vision becomes his or her definition. Understanding these different versions, the different ways of defining the word I, is the purpose of the whole book.",
+      "simple": "We can think of personality as what we mean by \"I\", or as the \"mask\" (Latin persona) we show others. But personality also covers hidden inner qualities, is fairly stable yet varies with situations (the interactionist view), and is unique to each person. The working definition: an enduring, unique cluster of characteristics that can change across situations.",
+      "keyPoints": [
+        "Adams (1954): the meaning of personality is revealed by what we mean when we say 'I'.",
+        "'Personality' comes from Latin persona, an actor's mask, dating to about 1500; but personality is more than the visible public face.",
+        "Personality is relatively stable and predictable yet can vary with the situation.",
+        "Person-situation debate (Mischel, 1960s; ~20 years) was resolved by the interactionist approach: traits, situations and their interaction.",
+        "Working definition: an enduring and unique cluster of characteristics that may change in different situations.",
+        "Each theorist has his or her own definition, which is why many theories are studied."
+      ]
+    },
+    {
+      "id": "personality-and-the-social-media",
+      "heading": "Personality and the Social Media",
+      "pages": [
+        6,
+        8
+      ],
+      "detailed": "Our heavy use of social media to interact in a virtual world has generated much recent research linking personality and online life. The chapter frames three questions: Do we present our real selves on social media? Does using social media change our personality? Do people with different personalities use social media differently?\n\nAre you the same person online? Since personality can be defined as the public face we show, our online face (for example on Facebook) becomes another part of how others see us. Some research suggests most people are honest online: studies in the US and Germany found that social networking profiles convey personality at least as accurately as face-to-face contact (Gosling, Gaddis, & Vazire, 2007; Back et al., 2010). However, a large German study found that many people present themselves as more emotionally stable than they really are (Blumer & Doring, 2012). Introverted, neurotic, lonely and socially awkward people find it easier to show their true selves online than in person (Marriott & Buchanan, 2014), and people who feel able to express their true selves are more active on Facebook (Seidman, 2014). On selfies, research found that women send more than men, and that overuse can make the sender less likeable, reduce closeness in friendships, and reinforce the idea that looks matter more than real behaviour (Drexler, 2013; Rutledge, 2013). The authors note we are not always honest offline either, especially with dates or employers; the main difference online is the far wider, instantly reachable audience. Posts also have consequences: Facebook pages with negative content (drunkenness, sexual display, profanity) led evaluators to false impressions of personality, while clean pages produced more accurate judgements, which can affect hiring or graduate admission (Goodman et al., 2014).\n\nHow social media influences personality. Online networking both shapes and reflects personality. Chinese adolescents aged 13 to 18 who spent excessive time online showed significantly more anxiety and depression than light users (Lam & Peng, 2010). Heavy social media use can lower psychological well-being and the quality of relationships with friends and romantic partners (Blais et al., 2008; Huang, 2010a; Kross et al., 2013). US college students who phoned their parents had more satisfying, supportive relationships with them than those who kept in touch through social networking sites, who reported more loneliness, anxiety and conflict with parents (Gentzler et al., 2011). Studies in the Netherlands, Serbia, Hong Kong and Korea found excessive users to be lonelier, more introverted and lower in self-esteem. Excessive online use can become an addiction as obsessive as alcohol, drug or gambling addiction, and has been shown to change brain areas linked to depression and irritability (Mosher, 2011).\n\nHow personality influences social media use. In both Eastern and Western cultures, more extraverted and narcissistic people (those with an inflated, unrealistic self-concept) were much more likely to use Facebook, and narcissistic teenagers updated their status more often. Heavy users also tend to be more extraverted and open to experience, but lower in self-esteem and social skills, less conscientious and less emotionally stable. Among Australian teenagers and adults, extraverts and people with a strong self-identity spent more time making calls and changing ringtones and wallpaper, while more neurotic, less conscientious and shy people texted more. Finally, internet trolls, who deliberately post hateful and inflammatory comments to hurt others, are mostly male, average about 29 years old, and score high in sadism; degrading others makes them feel good (Buckels, Trapnell, & Paulhus, 2014).",
+      "simple": "Psychologists ask whether we show our real selves online, whether social media changes us, and whether personality affects how we use it. Online profiles are often fairly accurate, but heavy use is linked to anxiety, depression, loneliness and weaker relationships. Extraverts and narcissists use Facebook more, and internet trolls tend to score high in sadism.",
+      "keyPoints": [
+        "Three questions: real self online? does social media change personality? does personality shape use?",
+        "Online profiles are often at least as accurate as face-to-face impressions, though people may exaggerate emotional stability.",
+        "Excessive use is linked to anxiety, depression, loneliness, low self-esteem, poorer relationships and possible addiction.",
+        "Extraverted and narcissistic people use Facebook more; heavy users are also less conscientious and less emotionally stable.",
+        "Inappropriate posts create false impressions that can cost jobs or admissions.",
+        "Trolls: mostly male, average age 29, high in sadism."
+      ]
+    },
+    {
+      "id": "role-of-race-and-gender",
+      "heading": "The Role of Race and Gender in Shaping Personality",
+      "pages": [
+        8,
+        9
+      ],
+      "detailed": "Although the theorists covered in the book disagree on many things, they share some defining features: all are White, of European or American heritage, and almost all are men. The authors note this was not unusual for the time, when almost all major advances in the arts, philosophy, literature and science, including the scientific method itself, came from White men of European or American background, and educational and professional opportunities for women and ethnic minorities were severely limited.\n\nMoreover, almost all the patients and research subjects on whom early theories were built were White and mostly male; the authors joke that even the laboratory rats were white. Despite this, the theorists confidently presented their theories as valid for everyone, regardless of gender, race or ethnicity. None of them explicitly limited their claims to men, to Whites or to Americans. While they accepted some role for social and environmental forces, they tended to ignore or downplay gender and ethnic background.\n\nYet experience tells us that siblings and friends exposed to different childhood influences grow up with different personalities. Social psychology research shows that children raised in very different settings (the chapter's examples include a mostly White Midwestern town, a Los Angeles barrio, an Appalachian mountain village and an affluent Black suburb) face vastly different influences, and their personalities do differ as a result.\n\nGender also matters. Boys and girls are usually raised according to traditional gender stereotypes, and this shapes personality differently. In a large study of emotional awareness and expression covering undergraduates at two American universities and medical students in the US and Germany, women in both countries showed greater emotional complexity and intensity than men (Barrett, Lane, Sechrest, & Schwartz, 2000). A study of more than 7,000 college students in 16 Islamic nations found women scored significantly higher in anxiety than men in 11 of the 16 samples (Alansari, 2006). The book promises many more examples of gender differences in later chapters.",
+      "simple": "Almost all classic personality theorists were White men of European or American background, and so were most of their patients and subjects, yet they claimed their theories applied to everyone. In reality, different environments and gender-based upbringing produce different personalities. Studies show, for example, that women display more emotional intensity and, in many Islamic nations, more anxiety than men.",
+      "keyPoints": [
+        "Classic theorists were White, European or American, and almost all men.",
+        "Their patients and subjects were mostly White and male, yet theories were claimed to be universal.",
+        "Theorists ignored or minimised gender and ethnic influences.",
+        "Different environments (e.g., barrio vs affluent suburb) produce different personalities.",
+        "Barrett et al. (2000): women more emotionally complex and intense; Alansari (2006): women higher in anxiety in 11 of 16 Islamic nations."
+      ]
+    },
+    {
+      "id": "role-of-culture",
+      "heading": "The Role of Culture in Shaping Personality",
+      "pages": [
+        9,
+        13
+      ],
+      "detailed": "Psychology widely accepts that culture shapes personality. The specialty of cross-cultural psychology has produced much research showing that personality is formed by both genetic and environmental influences, and that culture is among the most important environmental ones (Triandis & Suh, 2002). Japanese who emigrated to the US became much more American in personality than those who stayed in Japan (Gungor et al., 2013). Recent Chinese immigrants to Canada resembled Hong Kong Chinese in introversion, but those who had lived in Canada for at least 10 years scored significantly higher in extraversion (McCrae et al., 1998). In a daily diary study, Asian-American students reported far more negative emotions in social situations than European-American students (Lee, Okazaki, & Yoo, 2006). Westerners, particularly Americans, are more optimistic and even rate their sports teams, cities and friends as superior compared with Asians (Endo, Heine, & Lehman, 2000). The field of cultural neuroscience has shown cultural differences in brain activity and genetic makeup (Azar, 2010): brain-wave responses to identical stimuli differ between Eastern and Western people (Park & Huang, 2010), and Japanese and American brain activity to the same visual stimuli differed in ways that matched each culture's level of submissiveness or dominance (Freeman, Rule, & Ambady, 2009).\n\nBeliefs about destiny. Karma has shaped outlooks in India and other Hindu or Buddhist countries for centuries. It can be read as a fatalistic, deterministic view: the consequences of present and past actions decide our future fate, so events happen because they were destined, not because we cause them. Fortune, health and happiness are seen as preordained, which may encourage a passive, resigned personality that accepts what comes. This contrasts with the typical American emphasis on free choice, personal effort and initiative. Research confirms large East-West differences in fate attribution (Norenzayan & Lee, 2010), but as Eastern cultures such as China modernise and Westernise, this belief weakens (Wong, Shaw, & Ng, 2010).\n\nIndividualism. Competitiveness and assertiveness are often seen as undesirable in Asian cultures, while Western cultures value them. Australian students stressed individuality far more than Japanese students, who were group-oriented (Kashima et al., 2004). A recently arrived Asian-American job applicant, not yet acculturated, may score low on a test of competitiveness and self-promotion and be wrongly judged deficient by American standards. Individualistic societies focus on personal freedom, choice and action; collectivist societies stress group norms, role expectations and cultural constraints. People in individualistic cultures show more extraversion, self-esteem, happiness, optimism and belief in controlling their future. A study of over 400 million people in 63 countries linked individualism strongly to well-being (Fischer & Boer, 2011). Genetic differences have been linked to lower anxiety and depression in collectivistic cultures and higher levels in individualistic ones (Chiao & Blizinsky, 2010). US students scored higher than Japanese students in self-efficacy, the feeling of being adequate and competent in coping with and controlling life (Morling et al., 2002); Australian students were more agreeable, conscientious, optimistic and satisfied than Singaporean students (Wong et al., 2009). European-American students gained well-being from pursuing goals for personal satisfaction, while Asian-American students gained it from goals that please important others such as parents (Oishi & Diener, 2001). American students described themselves in positive terms, Japanese students more in negative terms (Kanagawa, Cross, & Markus, 2001).\n\nChild-rearing practices. In individualistic America, parenting tends to be noncoercive, democratic and permissive; in collectivist Asian and Arab societies it is more authoritarian, restrictive and controlling. Arab adolescents felt more connected to their parents than American adolescents, followed parental direction in nearly all areas of life, and were satisfied with this; the authoritarian style did not harm their mental health as it might in liberal Western cultures (Dwairy et al., 2006). Chinese mothers in Canada were more authoritarian than non-Chinese mothers (Liu & Guo, 2010), and Turkish mothers in Germany who were more assimilated stressed individualistic goals more (Durgel et al., 2009).\n\nSelf-enhancement. Self-enhancement is the tendency to promote oneself aggressively and make oneself conspicuous; its opposite, self-effacement, fits Asian values. Canadian students self-enhanced more, Japanese students were more self-critical (Heine, Takata, & Lehman, 2000). Similar results came from comparisons of Japanese vs American students and Chinese students in Singapore vs Jewish students in Israel (Heine & Renshaw, 2002; Kurman, 2001), and Chinese participants showed the strongest self-effacement compared with people in the US, Mexico and Venezuela (Church et al., 2014). Nordic cultures promote self-effacement through Janteloven, a norm against placing oneself above the community; American students rated themselves more positively than Norwegian students (Silvera & Seger, 2004). Differences appear even within Europe: Spanish people valued honour and family more, Dutch people valued ambition, capability and independence (Rodriguez-Mosquera et al., 2000). Self-enhancement has upsides: self-enhancers were rated emotionally stable, socially attractive and influential (Dufner et al., 2013), and they seek mates who share their characteristics (Brown, Brown, & Kovatch, 2013).\n\nA diversity of cultures. Much less research exists on African and South American nations than on English-speaking, European and Asian countries, and much of it is not available in English. Also, most personality studies use American college students. The book aims to cover research from more than 40 countries and many age groups, religions and ethnic backgrounds.",
+      "simple": "Culture strongly shapes personality: immigrants change as they absorb a new culture, and even brain activity differs across cultures. Beliefs like karma, individualism versus collectivism, parenting styles and norms about self-promotion all produce different personalities. Most research still comes from English-speaking countries and American college students.",
+      "keyPoints": [
+        "Cross-cultural psychology: personality is shaped by genes and environment, and culture is a key environmental force.",
+        "Immigrant studies (Japanese in the US, Chinese in Canada) show personality shifting with culture; cultural neuroscience finds brain differences.",
+        "Karma reflects a fatalistic view that may foster passivity; the belief weakens as Eastern cultures modernise.",
+        "Individualistic cultures show more extraversion, self-esteem, optimism and well-being; collectivist cultures stress group norms.",
+        "Collectivist parenting is more authoritarian, but need not harm adolescents (Arab study).",
+        "Self-enhancement is higher in individualistic cultures; self-effacement in Asian and Nordic (Janteloven) cultures."
+      ]
+    },
+    {
+      "id": "assessing-your-personality",
+      "heading": "Assessing Your Personality",
+      "pages": [
+        13,
+        24
+      ],
+      "detailed": "To assess means to measure or evaluate. Personality assessment is a major real-world application of psychology. Clinical psychologists assess personality to tell normal from abnormal behaviour, diagnose disorders and choose therapy. School psychologists look for causes of adjustment or learning problems. Industrial/organisational psychologists select the best candidate for a job, counselling psychologists find the best job for a person, and research psychologists relate subjects' traits to their behaviour or other measures. Almost everyone's personality is assessed at some point, and workplace success often depends on test performance.\n\nReliability and validity. Good assessment techniques must be reliable and valid. Reliability is the consistency of response to an assessment device: if you get widely different scores on two days, the test is unreliable. Slight variation is normal, large variation means something is wrong with the test or its scoring. Validity is whether a device measures what it is meant to measure. An invalid test cannot predict behaviour and may give a misleading picture of a person. The five major approaches are self-report (objective) inventories, projective techniques, clinical interviews, behavioural assessment, and thought and experience sampling.\n\nSelf-report tests. People answer questions about their own behaviour and feelings, covering symptoms, attitudes, interests, fears and values. The Minnesota Multiphasic Personality Inventory (MMPI) is the world's most widely used psychological test, translated into more than 140 languages. Published in 1943, revised in 1989 to update and remove sexist language, its latest version is the MMPI-2-RF (2008). It is a true-false test of 567 statements covering physical and mental health, social and political attitudes, family and work factors, and neurotic and psychotic tendencies. Clinical scales include gender role, defensiveness, depression, hysteria, paranoia, hypochondriasis and schizophrenia, and some items detect faking or carelessness. It can separate genuine from faked pain in disability claims (Crighton et al., 2013) and real from faked PTSD (Mason et al., 2013), although mentally ill people can learn online how to hide symptoms (Hartmann & Hartmann, 2014). The MMPI-A (1992) for adolescents cut items from 567 to 478. Drawbacks are length and privacy concerns, but the MMPI remains valid in separating neurotics from psychotics and the healthy from the disturbed. Self-reports in general may not suit people of below-normal intelligence or poor reading skills; small wording changes can alter results (61.5 percent chose \"to think for themselves\" from a list, but only 4.6 percent gave it unprompted; Schwarz, 1999); and people tend to give socially desirable answers. Students told to look good answered more carefully and slowly (Holtgraves, 2004), and faking is easy (McDaniel et al., 2009). Still, self-reports are the most objective approach, scored quickly by automated programmes.\n\nOnline administration offers less time and cost, more objective scoring, acceptance by younger workers, and prevents looking ahead or changing answers. Results match paper versions, and people disclose more sensitive information online.\n\nProjective techniques. Developed by clinicians and inspired by Freud's emphasis on the unconscious, they assume people project needs, fears and values onto ambiguous stimuli. Interpretation is subjective, so reliability and validity are low and inter-scorer reliability can be poor, yet they are widely used. Hermann Rorschach (1884-1922), a Swiss psychiatrist nicknamed Klecks as a teenager, developed his inkblot test in 1921 after noticing patients and schoolchildren responded differently in the game Blotto. He made blots by folding inked paper and used only 10 because he could not afford to print more. His publication failed and he died 9 months later. Cards are shown, then shown again with questions; responses are scored for movement, human or animal figures, animate or inanimate objects, and whole or partial figures. Exner's Comprehensive System claims better reliability and validity, but the test's validity is still disputed; validity research supports the MMPI more, especially for minorities. The Thematic Apperception Test (Morgan & Murray, 1935) has 19 ambiguous pictures and 1 blank card; people tell stories about what led up to the scene, thoughts and feelings, and outcome. It has no objective scoring and low diagnostic reliability, but is useful in research on needs for achievement, affiliation and power. Word association and sentence completion tests are other projective methods; the Rotter Incomplete Sentence Blank allows more objective scoring.\n\nClinical interviews explore life history, relationships and problems, along with appearance, expressions, preoccupations, self-insight and contact with reality, often guided by MMPI results; they are subjective but useful alongside objective tools. Behavioural assessment has an observer rate behaviour in a situation; accuracy rises when observers know the person well (Connelly & Ones, 2010). Buss and Plomin's EASI Temperament Survey had mothers of same-sex twins rate their children. Thought sampling has people record their own thoughts over time, so observer and observed are the same; experience sampling adds the social and environmental context, often signalled by a beeper or smartphone. Students' 28-day internet diaries showed academic issues as the top negative events, then interpersonal ones (Park, Armeli, & Tennen, 2004). Limitations: people forget to record, data may come only from conscientious participants, and mood can colour reports, but data are comparable to self-reports.\n\nGender and ethnic issues. Women score lower on assertiveness, perhaps due to sex-role training, and girls showed more depression and concern about others' opinions (Rudolph & Conley, 2005). Women are diagnosed more often with depression and anxiety, possibly due to true incidence or bias, and receive longer therapy and higher drug doses. Asian Americans form a varied group; tests validated in one place may not hold elsewhere; mental illness is seen as shameful, so treatment is underused and delayed, and a Korean client described depression as a \"down heart\" (Kershaw, 2013). For Black Americans, MMPI differences found in the 1990s were not replicated in a VA study (Arbisi et al., 2002); higher paranoia scores likely reflect wariness from discrimination (Combs et al., 2002), and race does not change how MMPI results are interpreted. Hispanics score like Whites on the MMPI but differ from Rorschach norms, seek treatment less, and benefit from culturally aware Hispanic therapists, who make up only 1 percent of US psychologists. Cultural issues also arise in translation: Rorschach noted cultural differences in 1921; normal behaviour in one culture may look pathological in another; Chinese values such as harmony and frugality are not measured by American tests; most Iranian students skipped optional MMPI-2 sex items; the TAT cannot be used in Islamic cultures; slang does not translate; and Israelis in the 1970s found the true-false format unfamiliar.",
+      "simple": "Personality assessment is used in clinics, schools, workplaces and research, and a good test must be reliable (consistent) and valid (measures what it claims). Methods include self-report tests like the MMPI, projective tests like the Rorschach and TAT, interviews, behavioural observation and thought/experience sampling. Gender, ethnicity and culture can all distort test results, so tests must be used and translated with care.",
+      "keyPoints": [
+        "Reliability = consistency of response; validity = measuring what the test claims to measure.",
+        "Five approaches: self-report, projective, clinical interview, behavioural assessment, thought/experience sampling.",
+        "MMPI: most widely used test, 567 true-false items, detects faking; self-reports are most objective but prone to social desirability and wording effects.",
+        "Projective tests (Rorschach, TAT, word association, sentence completion) probe the unconscious but are low in reliability and validity.",
+        "Online testing is cheaper, faster and as accurate as paper; people reveal more online.",
+        "Gender, ethnicity and culture affect scores, diagnosis, treatment-seeking and translation of tests."
+      ]
+    },
+    {
+      "id": "research-in-the-study-of-personality",
+      "heading": "Research in the Study of Personality",
+      "pages": [
+        24,
+        29
+      ],
+      "detailed": "Psychologists study personality in different ways depending on what aspect interests them: some look only at overt behaviour, others at feelings and conscious experience measured by tests and questionnaires (self-reports are among the most used research tools), and others at unconscious motives. A method suited to one aspect may not suit another. The four major methods are the clinical method, the experimental method, virtual research and the correlational method. All rely to varying degrees on objective observation, the defining feature of scientific research. The chapter summary adds that research requires controlled, systematic conditions and duplication and verifiability.\n\nThe clinical method. Its main form is the case study (case history): a detailed history of an individual drawing on many sources, like a mini-biography of the person's emotional life. Freud used case studies extensively. He traced the anxiety attacks and breathlessness of Katharina, an 18-year-old, to early sexual experiences including a seduction attempt by her father at 14, and linked Lucy's hallucinations to rejected love for her employer. From such cases Freud built a theory centred on sexual conflict, and he and later theorists generalised patterns from patients to everyone. Other clinical tools include tests, interviews and dream analysis. The clinical method lacks the precision and control of experimental and correlational methods; its data are subjective, involving largely unconscious events and early experiences, open to the therapist's biases, and based on childhood memories that may be distorted and hard to verify. Still, it offers a window into the depths of personality and is used heavily by psychoanalytic and neo-psychoanalytic theorists.\n\nThe experimental method. An experiment determines the effect of one or more variables on behaviour. The researcher lets only one stimulus variable operate while eliminating or holding others constant, so any behaviour change can be attributed to it alone. The independent variable is the stimulus the experimenter manipulates; the dependent variable is the subjects' behaviour in response. Subjects are randomly chosen from the same population into an experimental group, which receives the treatment, and a control group, which does not. Behaviour is measured in both before and after. If some other variable were acting, both groups would change; if only the independent variable mattered, only the experimental group changes. Bandura's study of imitation illustrates this. Rather than watching children randomly on streets, which would be uncontrolled and could not separate prior aggressiveness from imitation, he measured children's aggression beforehand and exposed them to the same aggressive adult, while a control group saw non-aggressive adults. Trained observers found that children who watched aggression became aggressive, while controls did not change, so aggression can be learned by imitation. Limitations: some topics cannot be studied for ethical and safety reasons (we cannot remove children from parents to test child-rearing methods), and subjects who know they are observed may change behaviour or try to please or frustrate the experimenter. Well-controlled experiments still provide excellent data.\n\nVirtual research. Psychologists now run tests, surveys and experiments online, recruiting subjects quickly and cheaply through crowd-sourcing such as Amazon's Mechanical Turk. Advantages: faster, cheaper, and access to more diverse subjects than a college campus. Disadvantages: web users are younger, richer and better educated, and older, poor, visually impaired and non-English-speaking people are under-represented. Non-responders were judged more introverted, disagreeable, less open and lower in self-esteem (Marcus & Schutz, 2005); extraverted students chose in-person participation and introverts online (Witt et al., 2011). Online response rates are about 10 percent lower than telephone or mail, and some 10 percent of participants click excessively. Honesty about personal details is hard to check, yet online and laboratory results are generally consistent.\n\nThe correlational method. This measures the degree of relationship between two variables, expressed by the correlation coefficient. Instead of manipulating a variable, researchers study existing attributes, such as people already in stressful jobs like police officers or race car drivers. There are no experimental and control groups; people who differ on a variable such as age, birth order or neuroticism are compared on another, such as test responses or job performance. College entrance tests rest on correlations between test scores and classroom success. Students high in need for achievement earned higher grades than those low in it (Atkinson, Lens, & O'Malley, 1976). Reliability and validity of tests are usually established this way. The correlation coefficient shows direction and strength: positive when high scores go with high scores, negative when high scores go with low ones, ranging from +1.00 to -1.00; the nearer to either extreme, the stronger the relationship and the better the prediction. The key limitation is cause and effect: a strong negative correlation between shyness and self-esteem does not show that shyness lowers self-esteem; the reverse could be true, or a third variable such as physical appearance or parental rejection could cause both. This is a problem for researchers seeking causes, but practitioners who only need to predict behaviour find correlation very useful.",
+      "simple": "Personality is researched through four main methods: the clinical (case study) method, experiments, online (virtual) research and correlational studies. Experiments can show cause and effect by manipulating one variable, as in Bandura's aggression study, while correlations only show how strongly two things are related. Each method has strengths and weaknesses.",
+      "keyPoints": [
+        "Four methods: clinical, experimental, virtual and correlational; all rely on objective observation.",
+        "Case studies (e.g., Freud's Katharina and Lucy) give depth but are subjective, biased and hard to verify.",
+        "Experiments manipulate an independent variable, measure a dependent variable and use experimental and control groups (Bandura's imitation study).",
+        "Experiments are limited by ethics and by subjects' awareness of being observed.",
+        "Virtual research is fast, cheap and diverse but skews younger, richer and more educated.",
+        "Correlation coefficients (+1.00 to -1.00) show direction and strength but not cause and effect."
+      ]
+    },
+    {
+      "id": "role-of-theory",
+      "heading": "The Role of Theory in Personality Theories",
+      "pages": [
+        29,
+        30
+      ],
+      "detailed": "People sometimes dismiss ideas as \"only a theory\", assuming a theory is vague and speculative, little more than a guess and the opposite of a fact. A theory without research support is indeed speculation. But masses of research data mean little unless organised into an explanatory framework, and a theory provides exactly that. The authors compare a theory to a map that represents and explains the data in their interrelationships and brings order to them.\n\nTheories are sets of principles used to explain a particular class of phenomena, here the behaviours and experiences related to personality. To be useful, personality theories must be testable: they should stimulate research on their propositions so researchers, using the methods described earlier, can decide whether to accept or reject parts of the theory. They should clarify and explain personality data by organising them coherently, and help us understand and predict behaviour. Theories that meet these criteria can be applied to help people change behaviours, feelings and emotions from harmful to helpful and from undesirable to desirable.\n\nThe autobiographical nature of personality theories. Although theories aim at objectivity, psychologists have long recognised that some contain a subjective element that may reflect the theorist's own life, a kind of disguised autobiography. No matter how hard scientists try to be impartial, personal viewpoint colours perception to some degree, and theorists, being human, may find it hard to accept ideas that differ from their own experience. To fully understand a theory, then, we should learn about the theorist's life and how specific events may have shaped it. At first the theorist may have been describing himself or herself, and later looked for data from others to support generalising that view.\n\nWilliam James, considered by many the greatest American psychologist, held that biography was crucial for studying human nature, even more important than knowing theorists' systems. Freud said his most important patient, the one he learned most from, was himself. A historian (Friedman, 1996) observed that psychologists more than any other profession publish biographical and autobiographical sketches, implicitly acknowledging that their lives and values underlie their scientific knowledge.\n\nThe authors add a caution: the influence may run the other way. The theory may shape what theorists remember and report about their lives. Autobiographies are usually written late, after years of developing and defending a theory, which may distort memory. Theorists might recall only supportive events, forget contradictory ones, or even invent experiences to boost credibility. Readers should keep these questions in mind, recognising that their own experiences may also colour how they judge others' lives and theories.",
+      "simple": "A theory is not just a guess; it is a framework, like a map, that organises research data. Good personality theories must be testable, explain and predict behaviour, and help people change. Many theories partly reflect the theorist's own life, though the theory may also shape how theorists remember their lives.",
+      "keyPoints": [
+        "A theory organises data into a meaningful framework, like a map; without evidence it is speculation.",
+        "Theories are sets of principles explaining a class of phenomena (here, personality).",
+        "Useful theories must be testable, explain and organise data, and help understand and predict behaviour.",
+        "Some theories are partly autobiographical; William James stressed biography, and Freud called himself his most important patient.",
+        "Caution: a theory may distort what theorists recall about their own lives."
+      ]
+    },
+    {
+      "id": "questions-about-human-nature",
+      "heading": "Questions about Human Nature: What Are We Like?",
+      "pages": [
+        31,
+        32
+      ],
+      "detailed": "Every personality theory carries an image of human nature, the theorist's view of what it means to be human. Poets, philosophers and artists have wrestled with these questions for centuries, and personality theorists have reached no more agreement than they did. These images serve as frameworks through which theorists see themselves and others and build their theories, and they allow meaningful comparison across theories. The chapter sets out six issues that will be applied to each theorist.\n\n1. Free will versus determinism. Can we consciously direct our actions, rationally choose among alternatives, and exercise self-awareness and self-control? Or are we victims of past experiences, biology, unconscious forces or external stimuli beyond our control? Some theorists take extreme positions; others hold that some behaviour is determined by the past while some is spontaneous and under our control.\n\n2. Nature versus nurture. Is behaviour shaped more by inherited traits and attributes (genetic endowment) or by the environment (upbringing, education and training)? The same debate arises over intelligence. Again, positions are not limited to extremes: many theorists accept both influences, giving more weight to one or the other.\n\n3. Past versus present (dependence on childhood). How important are early childhood experiences compared with later events? Historical determinism holds that personality is basically fixed in the early years, roughly by age 5, and changes little afterwards, so adult personality merely elaborates early themes. The opposite view sees personality as more independent of the past, open to present experiences and to future hopes, goals and aspirations. An intermediate view says early experience shapes personality but not rigidly or permanently, and later experience can reinforce or modify it.\n\n4. Uniqueness versus universality. Is each person so individual that no action or utterance has an equivalent in anyone else, which would make comparison meaningless? Or is uniqueness interpreted within universal patterns of behaviour, at least within a culture?\n\n5. Equilibrium versus growth (life goals). Are we like self-regulating machines content when internal balance is maintained, acting only to satisfy physical needs, gain pleasure, avoid pain and minimise stress? Some theorists see humans as tension-reducing, pleasure-seeking animals; others see us as driven mainly by the need to grow, realise our potential and reach self-actualisation, development and fulfilment.\n\n6. Optimism versus pessimism. Are humans basically good or evil, kind or cruel? This is a moral, value-laden question that supposedly has no place in objective science, yet several theorists have addressed it and it has generated much research. Some theorists see us as humanitarian, altruistic and socially conscious; others find few such qualities.\n\nOur image of human nature is the lens through which we perceive, judge and interact with others, and it also defines how we see ourselves. The chapter summary adds that cultural factors such as child-rearing practices can lead to different images of human nature. Because this is the study of ourselves, few people approach it without preconceptions, and readers may find some theories congenial and others clashing with their own views.",
+      "simple": "Every theory assumes something about what humans are like. The book compares theories on six issues: free will vs determinism, nature vs nurture, past vs present, uniqueness vs universality, equilibrium vs growth, and optimism vs pessimism. Our own image of human nature shapes how we see others and ourselves.",
+      "keyPoints": [
+        "Each theory carries an image of human nature, allowing comparison between theorists.",
+        "Six issues: free will vs determinism; nature vs nurture; past (childhood) vs present; uniqueness vs universality; equilibrium (satisfaction) vs growth; optimism vs pessimism.",
+        "Historical determinism: personality is largely fixed by about age 5 and changes little afterwards.",
+        "Most issues allow intermediate positions, not just extremes.",
+        "Our image of human nature is the lens through which we judge others and define ourselves."
+      ]
+    }
+  ],
+  "terms": [
+    {
+      "term": "Personality",
+      "definition": "The unique, relatively enduring inner and outer aspects of a person's character that influence behaviour across situations; the chapter's working version is an enduring, unique cluster of characteristics that may change with the situation.",
+      "page": 6
+    },
+    {
+      "term": "Persona",
+      "definition": "Latin word for the mask worn by actors in a play, the root of 'personality' (dating to about 1500); it suggests personality as the public face we show others.",
+      "page": 4
+    },
+    {
+      "term": "Interactionist approach",
+      "definition": "Resolution of the person-situation debate: stable personal traits, changing situational factors and the interaction between them must all be considered to explain behaviour.",
+      "page": 5
+    },
+    {
+      "term": "Adjective Check List",
+      "definition": "A widely used personality test offering 300 adjectives from which people choose those that describe them best.",
+      "page": 3
+    },
+    {
+      "term": "Cross-cultural psychology",
+      "definition": "Specialty area studying how cultural forces shape personality; its research supports the view that personality is formed by both genetic and environmental (especially cultural) influences.",
+      "page": 9
+    },
+    {
+      "term": "Cultural neuroscience",
+      "definition": "Field showing large-scale cultural differences in brain activity and genetic makeup, e.g., different brain-wave responses to the same stimuli in Eastern and Western people.",
+      "page": 9
+    },
+    {
+      "term": "Karma / fate attribution",
+      "definition": "Hindu and Buddhist belief that present and past actions decide future fate; can be seen as fatalistic and deterministic and may encourage a passive, resigned personality.",
+      "page": 10
+    },
+    {
+      "term": "Individualistic vs collectivist society",
+      "definition": "Individualistic societies focus on personal freedom, choice and action; collectivist societies focus on group norms, values, role expectations and cultural constraints.",
+      "page": 10
+    },
+    {
+      "term": "Self-efficacy",
+      "definition": "The feeling of being adequate, efficient and competent in coping with life and controlling life events; higher in US than Japanese college students.",
+      "page": 10
+    },
+    {
+      "term": "Self-enhancement",
+      "definition": "The tendency to promote oneself aggressively and make oneself conspicuous; more common in individualistic cultures.",
+      "page": 11
+    },
+    {
+      "term": "Self-effacement",
+      "definition": "The opposite of self-enhancement (modesty and self-criticism); more in line with Asian cultural values.",
+      "page": 11
+    },
+    {
+      "term": "Janteloven",
+      "definition": "Nordic cultural norm telling people not to put their own interests above the community's and to show humility.",
+      "page": 12
+    },
+    {
+      "term": "Reliability",
+      "definition": "The consistency of response to a psychological assessment device; large score differences on retesting signal an unreliable test.",
+      "page": 13
+    },
+    {
+      "term": "Validity",
+      "definition": "The extent to which an assessment device measures what it is intended to measure.",
+      "page": 13
+    },
+    {
+      "term": "Self-report inventory",
+      "definition": "Assessment technique in which people answer questions about their own behaviours and feelings; the most objective approach to personality assessment.",
+      "page": 14
+    },
+    {
+      "term": "Minnesota Multiphasic Personality Inventory (MMPI)",
+      "definition": "The world's most widely used psychological test: a 567-item true-false self-report inventory (1943; revised 1989; MMPI-2-RF 2008) with clinical scales and items to detect faking.",
+      "page": 14
+    },
+    {
+      "term": "MMPI-A",
+      "definition": "Adolescent version of the MMPI developed in 1992, with items reduced from 567 to 478.",
+      "page": 14
+    },
+    {
+      "term": "Projective test",
+      "definition": "Assessment device in which people are presumed to project their needs, fears and values onto their interpretation of an ambiguous stimulus.",
+      "page": 16
+    },
+    {
+      "term": "Inter-scorer reliability",
+      "definition": "Agreement between different examiners scoring the same test; low for projective tests because interpretation is subjective.",
+      "page": 16
+    },
+    {
+      "term": "Rorschach Inkblot Technique",
+      "definition": "Projective test of 10 inkblots developed in 1921 by Hermann Rorschach; responses are scored for movement, human/animal figures, animate/inanimate objects and whole/partial figures.",
+      "page": 16
+    },
+    {
+      "term": "Comprehensive System",
+      "definition": "Exner's standardised system for administering, scoring and interpreting the Rorschach, claimed to improve reliability and validity.",
+      "page": 17
+    },
+    {
+      "term": "Thematic Apperception Test (TAT)",
+      "definition": "Projective test by Morgan and Murray (1935) of 19 ambiguous pictures and 1 blank card about which people tell stories.",
+      "page": 18
+    },
+    {
+      "term": "Word-association test",
+      "definition": "Projective technique in which a person responds to each word read aloud with the first word that comes to mind; response content and speed are analysed.",
+      "page": 18
+    },
+    {
+      "term": "Sentence-completion test",
+      "definition": "Projective technique in which people finish sentence stems such as 'My ambition is ...'; the Rotter Incomplete Sentence Blank allows more objective scoring.",
+      "page": 18
+    },
+    {
+      "term": "Clinical interview",
+      "definition": "Assessment by talking with the person about past and present life, relationships and problems while observing appearance, demeanour, insight and contact with reality.",
+      "page": 18
+    },
+    {
+      "term": "Behavioral assessment",
+      "definition": "Approach in which an observer evaluates a person's behaviour in a given situation.",
+      "page": 19
+    },
+    {
+      "term": "Thought sampling",
+      "definition": "Assessment in which people systematically record their own thoughts over time; observer and observed are the same person.",
+      "page": 19
+    },
+    {
+      "term": "Experience sampling method",
+      "definition": "Variation of thought sampling in which participants also describe the social and environmental context of the sampled experience.",
+      "page": 19
+    },
+    {
+      "term": "Case study",
+      "definition": "A detailed history of an individual containing data from a variety of sources; the primary clinical method.",
+      "page": 24
+    },
+    {
+      "term": "Experimental method",
+      "definition": "Technique for determining the effect of one or more variables on behaviour by letting only that variable operate while others are held constant.",
+      "page": 25
+    },
+    {
+      "term": "Independent variable",
+      "definition": "The stimulus variable or condition the experimenter manipulates to learn its effect on the dependent variable.",
+      "page": 25
+    },
+    {
+      "term": "Dependent variable",
+      "definition": "The variable the experimenter measures, typically the subjects' behaviour in response to the independent variable.",
+      "page": 25
+    },
+    {
+      "term": "Experimental group",
+      "definition": "The group in an experiment that is exposed to the experimental treatment.",
+      "page": 25
+    },
+    {
+      "term": "Control group",
+      "definition": "The group in an experiment that does not receive the experimental treatment.",
+      "page": 25
+    },
+    {
+      "term": "Virtual research",
+      "definition": "Psychological research conducted online (tests, surveys, experiments), often with subjects recruited through services such as Amazon's Mechanical Turk.",
+      "page": 27
+    },
+    {
+      "term": "Correlational method",
+      "definition": "Statistical technique that measures the degree of relationship between two variables, expressed by the correlation coefficient.",
+      "page": 27
+    },
+    {
+      "term": "Correlation coefficient",
+      "definition": "Primary statistical measure of correlation, giving the direction (positive or negative) and strength of a relationship; ranges from +1.00 to -1.00.",
+      "page": 28
+    },
+    {
+      "term": "Theory",
+      "definition": "A set of principles used to explain a particular class of phenomena; a framework that organises empirical data meaningfully.",
+      "page": 29
+    },
+    {
+      "term": "Free will vs determinism",
+      "definition": "Issue of whether we consciously direct our actions or are controlled by past experience, biology, unconscious forces or external stimuli.",
+      "page": 31
+    },
+    {
+      "term": "Nature-nurture controversy",
+      "definition": "Issue of whether inherited traits or environmental influences (upbringing, education, training) matter more in shaping personality.",
+      "page": 31
+    },
+    {
+      "term": "Historical determinism",
+      "definition": "The view that personality is basically fixed in the early years of life (by about age 5) and subject to little change thereafter.",
+      "page": 32
+    }
+  ],
+  "people": [
+    {
+      "name": "Adams",
+      "contribution": "Suggested (1954) that we can understand what personality means by examining what we intend whenever we use the word 'I'.",
+      "page": 4
+    },
+    {
+      "name": "Mischel",
+      "contribution": "His work (1968, 1973) is cited for the 1960s debate over whether enduring person variables (traits, needs) or situational variables matter more for behaviour.",
+      "page": 5
+    },
+    {
+      "name": "Funder",
+      "contribution": "Concluded (2001) that the long-running person-versus-situation dichotomy had always been false, supporting the interactionist resolution.",
+      "page": 5
+    },
+    {
+      "name": "Triandis & Suh",
+      "contribution": "Cross-cultural researchers (2002) who stated that cultural influences are among the most important environmental forces shaping personality.",
+      "page": 9
+    },
+    {
+      "name": "Sigmund Freud",
+      "contribution": "Founder of psychoanalysis, with whom the book begins; his emphasis on the unconscious inspired projective tests; he used case studies (Katharina, Lucy) to build his theory and called himself his most important patient.",
+      "page": 25
+    },
+    {
+      "name": "Hermann Rorschach",
+      "contribution": "Swiss psychiatrist (1884-1922) who developed the inkblot test in 1921; one of the first to recognise cultural differences in test responses.",
+      "page": 16
+    },
+    {
+      "name": "Exner",
+      "contribution": "Developed the Comprehensive System for standardising Rorschach administration, scoring and interpretation (Exner, 1993).",
+      "page": 17
+    },
+    {
+      "name": "Henry Murray",
+      "contribution": "Co-developed the Thematic Apperception Test with Christiana Morgan (1935).",
+      "page": 18
+    },
+    {
+      "name": "Christiana Morgan",
+      "contribution": "Co-developed the Thematic Apperception Test with Henry Murray (1935).",
+      "page": 18
+    },
+    {
+      "name": "Arnold Buss & Robert Plomin",
+      "contribution": "Developed a questionnaire (EASI Temperament Survey) for mothers to rate temperaments of same-sex twins, an example of behavioural assessment (1984).",
+      "page": 19
+    },
+    {
+      "name": "Albert Bandura",
+      "contribution": "Social-learning theorist whose controlled experiment showed children who watched an aggressive adult behaved aggressively, so aggression can be learned by imitation.",
+      "page": 26
+    },
+    {
+      "name": "William James",
+      "contribution": "Considered by many the greatest American psychologist; held that biography is crucial for studying human nature, even more than knowing a theorist's system.",
+      "page": 30
+    },
+    {
+      "name": "Friedman",
+      "contribution": "Historian (1996) who noted psychologists publish more biographical and autobiographical sketches than any other profession, implying their lives shape their science.",
+      "page": 30
+    }
+  ],
+  "studies": [
+    {
+      "title": "Online profiles and accuracy (Gosling, Gaddis, & Vazire, 2007; Back et al., 2010)",
+      "finding": "US and German studies found social networking profiles convey personality at least as accurately as face-to-face interaction.",
+      "page": 6
+    },
+    {
+      "title": "Online emotional stability (Blumer & Doring, 2012)",
+      "finding": "A large German study found many people present themselves online as much more emotionally stable than they really are.",
+      "page": 6
+    },
+    {
+      "title": "True self online (Marriott & Buchanan, 2014)",
+      "finding": "Introverted, neurotic, lonely and socially awkward people find it easier to express their true selves online than in person.",
+      "page": 6
+    },
+    {
+      "title": "True self and Facebook activity (Seidman, 2014)",
+      "finding": "People who feel able to express their true selves are more active on Facebook and other social media.",
+      "page": 7
+    },
+    {
+      "title": "Selfies (Drexler, 2013; Rutledge, 2013)",
+      "finding": "More women than men send selfies; excessive selfies can make the sender less likeable, reduce friendship intimacy and stress looks over behaviour.",
+      "page": 7
+    },
+    {
+      "title": "Inappropriate Facebook content (Goodman, Smith, Ivancevich, & Lundberg, 2014)",
+      "finding": "Pages with negative content led to false perceptions of personality; pages without it led to more accurate evaluations.",
+      "page": 7
+    },
+    {
+      "title": "Internet use in Chinese adolescents (Lam & Peng, 2010)",
+      "finding": "Adolescents aged 13-18 who spent excessive time online showed significantly more anxiety and depression than light users.",
+      "page": 7
+    },
+    {
+      "title": "Contacting parents (Gentzler, Oberhauser, Westerman, & Nadorff, 2011)",
+      "finding": "US students who phoned parents had more satisfying relationships; those using social networking sites reported more loneliness, anxiety and conflict with parents.",
+      "page": 7
+    },
+    {
+      "title": "Excessive social media across countries (Netherlands, Serbia, Hong Kong, Korea)",
+      "finding": "Excessive users were lonelier, more introverted and lower in self-esteem than lighter users.",
+      "page": 7
+    },
+    {
+      "title": "Brain changes (Mosher, 2011)",
+      "finding": "Excessive online use changes brain areas linked to depression and increased irritability.",
+      "page": 7
+    },
+    {
+      "title": "Narcissism and Facebook (Kuo & Tang, 2014; Ong et al., 2011, and others)",
+      "finding": "In Eastern and Western cultures, extraverted and narcissistic people were much more likely to use Facebook; narcissistic teens updated status more often.",
+      "page": 8
+    },
+    {
+      "title": "Cell phone use in Australia (Bardi & Brady, 2010; Butt & Phillips, 2008; Walsh et al., 2011)",
+      "finding": "Extraverts and those with strong self-identity made more calls and changed ringtones/wallpaper more; more neurotic, less conscientious, shy people texted more.",
+      "page": 8
+    },
+    {
+      "title": "Internet trolls (Buckels, Trapnell, & Paulhus, 2014)",
+      "finding": "Trolls are mostly male, average age 29, and score high in sadism.",
+      "page": 8
+    },
+    {
+      "title": "Emotional awareness (Barrett, Lane, Sechrest, & Schwartz, 2000)",
+      "finding": "Women in the US and Germany showed greater emotional complexity and intensity than men.",
+      "page": 9
+    },
+    {
+      "title": "Anxiety in Islamic nations (Alansari, 2006)",
+      "finding": "Among 7,000+ students in 16 Islamic nations, women scored significantly higher in anxiety than men in 11 of 16 samples.",
+      "page": 9
+    },
+    {
+      "title": "Japanese emigrants (Gungor et al., 2013)",
+      "finding": "Japanese who moved to the US became much more 'American' in personality than those who stayed in Japan.",
+      "page": 9
+    },
+    {
+      "title": "Chinese immigrants to Canada (McCrae, Yi, Trapnell, Bond, & Paulhus, 1998)",
+      "finding": "Immigrants living in Canada 10+ years scored significantly higher in extraversion than recent immigrants or Hong Kong Chinese.",
+      "page": 9
+    },
+    {
+      "title": "Daily diary study (Lee, Okazaki, & Yoo, 2006)",
+      "finding": "Asian-American students reported far more negative emotions in social situations than European-American students.",
+      "page": 9
+    },
+    {
+      "title": "Western optimism (Endo, Heine, & Lehman, 2000)",
+      "finding": "Westerners, especially Americans, were more optimistic and rated their teams, cities and friends as superior compared with Asians.",
+      "page": 9
+    },
+    {
+      "title": "Brain activity to visual stimuli (Freeman, Rule, & Ambady, 2009)",
+      "finding": "Japanese and American brain activity differed to the same visual stimuli, paralleling each culture's submissiveness or dominance.",
+      "page": 10
+    },
+    {
+      "title": "Fate attribution (Norenzayan & Lee, 2010; Wong, Shaw, & Ng, 2010)",
+      "finding": "Large East-West differences in belief in fate exist, but the belief weakens as Eastern cultures like China modernise.",
+      "page": 10
+    },
+    {
+      "title": "Australia vs Japan (Kashima et al., 2004)",
+      "finding": "Australian students emphasised individuality much more; Japanese students were more group-oriented.",
+      "page": 10
+    },
+    {
+      "title": "Individualism and well-being (Fischer & Boer, 2011)",
+      "finding": "Across over 400 million people in 63 countries, individualism was strongly and consistently related to well-being.",
+      "page": 10
+    },
+    {
+      "title": "Genes and culture (Chiao & Blizinsky, 2010)",
+      "finding": "Genetic differences were linked to lower anxiety and depression in collectivistic cultures and higher levels in individualistic ones.",
+      "page": 10
+    },
+    {
+      "title": "Self-efficacy (Morling, Kitayama, & Miyamoto, 2002)",
+      "finding": "US college students scored significantly higher than Japanese students on self-efficacy.",
+      "page": 10
+    },
+    {
+      "title": "Australia vs Singapore (Wong, Lee, Ang, Oei, & Ng, 2009)",
+      "finding": "Australian students were more agreeable, conscientious, optimistic and satisfied with life than Singaporean students.",
+      "page": 11
+    },
+    {
+      "title": "Goals and well-being (Oishi & Diener, 2001)",
+      "finding": "European-American students gained well-being from goals for personal satisfaction; Asian-American students from goals that please important others.",
+      "page": 11
+    },
+    {
+      "title": "Self-descriptions (Kanagawa, Cross, & Markus, 2001)",
+      "finding": "American students used more positive terms to describe themselves; Japanese students used more negative terms.",
+      "page": 11
+    },
+    {
+      "title": "Arab adolescents (Dwairy, Achoui, Abouserie, & Farah, 2006)",
+      "finding": "Arab adolescents felt more connected to parents, accepted authoritarian parenting and showed no harm to mental health.",
+      "page": 11
+    },
+    {
+      "title": "Immigrant mothers (Liu & Guo, 2010; Durgel et al., 2009)",
+      "finding": "Chinese mothers in Canada were more authoritarian; more assimilated Turkish mothers in Germany stressed individualistic goals more.",
+      "page": 11
+    },
+    {
+      "title": "Canada vs Japan (Heine, Takata, & Lehman, 2000)",
+      "finding": "Self-enhancement was more common among Canadian students; self-criticism among Japanese students.",
+      "page": 11
+    },
+    {
+      "title": "Collectivist vs individualist self-ratings (Heine & Renshaw, 2002; Kurman, 2001)",
+      "finding": "Japanese and Singapore Chinese showed more self-criticism and less self-enhancement than Americans and Israelis.",
+      "page": 12
+    },
+    {
+      "title": "Self-effacement across four nations (Church et al., 2014)",
+      "finding": "Chinese showed the strongest self-effacement compared with people in the US, Mexico and Venezuela.",
+      "page": 12
+    },
+    {
+      "title": "US vs Norway (Silvera & Seger, 2004)",
+      "finding": "Americans rated themselves above average on positive traits more than Norwegians; self-enhancement appeared culturally induced.",
+      "page": 12
+    },
+    {
+      "title": "Spain vs Netherlands (Rodriguez-Mosquera, Manstead, & Fischer, 2000)",
+      "finding": "Spanish people valued honour and family more; Dutch people valued ambition, capability and independence.",
+      "page": 12
+    },
+    {
+      "title": "Self-enhancers rated by others (Dufner et al., 2013)",
+      "finding": "In Europe, self-enhancers were rated emotionally stable, socially attractive and socially influential.",
+      "page": 12
+    },
+    {
+      "title": "Self-enhancers and mates (Brown, Brown, & Kovatch, 2013)",
+      "finding": "American students high in self-esteem and self-enhancement sought mates sharing those traits.",
+      "page": 12
+    },
+    {
+      "title": "MMPI-2-RF and faking (Crighton et al., 2013; Mason et al., 2013; Hartmann & Hartmann, 2014)",
+      "finding": "The test distinguished genuine from faked pain and PTSD, yet mentally ill people could learn online to hide symptoms.",
+      "page": 14
+    },
+    {
+      "title": "Question wording (Schwarz, 1999)",
+      "finding": "61.5% chose 'to think for themselves' from a list, but only 4.6% gave that answer when no list was provided.",
+      "page": 15
+    },
+    {
+      "title": "Faking good (Holtgraves, 2004; McDaniel et al., 2009)",
+      "finding": "Students told to look good answered more carefully and slowly; most subjects find it easy to give false answers.",
+      "page": 15
+    },
+    {
+      "title": "Online vs paper tests (Chuah et al., 2006, and others)",
+      "finding": "No significant differences between online and paper-and-pencil responses on most self-report inventories.",
+      "page": 16
+    },
+    {
+      "title": "MMPI vs Rorschach validity (Wood, Garb, Lilienfeld, & Nezworski, 2002)",
+      "finding": "Validity research supports the MMPI more than the Rorschach, especially for ethnic minority and diverse cultural groups.",
+      "page": 18
+    },
+    {
+      "title": "Observer familiarity (Connelly & Ones, 2010)",
+      "finding": "Observers who know and interact more with the person give more accurate behavioural evaluations.",
+      "page": 19
+    },
+    {
+      "title": "Internet diaries (Park, Armeli, & Tennen, 2004)",
+      "finding": "Over 28 days, students' main negative events were academic, followed by interpersonal issues.",
+      "page": 20
+    },
+    {
+      "title": "Repetitive thoughts and sleep (Takano, Sakamoto, & Tanno, 2014)",
+      "finding": "Japanese students with repetitive night-time thoughts had trouble falling asleep and slept fitfully and less.",
+      "page": 20
+    },
+    {
+      "title": "Gender and depression in children (Rudolph & Conley, 2005)",
+      "finding": "Among 474 children (median age 11), girls showed more depression and concern about others' opinions than boys.",
+      "page": 20
+    },
+    {
+      "title": "Asian-American treatment seeking (Meyer, Zane, Cho, & Takeuchi, 2009; Hsu & Alden, 2008)",
+      "finding": "US-born Asian Americans were almost twice as likely to seek treatment; first-generation Chinese students sought help less than European students.",
+      "page": 21
+    },
+    {
+      "title": "MMPI with Black and White veterans (Arbisi, Ben-Porath, & McNulty, 2002)",
+      "finding": "No significant differences were found on any MMPI scale between Black and White VA psychiatric patients.",
+      "page": 21
+    },
+    {
+      "title": "Paranoia scores and discrimination (Combs, Penn, & Fenigstein, 2002; Iacovino et al., 2014)",
+      "finding": "Higher distrust scores among Black subjects likely reflect wariness caused by discrimination and perceived racism.",
+      "page": 22
+    },
+    {
+      "title": "Cultural identity and perceived discrimination (Walker et al., 2010; Seaton et al., 2010)",
+      "finding": "Strong Black cultural identity linked to less depression and hopelessness; high perceived discrimination to more depression, lower self-esteem.",
+      "page": 22
+    },
+    {
+      "title": "Race and MMPI interpretation (Knaster, 2013; Knaster & Micucci, 2013)",
+      "finding": "White researchers did not interpret MMPI results differently for Black and White test-takers.",
+      "page": 22
+    },
+    {
+      "title": "Hispanic scores (Handel & Ben-Porath, 2000; Wood et al., 2002)",
+      "finding": "Hispanic MMPI scores resemble Whites', but Rorschach scores differ significantly from Comprehensive System norms.",
+      "page": 22
+    },
+    {
+      "title": "Hispanic police officers (Pole, Best, Metzler, & Marmar, 2005)",
+      "finding": "Hispanic officers had higher PTSD rates and reported less social support after critical incidents.",
+      "page": 23
+    },
+    {
+      "title": "American Indians and the MMPI-2 (Hill, Pace, & Robbins, 2010)",
+      "finding": "Responses reflecting normal behaviour in their culture looked pathological by mainstream White standards.",
+      "page": 23
+    },
+    {
+      "title": "Arabic MMPI-2 sex items (Nezami, Zamani, & DeFrank, 2008)",
+      "finding": "More than 90% of Iranian college students chose not to answer optional sex-related items.",
+      "page": 24
+    },
+    {
+      "title": "TAT with Muslim women (Bullard, 2005)",
+      "finding": "European women readily made up stories; Muslim women hesitated and refused to fictionalise the pictures.",
+      "page": 24
+    },
+    {
+      "title": "Internet Addiction Test in Arab countries (Hawi, 2013)",
+      "finding": "The US-developed test predicted internet addiction equally validly among Arab teenagers.",
+      "page": 24
+    },
+    {
+      "title": "Bandura's imitation experiment",
+      "finding": "Children who watched an aggressive adult behaved aggressively; control children showed no change, so aggression can be learned by imitation.",
+      "page": 26
+    },
+    {
+      "title": "Online research participation (Marcus & Schutz, 2005; Witt, Donnellan, & Orlando, 2011)",
+      "finding": "Non-responders were judged more introverted and disagreeable; extraverted students chose in-person and introverts online participation.",
+      "page": 27
+    },
+    {
+      "title": "Need for achievement and grades (Atkinson, Lens, & O'Malley, 1976)",
+      "finding": "Students high in need for achievement earned higher grades than those low in it (correlational study).",
+      "page": 28
+    }
+  ],
+  "examples": [
+    {
+      "title": "Instagram vs real life",
+      "text": "A student posts only trip photos and topper results on Instagram but is anxious and unsure in class. This mirrors the chapter's question of whether we show our real selves online or an idealised 'mask'.",
+      "supplementary": true
+    },
+    {
+      "title": "Interactionism in daily life",
+      "text": "A friend who is loud and joking in the hostel may be quiet and formal in front of the HOD. Their traits stay the same, but the situation changes how they show, which is the interactionist point.",
+      "supplementary": true
+    },
+    {
+      "title": "Reliability vs validity with a weighing scale",
+      "text": "A scale that shows 60 kg, 72 kg and 55 kg on the same morning is unreliable. A scale that always shows 60 kg when you actually weigh 65 kg is reliable but not valid. Personality tests need both properties.",
+      "supplementary": true
+    },
+    {
+      "title": "Correlation is not causation",
+      "text": "Students who sit in the front row may score higher marks. That does not prove the front row causes good marks; motivated students may simply choose the front row. This is the same logic as the shyness and self-esteem example in the chapter.",
+      "supplementary": true
+    },
+    {
+      "title": "Self-effacement in an Indian classroom",
+      "text": "When praised, many Indian students say 'it was nothing' or credit their teachers and parents. This is a familiar everyday form of the self-effacement the chapter links with collectivist cultures.",
+      "supplementary": true
+    }
+  ],
+  "checks": [
+    {
+      "q": "Which is NOT one of the three dictionary definitions of personality given at the start of the chapter?",
+      "options": [
+        "The habits a person learns from parents in childhood",
+        "The state of being a person",
+        "The characteristics and qualities that form a person's distinctive character",
+        "The sum total of a person's physical, mental, emotional and social characteristics"
+      ],
+      "answer": 0,
+      "explain": "The chapter lists three definitions: the state of being a person, one's distinctive qualities, and the total of physical, mental, emotional and social characteristics. Learned parental habits is not one of them.",
+      "page": 1,
+      "sectionId": "take-a-look-at-the-word"
+    },
+    {
+      "q": "Why do the authors caution against generalising older personality theories to all people?",
+      "options": [
+        "The theories were never tested on humans",
+        "Theorists rarely considered ethnic and cultural differences",
+        "The theories were based only on children",
+        "Theorists relied only on computer-scored tests"
+      ],
+      "answer": 1,
+      "explain": "The text notes last-century theorists rarely considered ethnic and cultural differences, e.g., basing ideas on neurotic European women or American male students.",
+      "page": 2,
+      "sectionId": "take-a-look-at-the-word"
+    },
+    {
+      "q": "According to the chapter, which of the following can be influenced by personality?",
+      "options": [
+        "Only career success",
+        "Only relationships with strangers",
+        "Achievements, expectations, parenting quality and even health",
+        "Only physical appearance"
+      ],
+      "answer": 2,
+      "explain": "The text states that accomplishments, future expectations, being a good partner or parent and even health can be influenced by personality.",
+      "page": 2,
+      "sectionId": "everybody-has-one"
+    },
+    {
+      "q": "What important point do the authors make about personality judgements in social situations?",
+      "options": [
+        "Only managers make such judgements",
+        "They are made only once in a lifetime",
+        "They have no effect on the person judged",
+        "They are mutual: others judge our personality as we judge theirs"
+      ],
+      "answer": 3,
+      "explain": "The chapter says that while we judge others, they make the same judgements about us, and these mutual decisions shape both sides' lives.",
+      "page": 2,
+      "sectionId": "everybody-has-one"
+    },
+    {
+      "q": "How many adjectives does the full Adjective Check List contain?",
+      "options": [
+        "300",
+        "30",
+        "100",
+        "567"
+      ],
+      "answer": 0,
+      "explain": "The chapter says the Adjective Check List offers 300 adjectives; Table 1.1 shows only 30.",
+      "page": 3,
+      "sectionId": "describing-your-personality"
+    },
+    {
+      "q": "Why do psychologists develop personality tests rather than relying on words like 'terrific'?",
+      "options": [
+        "Such words are banned in research",
+        "Such words are too fuzzy for complex people who vary across situations",
+        "People cannot describe themselves at all",
+        "Tests are cheaper than conversation"
+      ],
+      "answer": 1,
+      "explain": "The text calls such terms glib and simplistic because humans are complex and changeable, so more precise language and tests are needed.",
+      "page": 3,
+      "sectionId": "describing-your-personality"
+    },
+    {
+      "q": "What does the book say is its real focus?",
+      "options": [
+        "Telling each reader what their personality is",
+        "Diagnosing mental disorders",
+        "The forces and factors that shape personality",
+        "Teaching statistics"
+      ],
+      "answer": 2,
+      "explain": "The authors say the focus is not what your personality is like but the forces and factors that shape it.",
+      "page": 3,
+      "sectionId": "how-does-personality-develop"
+    },
+    {
+      "q": "The authors compare personality theorists' contributions to:",
+      "options": [
+        "Chapters of one single book",
+        "Competing sports teams",
+        "Layers of an onion",
+        "Pieces of a huge online jigsaw puzzle"
+      ],
+      "answer": 3,
+      "explain": "Each theorist contributes individual pieces to a jigsaw puzzle that psychologists keep trying to fit together.",
+      "page": 4,
+      "sectionId": "how-does-personality-develop"
+    },
+    {
+      "q": "The word 'personality' derives from the Latin persona, meaning:",
+      "options": [
+        "A mask used by actors in a play",
+        "The soul",
+        "A person's name",
+        "A public speech"
+      ],
+      "answer": 0,
+      "explain": "The text says persona refers to an actor's mask, which came to mean the public face we show others.",
+      "page": 4,
+      "sectionId": "ways-of-looking-at-personality"
+    },
+    {
+      "q": "How was the 1960s person-versus-situation debate resolved?",
+      "options": [
+        "By proving traits do not exist",
+        "By accepting an interactionist approach",
+        "By proving situations do not matter",
+        "By abandoning personality research"
+      ],
+      "answer": 1,
+      "explain": "After about 20 years, psychologists accepted that traits, situations and their interaction must all be considered.",
+      "page": 5,
+      "sectionId": "ways-of-looking-at-personality"
+    },
+    {
+      "q": "Marriott and Buchanan (2014) found that people who are introverted, neurotic and lonely:",
+      "options": [
+        "Avoid social media completely",
+        "Present themselves as more emotionally stable",
+        "Find it easier to express their true selves online than in person",
+        "Become trolls"
+      ],
+      "answer": 2,
+      "explain": "The study found such people express their real personalities more easily online.",
+      "page": 6,
+      "sectionId": "personality-and-the-social-media"
+    },
+    {
+      "q": "Research on internet trolls found that they tend to:",
+      "options": [
+        "Be mostly female and highly agreeable",
+        "Be teenagers low in narcissism",
+        "Be older adults high in conscientiousness",
+        "Be mostly male, average age 29, and high in sadism"
+      ],
+      "answer": 3,
+      "explain": "Buckels, Trapnell and Paulhus (2014) found trolls are mostly male, around 29, and high in sadism.",
+      "page": 8,
+      "sectionId": "personality-and-the-social-media"
+    },
+    {
+      "q": "What characteristic did nearly all the personality theorists in the book share?",
+      "options": [
+        "They were White, of European or American heritage, and almost all men",
+        "They were all Asian women",
+        "They all rejected the role of environment",
+        "They all worked only with children"
+      ],
+      "answer": 0,
+      "explain": "The text says all were White, of European or American heritage, and almost all were men.",
+      "page": 8,
+      "sectionId": "role-of-race-and-gender"
+    },
+    {
+      "q": "Alansari (2006) studied students in 16 Islamic nations and found that:",
+      "options": [
+        "Men scored higher in anxiety in all samples",
+        "Women scored higher in anxiety than men in 11 of 16 samples",
+        "There were no gender differences",
+        "Women scored lower in emotional intensity"
+      ],
+      "answer": 1,
+      "explain": "The study of over 7,000 students found significantly higher female anxiety in 11 of the 16 samples.",
+      "page": 9,
+      "sectionId": "role-of-race-and-gender"
+    },
+    {
+      "q": "Chinese immigrants who had lived in Canada for at least 10 years, compared with recent immigrants, scored higher in:",
+      "options": [
+        "Introversion",
+        "Self-effacement",
+        "Extraversion",
+        "Fate attribution"
+      ],
+      "answer": 2,
+      "explain": "McCrae et al. (1998) found longer-term immigrants scored significantly higher in extraversion.",
+      "page": 9,
+      "sectionId": "role-of-culture"
+    },
+    {
+      "q": "Self-enhancement is defined in the chapter as:",
+      "options": [
+        "The tendency to criticise oneself",
+        "Belief that fate controls events",
+        "The feeling of competence in coping with life",
+        "The tendency to promote oneself aggressively and make oneself conspicuous"
+      ],
+      "answer": 3,
+      "explain": "The text defines self-enhancement as aggressive self-promotion; its opposite is self-effacement.",
+      "page": 11,
+      "sectionId": "role-of-culture"
+    },
+    {
+      "q": "A test that gives widely different scores when taken on two different days lacks:",
+      "options": [
+        "Reliability",
+        "Validity",
+        "Projection",
+        "Inter-scorer bias"
+      ],
+      "answer": 0,
+      "explain": "Reliability is consistency of response; inconsistent scores mean the test is unreliable.",
+      "page": 13,
+      "sectionId": "assessing-your-personality"
+    },
+    {
+      "q": "Why did Rorschach use only 10 inkblots?",
+      "options": [
+        "Research showed 10 was optimal",
+        "He could not afford to print more than 10",
+        "Freud advised him to",
+        "Patients could not concentrate longer"
+      ],
+      "answer": 1,
+      "explain": "The chapter says he settled on 10 blots for the practical reason that he could not afford more printing.",
+      "page": 17,
+      "sectionId": "assessing-your-personality"
+    },
+    {
+      "q": "In an experiment, the variable the experimenter manipulates is the:",
+      "options": [
+        "Dependent variable",
+        "Control variable",
+        "Independent variable",
+        "Correlation coefficient"
+      ],
+      "answer": 2,
+      "explain": "The independent (stimulus) variable is manipulated; the dependent variable is the subjects' behaviour.",
+      "page": 25,
+      "sectionId": "research-in-the-study-of-personality"
+    },
+    {
+      "q": "A strong negative correlation between shyness and self-esteem allows us to conclude that:",
+      "options": [
+        "Shyness causes low self-esteem",
+        "Low self-esteem causes shyness",
+        "Parental rejection causes both",
+        "The two are related, but we cannot say which causes the other"
+      ],
+      "answer": 3,
+      "explain": "Correlation does not establish cause; either could cause the other, or a third variable could cause both.",
+      "page": 28,
+      "sectionId": "research-in-the-study-of-personality"
+    },
+    {
+      "q": "The chapter compares a theory to:",
+      "options": [
+        "A map that represents and explains data in their interrelationships",
+        "A hunch with no evidence",
+        "A single experiment",
+        "A dictionary definition"
+      ],
+      "answer": 0,
+      "explain": "The text calls a theory a kind of map that brings order to data.",
+      "page": 29,
+      "sectionId": "role-of-theory"
+    },
+    {
+      "q": "What caution do the authors raise about the autobiographical nature of theories?",
+      "options": [
+        "Theorists never write autobiographies",
+        "The theory may influence what theorists remember about their lives",
+        "Biographies are always accurate",
+        "Life events never affect theories"
+      ],
+      "answer": 1,
+      "explain": "Autobiographies written late in life may be distorted by years of defending the theory.",
+      "page": 30,
+      "sectionId": "role-of-theory"
+    },
+    {
+      "q": "The view that personality is basically fixed by about age 5 is called:",
+      "options": [
+        "Interactionism",
+        "Free will",
+        "Historical determinism",
+        "Universalism"
+      ],
+      "answer": 2,
+      "explain": "Historical determinism holds that personality is largely set in the early years and changes little afterwards.",
+      "page": 32,
+      "sectionId": "questions-about-human-nature"
+    },
+    {
+      "q": "Which issue asks whether we are tension-reducing pleasure-seekers or are motivated to self-actualise?",
+      "options": [
+        "Nature versus nurture",
+        "Uniqueness versus universality",
+        "Optimism versus pessimism",
+        "Satisfaction (equilibrium) versus growth"
+      ],
+      "answer": 3,
+      "explain": "The life-goals issue contrasts maintaining equilibrium/pleasure with growth and self-actualisation.",
+      "page": 32,
+      "sectionId": "questions-about-human-nature"
+    }
+  ],
+  "practice": [
+    {
+      "q": "Define personality as given in the chapter.",
+      "marks": 2,
+      "pages": [
+        6,
+        6
+      ],
+      "answer": "Personality is the unique, relatively enduring set of internal and external aspects of a person's character that influence behaviour in different situations. The chapter's working version describes it as an enduring and unique cluster of characteristics that may change in response to different situations, while noting that each theorist offers his or her own definition."
+    },
+    {
+      "q": "What is historical determinism?",
+      "marks": 2,
+      "pages": [
+        32,
+        32
+      ],
+      "answer": "Historical determinism is the view that personality is basically fixed in the early years of life, by about age 5, and changes little afterwards. Adult personality is seen as an elaboration of themes laid down in childhood. It is one position on the issue of whether we are dependent on or independent of childhood."
+    },
+    {
+      "q": "Distinguish between reliability and validity.",
+      "marks": 2,
+      "pages": [
+        13,
+        13
+      ],
+      "answer": "Reliability is the consistency of response to an assessment device: a reliable test gives similar scores when taken again. Validity is the extent to which a device measures what it is intended to measure. An unreliable or invalid test cannot be trusted to assess personality or predict behaviour."
+    },
+    {
+      "q": "Explain the different ways of looking at personality.",
+      "marks": 5,
+      "pages": [
+        4,
+        6
+      ],
+      "answer": "The chapter offers several everyday ways of understanding personality. First, Adams (1954) suggested that personality is captured by what we mean when we say \"I\", which sums up our likes, dislikes, fears, virtues, strengths and weaknesses.\n\nSecond, the word comes from the Latin persona, an actor's mask, dating back to about 1500. This suggests personality is our public face, the impression we make on others. However, the authors argue personality also includes inner social and emotional qualities that may be hidden.\n\nThird, personality refers to stable and predictable characteristics. It is not rigid, since a calm person can become panicky, but it resists sudden change. The 1960s person-situation debate (Mischel) ended, as Funder (2001) noted, with the interactionist view that traits, situations and their interaction all matter.\n\nFourth, personality implies uniqueness. We notice similarities among people, yet each person has special qualities distinguishing him or her from everyone else, which is why two people in the same situation can react quite differently.\n\nCombining these, personality is an enduring and unique cluster of characteristics that may change in different situations, though each theorist defines it in his or her own way. Understanding these competing versions, the many ways of defining the word \"I\", is the purpose of studying personality theories."
+    },
+    {
+      "q": "Discuss the advantages and disadvantages of self-report inventories, with reference to the MMPI.",
+      "marks": 5,
+      "pages": [
+        14,
+        16
+      ],
+      "answer": "Self-report inventories ask people to answer questions about their own behaviour and feelings in various situations. The best known is the MMPI, the world's most widely used test, translated into over 140 languages. It has 567 true-false items covering health, attitudes, family and work, and neurotic and psychotic tendencies, with clinical scales such as depression, paranoia and schizophrenia.\n\nAdvantages: self-reports are the most objective approach, scored quickly by automated programmes giving a full diagnostic profile. The MMPI has items to detect faking and carelessness; it distinguishes genuine from faked pain and PTSD and separates neurotics from psychotics. Self-reports can also be taken online, which is cheaper, faster, more objective and prevents looking ahead, with results matching paper versions.\n\nDisadvantages: the MMPI is long, and some people lose motivation; personal items may seem an invasion of privacy, especially in job testing. Self-reports may not suit people of below-normal intelligence or poor reading skills. Small wording changes alter results (Schwarz, 1999), and people tend to give socially desirable answers and can fake easily (Holtgraves, 2004; McDaniel et al., 2009). Even the mentally ill can learn online to hide symptoms on the MMPI.\n\nOverall, despite these limits, the MMPI remains a valuable diagnostic and research tool."
+    },
+    {
+      "q": "Explain how social media and personality influence each other.",
+      "marks": 5,
+      "pages": [
+        6,
+        8
+      ],
+      "answer": "The chapter raises three questions about personality and social media.\n\nReal self online: US and German studies found online profiles convey personality at least as accurately as face-to-face contact (Gosling et al., 2007; Back et al., 2010). But many people present themselves as more emotionally stable than they are (Blumer & Doring, 2012), and introverted, lonely, socially awkward people express their true selves more easily online (Marriott & Buchanan, 2014). Inappropriate posts create false impressions that can affect jobs (Goodman et al., 2014).\n\nSocial media shaping personality: excessive internet use in Chinese adolescents was linked to anxiety and depression (Lam & Peng, 2010); heavy use lowers well-being and relationship quality; students who contacted parents via social networking felt more lonely and anxious than those who phoned (Gentzler et al., 2011). Excessive users are lonelier and lower in self-esteem, and overuse may become addictive and alter brain areas linked to depression (Mosher, 2011).\n\nPersonality shaping use: extraverted and narcissistic people use Facebook more and narcissistic teens update status more. Heavy users are more extraverted and open but less conscientious and emotionally stable. In Australia, extraverts made more calls, while neurotic, shy people texted more. Trolls are mostly male, about 29, and high in sadism.\n\nThus social media both shapes and reflects personality."
+    },
+    {
+      "q": "Discuss the role of culture in shaping personality.",
+      "marks": 10,
+      "pages": [
+        9,
+        12
+      ],
+      "answer": "Introduction\n\nPsychology widely accepts that culture shapes personality. Cross-cultural psychology has shown that personality is formed by both genetic and environmental influences, and Triandis and Suh (2002) argued that cultural influences are among the most important environmental ones. The chapter supports this with immigrant studies, neuroscience and research on beliefs, individualism, child-rearing and self-enhancement.\n\nEvidence of cultural change and difference\n\nJapanese who emigrated to the US became more American in personality than those who stayed (Gungor et al., 2013). Chinese immigrants who had lived in Canada for 10 years or more scored higher in extraversion than recent immigrants or Hong Kong Chinese (McCrae et al., 1998). Asian-American students reported more negative emotions in social situations than European Americans (Lee et al., 2006), while Westerners are more optimistic and rate their teams, cities and friends as superior (Endo et al., 2000). Cultural neuroscience has even found Eastern and Western differences in brain responses to the same stimuli, matching levels of dominance or submissiveness (Freeman et al., 2009).\n\nBeliefs about destiny\n\nThe concept of karma in India and other Hindu or Buddhist countries is a fatalistic view in which present and past actions decide future fate. It may encourage a passive, accepting personality, unlike the American stress on free choice and effort. East-West differences in fate attribution are large, but weaken as cultures such as China modernise (Wong, Shaw, & Ng, 2010).\n\nIndividualism and collectivism\n\nIndividualistic societies emphasise personal freedom and choice; collectivist ones stress group norms and roles. Australians valued individuality more than Japanese (Kashima et al., 2004). Individualistic cultures show more extraversion, self-esteem, optimism and well-being; a study of 400 million people in 63 countries tied individualism to well-being (Fischer & Boer, 2011). US students scored higher in self-efficacy than Japanese students, and European Americans pursued goals for personal satisfaction while Asian Americans pursued goals that please important others (Oishi & Diener, 2001). A recently arrived Asian job applicant may score low on assertiveness and be unfairly judged deficient.\n\nChild-rearing practices\n\nAmerican parenting tends to be democratic and permissive, while Asian and Arab parenting is more authoritarian. Arab adolescents accepted authoritarian parenting, felt close to parents and showed no harm to mental health (Dwairy et al., 2006). More assimilated Turkish mothers in Germany stressed individualistic goals (Durgel et al., 2009).\n\nSelf-enhancement and self-effacement\n\nSelf-enhancement, aggressive self-promotion, is higher among Canadians, Americans and Israelis; self-effacement is higher among Japanese and Chinese (Heine et al., 2000; Church et al., 2014). Nordic Janteloven promotes humility, and Americans self-enhanced more than Norwegians (Silvera & Seger, 2004). Even Spain and the Netherlands differ in family versus individualistic values.\n\nConclusion\n\nCulture influences traits, emotions, self-views, motivation and even brain activity. However, research is still concentrated in English-speaking countries and on American college students, with little from Africa and South America. Personality theories and tests must therefore be applied with cultural sensitivity rather than assumed to be universal."
+    },
+    {
+      "q": "Describe the major methods of personality assessment and evaluate their strengths and limitations.",
+      "marks": 10,
+      "pages": [
+        13,
+        20
+      ],
+      "answer": "Introduction\n\nAssessment means measuring or evaluating personality. It is used by clinical psychologists for diagnosis and therapy, school psychologists for adjustment problems, industrial/organisational psychologists for selection, counselling psychologists for career matching, and researchers. Good techniques must be reliable (consistent) and valid (measuring what they claim). The chapter describes five approaches.\n\n1. Self-report inventories\n\nPeople answer questions about their own behaviour and feelings. The MMPI, the most widely used test, has 567 true-false items and scales such as depression and paranoia, plus faking checks. Strengths: most objective, quick automated scoring, can be given online with results equal to paper, and people disclose more online. Limitations: length, privacy concerns, unsuitable for low reading ability, sensitivity to wording (Schwarz, 1999) and social desirability or faking.\n\n2. Projective techniques\n\nInspired by Freud, they assume people project needs and fears onto ambiguous stimuli. The Rorschach (1921) uses 10 inkblots scored for movement, figures and whole or partial responses; Exner's Comprehensive System tries to standardise it. The TAT (Morgan & Murray, 1935) uses 19 pictures and a blank card for storytelling and is useful for researching needs for achievement, affiliation and power. Word association and sentence completion are other forms. Strengths: they aim to probe the unconscious and remain widely used. Limitations: subjective interpretation, low reliability, validity and inter-scorer reliability; validity research favours the MMPI.\n\n3. Clinical interviews\n\nThe psychologist explores past and present life, relationships and problems, observing appearance, expressions, insight and contact with reality, often guided by MMPI results. Strength: rich information. Limitation: interpretation is subjective and affected by the interviewer's orientation, so interviews work best alongside objective tools.\n\n4. Behavioural assessment\n\nAn observer evaluates behaviour in a situation; observers who know the person well are more accurate (Connelly & Ones, 2010). Buss and Plomin's EASI survey had mothers rate twins' temperaments. Strength: it records actual behaviour rather than what people say about themselves. Limitation: it depends on the observer's familiarity and skill. Informal observation in counselling, such as noting facial expressions, nervous gestures and appearance, is less systematic than formal procedures but still gives valuable insights for diagnosis.\n\n5. Thought and experience sampling\n\nPeople record their own thoughts over time; experience sampling adds context, often prompted by beepers or smartphones. A 28-day diary study showed academic issues as students' main stressor (Park et al., 2004). Limitations: participants forget, data may come only from conscientious people, and moods colour reports; still, data are comparable to self-reports.\n\nConclusion\n\nNo single method is perfect, and the theorists themselves used whichever methods suited their theories, ranging from dream interpretation to computer-scored tests. Objective self-reports are most reliable but open to faking; projective and interview methods give depth but are subjective. Results can also be affected by gender, ethnicity and culture, so assessors should combine methods and interpret scores with cultural sensitivity."
+    },
+    {
+      "q": "Compare the clinical, experimental, virtual and correlational methods of personality research.",
+      "marks": 10,
+      "pages": [
+        24,
+        29
+      ],
+      "answer": "Introduction\n\nPersonality researchers choose methods based on whether they study overt behaviour, conscious experience or unconscious forces. The four major methods are clinical, experimental, virtual and correlational. All depend on objective observation, and good research also needs controlled, systematic conditions and duplication and verifiability.\n\nClinical method\n\nThe main tool is the case study, a detailed history of an individual drawn from many sources. Freud traced Katharina's anxiety attacks to early sexual experiences and Lucy's hallucinations to rejected love, then generalised to everyone. Other clinical tools include tests, interviews and dream analysis. Strength: it offers a window into the depths of personality and is central to psychoanalytic theory. Weaknesses: data are subjective, open to the therapist's bias, rely on childhood memories that may be distorted and unverifiable, and lack precision and control.\n\nExperimental method\n\nAn experiment determines the effect of a variable on behaviour by allowing only that variable to operate. The independent variable is manipulated; the dependent variable is the measured behaviour. Randomly selected experimental and control groups are compared before and after. Bandura measured children's aggression, exposed one group to an aggressive adult and a control group to non-aggressive adults, and found only the first group became aggressive, showing that aggression is learned by imitation. Strength: the most precise method, able to establish cause and effect. Weaknesses: ethical and safety limits (children cannot be removed from parents to test child-rearing), and subjects who know they are observed may change behaviour or try to please or frustrate the experimenter.\n\nVirtual research\n\nOnline tests, surveys and experiments, often using Amazon's Mechanical Turk, are faster and cheaper and reach more diverse samples than college campuses. Weaknesses: web users are younger, richer and more educated; older, poor, visually impaired and non-English speakers are under-represented; non-responders differ in personality; response rates are about 10 percent lower; honesty is hard to verify. Still, online and laboratory results are generally similar.\n\nCorrelational method\n\nResearchers measure the relationship between existing variables rather than manipulating them, without experimental and control groups. For example, students high in need for achievement earned higher grades (Atkinson et al., 1976). The correlation coefficient, from +1.00 to -1.00, shows direction and strength. It is used to establish test reliability and validity and for practical prediction, such as college entrance tests. Weakness: it cannot show cause and effect; a shyness-self-esteem link might run either way or be caused by a third variable.\n\nConclusion\n\nThe experimental method gives the most control and causal certainty, the correlational method is excellent for prediction, virtual research adds speed and diversity, and the clinical method gives depth at the cost of objectivity. Researchers choose according to the aspect of personality being studied, since a method suited to one aspect may be inappropriate for another, and in practice they often combine methods to offset each one's weaknesses."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Latin root of 'personality'",
+      "back": "Persona, an actor's mask (word dates to about 1500).",
+      "page": 4
+    },
+    {
+      "front": "Adams (1954) on personality",
+      "back": "We understand personality by examining what we mean when we say 'I'.",
+      "page": 4
+    },
+    {
+      "front": "Interactionist approach",
+      "back": "Traits, the situation and their interaction must all be considered to explain behaviour.",
+      "page": 5
+    },
+    {
+      "front": "Who resolved the person-situation dichotomy as 'fake'?",
+      "back": "Funder (2001), after the debate sparked in the 1960s (Mischel).",
+      "page": 5
+    },
+    {
+      "front": "Working definition of personality",
+      "back": "An enduring and unique cluster of characteristics that may change in different situations.",
+      "page": 6
+    },
+    {
+      "front": "Three questions on social media and personality",
+      "back": "Real self online? Does social media change us? Do different personalities use it differently?",
+      "page": 6
+    },
+    {
+      "front": "Profile of internet trolls",
+      "back": "Mostly male, average age 29, high in sadism.",
+      "page": 8
+    },
+    {
+      "front": "Common features of classic theorists",
+      "back": "White, European or American heritage, almost all men.",
+      "page": 8
+    },
+    {
+      "front": "Cross-cultural psychology",
+      "back": "Studies cultural influences on personality; personality is shaped by genes and environment, with culture a key environmental force.",
+      "page": 9
+    },
+    {
+      "front": "Karma and personality",
+      "back": "Fatalistic belief that may produce a passive, resigned personality; weakens with modernisation.",
+      "page": 10
+    },
+    {
+      "front": "Individualism and well-being study",
+      "back": "Fischer & Boer (2011): 400 million people, 63 countries; individualism strongly linked to well-being.",
+      "page": 10
+    },
+    {
+      "front": "Self-enhancement vs self-effacement",
+      "back": "Aggressive self-promotion vs modesty/self-criticism; the latter fits Asian and Nordic values.",
+      "page": 11
+    },
+    {
+      "front": "Janteloven",
+      "back": "Nordic norm: don't put yourself above the community; show humility.",
+      "page": 12
+    },
+    {
+      "front": "Reliability",
+      "back": "Consistency of response to an assessment device.",
+      "page": 13
+    },
+    {
+      "front": "Validity",
+      "back": "Extent to which a device measures what it intends to measure.",
+      "page": 13
+    },
+    {
+      "front": "Five approaches to assessment",
+      "back": "Self-report, projective, clinical interview, behavioural assessment, thought/experience sampling.",
+      "page": 14
+    },
+    {
+      "front": "MMPI facts",
+      "back": "567 true-false items; 1943; revised 1989; MMPI-2-RF 2008; 140+ languages.",
+      "page": 14
+    },
+    {
+      "front": "MMPI-A",
+      "back": "1992 adolescent version; 478 items.",
+      "page": 14
+    },
+    {
+      "front": "Schwarz (1999) wording effect",
+      "back": "61.5% chose 'think for themselves' from a list vs 4.6% when no list given.",
+      "page": 15
+    },
+    {
+      "front": "Advantages of online testing",
+      "back": "Less time, cheaper, more objective scoring, accepted by young workers, no looking ahead or changing answers.",
+      "page": 16
+    },
+    {
+      "front": "Rorschach basics",
+      "back": "Swiss psychiatrist; 1921; 10 inkblots (couldn't afford more); nickname Klecks.",
+      "page": 16
+    },
+    {
+      "front": "TAT",
+      "back": "Morgan & Murray (1935): 19 ambiguous pictures + 1 blank card; tell a story.",
+      "page": 18
+    },
+    {
+      "front": "Experience sampling vs thought sampling",
+      "back": "Experience sampling also records the social and environmental context.",
+      "page": 19
+    },
+    {
+      "front": "Case study",
+      "back": "Detailed history of an individual from many sources; primary clinical method.",
+      "page": 24
+    },
+    {
+      "front": "Independent vs dependent variable",
+      "back": "IV is manipulated by the experimenter; DV is the subjects' measured behaviour.",
+      "page": 25
+    },
+    {
+      "front": "Bandura's finding",
+      "back": "Children who watched an aggressive adult became aggressive; aggression can be learned by imitation.",
+      "page": 26
+    },
+    {
+      "front": "Range of the correlation coefficient",
+      "back": "+1.00 (perfect positive) to -1.00 (perfect negative).",
+      "page": 28
+    },
+    {
+      "front": "Main limitation of correlation",
+      "back": "It cannot establish cause and effect.",
+      "page": 28
+    },
+    {
+      "front": "Criteria for a useful personality theory",
+      "back": "Testable; organises and explains data; helps understand and predict behaviour.",
+      "page": 29
+    },
+    {
+      "front": "Freud's most important patient",
+      "back": "Himself, illustrating the autobiographical nature of theories.",
+      "page": 30
+    },
+    {
+      "front": "Six issues of human nature",
+      "back": "Free will/determinism, nature/nurture, past/present, uniqueness/universality, equilibrium/growth, optimism/pessimism.",
+      "page": 31
+    },
+    {
+      "front": "Historical determinism",
+      "back": "Personality basically fixed by about age 5, little change after.",
+      "page": 32
+    }
+  ],
+  "summary": [
+    "Personality is an enduring, unique cluster of characteristics that can change across situations; the word comes from persona, an actor's mask, but includes hidden inner qualities too.",
+    "The person-situation debate ended in the interactionist approach: traits, situations and their interaction all shape behaviour.",
+    "Social media both reflects and shapes personality: profiles are often accurate, heavy use is linked to anxiety, depression and loneliness, and extraverts and narcissists use Facebook more.",
+    "Classic theorists were White, mostly male, and studied mostly White male subjects, yet claimed universal theories; gender and ethnicity clearly influence personality.",
+    "Culture shapes personality through beliefs about destiny (karma), individualism vs collectivism, child-rearing styles and norms of self-enhancement vs self-effacement.",
+    "Assessment must be reliable (consistent) and valid (measures what it claims); main methods are self-report, projective, interview, behavioural and thought/experience sampling.",
+    "The MMPI is the most widely used, objective self-report test; projective tests like the Rorschach and TAT probe the unconscious but are low in reliability and validity.",
+    "Gender, ethnicity and culture affect test scores, diagnosis, treatment-seeking and test translation, so assessment must be culturally sensitive.",
+    "Research methods are clinical (case study), experimental (cause-effect via independent and dependent variables), virtual (online) and correlational (relationships, not causes).",
+    "A theory is a framework that organises data; useful theories are testable and help explain and predict behaviour, and some are partly autobiographical.",
+    "Theories differ on six human-nature issues: free will vs determinism, nature vs nurture, past vs present, uniqueness vs universality, equilibrium vs growth, optimism vs pessimism."
+  ],
+  "assessment": [
+    {
+      "q": "Which definition of personality appears in the chapter's margin?",
+      "options": [
+        "The unique, relatively enduring internal and external aspects of a person's character that influence behaviour in different situations",
+        "The mask a person wears in public only",
+        "A person's inherited temperament fixed at birth",
+        "The total of a person's learned habits"
+      ],
+      "answer": 0,
+      "explain": "The margin definition on p. 6 describes personality as unique, relatively enduring internal and external aspects of character that influence behaviour across situations.",
+      "page": 6
+    },
+    {
+      "q": "Which researcher's work is cited for the 1960s debate on traits versus situations?",
+      "options": [
+        "Rorschach",
+        "Mischel",
+        "Bandura",
+        "William James"
+      ],
+      "answer": 1,
+      "explain": "The chapter cites Mischel (1968, 1973) for the debate between enduring personal variables and situational variables.",
+      "page": 5
+    },
+    {
+      "q": "Blumer and Doring's (2012) German study found that online, many people present themselves as:",
+      "options": [
+        "More introverted than they really are",
+        "Less narcissistic than they really are",
+        "More emotionally stable than they really are",
+        "Exactly as they are"
+      ],
+      "answer": 2,
+      "explain": "The large German study found people tend to present themselves online as much more emotionally stable than they are.",
+      "page": 6
+    },
+    {
+      "q": "Gentzler et al. (2011) found that US college students who kept in touch with parents via social networking sites reported:",
+      "options": [
+        "More satisfying relationships than those who phoned",
+        "No difference from those who phoned",
+        "Higher self-esteem",
+        "More loneliness, anxiety and conflict with parents"
+      ],
+      "answer": 3,
+      "explain": "Students who phoned had more satisfying relationships; social networking users reported more loneliness, anxiety and conflict.",
+      "page": 7
+    },
+    {
+      "q": "Which concept describes the Nordic cultural norm of humility and not placing oneself above the community?",
+      "options": [
+        "Janteloven",
+        "Karma",
+        "Self-efficacy",
+        "Klecksographie"
+      ],
+      "answer": 0,
+      "explain": "Janteloven, found in Norway, Sweden and Denmark, encourages self-effacement and humility.",
+      "page": 12
+    },
+    {
+      "q": "Dwairy et al. (2006) found that authoritarian parenting among Arab adolescents:",
+      "options": [
+        "Caused severe depression",
+        "Did not adversely affect their mental health and well-being",
+        "Made them reject their parents",
+        "Increased individualistic goals"
+      ],
+      "answer": 1,
+      "explain": "Arab adolescents felt connected to their parents and were satisfied; authoritarian practices did not harm their mental health as they might in Western cultures.",
+      "page": 11
+    },
+    {
+      "q": "The MMPI consists of how many true-false statements?",
+      "options": [
+        "300",
+        "478",
+        "567",
+        "19"
+      ],
+      "answer": 2,
+      "explain": "The chapter states the MMPI is a true-false test of 567 statements; 478 is the MMPI-A.",
+      "page": 14
+    },
+    {
+      "q": "Projective tests are low in reliability and validity mainly because:",
+      "options": [
+        "They are always given online",
+        "They have too many items",
+        "They use true-false answers",
+        "Interpretation of responses is highly subjective"
+      ],
+      "answer": 3,
+      "explain": "The text says the subjective interpretation of projective tests makes them low in reliability and validity, including inter-scorer reliability.",
+      "page": 16
+    },
+    {
+      "q": "The TAT consists of:",
+      "options": [
+        "19 ambiguous pictures and 1 blank card",
+        "10 inkblots",
+        "567 true-false items",
+        "300 adjectives"
+      ],
+      "answer": 0,
+      "explain": "Morgan and Murray's TAT has 19 ambiguous pictures showing people and one blank card.",
+      "page": 18
+    },
+    {
+      "q": "In thought sampling, who makes the observations?",
+      "options": [
+        "A trained outside observer",
+        "The person whose thoughts are being studied",
+        "The person's mother",
+        "A computer algorithm alone"
+      ],
+      "answer": 1,
+      "explain": "Because thoughts are private, the observer and the person observed are the same.",
+      "page": 19
+    },
+    {
+      "q": "Which finding about Hispanics is reported in the chapter?",
+      "options": [
+        "They seek counselling more than any other group",
+        "Hispanic psychologists make up 20 percent of US psychologists",
+        "Their MMPI scores are similar to Whites' but Rorschach scores differ from Comprehensive System norms",
+        "They show lower PTSD rates than Whites"
+      ],
+      "answer": 2,
+      "explain": "Hispanic MMPI scores resemble Whites', but Rorschach scores differ significantly from the norms; Hispanic psychologists are only 1 percent.",
+      "page": 22
+    },
+    {
+      "q": "Why can the TAT not be used in Islamic cultures?",
+      "options": [
+        "Because it has not been translated into Arabic",
+        "Because it uses a true-false format",
+        "Because it includes sex-related questions",
+        "Because of the Muslim prohibition against representing humans in pictures"
+      ],
+      "answer": 3,
+      "explain": "The chapter states the TAT cannot be used in Islamic cultures due to the prohibition on pictorial representation of humans.",
+      "page": 24
+    },
+    {
+      "q": "In Bandura's experiment, children in the control group:",
+      "options": [
+        "Saw non-aggressive adults and showed no change in aggressiveness",
+        "Saw the aggressive adult and became aggressive",
+        "Were not observed at all",
+        "Were chosen from a different population"
+      ],
+      "answer": 0,
+      "explain": "Control children witnessed non-aggressive adults in the same setting and showed no change.",
+      "page": 26
+    },
+    {
+      "q": "Which is a disadvantage of virtual (online) research mentioned in the chapter?",
+      "options": [
+        "It is more expensive than laboratory research",
+        "Web users tend to be younger, more affluent and better educated than non-users",
+        "It is slower than laboratory research",
+        "It always gives results opposite to laboratory studies"
+      ],
+      "answer": 1,
+      "explain": "Online samples skew younger, richer and better educated, limiting representativeness; results otherwise tend to match lab studies.",
+      "page": 27
+    },
+    {
+      "q": "Which pair correctly matches a human-nature issue with its question?",
+      "options": [
+        "Free will vs determinism: good or evil?",
+        "Optimism vs pessimism: childhood or present?",
+        "Nature vs nurture: inherited traits or environment?",
+        "Uniqueness vs universality: pleasure or growth?"
+      ],
+      "answer": 2,
+      "explain": "The nature-nurture issue asks whether inherited endowment or environment is the stronger influence.",
+      "page": 31
+    },
+    {
+      "q": "William James believed that, to learn about how people approach human experience, it was most important to understand:",
+      "options": [
+        "Their statistical methods",
+        "Their laboratory equipment",
+        "Their dream content",
+        "The lives (biographies) of eminent persons"
+      ],
+      "answer": 3,
+      "explain": "James argued biography was crucial, even more important than knowing the theorists' systems.",
+      "page": 30
+    }
+  ]
+}

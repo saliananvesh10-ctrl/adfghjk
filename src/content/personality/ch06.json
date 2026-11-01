@@ -1,0 +1,2541 @@
+{
+ "number": 6,
+ "title": "Erik Erikson: Identity Theory",
+ "theorist": "Erik Erikson",
+ "approach": "Life-span",
+ "pages": [
+  159,
+  190
+ ],
+ "overview": "Erik Erikson, trained by Anna Freud and never holding a university degree, extended psychoanalysis in three ways: personality develops over the whole life span, the ego is independent of the id, and culture and history shape personality. Drawing on his own identity crises, he described eight psychosocial stages governed by the epigenetic principle, each built around a crisis (trust vs. mistrust through ego integrity vs. despair) whose balanced, mainly adaptive resolution yields a basic strength (hope, will, purpose, competence, fidelity, love, care, wisdom), while one-sided resolution produces maladaptive or malignant maldevelopment. His image of human nature is optimistic and only partly deterministic. He assessed personality through play therapy, anthropological studies and psychohistorical analysis, and later researchers built tests such as the Loyola Generativity Scale. Research supports early trust, the stage sequence, Marcia's identity statuses, and the benefits of generativity and ego integrity, and extends the theory to virtual, gender, ethnic (Cross model) and gender preference identity. Critics cite vague concepts, a thin account of old age, biased views on sex differences and limited fit to women and poorer people.",
+ "objectives": [
+  "Explain the three ways in which Erikson extended Freud's theory.",
+  "Relate Erikson's personal identity crises to the concepts of his theory, including identity confusion.",
+  "Explain the epigenetic principle of maturation, the nature of crises, adaptive coping and basic strengths.",
+  "Describe each of the eight psychosocial stages with its ages, crisis, basic strength and parallel Freudian stage (Table 6.1).",
+  "Distinguish maladaptive from malignant maldevelopment and name the tendencies for each stage (Table 6.2).",
+  "Describe Erikson's image of human nature and contrast it with Freud's.",
+  "Describe Erikson's assessment methods: play therapy, psychohistorical analysis, anthropological studies, and tests based on his theory.",
+  "Summarise research on trust, the stages, Marcia's identity statuses, sex differences, virtual identity, gender, generativity and maturity.",
+  "Explain research on racial and ethnic identity, including Cross's model, and on gender preference identity.",
+  "Evaluate Erikson's contributions, criticisms and influence."
+ ],
+ "sections": [
+  {
+   "id": "extending-freud",
+   "heading": "Introduction: How Erikson Extended Freud",
+   "pages": [
+    159,
+    160
+   ],
+   "detailed": "Erik Erikson is one of the rare personality theorists who became a public celebrity. His books sold widely and he featured on the covers of Newsweek and the New York Times Magazine, yet he never earned a university degree in any subject. He was trained in the Freudian tradition by Anna Freud, and he always treated psychoanalysis as his starting point. Anderson and Friedman describe him as someone who presented himself as a loyal Freudian while moving a long way from orthodox theory.\n\nThe chapter identifies three ways in which Erikson extended Freud's work. This list is a standard exam question (it also answers Review Question 2 on how the two theories differ).\n\nFirst, he elaborated Freud's developmental stages and argued that personality keeps developing across the entire life span, not just in the first five or six years. Freud's stages end with the genital stage; Erikson's eight stages run from birth to old age.\n\nSecond, he gave greater weight to the ego than to the id. For Erikson the ego is an independent part of personality; it is not a servant of the id as Freud had claimed. This is why his approach is often described as an ego psychology and why the key concept of his theory is ego identity.\n\nThird, he recognised the influence of cultural and historical forces on personality. Innate biological factors operating in childhood matter, but they do not fully explain personality; we are not governed entirely by them.\n\nSo Erikson kept the core of Freud (stages, unconscious conflict, the Oedipal situation, the superego) while broadening its scope in time (whole life span), in structure (independent ego) and in context (culture and history). The book places him under the life-span approach for this reason.",
+   "simple": "Erikson was trained by Anna Freud and saw himself as a Freudian, but he changed Freud's theory in three big ways. He said personality develops across the whole life span, he made the ego independent of the id, and he showed that culture and history shape personality, not just biology.",
+   "keyPoints": [
+    "Erikson became famous without any university degree; trained by Anna Freud.",
+    "Extension 1: development continues over the entire life span (eight stages).",
+    "Extension 2: the ego is independent, not subservient to the id.",
+    "Extension 3: cultural and historical forces affect personality; biology alone does not explain it.",
+    "He kept psychoanalysis as his starting point while departing substantially from orthodoxy."
+   ]
+  },
+  {
+   "id": "life",
+   "heading": "The Life of Erikson (1902–1994)",
+   "pages": [
+    160,
+    162
+   ],
+   "detailed": "Erikson's life is a textbook case of a theory growing out of the theorist's own experience. Wallerstein notes that he went through several identity crises that he never fully resolved.\n\nPersonal identity crises. He was born in Frankfurt, Germany. His Danish mother came from a wealthy Jewish family; her husband vanished within hours of their wedding, and she later became pregnant by another man and was sent to Germany to avoid the disgrace of an illegitimate birth. She never told Erik who his father was, despite his pleading. She then married Dr. Theodore Homburger, the baby's pediatrician. Erik learned only later that Homburger was not his biological father and said he grew up unsure of his name and psychological identity. He kept the name Homburger until 37, when he became a U.S. citizen and renamed himself Erik Homburger Erikson. At school he faced a second identity crisis: German classmates rejected him because his family was Jewish, while Jewish classmates rejected him because he was tall and blond with Aryan features. His grades were mediocre but he had artistic talent.\n\nDropping out of society. After high school he dropped out of conventional life and wandered through Europe, reading, keeping a notebook and observing people. He saw himself as morbidly sensitive and neurotic, even close to psychotic. His daughter Bloland later wrote that he suffered deeply from feeling abandoned by his real father, struggled with depression all his life, and craved reassurance. He attended two art schools and exhibited in Munich but kept leaving to continue his search for identity. He himself joked that he needed to name the identity crisis and see it in everyone else in order to deal with it in himself. Friedman observed that what Erikson experienced personally became the \"research\" behind his ideas.\n\nBecoming a Freudian. At 25 he was invited to teach at a small Vienna school for the children of Freud's patients and friends. He admitted he was partly drawn to Freud in search of a father, and here he felt he had finally found an identity. He was analysed by Anna Freud almost daily for three years (for $7 a month). Her interest in child analysis, plus his teaching, focused him on child development and social influences. He became a member of the Vienna Psychoanalytic Institute.\n\nThree marriages and a stable foundation. In 1929 he met Joan Serson, a Canadian-born artist and dancer. When she became pregnant he at first refused to marry her, fearing commitment and parental disapproval; friends convinced him he would be repeating his own father's behaviour. He then married her three times, in Jewish, Protestant and civil ceremonies. Joan gave up her career to become his lifelong intellectual partner and editor and gave him a stable foundation; his half-sister said he would have been nothing without her, and he agreed.\n\nComing to America. In 1933, with the Nazi threat growing, the Eriksons moved to Denmark and then Boston, where he practised child psychoanalysis, worked with delinquents and at Massachusetts General Hospital. He failed his first course in Harvard's Ph.D. programme and dropped out, yet in 1936 Yale's Institute of Human Relations invited him, degree-less, to teach in its medical school. With a Yale anthropologist he studied child-rearing among South Dakota's Sioux, which strengthened his belief in culture's influence. He continued at Berkeley's Institute of Human Development and deliberately sought patients from diverse cultures and normal as well as disturbed people.\n\nHonors and accolades, but no identity. Among American Indians in South Dakota and California he saw symptoms that orthodox Freudian theory could not explain: alienation from cultural traditions producing an unclear self-image. He first called this identity confusion and saw the same pattern in disturbed World War II veterans, whom he judged to be suffering not from repressed conflicts but from confusion caused by trauma and being uprooted from their culture. In 1950 he joined the Austen Riggs Center (for disturbed adolescents); ten years later he returned to Harvard to teach on the human life cycle, retiring in 1970. At 84 he published a book on old age. Despite his fame, his daughter reported he remained ashamed of having been an illegitimate child.",
+   "simple": "Erikson never knew his real father, was raised by a stepfather, and was rejected by both German and Jewish classmates, so he grew up unsure who he was. He wandered Europe as an artist before Anna Freud trained him in Vienna. In America, studying Sioux children and war veterans, he spotted \"identity confusion\", which became central to his theory.",
+   "keyPoints": [
+    "Illegitimate birth, unknown father and stepfather Homburger: lifelong uncertainty about name and identity.",
+    "Rejected at school by German peers (Jewish family) and Jewish peers (Aryan looks).",
+    "Wandered Europe as an artist; analysed by Anna Freud in Vienna, where he found an identity.",
+    "Wife Joan Serson was his intellectual partner and stable foundation.",
+    "No degree, yet taught at Yale and Harvard; studied the Sioux with an anthropologist.",
+    "Observed identity confusion in American Indians and WWII veterans: cultural uprooting, not repressed conflict."
+   ]
+  },
+  {
+   "id": "psychosocial-stages",
+   "heading": "Psychosocial Stages of Personality Development: Genetics, Crises, Coping and Strengths",
+   "pages": [
+    162,
+    163
+   ],
+   "detailed": "Erikson divided personality growth into eight psychosocial stages that cover the whole life span. The first four parallel Freud's oral, anal, phallic and latency stages, but the key difference is emphasis: Erikson stressed psychosocial correlates of each stage, while Freud stressed biological ones. At every stage we must cope with a crisis in either an adaptive or a maladaptive way.\n\nThe role of genetics and the environment. Development follows what Erikson called the epigenetic principle of maturation. Inherited forces determine the stages themselves and their sequence; the prefix epi means \"upon\", signalling that development rests upon genetic factors. But social and environmental forces control how these genetically predetermined stages are actually realised. Personality is therefore shaped jointly by biological and social factors (this answers Review Question 4).\n\nConflicts and crises. Development is a series of personal conflicts. The potential for each conflict is present at birth as an innate predisposition, and each becomes prominent at a particular stage when the environment demands a certain adaptation. Each such confrontation with the environment is a crisis: a turning point that requires a shift in perspective and a refocusing of instinctual energy to suit that stage. We can respond in a maladaptive (negative) or adaptive (positive) way. Only when a conflict is resolved can personality move on normally and gain strength for the next crisis. An unresolved conflict makes later adaptation harder, though a successful outcome remains possible.\n\nAdaptive coping. Erikson held that the ego must incorporate both the adaptive and the maladaptive ways of coping. In infancy, for example, the crisis of helplessness and dependency can produce trust or mistrust. Trust is clearly healthier, but some mistrust is protective: a totally trusting, gullible person is easily deceived and manipulated. Ideally the ego consists mainly of the positive attitude balanced by some of the negative one; only then is the crisis satisfactorily resolved.\n\nBasic strengths. Each stage also offers the chance to develop a basic strength or virtue, which emerges once the crisis is satisfactorily resolved. The strengths are interdependent: a strength cannot develop until the strength of the previous stage has been confirmed. Table 6.1 summarises the scheme:\n\nOral-sensory (birth–1): trust vs. mistrust, hope. Muscular-anal (1–3): autonomy vs. doubt and shame, will. Locomotor-genital (3–5): initiative vs. guilt, purpose. Latency (6–11): industriousness vs. inferiority, competence. Adolescence (12–18): identity cohesion vs. role confusion, fidelity. Young adulthood (18–35): intimacy vs. isolation, love. Adulthood (35–55): generativity vs. stagnation, care. Maturity and old age (55+): ego integrity vs. despair, wisdom.",
+   "simple": "Erikson's eight stages run from birth to old age. Genes fix the order of the stages, but the social environment decides how each turns out. Every stage has a crisis that can be handled well or badly; handling it well (with a little of the negative side kept for balance) produces a basic strength such as hope or love.",
+   "keyPoints": [
+    "Eight psychosocial stages; first four parallel Freud's but stress social, not biological, factors.",
+    "Epigenetic principle: genes set the stages; environment determines how they are realised.",
+    "Crisis = turning point at each stage; resolved adaptively or maladaptively.",
+    "Healthy ego = mostly adaptive attitude plus some of the maladaptive one (e.g., a little mistrust).",
+    "Basic strengths (hope, will, purpose, competence, fidelity, love, care, wisdom) are interdependent."
+   ]
+  },
+  {
+   "id": "trust",
+   "heading": "Trust versus Mistrust",
+   "pages": [
+    163,
+    164
+   ],
+   "detailed": "The oral-sensory stage covers the first year of life and parallels Freud's oral stage. It is the period of greatest helplessness: the infant depends totally on the mother or primary caregiver for survival, security and affection. The mouth is central; Erikson said the infant lives and loves through the mouth. But the infant–world relationship is social as well as biological, and the baby's interaction with the mother decides whether trust or mistrust is built into personality.\n\nIt's up to the mother. If the mother meets the baby's physical needs appropriately and gives plenty of affection, love and security, the infant develops trust, an attitude that colours how the growing child sees self and others. We learn to expect consistency, continuity and sameness from people and situations, and Erikson saw this expectation as the beginning of ego identity. If the mother is rejecting, inattentive or inconsistent, the infant may develop mistrust and become suspicious, fearful and anxious. Erikson also argued that mistrust can arise when the mother lacks an exclusive focus on the child; he claimed that a new mother who returns to an outside job and leaves the baby with relatives or in day care risks promoting mistrust.\n\nTrust can be lost later in life. Although the trust–mistrust pattern is set in infancy, the issue can resurface later. A high level of trust from an ideal mother–infant relationship can be destroyed if the mother dies or leaves, and mistrust may take over. Equally, childhood mistrust can be reversed later through a loving, patient teacher or friend.\n\nHope. Successful resolution yields the basic strength of hope: the belief that our desires will be satisfied, a persistent feeling of confidence maintained despite temporary setbacks.\n\nIn Table 6.2, too much trust (with no mistrust) produces the maladaptive tendency sensory maladjustment; too much mistrust produces the malignant tendency withdrawal.",
+   "simple": "In the first year the baby depends completely on the mother. Consistent, loving care builds trust; rejecting or inconsistent care builds mistrust. Trust can still be lost or regained later, and resolving this stage gives the strength of hope.",
+   "keyPoints": [
+    "Oral-sensory stage, birth to 1 year; parallels Freud's oral stage.",
+    "Mother's consistent, affectionate care produces trust and the start of ego identity.",
+    "Rejecting, inattentive or inconsistent mothering (or lack of exclusive focus) produces mistrust.",
+    "The pattern can change later: loss of a mother can destroy trust; a patient friend can repair mistrust.",
+    "Basic strength: hope, a persistent confidence that desires will be satisfied."
+   ]
+  },
+  {
+   "id": "autonomy",
+   "heading": "Autonomy versus Doubt and Shame",
+   "pages": [
+    164,
+    165
+   ],
+   "detailed": "The muscular-anal stage covers the second and third years of life and corresponds to Freud's anal stage. Children rapidly develop physical and mental abilities: they communicate better, walk, climb, push, pull, and hold on to or let go of objects. They are proud of these skills and want to do as much as possible for themselves.\n\nErikson considered holding on and letting go the most important of these abilities, because they are prototypes for how we respond to later conflicts. Holding on can be loving or hostile; letting go can be a release of destructive rage or a relaxed passivity.\n\nChoice. The key feature of this stage is that, for the first time, children can exercise some choice and feel the power of their autonomous will. Still dependent, they begin to see themselves as persons in their own right. The crucial question is how far society, in the form of the parents, will let them express themselves and do what they are capable of.\n\nThe toilet-training crisis. The main parent–child clash typically concerns toilet training, the first time society tries to regulate an instinctual need: the child must hold on and let go only at the right times and places. Parents may let the child progress at his or her own pace, or they may become annoyed, force the training and react with impatience and anger. When parents frustrate the child's attempts at independence in this way, the child develops self-doubt and a sense of shame in dealing with others. Although the anal region is the focus, the conflict is expressed more psychosocially than biologically.\n\nWill. The basic strength arising from autonomy is will: a determination to exercise freedom of choice and self-restraint in the face of society's demands.\n\nMaldevelopment (Table 6.2): excessive autonomy leads to shameless willfulness; excessive doubt and shame leads to compulsion.",
+   "simple": "Between ages 1 and 3 toddlers can walk, talk and choose for themselves for the first time. Toilet training is the big test: patient parents foster autonomy, while forcing and angry parents produce doubt and shame. Success gives the strength of will.",
+   "keyPoints": [
+    "Muscular-anal stage, ages 1–3; parallels Freud's anal stage.",
+    "Holding on and letting go are prototypes for later reactions to conflict.",
+    "First chance to exercise choice and autonomous will.",
+    "Toilet training is the key crisis; forcing it breeds self-doubt and shame.",
+    "Basic strength: will, the determination to exercise free choice and self-restraint."
+   ]
+  },
+  {
+   "id": "initiative",
+   "heading": "Initiative versus Guilt",
+   "pages": [
+    165,
+    165
+   ],
+   "detailed": "The locomotor-genital stage, from about 3 to 5 years, resembles Freud's phallic stage. Motor and mental abilities keep growing, children can do more on their own, and they show a strong desire to take the initiative in many activities.\n\nThe Oedipal relationship. One form of initiative appears in fantasies: the wish to possess the opposite-sex parent and to rival the same-sex parent. The decisive factor is the parents' reaction to these self-initiated activities and fantasies. If parents punish the child and otherwise inhibit initiative, the child develops persistent guilt that will affect self-directed activity throughout life. The child inevitably fails in the Oedipal relationship, but if parents handle the situation with love and understanding, the child learns what is and is not permissible. Initiative can then be channelled into realistic, socially approved goals, preparing for adult responsibility and morality; in Freudian terms this is the superego.\n\nPurpose. The basic strength arising from initiative is purpose, the courage to envision and pursue goals.\n\nMaldevelopment (Table 6.2): excessive initiative leads to ruthlessness; excessive guilt leads to inhibition.",
+   "simple": "From 3 to 5, children want to start things on their own, including Oedipal fantasies. If parents punish this initiative the child carries lasting guilt; if they guide it lovingly, the child learns limits and develops purpose, the courage to chase goals.",
+   "keyPoints": [
+    "Locomotor-genital stage, ages 3–5; parallels Freud's phallic stage.",
+    "Strong desire to take initiative; includes Oedipal fantasies.",
+    "Punishing parents create persistent guilt; loving guidance channels initiative toward approved goals.",
+    "This channelling corresponds to Freud's superego (responsibility and morality).",
+    "Basic strength: purpose, the courage to envision and pursue goals."
+   ]
+  },
+  {
+   "id": "industriousness",
+   "heading": "Industriousness versus Inferiority",
+   "pages": [
+    166,
+    167
+   ],
+   "detailed": "Erikson's latency stage runs from 6 to 11 and corresponds to Freud's latency period. The child starts school and meets new social influences. Ideally the child learns good work and study habits at home and school, which Erikson called industriousness, mainly as a way to win praise and the satisfaction of completing a task.\n\nDeveloping new skills. Growing deductive reasoning and the ability to play by rules lead children to deliberately refine skills shown in building things. Here Erikson's views reflected the sex stereotypes of his era: boys build tree houses and model airplanes, girls cook and sew. Whatever the activity, children now make serious attempts to complete tasks with concentrated attention, diligence and persistence; in Erikson's words they begin learning the basic skills of technology, the tools of the \"big people\".\n\nParents' and teachers' attitudes largely determine how children judge their own developing skills. Scolding, ridicule or rejection create feelings of inferiority and inadequacy; praise and reinforcement foster competence and continued effort.\n\nCompetence. The basic strength emerging from industriousness is competence: applying skill and intelligence to pursue and complete tasks.\n\nThe final four developmental stages (major contrast, Review Question 9). The outcome of each of the first four childhood stages depends on other people; it is more a matter of what is done to children than of what they can do for themselves. Even though independence grows from birth to 11, development stays mostly under the influence of parents and teachers. In the last four stages we gain increasing control over our environment, consciously choosing friends, colleges, careers, spouses and leisure activities. Yet these choices are shaped by the characteristics formed in the earlier stages: whether the ego shows mainly trust, autonomy, initiative and industriousness, or mistrust, doubt, guilt and inferiority, will determine the course of the rest of life.\n\nMaldevelopment (Table 6.2): excessive industriousness leads to narrow virtuosity; excessive inferiority leads to inertia.",
+   "simple": "From 6 to 11, school-age children learn to work hard and finish tasks. Praise from parents and teachers builds competence; scolding and ridicule build inferiority. In the first four stages others shape the outcome, whereas in the last four we increasingly choose for ourselves, though early outcomes still steer those choices.",
+   "keyPoints": [
+    "Latency stage, ages 6–11; school brings new social influences.",
+    "Industriousness = good work and study habits, pursued for praise and task satisfaction.",
+    "Erikson's examples reflected the sex stereotypes of his period.",
+    "Praise fosters competence; scolding and ridicule foster inferiority.",
+    "Basic strength: competence. First four stages depend on others; last four allow more conscious choice."
+   ]
+  },
+  {
+   "id": "identity",
+   "heading": "Identity Cohesion versus Role Confusion",
+   "pages": [
+    167,
+    167
+   ],
+   "detailed": "Adolescence, from 12 to 18, is the stage at which the crisis of basic ego identity must be met and resolved. This is when we form our self-image, integrating our ideas about ourselves with what others think of us. Satisfactory resolution produces a consistent, congruent picture of the self.\n\nShaping and accepting an identity is difficult and often anxious work. Adolescents experiment with different roles and ideologies to find the best fit. Erikson saw adolescence as a hiatus between childhood and adulthood: a necessary psychological moratorium that gives the person time and energy to play different roles and live with different self-images.\n\nThe identity crisis. Those who leave this stage with a strong sense of identity can face adulthood with certainty and confidence. Those who fail to achieve a cohesive identity, experiencing what Erikson called an identity crisis, show role confusion: they do not know who or what they are, where they belong or where they want to go. They may withdraw from the normal life sequence of education, job and marriage, as Erikson himself did for a time, or seek a negative identity in crime or drugs. A negative identity, as society defines it, is still preferable to no identity at all, though less satisfying than a positive one.\n\nErikson stressed the strong impact of peer groups on ego identity. Excessive association with fanatical groups and cults, or obsessive identification with popular-culture icons, can restrict the developing ego.\n\nFidelity. The basic strength of adolescence is fidelity, emerging from a cohesive ego identity. It includes sincerity, genuineness and a sense of duty in relationships with others.\n\nMaldevelopment (Table 6.2): excessive identity cohesion leads to fanaticism; excessive role confusion leads to repudiation.\n\nFactors affecting identity (Review Question 10): the outcomes of the four earlier stages, peer groups, the opportunity for a moratorium, and the social and historical context all matter; people fail when earlier crises were badly resolved or when they cannot experiment and integrate a self-image.",
+   "simple": "From 12 to 18, teens must work out who they are by trying on different roles during a \"moratorium\". Success gives a stable identity and the strength of fidelity; failure, the identity crisis, leaves role confusion, dropping out or a negative identity such as crime or drugs. Peer groups strongly shape the result.",
+   "keyPoints": [
+    "Adolescence, ages 12–18; the crisis of ego identity.",
+    "Ego identity integrates our ideas of ourselves with what others think of us.",
+    "Psychological moratorium: time to experiment with roles and ideologies.",
+    "Identity crisis leads to role confusion, withdrawal, or a negative identity (better than none).",
+    "Peers matter; cults or obsessive celebrity identification can restrict the ego.",
+    "Basic strength: fidelity (sincerity, genuineness, sense of duty)."
+   ]
+  },
+  {
+   "id": "intimacy",
+   "heading": "Intimacy versus Isolation",
+   "pages": [
+    167,
+    168
+   ],
+   "detailed": "Erikson considered young adulthood a longer stage than the earlier ones, stretching from the end of adolescence to about 35. In it we establish independence from parents and quasi-parental institutions such as college, and start to function autonomously as mature, responsible adults. We take up productive work and form intimate relationships, typically close friendships and sexual unions.\n\nCaring and commitment. Intimacy for Erikson was not limited to sex; it includes caring and commitment. These feelings can be shown openly, without self-protective defences and without fear of losing one's identity. In true intimacy we can merge our identity with another person's without submerging or losing it. (This depends on having first achieved a secure identity in adolescence.)\n\nPeople who cannot form such intimacies develop feelings of isolation. They avoid social contact, reject others and may even become aggressive toward them. They prefer to be alone because they fear intimacy as a threat to their ego identity.\n\nLove. The basic strength of young adulthood is love, which Erikson regarded as the greatest of all human virtues. He described it as mutual devotion in a shared identity, the fusing of oneself with another person.\n\nMaldevelopment (Table 6.2): excessive intimacy leads to promiscuity; excessive isolation leads to exclusivity.",
+   "simple": "From about 18 to 35, young adults become independent, start working and form close friendships and partnerships. Real intimacy means sharing your identity with someone without losing it. People who fear intimacy become isolated; success brings love, which Erikson called the greatest virtue.",
+   "keyPoints": [
+    "Young adulthood, roughly 18–35; a longer stage than earlier ones.",
+    "Independence from parents and institutions; productive work and intimate relationships.",
+    "Intimacy includes caring and commitment, not just sex; merging identity without losing it.",
+    "Isolation: avoiding or rejecting others, even aggression, from fear that intimacy threatens identity.",
+    "Basic strength: love, the greatest human virtue, a mutual devotion in shared identity."
+   ]
+  },
+  {
+   "id": "generativity",
+   "heading": "Generativity versus Stagnation",
+   "pages": [
+    168,
+    169
+   ],
+   "detailed": "Adulthood, roughly ages 35 to 55, is a stage of maturity in which we need to be actively involved in teaching and guiding the next generation. This need goes beyond one's own family: concern becomes broader and longer-range, extending to future generations and the kind of society they will live in. One does not have to be a parent to show generativity, and having children does not automatically satisfy the urge.\n\nErikson believed that all institutions, whether business, government, social service or academic, offer outlets for generativity. In almost any organisation or activity we can find ways to act as a mentor, teacher or guide to younger people for the good of society.\n\nWhen middle-aged people cannot or will not find an outlet for generativity, they may be overwhelmed by stagnation, boredom and interpersonal impoverishment. This picture resembles Jung's description of the midlife crisis. Such people may regress to pseudo-intimacy, indulging themselves in childlike ways, and may become physical or psychological invalids through absorption in their own needs and comforts.\n\nCare. The basic strength of adulthood is care, defined as a broad concern for others. Erikson saw it expressed in the need to teach, not only to help others but also to fulfil one's own identity.\n\nExample of achieving generativity (Review Question 12): mentoring junior colleagues at work, teaching, guiding young people through a social-service organisation, or raising and guiding children.\n\nMaldevelopment (Table 6.2): excessive generativity leads to overextension; excessive stagnation leads to rejectivity.",
+   "simple": "From 35 to 55, adults need to guide and teach the next generation, through parenting, work, mentoring or community roles. Those who do not become stagnant, bored and self-absorbed, similar to Jung's midlife crisis. Success brings the strength of care.",
+   "keyPoints": [
+    "Adulthood, about 35–55; need to teach and guide the next generation.",
+    "Generativity extends beyond one's family; parenthood is neither necessary nor sufficient.",
+    "All institutions offer outlets (mentor, teacher, guide).",
+    "Stagnation: boredom, interpersonal impoverishment, pseudo-intimacy; resembles Jung's midlife crisis.",
+    "Basic strength: care, a broad concern for others shown in the need to teach."
+   ]
+  },
+  {
+   "id": "integrity",
+   "heading": "Ego Integrity versus Despair",
+   "pages": [
+    169,
+    169
+   ],
+   "detailed": "In the final stage, maturity and old age (55 and over), we face a choice between ego integrity and despair. These attitudes govern how we evaluate our whole life. Our main endeavours are complete or nearly so, and we reflect on life and take its final measure.\n\nIf we look back with fulfilment and satisfaction, believing we have coped with both victories and failures, we have ego integrity. Simply put, ego integrity means accepting one's place and one's past. If instead we review life with frustration, angry at missed opportunities and regretting mistakes that cannot be fixed, we feel despair: disgust with ourselves, contempt for others and bitterness over what might have been.\n\nErikson's own final stage. At 84 Erikson reported a long-term study of 29 people in their 80s for whom life-history data had been collected since 1928. The book's title, Vital Involvement in Old Age (Erikson, Erikson & Kivnick, 1986), states his prescription for ego integrity. Older people must do more than reflect; they must stay active, vital participants in life, seeking challenge and stimulation, for example through grandparenting, returning to school and developing new skills and interests. As an old man himself Erikson concluded that generativity was even more important than he had first thought: he said that much of the despair of older people is really a continuing sense of stagnation (quoted in Cheng, 2009). Generativity in the seventh stage may be the most important contributor to ego integrity in the eighth.\n\nWisdom. The basic strength of this final stage is wisdom. Arising from ego integrity, it is expressed as a detached concern with the whole of life and is passed to later generations as an integration of experience best described as heritage.\n\nMaldevelopment (Table 6.2): excessive ego integrity leads to presumption; excessive despair leads to disdain.",
+   "simple": "After 55 we look back on our lives. Accepting our past with satisfaction is ego integrity; bitter regret over missed chances is despair. Erikson later said staying actively involved, and having been generative, is the key to integrity. The strength here is wisdom.",
+   "keyPoints": [
+    "Maturity and old age, 55+; evaluating one's whole life.",
+    "Ego integrity = accepting one's place and past; despair = regret, self-disgust, bitterness.",
+    "Vital Involvement in Old Age (1986): study of 29 people in their 80s; prescription is staying active.",
+    "Erikson later saw generativity as the key contributor to ego integrity; despair is continued stagnation.",
+    "Basic strength: wisdom, a detached concern with life passed on as heritage."
+   ]
+  },
+  {
+   "id": "weaknesses",
+   "heading": "Basic Weaknesses: Maladaptive and Malignant Conditions",
+   "pages": [
+    170,
+    171
+   ],
+   "detailed": "Just as basic strengths can arise at each stage, so can basic weaknesses: motivating characteristics that come from unsatisfactory resolution of a developmental crisis. Recall that the adaptive and maladaptive ways of coping are meant to be combined in the ego in a kind of creative balance, with the adaptive attitude dominant but some negative attitude present.\n\nMaladaptive and malignant conditions. In unbalanced development the ego consists solely of one attitude, either the adaptive or the maladaptive. Erikson called this maldevelopment. Note the potentially confusing labels (a favourite exam trap):\n- When only the positive, adaptive tendency is present, the condition is called maladaptive.\n- When only the negative tendency is present, the condition is called malignant.\nMaladaptions can lead to neuroses; malignancies can lead to psychoses.\n\nCorrection (Review Question 15). Erikson believed both conditions could be corrected through psychotherapy. Maladaptions, the less severe disturbances, can also be relieved by re-adaptation, helped by environmental changes, supportive social relationships, or successful adaptation at a later stage.\n\nTable 6.2 lists the maldevelopmental tendencies (adaptive excess first, then malignant):\n- Oral-sensory: trust → sensory maladjustment; mistrust → withdrawal.\n- Muscular-anal: autonomy → shameless willfulness; doubt/shame → compulsion.\n- Locomotor-genital: initiative → ruthlessness; guilt → inhibition.\n- Latency: industriousness → narrow virtuosity; inferiority → inertia.\n- Adolescence: identity cohesion → fanaticism; role confusion → repudiation.\n- Young adulthood: intimacy → promiscuity; isolation → exclusivity.\n- Adulthood: generativity → overextension; stagnation → rejectivity.\n- Maturity and old age: ego integrity → presumption; despair → disdain.",
+   "simple": "If the ego holds only one side of a crisis instead of a balance, Erikson called it maldevelopment. Only the positive side is \"maladaptive\" (can lead to neurosis); only the negative side is \"malignant\" (can lead to psychosis). Both can be treated with therapy, and milder maladaptions can also be fixed by better circumstances or later success.",
+   "keyPoints": [
+    "Basic weaknesses come from unsatisfactory resolution of a crisis.",
+    "Maldevelopment = ego consisting solely of one way of coping.",
+    "Only adaptive tendency = maladaptive (to neuroses); only negative = malignant (to psychoses).",
+    "Both treatable by psychotherapy; maladaptions also by re-adaptation (environment, support, later success).",
+    "Table 6.2 gives two tendencies per stage, e.g. fanaticism vs. repudiation in adolescence."
+   ]
+  },
+  {
+   "id": "human-nature",
+   "heading": "Questions about Human Nature",
+   "pages": [
+    170,
+    170
+   ],
+   "detailed": "A theorist who describes basic human strengths offers an optimistic view of human nature, and Erikson's image is clearly optimistic. Not everyone attains hope, purpose, wisdom and the other virtues, but everyone has the potential; nothing in our nature prevents it. Nor are we bound to suffer conflict, anxiety and neurosis because of instinctual biological forces.\n\nThe optimism rests on the structure of the stages: each is centred on a crisis but offers the possibility of a positive outcome. We can resolve each crisis in a way that is adaptive and strengthening, and even if we fail at one stage and develop a maladaptive response or basic weakness, change is still possible later.\n\nFree will versus determinism. Erikson believed we can consciously direct and shape our growth throughout life; we are not solely products of childhood. His theory is only partially deterministic. In the first four stages the experiences provided by parents, teachers, peers and opportunities are largely outside our control. In the last four stages we have more room for free will, though the attitudes and strengths formed earlier influence our choices. Childhood matters, but later events can counteract unfortunate early experiences.\n\nNature versus nurture. In general Erikson held that personality is affected more by learning and experience than by heredity; psychosocial experiences, not instinctual biological forces, are the greater determinant.\n\nUltimate goal. Our overriding goal is to develop a positive ego identity that incorporates all the basic strengths.\n\nContrast with Freud (Review Question 16): Freud's image was pessimistic, with personality fixed largely in early childhood by biological instincts and conflict. Erikson's is optimistic, life-long, partly free and mainly psychosocial.",
+   "simple": "Erikson was optimistic: everyone can develop the basic strengths, and failure at one stage can be fixed later. We have little control in childhood but more free will as adults, and learning and social experience matter more than heredity. The ultimate goal is a positive ego identity.",
+   "keyPoints": [
+    "Optimistic: everyone has potential for all virtues; neurosis is not inevitable.",
+    "Each crisis can be resolved positively; failures can be corrected later.",
+    "Partially deterministic: little control in first four stages, more free will in last four.",
+    "Learning and experience outweigh heredity (psychosocial over biological).",
+    "Ultimate goal: a positive ego identity incorporating all basic strengths."
+   ]
+  },
+  {
+   "id": "assessment-play-therapy",
+   "heading": "Assessment in Erikson's Theory: Approach and Play Therapy",
+   "pages": [
+    171,
+    172
+   ],
+   "detailed": "Erikson accepted some of Freud's theory but differed sharply in assessment methods. He doubted the usefulness and even the safety of some Freudian techniques, starting with the couch. Having patients lie on a couch, he felt, could lead to sadistic exploitation, create an illusion of objectivity, overemphasise unconscious material and make the therapist impersonal and aloof. To foster a more personal relationship of equals, he preferred patient and therapist to sit facing one another in comfortable chairs.\n\nHe relied less on formal assessment techniques than Freud. He occasionally used free association but rarely analysed dreams, which he called wasteful and harmful. He believed techniques should be chosen and modified to fit the unique needs of each patient.\n\nPlay therapy. With emotionally disturbed children, and in research on normal children and adolescents, Erikson used play therapy. He offered a variety of toys and observed how children interacted with them. The form and intensity of play revealed aspects of personality that children might not express verbally because of limited verbal ability.\n\nOverall, Erikson built his theory mainly from three sources of data: play therapy, anthropological studies (such as his work with the Sioux in South Dakota and American Indians in California) and psychohistorical analysis (Review Question 17).",
+   "simple": "Erikson rejected Freud's couch, preferring face-to-face chairs, and rarely used dream analysis, which he thought wasteful and harmful. He tailored methods to each patient. With children he used play therapy, watching how they played with toys to see what they could not put into words.",
+   "keyPoints": [
+    "Rejected the couch: risk of exploitation, false objectivity, overemphasis on the unconscious, aloofness.",
+    "Therapist and patient sat face to face as equals.",
+    "Occasional free association; dream analysis called wasteful and harmful.",
+    "Play therapy reveals what children cannot express verbally.",
+    "Main data sources: play therapy, anthropological studies, psychohistorical analysis."
+   ]
+  },
+  {
+   "id": "psychohistory",
+   "heading": "Psychohistorical Analysis",
+   "pages": [
+    172,
+    172
+   ],
+   "detailed": "Erikson's most unusual assessment technique was psychohistorical analysis: the application of his life-span theory, together with psychoanalytic principles, to the study of historical figures. These analyses are essentially biographical studies. He used his framework to describe the crises and coping styles of important political, religious and literary figures such as Gandhi, Martin Luther and George Bernard Shaw.\n\nHis psychohistories typically centre on one significant crisis, an episode representing a major life theme that unites the person's past, present and future activities. He used what he called \"disciplined subjectivity\": adopting the subject's viewpoint as his own so as to assess life events through that person's eyes.\n\nPsychohistorical analysis was later used in research too; for example, Peterson and Stewart's analysis of Vera Brittain's writings supported the sequence of identity, intimacy and generativity (see research on the psychosocial stages).",
+   "simple": "Psychohistory means applying Erikson's life-span theory and psychoanalysis to famous people's lives, like Gandhi, Martin Luther and George Bernard Shaw. He focused on one key crisis that tied the person's life together, and tried to see events through their eyes (\"disciplined subjectivity\").",
+   "keyPoints": [
+    "Psychohistorical analysis = life-span theory plus psychoanalysis applied to historical figures.",
+    "Essentially biographical; subjects included Gandhi, Martin Luther and George Bernard Shaw.",
+    "Focus on a significant crisis uniting past, present and future.",
+    "Disciplined subjectivity: adopting the subject's own viewpoint."
+   ]
+  },
+  {
+   "id": "tests",
+   "heading": "Psychological Tests",
+   "pages": [
+    172,
+    173
+   ],
+   "detailed": "Erikson himself did not use psychological tests, but several instruments were later developed from his ideas:\n\n- The Ego-Identity Scale (Dignan, 1965) measures the development of ego identity in adolescence.\n- The Ego Identity Process Questionnaire (Balistreri, Busch-Rossnagel & Geisinger, 1995), also for adolescents, has 32 items measuring the dimensions of exploration and commitment.\n- The Loyola Generativity Scale (McAdams & de St. Aubin, 1992) is a 20-item self-report inventory measuring generativity versus stagnation in adulthood. Table 6.3 gives sample items, such as trying to pass on knowledge gained from experience, believing one has made a difference to others, having others come for advice, and keeping commitments; reverse items include feeling that others do not need one, or that nothing one has done will survive one's death.\n\nOther instruments appear in the research: the Inventory of Psychosocial Development, assessing adaptive and maladaptive development in the first six stages (Constantinople, 1969), and the 64-item Cross Racial Identity Scale for Black identity development.",
+   "simple": "Erikson didn't use tests, but others built them from his theory: the Ego-Identity Scale and the 32-item Ego Identity Process Questionnaire for teens, and the 20-item Loyola Generativity Scale for adults.",
+   "keyPoints": [
+    "Erikson did not use tests himself.",
+    "Ego-Identity Scale (Dignan, 1965): adolescent ego identity.",
+    "Ego Identity Process Questionnaire: 32 items, exploration and commitment.",
+    "Loyola Generativity Scale (McAdams & de St. Aubin, 1992): 20-item self-report, generativity vs. stagnation."
+   ]
+  },
+  {
+   "id": "research-play-constructions",
+   "heading": "Research on Erikson's Theory: Case Studies and Play Constructions",
+   "pages": [
+    172,
+    174
+   ],
+   "detailed": "Erikson's primary research method was the case study. Its weaknesses are familiar (case material is hard to duplicate and verify), but it can yield much useful information. Erikson argued that case histories provide insights into personality development and help resolve patients' problems.\n\nPlay constructions. Using play therapy for research, Erikson studied play constructions: structures children build from dolls, blocks and other toys, which are then analysed. In one study boys and girls aged 10 to 12 were asked to build a scene from an imaginary movie using dolls, toy animals, toy cars and wooden blocks. Girls tended to build static, peaceful scenes with low, enclosed structures, into which intruders (animal or male figures, never female) tried to force their way. Boys focused on exteriors, action and height, building tall towers with cars and people in motion (Figure 6.1).\n\nAs an orthodox Freudian, Erikson interpreted these results psychoanalytically: the spatial differences paralleled genital anatomy, the external, intrusive male organ versus internal female organs. So biology determined that girls build low enclosures and boys build towers. He was criticised for implying that women are victims of their anatomy, their personalities shaped by lacking a penis. Erikson admitted the differences could also come from sex-role training, in which girls are less oriented toward action, aggression and achievement (Review Question 18).\n\nGender preferences for toys. More than 50 years later, gender stereotyping in toys persists. Boys typically play with trucks, soldiers and guns; girls with dolls, jewellery and toy kitchen items. Among 2- to 4-year-olds, boys played more with a train than a doll and girls the reverse (Wong & Hines, 2014). College men liked a model fighter jet only when painted blue, not pink (Dinella, Devita & Weisgram, 2013). Ten- to eleven-year-olds choosing software picked \"Pirates\" (boys) versus \"Princesses\" (girls) (Joiner, 1998).\n\nThe role of parents. These preferences are still taught by some parents, who buy most young children's toys, praise gender-appropriate play and discourage cross-gender play. Martin (1999) described a boy who dropped a race car instantly when the driver's helmet fell off to reveal a woman. Fathers treat sons and daughters more stereotypically than mothers do, so they are the main teachers of gender-based play; they reward passive, compliant behaviour in girls and assertive, aggressive behaviour in boys (Quiery, 1998).",
+   "simple": "Erikson mostly used case studies. In his play-constructions study, girls built low, enclosed, peaceful scenes and boys built tall towers and action scenes; he blamed anatomy, but critics (and later Erikson himself) pointed to sex-role training. Kids still prefer gender-typed toys today, a pattern taught mostly by parents, especially fathers.",
+   "keyPoints": [
+    "Main research method: the case study (hard to duplicate and verify, but insightful).",
+    "Play constructions, ages 10–12: girls built low enclosed static scenes; boys built tall towers and action.",
+    "Erikson's anatomical interpretation was criticised; he conceded sex-role training could explain it.",
+    "Gender-typed toy preferences persist (Wong & Hines; Dinella et al.; Joiner).",
+    "Parents, especially fathers, teach and reinforce gender-typed play (Quiery)."
+   ]
+  },
+  {
+   "id": "research-trust",
+   "heading": "Research: Trust and Security",
+   "pages": [
+    174,
+    175
+   ],
+   "detailed": "Erikson stressed that an early sense of trust is needed for later feelings of security and well-being, and this position has strong research support (for example Jacobson & Wille, 1986; Londerville & Main, 1981; Sroufe, Fox & Pancake, 1983).\n\nInfants aged 12 to 18 months with a strong emotional bond to their mothers (presumed high in trust) functioned at a higher social and emotional level when observed three years later than infants with less secure attachments. Children with well-developed trust were also more curious, sociable and popular, more often leaders at games, and more sensitive to others' needs and feelings. Those low in trust were more socially and emotionally withdrawn, reluctant to play with other children, less curious and less forceful in pursuing goals.\n\nHolocaust survivors. Survivors interviewed 30 to 40 years after World War II had successfully dealt with all of Erikson's stages except the first: their view of others showed significantly more mistrust than trust (Suedfeld et al., 2005). Yet their success with later crises confirms Erikson's idea that positive events at later stages can counteract negative early experiences.",
+   "simple": "Research backs Erikson on trust: securely attached babies later did better socially and emotionally, and were more curious, popular and caring. Holocaust survivors were high in mistrust but still coped with later stages, showing later experiences can make up for early damage.",
+   "keyPoints": [
+    "Early trust predicts later security and well-being (strong research support).",
+    "Securely attached infants (12–18 months) functioned better socially and emotionally 3 years later.",
+    "High-trust children: curious, sociable, popular, leaders, sensitive to others.",
+    "Holocaust survivors: mistrust dominated, yet later stages were resolved (Suedfeld et al., 2005)."
+   ]
+  },
+  {
+   "id": "research-stages",
+   "heading": "Research: The Psychosocial Stages",
+   "pages": [
+    175,
+    175
+   ],
+   "detailed": "Several studies support the sequence and themes of the stages.\n\nChildren's stories. Children aged 4, 8 and 11 made up stories about test pictures; the stories reflected Erikson's stage themes. Four-year-olds' stories concerned autonomy, the stage just completed, and older children's stories matched their own stages (Ciaccio, 1971).\n\nVera Brittain. A psychohistorical analysis of the diaries, letters and novels of the British feminist writer Vera Brittain (1893–1970), from age 21 into middle age, showed an early concern with ego identity shifting to intimacy and then generativity, exactly as predicted (Peterson & Stewart, 1990).\n\nAdaptive and maladaptive development. Using the Inventory of Psychosocial Development, which assesses adaptive and maladaptive development in the first six stages, Constantinople (1969) found a significant link between happiness and adaptive development at each stage. Reimanis (1974) found a high correlation between maladaptive development in the first six stages and a sense of alienation and uprootedness. A Canadian study of 18- to 25-year-olds found emerging adulthood to be a period of increased psychological well-being (Galambos, Barker & Krahn, 2006).\n\nThe effects of growing up. Waterman, Buebel and Waterman (1970) tested whether resolving the identity crisis depends on earlier outcomes. Adolescents who had developed trust, autonomy, initiative and industriousness showed high identity cohesion; those with role confusion had not developed adaptive coping earlier. Among three groups of Canadian men (19–25, 35–55, 65–87), the youngest had the highest distress and the oldest the lowest, consistent with the idea that older people cope better after resolving earlier dilemmas (Beaumont & Zukanovic, 2005). British adults aged 62 to 89 recalling their past remembered trust, autonomy, initiative and industry issues from their first decade, identity issues from ages 11–20, and intimacy from young adulthood (Conway & Holmes, 2004).",
+   "simple": "Studies of children's stories, a famous writer's diaries, personality inventories and older people's memories all match Erikson's sequence of stages. Success at earlier stages predicts a firmer identity in adolescence, and older men reported less distress than younger men.",
+   "keyPoints": [
+    "Children's stories reflected their stage themes (Ciaccio, 1971).",
+    "Vera Brittain's writings moved from identity to intimacy to generativity (Peterson & Stewart, 1990).",
+    "Adaptive development linked to happiness; maladaptive to alienation (Constantinople; Reimanis).",
+    "Earlier adaptive coping predicts identity cohesion (Waterman et al., 1970).",
+    "Older men less distressed (Beaumont & Zukanovic); memories follow stage themes (Conway & Holmes)."
+   ]
+  },
+  {
+   "id": "research-adolescence",
+   "heading": "Research: Adolescent Development (Identity Statuses)",
+   "pages": [
+    176,
+    177
+   ],
+   "detailed": "Marcia's extensive research programme (1966, 1980) identified five psychosocial types or statuses in adolescence: identity achievement, moratorium, foreclosure, identity diffusion and alienated achievement.\n\nIdentity achievement: adolescents committed to occupational and ideological choices. Achieved status correlated with objective measures of commitment (Streitmatter, 1993). These students had strong ego identity, were stable, had realistic goals, coped with change, did better on difficult tasks than role-confused peers, and chose harder majors such as engineering and the physical sciences (Marcia & Friedman, 1970). Teens reaching this status earlier were more likely to have stable romantic relationships in their twenties (Beyers & Seiffge-Krenke, 2010) and less likely to binge drink, use illegal drugs or take sexual risks (Schwartz et al., 2010). Studies of American, Chinese and Turkish students linked it to self-esteem, positive coping, well-being and a stronger self; it is the most psychologically and socially mature status. A programme of more than 120 studies found it rises over late adolescence and young adulthood (Kroger, Martinussen & Marcia, 2010). Parents of such adolescents gave direction and control in a loving way rather than being too permissive or too authoritarian (Berzonsky, 2004), a finding repeated with Iranian college students (Mohammadi, 2013).\n\nMoratorium: people still in the identity crisis, with vague commitments and ambivalence toward authority (alternately rebelling and needing guidance). Their behaviour ranges from indecisive to active and creative; they score high in anxiety, and tend to daydream, believe in the supernatural and enjoy acting childishly (Bilsker & Marcia, 1991).\n\nForeclosure: adolescents who have not experienced a crisis but are committed to an occupation and ideology chosen for them by their parents. They tend to be rigid and authoritarian, struggle with change (Marcia, 1967), and are achievement-oriented toward external rather than internal goals (Stephen, Fraser & Marcia, 1992).\n\nIdentity diffusion: no occupational or ideological commitment and perhaps no crisis; in extreme cases aimless drifting, as Erikson did. They see their parents as indifferent and rejecting (Waterman, 1982). In Greece, Belgium and the US they showed poorer adjustment and well-being, unstable self-image and relationships, impulsive and self-destructive behaviour, excessive need for attention and grandiose fantasies.\n\nAlienated achievement: adolescents who have had a crisis, have no occupational goal and hold beliefs critical of the social and economic system, which rules out careers within it. As students they are cerebral, philosophical and cynical.\n\nAchieving an integrated ego identity. Four statuses in the order diffusion, foreclosure, moratorium, achievement represent increasingly successful resolution. Erikson's prediction that people with integrated identity have greater ego strength was supported in college men (Bourne, 1978). Extracurricular and volunteer activity was linked to higher fidelity (Markstrom et al., 2005), and more sport and exercise to stronger ego identity in Japanese and American students.",
+   "simple": "Marcia found five identity statuses in teens: achievement (committed after exploring), moratorium (still exploring), foreclosure (committed to parents' choices without exploring), diffusion (no commitment, drifting) and alienated achievement (rejecting the system). Identity achievement is the healthiest and is linked to loving but firm parents.",
+   "keyPoints": [
+    "Marcia's five statuses: achievement, moratorium, foreclosure, diffusion, alienated achievement.",
+    "Identity achievement: committed, stable, high self-esteem, most mature; loving-but-directive parents.",
+    "Moratorium: still in crisis, anxious, ambivalent toward authority.",
+    "Foreclosure: commitments set by parents; rigid, authoritarian. Diffusion: no commitment, drifting.",
+    "Order diffusion, foreclosure, moratorium, achievement = increasingly successful resolution (Bourne).",
+    "Activities, volunteering and sports strengthen ego identity and fidelity."
+   ]
+  },
+  {
+   "id": "research-sex-differences",
+   "heading": "Research: Sex Differences in Ego Identity and Adolescent Stress",
+   "pages": [
+    177,
+    178
+   ],
+   "detailed": "Sex differences appear in how the identity crisis is resolved. Men in one study tended toward separation and detachment from others, women toward connection and attachment (Mellor, 1989). Other work extends this: male identity centres on individual competence and knowledge, female identity on relating to others. Women thus depend heavily on social relationships in forming identity, while men focus more on self and individual skills (Curry, 1998). Dutch data suggest females form an identity earlier than males, although most males achieve some identity by the end of the teens (Klimstra et al., 2010).\n\nA stressful time to search for identity. Three key elements of adolescence have been identified: conflict with parents (forceful resistance to adult authority); mood disruption (volatile emotions, mood swings, depression); and risky behaviours (reckless, rule-breaking, antisocial acts that may harm self and others). In a diary study, 155 adolescents found that 31 percent of their daily interactions over two weeks involved conflict, and conflicts with parents were more important and emotionally intense than conflicts with peers (Jensen-Campbell & Graziano, 2000). Longitudinal studies found that many teens with depression and emotional problems had also shown distress as children, so adolescent difficulties do not necessarily arise because of adolescence (Steinberg & Morris, 2001).",
+   "simple": "Boys tend to build identity around their own skills and independence; girls around relationships, and girls may form an identity earlier. Adolescence often involves conflict with parents, mood swings and risky behaviour, but many troubled teens were already struggling as children.",
+   "keyPoints": [
+    "Men: separation, detachment, individual competence; women: connection, relationships (Mellor; Curry).",
+    "Dutch females formed identity earlier than males (Klimstra et al., 2010).",
+    "Three elements of adolescent stress: parent conflict, mood disruption, risky behaviour.",
+    "31% of teens' interactions involved conflict; parent conflicts more intense (Jensen-Campbell & Graziano).",
+    "Teen problems often began in childhood (Steinberg & Morris, 2001)."
+   ]
+  },
+  {
+   "id": "research-virtual-identity",
+   "heading": "Research: Virtual Identity",
+   "pages": [
+    178,
+    179
+   ],
+   "detailed": "Computer games and social media let adolescents do exactly what Erikson said this stage requires: try different roles to find the best fit. Role-playing games such as Second Life and Dungeons and Dragons let young people adopt fictional personas and act out complex fantasies. Virtual places shared simultaneously by many users are called multi-user dungeons (MUDs); players interact with others and build personal virtual worlds.\n\nBuilding a persona online. Players can be as like or unlike their real selves as they choose without revealing their real identity; Turkle noted you can completely redefine yourself, which is just what Erikson urged adolescents to do. German MUD players (average age 25) showed rising interpersonal attraction and social identification with the virtual community the longer they played (Utz, 2003), and identification with a virtual world may be as intense and satisfying as with the real one (Calvert et al., 2009). Second Life users seem to bring portions of their real, offline lives into their online self-presentation rather than inventing wholly fictional personas (Linares et al., 2011).\n\nAdvantages and disadvantages. Disclosing too much personal information online can prolong adolescence and delay a sound ego identity (Jordan-Conde et al., 2014). Seventh to ninth graders without a clear sense of their true self used social media more than those with a stronger identity (Israelashvili, Kim & Bukobza, 2012), raising the risk that a virtual identity could replace the developing true self (which can also happen offline). Australian children and adolescents high in loneliness and social anxiety were far more likely to discuss personal and intimate matters online (Bonetti, Campbell & Gilmore, 2010). On the positive side, personal home pages help identity formation: children who create them feel strong mastery and can express who they are more comfortably than face to face (Schmitt, Dayanim & Matthias, 2008). This section answers Review Question 21.",
+   "simple": "Online games and social media let teens try on different identities, exactly what Erikson said adolescents need. Virtual identities can feel as real as offline ones, and personal web pages can help, but oversharing or getting lost in an online persona can delay a real identity. Lonely, anxious teens use online sharing more.",
+   "keyPoints": [
+    "Online role-play (Second Life, Dungeons and Dragons, MUDs) lets teens experiment with roles.",
+    "Identification with virtual communities grows over time and can be as satisfying as real ones.",
+    "Second Life users project parts of their real lives online.",
+    "Risks: oversharing delays identity; weak sense of self predicts heavy social media use.",
+    "Lonely, socially anxious youth share more intimately online; home pages can aid identity."
+   ]
+  },
+  {
+   "id": "research-gender-identity",
+   "heading": "Research: Gender and Ego Identity",
+   "pages": [
+    179,
+    181
+   ],
+   "detailed": "Effects of social forces over time. Erikson held that social and historical factors affect ego identity. The women's movement of the 1960s and 1970s served as a natural laboratory: were women who were adolescents then more affected than older women whose identities were already formed? Two major studies of women who graduated from college between the 1940s and mid-1960s said yes. Women in college when the movement began had greater aspirations, valued independence more, reached higher education, job status and income, and were more assertive and self-confident in middle age (Duncan & Agronick, 1995; Helson, Stewart & Ostrove, 1995).\n\nEffects of a career orientation. More adolescent women came to include a career orientation in their identity, affecting dating and marriage age. Questionnaire studies found career-oriented college women married later, dated less and were warier of commitment. The reverse held for men: the stronger their career identity, the more committed they were to a dating relationship, and they avoided dating until committed to an occupation.\n\nDifferences in emotional life over time. A longitudinal study of women who graduated in the 1960s and their husbands measured positive emotionality (PEM: active, happy involvement in work and social life) and negative emotionality (NEM: stress, anxiety, anger) from the late 20s to mid-50s. Women scored higher than husbands on NEM in young adulthood and higher on PEM in late middle age, showing more social power, accomplishment and breadth of interest, and less stress and alienation, after child rearing ended. Social factors influence the emotional side of ego identity (Helson & Klohnen, 1998).\n\nAdjustment to changing demands. Erikson defined identity consolidation as dealing successfully with the social realities of adult life, usually in the 20s as people take on marriage, family and career. Women graduates assessed at 21 and 27 who were high in ego resiliency and had found an identity in marriage were higher in identity consolidation (Pals, 1999). Among women aged 22 to 60, readiness to change was linked to changes in identity commitment, and contemplating change predicted exploring a new identity later (Anthis & LaVoie, 2006). Changed body image after breast cancer surgery triggered a hard-to-resolve identity crisis (Piot-Ziegler et al., 2010).\n\nThe identity crisis. Erikson placed the crisis at about 12 to 18, but it can come later: up to 30 percent were still searching at 24 (Archer, 1982). College may delay resolution and prolong experimentation (Cote & Levine, 1988); employed young people reached ego identity earlier than students, who stayed longer in moratorium (Adams & Fitch, 1982). Identity construction may continue over the whole life span (McAdams, 2001). A large study in India found girls higher in ego identity than boys (Janarthanam & Gnanadevan, 2014).",
+   "simple": "The women's movement shaped the identities of women who were in college at the time, giving them higher aspirations and success. Career-minded women married later, women grew happier after child rearing, and many people are still forming their identity in their twenties, with college delaying it.",
+   "keyPoints": [
+    "Women in college during the 1960s–70s women's movement had higher aspirations and achievements.",
+    "Career-oriented women dated less and married later; career-committed men were more committed daters.",
+    "Women's PEM rose and NEM fell after child rearing (Helson & Klohnen, 1998).",
+    "Identity consolidation: adjusting to adult social realities, usually in the 20s.",
+    "Identity crisis may last past 18 (30% still searching at 24); college prolongs moratorium.",
+    "Indian study: girls higher in ego identity than boys."
+   ]
+  },
+  {
+   "id": "research-generativity",
+   "heading": "Research: Generativity",
+   "pages": [
+    181,
+    182
+   ],
+   "detailed": "Antecedents of generativity. Midlife generativity is significantly related to warm, affectionate parenting in childhood (Franz, McClelland & Weinberger, 1991); both mother and father matter. High-generativity adults believe in the goodness and worth of human life and are happier and more satisfied (McAdams & de St. Aubin, 1992; Van de Water & McAdams, 1989). Asked for major life themes, high scorers on the Loyola Generativity Scale described early good fortune, sensitivity to others' suffering, a stable belief system and clear goals for self and society; low scorers mentioned none of these (McAdams et al., 1997). Writing about high, low and turning points, high scorers described redemption sequences (negative experiences turned positive), low scorers the reverse (McAdams et al., 2001). College students restudied 20 and 30 years later showed that most who were slow to reach ego identity caught up by middle age and reached generativity (Whitbourne, Sneed & Sayer, 2009).\n\nCorrelates. Generativity is positively correlated with power and intimacy motivation (McAdams, Ruetzel & Foley, 1986), the needs to feel close to others and strong in relation to them, and with nurturance (Van de Water & McAdams, 1989): all needed for teaching and mentoring.\n\nBenefits. High-generativity people score higher on extraversion, self-esteem, conscientiousness, altruism, competence, dutifulness and openness; have more satisfying relationships, community attachment and emotional stability (McAdams, Hart & Maruna, 1998); and more successful marriages, work success, close friendships and altruism (Westermeyer, 2004). Generativity is strongly tied to well-being for both parents and childless adults, most strongly when satisfaction comes from job and career rather than parenting (Clark & Arnold, 2008; Rothrauff & Cooney, 2008).\n\nGenerativity in women. High-generativity women (tested 31 to 48) had better emotional well-being (Vandewater, Ostrove & Stewart, 1997). Women valuing social recognition and achievement had fuller identities and higher generativity in their 40s (Helson & Srivastava, 2001). Generativity was higher in women's 40s than 20s, as predicted, but, contrary to Erikson, stayed at that level into their 60s (Zucker, Ostrove & Stewart, 2002). Women high in generativity at 43 maintained it 10 years later and gave more care to aging parents, spouses and children (Peterson, 2002).\n\nEffect of technology. In Hong Kong, older people who felt out of touch with technology, the Internet and social media showed a marked decrease in generativity; feeling obsolete and unvalued, they disengaged from generative goals (Cheng, 2009).",
+   "simple": "Generative adults usually had warm parents, tell \"redemption\" stories about their lives, and are happier, more extraverted, conscientious and caring, with better marriages and careers. In women generativity rises from the 20s to the 40s and stays high. Older people who feel left behind by technology lose generativity.",
+   "keyPoints": [
+    "Antecedent: warm, affectionate parenting in childhood.",
+    "High scorers tell redemption stories and have clear goals and stable beliefs (McAdams).",
+    "Correlates: power and intimacy motivation, nurturance.",
+    "Benefits: extraversion, self-esteem, conscientiousness, better marriages, careers and friendships.",
+    "Women: generativity higher in 40s than 20s but stable into 60s (contrary to Erikson).",
+    "Feeling obsolete with technology reduces generativity in older people (Cheng, 2009)."
+   ]
+  },
+  {
+   "id": "research-maturity",
+   "heading": "Research: Maturity",
+   "pages": [
+    182,
+    184
+   ],
+   "detailed": "Reflecting on our lives. Erikson held that people in old age recall and examine their lives, accepting or regretting choices. Older psychologists' memories centred on college and early adult years, when the most critical decisions were made (Mackavey, Malley & Stewart, 1991). Elderly people high in ego integrity spent much more time reviewing their lives to resolve troubling issues than those low in integrity (Taft & Nehrke, 1990). In Portugal, reminiscing among over-65s produced ego integrity and well-being (Alfonso et al., 2011). Adults in their 50s and 60s who acknowledged regrets and missed opportunities had greater life satisfaction and physical health (Torges et al., 2005, 2008). People aged 60 to 69 showed heightened awareness of mortality, downsized goals and, for many, a continuing struggle with ego integrity (Robinson & Stell, 2014).\n\nConcern with ego integrity. Belgian adults in their 60s and 70s who achieved ego integrity had higher subjective well-being, better psychological health, less fear of death and less bitterness (Van Hiel & Vansteenkiste, 2009). Across ages 17 to 82, older people cared more about generativity and ego integrity and less about ego identity, and age correlated positively with well-being: older people were generally happier (Sheldon & Kasser, 2001). Australians aged 55 to 93 who stayed involved in family and community kept feeling generative into old age (Warburton et al., 2006). Younger (25–35) and older (60–85) adults reflected equally often but for different reasons: the young for self-insight and current problem solving, the old to evaluate their lives and reach ego integrity (Staudinger, 2001).\n\nGender differences in aging. Women may find dispassionate life review harder. Men in their 60s reported much higher identity, certainty, confidence and power than women (Miner-Rubino, Winter & Stewart, 2004). A societal double standard sees aging as worse for women and labels them old earlier (a 50-year-old actress is cast as a widow or grandmother while a male peer gets powerful roles). Women also live longer and so face more illness, bereavement, loss of support and reduced income, which may explain why their life reviews are often less positive and more likely to lead to despair than integrity (Rainey, 1998).",
+   "simple": "Older people with ego integrity spend time reviewing their lives, admit regrets, and feel happier with less fear of death. Older adults are often happier than younger ones, and staying involved keeps generativity alive. Women may find old age harder due to ageist double standards, longer lives and more losses.",
+   "keyPoints": [
+    "Life review and reminiscence linked to ego integrity (Taft & Nehrke; Alfonso et al.).",
+    "Acknowledging regrets relates to life satisfaction and health (Torges et al.).",
+    "Ego integrity: higher well-being, less fear of death and bitterness (Van Hiel & Vansteenkiste).",
+    "Older people more concerned with generativity/integrity and happier (Sheldon & Kasser).",
+    "Young reflect for insight, old to evaluate life (Staudinger).",
+    "Women face a double standard and more losses; reviews more likely to end in despair (Rainey)."
+   ]
+  },
+  {
+   "id": "research-ethnic-identity",
+   "heading": "Research: Racial and Ethnic Identity",
+   "pages": [
+    184,
+    186
+   ],
+   "detailed": "Erikson did not consider racial identity and its benefits, but research consistently shows the importance of developing and keeping a racial or ethnic identity for minority groups; denying it can be stressful (Franklin-Jackson & Carter, 2007).\n\nBenefits. Many studies of Latino, Asian and Black teenagers in the US, Hong Kong and Canada link strong ethnic identity to psychological well-being, high self-esteem, strong social bonds, life satisfaction and academic motivation. Black adolescents high in racial identity had higher well-being, life satisfaction and self-esteem and fewer mental health problems such as anxiety and depression. Among Black, Asian and biracial teens self-esteem was highest for Blacks, lowest for Asians, with biracial teens in between (Bracey et al., 2004), suggesting racial identity matters more for Black adolescents' self-esteem. Group esteem rose in African-American and Latino-American teens during early and middle adolescence while White students' stayed stable and high (French et al., 2006). Black adolescents high in ethnic identity had more negative attitudes to drugs and more positive attitudes to school, but those high in anti-White attitudes were more likely to use drugs and misbehave (Resnicow et al., 1999). More experienced racism meant more stress and poorer functioning (Bynum, Burton & Best, 2007). Gender identity also grows in importance with age; Black adolescents high in both racial and gender identity had better mental health and school adjustment (Rogers, 2013). Mexican-born US teens with a more traditionally Latino appearance had higher racial identity (Santos & Updegraff, 2014).\n\nWomen and racial identity. Among Black and Hispanic women, identity confusion (conflict between minority and majority culture) may lead to eating disorders such as anorexia through identification with the White majority's ideal of extreme thinness (Harris & Kuba, 1997).\n\nRacial identity and ego identity. Ethnicity is central to ego identity in Asian-American and Hispanic-American adolescents; strong ethnic identity goes with high self-esteem and better peer and family relations (Phinney & Chavira, 1992). Hispanic-American teens in predominantly White schools had higher ethnic identity than those in balanced schools (Umana-Taylor, 2004). Strong Latino ethnic identity buffers stress and boosts well-being and achievement. Young Asian Americans with high ethnic identity resisted alcohol and marijuana more than more assimilated peers (Suinn, 1999), as did young Hispanics in immigrant families. Canadian First Nation adolescents identifying strongly with their own culture had stronger identity than those who saw themselves as bicultural (Gfellner & Armstrong, 2012).\n\nStages of developing racial identity. William Cross's Revised Racial Identity Model for African-American adolescents, measured by the 64-item Cross Racial Identity Scale (shown to be valid), has four stages:\n1. Pre-encounter, with three clusters: assimilation (little racial awareness), miseducation (internalised negative stereotypes about Blacks) and self-hatred (anti-Black, self-hating attitudes).\n2. Encounter: experiencing racism or discrimination shifts the worldview.\n3. Immersion-emersion, with two identities: intense Black involvement (everything Black is good) and anti-White (everything White is evil).\n4. Internalization, with two identities: Black nationalism (pro-Black Afrocentric) and multiculturalist inclusive (embracing Black and other ethnic, racial and gender identities).\nBlack men in the pre-encounter stage had lower self-esteem and well-being and more distress than those in internalization (Pierre & Mahalik, 2005), and Black college students' defence mechanisms matured as their racial identity advanced (Nghe & Mahalik, 2001). The model's importance is in treating ethnic identity as a vital part of ego identity that develops in stages, just like Erikson's (Review Question 20).",
+   "simple": "Erikson ignored race, but research shows a strong ethnic identity helps minority teens: better self-esteem, well-being, school attitudes and less drug use. Cross's model says healthy Black identity develops through four stages: pre-encounter, encounter, immersion-emersion and internalization.",
+   "keyPoints": [
+    "Not considered by Erikson; strong ethnic identity linked to well-being, self-esteem, school motivation.",
+    "Black teens: racial identity strongly tied to self-esteem; anti-White attitudes linked to problems.",
+    "Ethnic identity buffers stress and protects against substance use.",
+    "Identity confusion with White beauty ideals may lead to eating disorders (Harris & Kuba).",
+    "Cross model: pre-encounter, encounter, immersion-emersion, internalization (64-item scale).",
+    "Advanced stages bring better well-being and more mature defences."
+   ]
+  },
+  {
+   "id": "research-gender-preference",
+   "heading": "Research: Gender Preference Identity",
+   "pages": [
+    186,
+    187
+   ],
+   "detailed": "Gender preference identity is another aspect of ego identity Erikson did not directly consider. It may affect overall ego identity and vary with ethnic identity: among White, Black and Hispanic children (average age 11), Black and Hispanic children reported much more pressure for gender conformity (Corby, Hodges & Perry, 2007).\n\nStages of identity. Researchers propose that LGBT identity develops in stages, like Erikson's ego identity or ethnic identity. Frable's (1997) model has four stages (Review Question 24):\n1. Sensitization: before adolescence, an initial sense of being different from same-sex peers.\n2. Identity confusion: in adolescence, the confusing, perhaps frightening, realisation that one's feelings and thoughts could be described as homosexual.\n3. Identity assumption: the person comes to believe he or she is homosexual and begins to accept a gay identity.\n4. Commitment: full acceptance of the gay identity as a way of life.\n\nConsequences. Despite greater acceptance, people with transgender and other nontraditional gender preference identities face significant challenges: higher stress, depression, suicide, failure and guilt, and physical and mental health problems. They suffer bullying, harassment and discrimination, especially at school, affecting well-being and grades; seeing other students intervene softens the impact and encourages intervention, and strong family and friend support greatly reduces harm (Wernick, Kulick & Inglehart, 2014). Coming out and expressing pride without wishing to change or hide one's identity is linked to better mental and emotional well-being (Bockting, 2014), higher self-esteem and lower depression (Frable, 1997; Kosciw et al., 2014). Among male prison inmates, those with a strong need for personal relationships had less gender role conflict, the need for others perhaps overriding homophobia; those with less need for contact had more conflict about homosexual tendencies (Schwartz et al., 2004).",
+   "simple": "Erikson didn't address sexual identity, but researchers say it also develops in stages: sensitization, identity confusion, identity assumption and commitment (Frable). People with nontraditional identities face more stress and harassment, but support and coming out with pride are linked to better well-being.",
+   "keyPoints": [
+    "Not directly considered by Erikson; varies with ethnic identity (Corby et al.).",
+    "Frable's four stages: sensitization, identity confusion, identity assumption, commitment.",
+    "Nontraditional identities linked to more stress, depression and health problems.",
+    "Peer intervention and social support reduce the harm of harassment.",
+    "Coming out with pride relates to higher self-esteem and lower depression."
+   ]
+  },
+  {
+   "id": "contributions-criticisms",
+   "heading": "Reflections: Contributions and Criticisms",
+   "pages": [
+    188,
+    188
+   ],
+   "detailed": "Contributions. Erikson's major contributions are the recognition that personality develops throughout the life span, the concept of the adolescent identity crisis, and the incorporation of cultural, social and historical forces into personality theory.\n\nCriticisms (Review Question 25).\n1. Ambiguity and imprecision: critics point to ambiguous terms and concepts, conclusions without supporting data and an overall lack of precision (Rosenthal, Gurney & Moore, 1981; Waterman, 1982). Erikson accepted these charges, blaming his artistic temperament and lack of formal scientific training; he wrote that, coming to psychology from art, he sometimes painted contexts where readers wanted facts.\n2. Incomplete description of maturity, which he tried to remedy in Vital Involvement in Old Age (1986). Some also doubt that development after 55 is as positive as ego integrity implies; for many it brings pain, loss and depression even with wisdom.\n3. Sex differences: his anatomical interpretation of the play-constructions research is attacked, since the differences could be cultural or due to sex-role training, which Erikson later admitted.\n4. Applicability to women: Carol Tavris found she was not having her crises in the right order, with identity still shaky after adolescence and intimacy and generativity on hold because she had not married on schedule.\n5. Social class: the theory may not apply to people in reduced economic circumstances who cannot afford an adolescent moratorium; it may be a luxury for those who can attend college or travel, as Erikson did for seven years (Slugoski & Ginsburg, 1989).\n\nErikson showed little interest in answering critics; he accepted that there are many ways to describe personality development and no single view is adequate. His influence spread through his books and through psychologists, psychiatrists, teachers and counsellors who found his ideas useful from infancy to old age.",
+   "simple": "Erikson's big contributions were life-span development, the identity crisis, and bringing culture and history into personality theory. Critics say his terms are vague and unsupported, his old-age stage is incomplete and too rosy, his views on sex differences are biased, and his stages may not fit women or poorer people.",
+   "keyPoints": [
+    "Contributions: life-span development, adolescent identity crisis, cultural/social/historical forces.",
+    "Criticism: ambiguous terms, lack of data and precision (Erikson blamed his artistic background).",
+    "Maturity stage incomplete; old age may be less positive than ego integrity suggests.",
+    "Anatomical view of sex differences criticised; Tavris found the stages did not fit women.",
+    "Moratorium may be a luxury unavailable to poorer people (Slugoski & Ginsburg)."
+   ]
+  },
+  {
+   "id": "recognition-influence",
+   "heading": "Reflections: Recognition and Influence",
+   "pages": [
+    188,
+    189
+   ],
+   "detailed": "Erikson's ideas were recognised in both professional and popular circles. Time magazine called him the most influential living psychoanalyst (1975), and Psychology Today called him an authentic intellectual hero (Hall, 1983). His concepts are used in education, social work, vocational and marriage counselling, and clinical work with children and adolescents, and Clark (2010) notes that his work remains meaningful for contemporary psychology and social thought. The Erikson Institute for Early Childhood Education was set up for graduate training in 1966 at Chicago's Loyola University.\n\nLife-span developmental psychology, which has grown massively in recent years, owes much of its spark to Erikson, as does the current interest in developmental problems of middle and old age. His play therapy has become a standard diagnostic and therapeutic tool for emotionally disturbed and abused children: children who cannot describe a physical or sexual attack in words can express their feelings through play, using dolls to represent themselves and their abusers.",
+   "simple": "Erikson was hugely recognised, called the most influential living psychoanalyst. His ideas are used in education, counselling and child therapy, sparked life-span developmental psychology, and his play therapy is now a standard way to help abused children express what happened.",
+   "keyPoints": [
+    "Time: most influential living psychoanalyst; Psychology Today: an authentic intellectual hero.",
+    "Applied in education, social work, vocational and marriage counselling, child clinical work.",
+    "Erikson Institute for Early Childhood Education founded 1966 in Chicago.",
+    "Sparked life-span developmental psychology and interest in middle and old age.",
+    "Play therapy is a standard tool with disturbed and abused children."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Psychosocial stages of development",
+   "definition": "Erikson's eight successive stages spanning the life span; at each a crisis must be coped with adaptively or maladaptively.",
+   "page": 162
+  },
+  {
+   "term": "Epigenetic principle of maturation",
+   "definition": "The idea that development follows a sequence of stages determined by genetic factors, while social and environmental forces govern how the stages are realised.",
+   "page": 163
+  },
+  {
+   "term": "Crisis",
+   "definition": "In Erikson's theory, the turning point confronted at each developmental stage, requiring a change in perspective and behaviour.",
+   "page": 163
+  },
+  {
+   "term": "Basic strengths",
+   "definition": "Motivating characteristics and beliefs (virtues) that arise from satisfactory resolution of the crisis at each stage; each depends on the previous one.",
+   "page": 163
+  },
+  {
+   "term": "Ego identity",
+   "definition": "The self-image formed in adolescence that integrates our ideas of what we are and what we want to be.",
+   "page": 167
+  },
+  {
+   "term": "Identity crisis",
+   "definition": "Failure to achieve ego identity during adolescence, resulting in role confusion.",
+   "page": 167
+  },
+  {
+   "term": "Identity confusion",
+   "definition": "Erikson's early term for a lack of clear self-image caused by alienation from cultural traditions, seen in American Indians and WWII veterans.",
+   "page": 162
+  },
+  {
+   "term": "Psychological moratorium",
+   "definition": "Erikson's view of adolescence as a necessary pause between childhood and adulthood for experimenting with roles and self-images.",
+   "page": 167
+  },
+  {
+   "term": "Negative identity",
+   "definition": "An identity society disapproves of (e.g., in crime or drugs), which Erikson considered better than no identity at all.",
+   "page": 167
+  },
+  {
+   "term": "Basic weaknesses",
+   "definition": "Motivating characteristics arising from unsatisfactory resolution of developmental crises.",
+   "page": 170
+  },
+  {
+   "term": "Maldevelopment",
+   "definition": "A condition in which the ego consists solely of one way of coping with conflict, either adaptive or maladaptive.",
+   "page": 170
+  },
+  {
+   "term": "Maladaptive (condition)",
+   "definition": "Maldevelopment in which only the positive, adaptive tendency is present in the ego; can lead to neuroses.",
+   "page": 170
+  },
+  {
+   "term": "Malignant (condition)",
+   "definition": "Maldevelopment in which only the negative tendency is present in the ego; can lead to psychoses.",
+   "page": 170
+  },
+  {
+   "term": "Re-adaptation",
+   "definition": "Relief of maladaptions through environmental change, supportive relationships or successful adaptation at a later stage.",
+   "page": 170
+  },
+  {
+   "term": "Play therapy",
+   "definition": "Assessment and treatment in which a child's play with toys is observed to reveal personality aspects the child cannot express verbally.",
+   "page": 171
+  },
+  {
+   "term": "Psychohistorical analysis",
+   "definition": "Application of Erikson's life-span theory, with psychoanalytic principles, to the study of historical figures.",
+   "page": 172
+  },
+  {
+   "term": "Disciplined subjectivity",
+   "definition": "Erikson's practice in psychohistory of adopting the subject's viewpoint to assess events through that person's eyes.",
+   "page": 172
+  },
+  {
+   "term": "Play constructions",
+   "definition": "An assessment technique for children in which structures built from dolls, blocks and other toys are analysed.",
+   "page": 172
+  },
+  {
+   "term": "Loyola Generativity Scale",
+   "definition": "A 20-item self-report inventory measuring generativity versus stagnation in adulthood (McAdams & de St. Aubin, 1992).",
+   "page": 172
+  },
+  {
+   "term": "Pseudo-intimacy",
+   "definition": "Self-indulgent, childlike regression that stagnating middle-aged adults may fall into.",
+   "page": 169
+  },
+  {
+   "term": "Generativity",
+   "definition": "Involvement in teaching and guiding the next generation and concern for future society.",
+   "page": 168
+  },
+  {
+   "term": "Ego integrity",
+   "definition": "Accepting one's place and one's past with fulfilment when reviewing life in old age.",
+   "page": 169
+  },
+  {
+   "term": "Identity achievement",
+   "definition": "Marcia's status for adolescents committed to occupational and ideological choices; the most mature status.",
+   "page": 176
+  },
+  {
+   "term": "Moratorium (status)",
+   "definition": "Marcia's status for those still undergoing the identity crisis, with vague commitments and high anxiety.",
+   "page": 176
+  },
+  {
+   "term": "Foreclosure",
+   "definition": "Marcia's status for adolescents committed to an occupation and ideology chosen by parents, without having experienced a crisis.",
+   "page": 176
+  },
+  {
+   "term": "Identity diffusion",
+   "definition": "Marcia's status for those with no occupational or ideological commitments, who may not have had a crisis.",
+   "page": 177
+  },
+  {
+   "term": "Alienated achievement",
+   "definition": "Marcia's status for adolescents who had a crisis, have no occupational goal and hold beliefs critical of the social and economic system.",
+   "page": 177
+  },
+  {
+   "term": "Multi-user dungeons (MUDs)",
+   "definition": "Virtual places shared simultaneously by many computer users, where players interact and build virtual worlds.",
+   "page": 179
+  },
+  {
+   "term": "Positive emotionality (PEM)",
+   "definition": "Active, happy involvement in one's work and social environments.",
+   "page": 180
+  },
+  {
+   "term": "Negative emotionality (NEM)",
+   "definition": "Feelings of stress, anxiety, anger and other negative emotions.",
+   "page": 180
+  },
+  {
+   "term": "Identity consolidation",
+   "definition": "Erikson's term for dealing successfully with the social realities of adult life, usually in the 20s.",
+   "page": 180
+  },
+  {
+   "term": "Group esteem",
+   "definition": "How people feel about being members of their racial or ethnic group.",
+   "page": 185
+  },
+  {
+   "term": "Revised Racial Identity Model",
+   "definition": "William Cross's four-stage model of healthy Black identity: pre-encounter, encounter, immersion-emersion, internalization.",
+   "page": 186
+  },
+  {
+   "term": "Cross Racial Identity Scale",
+   "definition": "A 64-item scale measuring the stages of Cross's model; shown to be valid.",
+   "page": 186
+  },
+  {
+   "term": "Gender preference identity",
+   "definition": "An aspect of ego identity, not directly considered by Erikson, concerning one's sexual or gender preference.",
+   "page": 186
+  }
+ ],
+ "people": [
+  {
+   "name": "Erik Erikson",
+   "contribution": "Proposed the eight psychosocial stages, ego identity and the identity crisis; used play therapy and psychohistory.",
+   "page": 159
+  },
+  {
+   "name": "Anna Freud",
+   "contribution": "Analysed and trained Erikson in Vienna; her interest in child analysis focused him on child development.",
+   "page": 161
+  },
+  {
+   "name": "Sigmund Freud",
+   "contribution": "Erikson's starting point; Erikson extended his stages, made the ego independent of the id and added culture.",
+   "page": 159
+  },
+  {
+   "name": "Theodore Homburger",
+   "contribution": "Erikson's pediatrician stepfather, whose surname Erikson kept until age 37.",
+   "page": 160
+  },
+  {
+   "name": "Joan Serson Erikson",
+   "contribution": "Erikson's wife, an artist and dancer who became his intellectual partner and editor; co-author of Vital Involvement in Old Age.",
+   "page": 161
+  },
+  {
+   "name": "Bloland (Erikson's daughter)",
+   "contribution": "Wrote of Erikson's depressive tendency, self-doubt and lifelong shame over his illegitimacy.",
+   "page": 160
+  },
+  {
+   "name": "Friedman",
+   "contribution": "Biographer who saw Erikson's own experiences as the 'research' behind his ideas.",
+   "page": 161
+  },
+  {
+   "name": "Carl Jung",
+   "contribution": "His description of the midlife crisis resembles Erikson's account of stagnation.",
+   "page": 169
+  },
+  {
+   "name": "Marcia",
+   "contribution": "Identified five adolescent identity statuses: achievement, moratorium, foreclosure, diffusion, alienated achievement.",
+   "page": 176
+  },
+  {
+   "name": "McAdams",
+   "contribution": "Co-developed the Loyola Generativity Scale; studies of life themes and redemption sequences in generative adults.",
+   "page": 172
+  },
+  {
+   "name": "William Cross",
+   "contribution": "Proposed the Revised Racial Identity Model and the 64-item Cross Racial Identity Scale.",
+   "page": 186
+  },
+  {
+   "name": "Frable",
+   "contribution": "Proposed four stages of gender preference identity (sensitization to commitment).",
+   "page": 186
+  },
+  {
+   "name": "Carol Tavris",
+   "contribution": "Social psychologist who found Erikson's stages did not fit her life as a woman.",
+   "page": 188
+  },
+  {
+   "name": "Turkle",
+   "contribution": "Noted that online one can completely redefine oneself, as Erikson urged adolescents to experiment.",
+   "page": 179
+  },
+  {
+   "name": "Helson",
+   "contribution": "Led longitudinal studies of college-educated women: women's movement, PEM/NEM and generativity.",
+   "page": 180
+  },
+  {
+   "name": "Vera Brittain",
+   "contribution": "British feminist writer whose writings, analysed psychohistorically, showed identity, intimacy then generativity.",
+   "page": 175
+  },
+  {
+   "name": "Gandhi, Martin Luther and George Bernard Shaw",
+   "contribution": "Subjects of Erikson's psychohistorical analyses.",
+   "page": 172
+  }
+ ],
+ "studies": [
+  {
+   "title": "Erikson: play constructions (ages 10–12)",
+   "finding": "Girls built static, peaceful, low enclosed scenes intruded on by males/animals; boys built tall towers and action scenes. Erikson credited anatomy, later conceded sex-role training.",
+   "page": 172
+  },
+  {
+   "title": "Wong & Hines (2014): toy choice at 2–4",
+   "finding": "Boys played more with a train, girls with a doll.",
+   "page": 173
+  },
+  {
+   "title": "Dinella, Devita & Weisgram (2013): fighter jet colour",
+   "finding": "College men liked a model fighter jet only when blue, rejecting it when pink.",
+   "page": 173
+  },
+  {
+   "title": "Joiner (1998): software choice",
+   "finding": "Boys aged 10–11 chose 'Pirates' software, girls 'Princesses'.",
+   "page": 173
+  },
+  {
+   "title": "Martin (1999): race-car driver",
+   "finding": "A boy dropped a toy race car when the driver turned out to be a woman.",
+   "page": 173
+  },
+  {
+   "title": "Quiery (1998): fathers and gender roles",
+   "finding": "Fathers reward passive compliance in girls and assertiveness/aggression in boys, treating children more stereotypically than mothers.",
+   "page": 174
+  },
+  {
+   "title": "Attachment and trust (Sroufe et al.; Londerville & Main; Jacobson & Wille)",
+   "finding": "Securely attached infants (12–18 months) functioned better socially and emotionally 3 years later; high-trust children were curious, popular, leaders and sensitive.",
+   "page": 174
+  },
+  {
+   "title": "Suedfeld et al. (2005): Holocaust survivors",
+   "finding": "Resolved all stages except trust vs. mistrust (more mistrust), showing later stages can overcome early damage.",
+   "page": 174
+  },
+  {
+   "title": "Ciaccio (1971): children's stories",
+   "finding": "Stories of 4-, 8- and 11-year-olds reflected their stage themes; 4-year-olds wrote about autonomy.",
+   "page": 175
+  },
+  {
+   "title": "Peterson & Stewart (1990): Vera Brittain",
+   "finding": "Her concerns moved from identity to intimacy to generativity as predicted.",
+   "page": 175
+  },
+  {
+   "title": "Constantinople (1969): Inventory of Psychosocial Development",
+   "finding": "Adaptive development at each of the first six stages related to happiness.",
+   "page": 175
+  },
+  {
+   "title": "Reimanis (1974)",
+   "finding": "Maladaptive development in the first six stages correlated highly with alienation and uprootedness.",
+   "page": 175
+  },
+  {
+   "title": "Galambos, Barker & Krahn (2006)",
+   "finding": "Canadians aged 18–25: emerging adulthood brought increased psychological well-being.",
+   "page": 175
+  },
+  {
+   "title": "Waterman, Buebel & Waterman (1970)",
+   "finding": "Adolescents with trust, autonomy, initiative and industriousness showed identity cohesion; role-confused ones lacked earlier adaptive coping.",
+   "page": 175
+  },
+  {
+   "title": "Beaumont & Zukanovic (2005): Canadian men",
+   "finding": "Distress highest in men 19–25 and lowest in men 65–87.",
+   "page": 175
+  },
+  {
+   "title": "Conway & Holmes (2004): memories of older Britons",
+   "finding": "Memories from each decade centred on the matching stage issue (trust/autonomy/initiative/industry, then identity, then intimacy).",
+   "page": 175
+  },
+  {
+   "title": "Streitmatter (1993); Marcia & Friedman (1970)",
+   "finding": "Identity achievement correlated with commitment; achievers were stable, realistic, chose harder majors.",
+   "page": 176
+  },
+  {
+   "title": "Beyers & Seiffge-Krenke (2010); Schwartz et al. (2010)",
+   "finding": "Early identity achievers had stable romances in their twenties and less binge drinking, drug use and sexual risk.",
+   "page": 176
+  },
+  {
+   "title": "Kroger, Martinussen & Marcia (2010): 120+ studies",
+   "finding": "Identity achievement rose over late adolescence and young adulthood.",
+   "page": 176
+  },
+  {
+   "title": "Berzonsky (2004); Mohammadi (2013)",
+   "finding": "Identity achievers had loving, directive parents; too permissive or authoritarian parenting hindered achievement (also in Iran).",
+   "page": 176
+  },
+  {
+   "title": "Moratorium research (Bilsker & Marcia, 1991, and others)",
+   "finding": "Moratorium adolescents: high anxiety, ambivalence to authority, daydreaming, belief in supernatural.",
+   "page": 176
+  },
+  {
+   "title": "Marcia (1967); Stephen, Fraser & Marcia (1992): foreclosure",
+   "finding": "Foreclosed teens rigid, authoritarian, poor at change; achievement-oriented toward external goals.",
+   "page": 176
+  },
+  {
+   "title": "Waterman (1982); diffusion studies in Greece, Belgium, US",
+   "finding": "Diffused adolescents saw parents as indifferent; lower adjustment, unstable self-image, impulsivity, grandiosity.",
+   "page": 177
+  },
+  {
+   "title": "Bourne (1978)",
+   "finding": "College men closer to integrated ego identity had greater ego strength.",
+   "page": 177
+  },
+  {
+   "title": "Markstrom et al. (2005); Fukama & Mizuochi; Jones et al.",
+   "finding": "Extracurricular/volunteer activities linked to fidelity; sports and exercise to stronger ego identity.",
+   "page": 177
+  },
+  {
+   "title": "Mellor (1989); Curry (1998)",
+   "finding": "Men's identity: separation and individual competence; women's: connection and relationships.",
+   "page": 177
+  },
+  {
+   "title": "Klimstra et al. (2010)",
+   "finding": "Dutch females formed identity earlier than males.",
+   "page": 177
+  },
+  {
+   "title": "Jensen-Campbell & Graziano (2000): diaries of 155 adolescents",
+   "finding": "31% of interactions involved conflict; conflicts with parents more important and intense than with peers.",
+   "page": 178
+  },
+  {
+   "title": "Steinberg & Morris (2001)",
+   "finding": "Many troubled teens had distress in childhood, so problems do not necessarily arise because of adolescence.",
+   "page": 178
+  },
+  {
+   "title": "Utz (2003); Calvert et al. (2009): MUDs",
+   "finding": "Attraction and identification with virtual community grew over playing time; can be as satisfying as real-world identification.",
+   "page": 179
+  },
+  {
+   "title": "Linares et al. (2011): Second Life",
+   "finding": "Users brought parts of their real lives into online personas.",
+   "page": 179
+  },
+  {
+   "title": "Jordan-Conde et al. (2014); Israelashvili et al. (2012)",
+   "finding": "Oversharing online delays identity; teens lacking a true sense of self used social media more.",
+   "page": 179
+  },
+  {
+   "title": "Bonetti, Campbell & Gilmore (2010)",
+   "finding": "Lonely, socially anxious Australian youth communicated more about intimate matters online.",
+   "page": 179
+  },
+  {
+   "title": "Schmitt, Dayanim & Matthias (2008)",
+   "finding": "Children's personal home pages gave mastery and a comfortable way to express identity.",
+   "page": 179
+  },
+  {
+   "title": "Duncan & Agronick (1995); Helson, Stewart & Ostrove (1995)",
+   "finding": "Women in college during the women's movement had higher aspirations, education, status, income and confidence.",
+   "page": 180
+  },
+  {
+   "title": "Career orientation questionnaire studies",
+   "finding": "Career-oriented women married later and dated less; career-committed men were more committed daters.",
+   "page": 180
+  },
+  {
+   "title": "Helson & Klohnen (1998): PEM and NEM",
+   "finding": "Women higher than husbands in NEM in young adulthood and in PEM in late middle age, after child rearing.",
+   "page": 180
+  },
+  {
+   "title": "Pals (1999)",
+   "finding": "Women high in ego resiliency with an identity in marriage were higher in identity consolidation.",
+   "page": 180
+  },
+  {
+   "title": "Anthis & LaVoie (2006)",
+   "finding": "Readiness to change linked to identity change in women 22–60.",
+   "page": 180
+  },
+  {
+   "title": "Piot-Ziegler et al. (2010)",
+   "finding": "Body image change after breast cancer surgery caused a hard-to-resolve identity crisis.",
+   "page": 181
+  },
+  {
+   "title": "Archer (1982); Cote & Levine (1988); Adams & Fitch (1982)",
+   "finding": "Up to 30% still searching at 24; college delays identity; employed peers achieve identity earlier than students.",
+   "page": 181
+  },
+  {
+   "title": "McAdams (2001)",
+   "finding": "Identity construction may continue over the entire life span.",
+   "page": 181
+  },
+  {
+   "title": "Janarthanam & Gnanadevan (2014): India",
+   "finding": "Indian adolescent girls were higher in ego identity than boys.",
+   "page": 181
+  },
+  {
+   "title": "Franz, McClelland & Weinberger (1991)",
+   "finding": "Midlife generativity related to warm, affectionate childhood parenting.",
+   "page": 181
+  },
+  {
+   "title": "McAdams et al. (1997): life themes",
+   "finding": "High generativity scorers reported early good fortune, sensitivity to suffering, stable beliefs and clear goals.",
+   "page": 181
+  },
+  {
+   "title": "McAdams et al. (2001): redemption",
+   "finding": "High scorers told of negative events turned positive; low scorers the reverse.",
+   "page": 181
+  },
+  {
+   "title": "Whitbourne, Sneed & Sayer (2009)",
+   "finding": "Those slow to reach ego identity mostly caught up and reached generativity by midlife.",
+   "page": 181
+  },
+  {
+   "title": "McAdams, Ruetzel & Foley (1986); Van de Water & McAdams (1989)",
+   "finding": "Generativity correlated with power and intimacy motivation and with nurturance.",
+   "page": 181
+  },
+  {
+   "title": "Benefits of generativity (Cox et al.; McAdams, Hart & Maruna; Westermeyer)",
+   "finding": "Higher extraversion, self-esteem, conscientiousness, altruism; better marriages, work and friendships.",
+   "page": 182
+  },
+  {
+   "title": "Clark & Arnold (2008); Rothrauff & Cooney (2008)",
+   "finding": "Generativity linked to well-being in parents and non-parents, most when satisfaction came from career.",
+   "page": 182
+  },
+  {
+   "title": "Vandewater et al. (1997); Helson & Srivastava (2001)",
+   "finding": "Generative women had better emotional well-being; valuing recognition linked to identity and generativity in 40s.",
+   "page": 182
+  },
+  {
+   "title": "Zucker, Ostrove & Stewart (2002)",
+   "finding": "Women's generativity higher in 40s than 20s but, contrary to Erikson, stayed level into 60s.",
+   "page": 182
+  },
+  {
+   "title": "Peterson (2002)",
+   "finding": "Women generative at 43 stayed so 10 years later and gave more care to parents, spouses and children.",
+   "page": 182
+  },
+  {
+   "title": "Cheng (2009): Hong Kong",
+   "finding": "Older people out of touch with technology lost generativity and disengaged from mentoring.",
+   "page": 182
+  },
+  {
+   "title": "Mackavey, Malley & Stewart (1991)",
+   "finding": "Older psychologists' memories centred on college and early adult years.",
+   "page": 183
+  },
+  {
+   "title": "Taft & Nehrke (1990); Alfonso et al. (2011)",
+   "finding": "High ego integrity linked to more life review; reminiscence produced integrity and well-being.",
+   "page": 183
+  },
+  {
+   "title": "Torges et al. (2005, 2008); Robinson & Stell (2014)",
+   "finding": "Acknowledging regrets related to life satisfaction and health; 60–69-year-olds struggle with mortality and integrity.",
+   "page": 183
+  },
+  {
+   "title": "Van Hiel & Vansteenkiste (2009)",
+   "finding": "Ego integrity linked to well-being, less fear of death and less bitterness.",
+   "page": 183
+  },
+  {
+   "title": "Sheldon & Kasser (2001)",
+   "finding": "Older people more concerned with generativity and integrity, less with identity, and happier.",
+   "page": 184
+  },
+  {
+   "title": "Warburton et al. (2006)",
+   "finding": "Continued family and community involvement sustained generativity into old age.",
+   "page": 184
+  },
+  {
+   "title": "Staudinger (2001)",
+   "finding": "Young and old reflected equally often; young for insight, old for life evaluation.",
+   "page": 184
+  },
+  {
+   "title": "Miner-Rubino, Winter & Stewart (2004); Rainey (1998)",
+   "finding": "Men in their 60s reported more identity and power than women; women's life reviews less positive, more prone to despair.",
+   "page": 184
+  },
+  {
+   "title": "Ethnic identity and well-being (many studies)",
+   "finding": "Strong ethnic identity linked to well-being, self-esteem, social bonds, life satisfaction and academic motivation.",
+   "page": 184
+  },
+  {
+   "title": "Bracey et al. (2004)",
+   "finding": "Self-esteem highest in Black, lowest in Asian, intermediate in biracial teens.",
+   "page": 185
+  },
+  {
+   "title": "French et al. (2006)",
+   "finding": "Group esteem rose in African- and Latino-American teens; stable and high in Whites.",
+   "page": 185
+  },
+  {
+   "title": "Resnicow et al. (1999)",
+   "finding": "High ethnic identity: anti-drug, pro-school attitudes; high anti-White attitudes: more drug use and misbehaviour.",
+   "page": 185
+  },
+  {
+   "title": "Bynum, Burton & Best (2007); Rogers (2013)",
+   "finding": "More racism, more stress; high racial plus gender identity linked to mental health and school adjustment.",
+   "page": 185
+  },
+  {
+   "title": "Harris & Kuba (1997)",
+   "finding": "Identity confusion with White thinness ideals linked to eating disorders in Black and Hispanic women.",
+   "page": 185
+  },
+  {
+   "title": "Phinney & Chavira (1992); Umana-Taylor (2004)",
+   "finding": "Ethnic identity central to ego identity; higher in Hispanic teens at predominantly White schools.",
+   "page": 185
+  },
+  {
+   "title": "Suinn (1999); Gfellner & Armstrong (2012)",
+   "finding": "High ethnic identity resisted alcohol and marijuana; First Nation teens with strong own-culture identity had stronger identity than bicultural peers.",
+   "page": 185
+  },
+  {
+   "title": "Pierre & Mahalik (2005); Nghe & Mahalik (2001)",
+   "finding": "Pre-encounter Black men: lower self-esteem, more distress; defences matured as racial identity advanced.",
+   "page": 186
+  },
+  {
+   "title": "Corby, Hodges & Perry (2007)",
+   "finding": "Black and Hispanic children reported more pressure for gender conformity than White children.",
+   "page": 186
+  },
+  {
+   "title": "Wernick, Kulick & Inglehart (2014)",
+   "finding": "Peer intervention and family/friend support reduced the effects of harassment.",
+   "page": 187
+  },
+  {
+   "title": "Bockting (2014); Frable (1997); Kosciw et al. (2014)",
+   "finding": "Coming out with pride linked to better well-being, higher self-esteem, lower depression.",
+   "page": 187
+  },
+  {
+   "title": "Schwartz et al. (2004): prison inmates",
+   "finding": "Strong need for relationships linked to less gender role conflict.",
+   "page": 187
+  }
+ ],
+ "examples": [
+  {
+   "title": "Autonomy: a toddler insisting on 'I do it'",
+   "text": "A two-year-old insists on putting on her own sandals even though it takes ten minutes. A parent who waits patiently supports autonomy; one who snatches the sandals and scolds her for being slow risks building doubt and shame.",
+   "supplementary": true
+  },
+  {
+   "title": "Moratorium vs. foreclosure in an Indian family",
+   "text": "One student takes a gap year, tries design, coding and volunteering before choosing a field (moratorium heading toward identity achievement). His cousin enrolls in engineering because the family always planned it, without ever questioning it (foreclosure).",
+   "supplementary": true
+  },
+  {
+   "title": "Generativity at work",
+   "text": "A senior bank manager with no children spends Saturdays training new recruits and mentoring rural students for entrance exams. This is generativity: it is about guiding the next generation, not about being a parent.",
+   "supplementary": true
+  },
+  {
+   "title": "Ego integrity vs. despair at retirement",
+   "text": "Two retired teachers look back. One says she made mistakes but is proud of the students she shaped (integrity). The other keeps saying he wasted his life and blames everyone around him (despair).",
+   "supplementary": true
+  },
+  {
+   "title": "Maldevelopment: too much trust",
+   "text": "A person who trusts everyone completely shares bank details with a stranger on a call. Erikson would see sensory maladjustment: only the adaptive tendency, with no healthy mistrust to protect him.",
+   "supplementary": true
+  }
+ ],
+ "checks": [
+  {
+   "q": "Which was NOT one of Erikson's three extensions of Freud?",
+   "options": [
+    "Abandoning the unconscious entirely",
+    "Development continues over the whole life span",
+    "The ego is independent of the id",
+    "Cultural and historical forces shape personality"
+   ],
+   "answer": 0,
+   "explain": "The chapter lists life-span development, an independent ego and cultural/historical forces; Erikson kept psychoanalysis as his starting point.",
+   "page": 160,
+   "sectionId": "extending-freud"
+  },
+  {
+   "q": "How did Erikson view the ego relative to the id?",
+   "options": [
+    "As subservient to the id",
+    "As an independent part of personality",
+    "As identical to the superego",
+    "As purely unconscious"
+   ],
+   "answer": 1,
+   "explain": "He placed more emphasis on the ego and saw it as not dependent on the id, unlike Freud.",
+   "page": 160,
+   "sectionId": "extending-freud"
+  },
+  {
+   "q": "Erikson kept the surname Homburger until he",
+   "options": [
+    "married Joan Serson",
+    "joined Anna Freud's circle",
+    "became a U.S. citizen at 37",
+    "retired from Harvard"
+   ],
+   "answer": 2,
+   "explain": "He took the name Erik Homburger Erikson at 37 on becoming a U.S. citizen.",
+   "page": 160,
+   "sectionId": "life"
+  },
+  {
+   "q": "Erikson first called the lack of clear self-image he saw in American Indians and WWII veterans",
+   "options": [
+    "role diffusion",
+    "basic mistrust",
+    "malignant withdrawal",
+    "identity confusion"
+   ],
+   "answer": 3,
+   "explain": "He initially called it identity confusion, caused by alienation from culture and traumatic uprooting.",
+   "page": 162,
+   "sectionId": "life"
+  },
+  {
+   "q": "The epigenetic principle states that",
+   "options": [
+    "genes determine the stages, while the environment governs how they are realised",
+    "the environment determines the order of the stages",
+    "development ends in adolescence",
+    "crises are caused solely by biology"
+   ],
+   "answer": 0,
+   "explain": "Inherited forces set the stages; social forces control how they are realised.",
+   "page": 163,
+   "sectionId": "psychosocial-stages"
+  },
+  {
+   "q": "According to Erikson, a satisfactorily resolved crisis leaves the ego",
+   "options": [
+    "wholly adaptive",
+    "mainly adaptive but with some of the negative attitude",
+    "wholly maladaptive",
+    "equally adaptive and maladaptive"
+   ],
+   "answer": 1,
+   "explain": "The ideal is a predominance of the positive attitude balanced by some negative attitude, e.g., a little mistrust for protection.",
+   "page": 163,
+   "sectionId": "psychosocial-stages"
+  },
+  {
+   "q": "The basic strength of the oral-sensory stage is",
+   "options": [
+    "will",
+    "purpose",
+    "hope",
+    "fidelity"
+   ],
+   "answer": 2,
+   "explain": "Hope, the belief that desires will be satisfied, follows resolution of trust vs. mistrust.",
+   "page": 164,
+   "sectionId": "trust"
+  },
+  {
+   "q": "Which claim did Erikson make about mistrust?",
+   "options": [
+    "It can never be changed after infancy",
+    "It is entirely genetic",
+    "It is harmless in any amount",
+    "It may develop if the mother lacks an exclusive focus on the child"
+   ],
+   "answer": 3,
+   "explain": "He argued a mother resuming outside work risked mistrust; mistrust can be altered later by a patient teacher or friend.",
+   "page": 164,
+   "sectionId": "trust"
+  },
+  {
+   "q": "The key crisis between parent and child in the muscular-anal stage typically involves",
+   "options": [
+    "toilet training",
+    "weaning",
+    "starting school",
+    "Oedipal rivalry"
+   ],
+   "answer": 0,
+   "explain": "Toilet training is the first time society regulates an instinctual need.",
+   "page": 165,
+   "sectionId": "autonomy"
+  },
+  {
+   "q": "Will is defined as",
+   "options": [
+    "courage to pursue goals",
+    "determination to exercise free choice and self-restraint despite society's demands",
+    "belief that desires will be met",
+    "mutual devotion in a shared identity"
+   ],
+   "answer": 1,
+   "explain": "Will arises from autonomy at ages 1–3.",
+   "page": 165,
+   "sectionId": "autonomy"
+  },
+  {
+   "q": "Persistent guilt in the locomotor-genital stage results from parents who",
+   "options": [
+    "guide Oedipal fantasies with love",
+    "praise schoolwork",
+    "punish and inhibit the child's initiative and fantasies",
+    "permit toilet training at the child's pace"
+   ],
+   "answer": 2,
+   "explain": "Punishment of self-initiated activities and fantasies yields lifelong guilt.",
+   "page": 165,
+   "sectionId": "initiative"
+  },
+  {
+   "q": "Purpose is the basic strength that involves",
+   "options": [
+    "sincerity and duty",
+    "skill in completing tasks",
+    "detached concern with life",
+    "the courage to envision and pursue goals"
+   ],
+   "answer": 3,
+   "explain": "Purpose arises from initiative at ages 3–5.",
+   "page": 165,
+   "sectionId": "initiative"
+  },
+  {
+   "q": "Erikson's examples of boys building tree houses and girls cooking show that his ideas",
+   "options": [
+    "reflected the sex stereotypes of his period",
+    "were based on cross-cultural data",
+    "were supported by later research",
+    "applied only to adolescents"
+   ],
+   "answer": 0,
+   "explain": "The chapter explicitly notes these examples reflect the stereotypes of his time.",
+   "page": 166,
+   "sectionId": "industriousness"
+  },
+  {
+   "q": "The major difference between the first four and last four stages is that in the last four",
+   "options": [
+    "parents and teachers determine outcomes",
+    "we have increasing conscious control over our choices",
+    "no crises occur",
+    "basic strengths no longer develop"
+   ],
+   "answer": 1,
+   "explain": "Childhood outcomes depend on others; adult stages involve deliberate choices, shaped by earlier outcomes.",
+   "page": 167,
+   "sectionId": "industriousness"
+  },
+  {
+   "q": "Erikson described adolescence as a necessary",
+   "options": [
+    "latency period",
+    "foreclosure",
+    "psychological moratorium",
+    "malignant phase"
+   ],
+   "answer": 2,
+   "explain": "A moratorium gives time to play different roles and live with different self-images.",
+   "page": 167,
+   "sectionId": "identity"
+  },
+  {
+   "q": "According to Erikson, a negative identity is",
+   "options": [
+    "worse than role confusion",
+    "the healthiest outcome",
+    "impossible in adolescence",
+    "preferable to no identity at all"
+   ],
+   "answer": 3,
+   "explain": "Even a socially disapproved identity is better than none, though less satisfying than a positive one.",
+   "page": 167,
+   "sectionId": "identity"
+  },
+  {
+   "q": "Erikson regarded which basic strength as the greatest human virtue?",
+   "options": [
+    "Love",
+    "Wisdom",
+    "Hope",
+    "Care"
+   ],
+   "answer": 0,
+   "explain": "Love, from intimacy in young adulthood, is called the greatest of all virtues.",
+   "page": 168,
+   "sectionId": "intimacy"
+  },
+  {
+   "q": "People who fail at intimacy tend to",
+   "options": [
+    "become overextended mentors",
+    "avoid contact and fear intimacy as a threat to identity",
+    "develop narrow virtuosity",
+    "show excessive trust"
+   ],
+   "answer": 1,
+   "explain": "Isolation involves avoiding and rejecting others, sometimes aggressively.",
+   "page": 168,
+   "sectionId": "intimacy"
+  },
+  {
+   "q": "Erikson compared stagnation in middle age to",
+   "options": [
+    "Freud's latency period",
+    "Adler's inferiority complex",
+    "Jung's midlife crisis",
+    "Horney's basic anxiety"
+   ],
+   "answer": 2,
+   "explain": "The chapter says his depiction is similar to Jung's description of the midlife crisis.",
+   "page": 169,
+   "sectionId": "generativity"
+  },
+  {
+   "q": "Which statement about generativity is correct?",
+   "options": [
+    "Having children automatically satisfies it",
+    "It is limited to one's own family",
+    "It belongs to the 18–35 stage",
+    "One need not be a parent to show generativity"
+   ],
+   "answer": 3,
+   "explain": "Generativity extends beyond the family; parenthood is neither required nor sufficient.",
+   "page": 169,
+   "sectionId": "generativity"
+  },
+  {
+   "q": "Erikson's book on old age, based on 29 people in their 80s, was titled",
+   "options": [
+    "Vital Involvement in Old Age",
+    "Childhood and Society",
+    "Identity: Youth and Crisis",
+    "A Way of Looking at Things"
+   ],
+   "answer": 0,
+   "explain": "Its title states his prescription: stay actively involved.",
+   "page": 169,
+   "sectionId": "integrity"
+  },
+  {
+   "q": "Late in life Erikson concluded that much of old people's despair is",
+   "options": [
+    "caused by early mistrust",
+    "a continuing sense of stagnation",
+    "purely biological",
+    "a form of fanaticism"
+   ],
+   "answer": 1,
+   "explain": "He came to see generativity as the key contributor to ego integrity.",
+   "page": 169,
+   "sectionId": "integrity"
+  },
+  {
+   "q": "When only the negative tendency is present in the ego, the condition is called",
+   "options": [
+    "maladaptive",
+    "re-adaptive",
+    "malignant",
+    "epigenetic"
+   ],
+   "answer": 2,
+   "explain": "Only negative = malignant (can lead to psychoses); only positive = maladaptive (can lead to neuroses).",
+   "page": 170,
+   "sectionId": "weaknesses"
+  },
+  {
+   "q": "In Table 6.2, excessive identity cohesion leads to",
+   "options": [
+    "repudiation",
+    "promiscuity",
+    "inertia",
+    "fanaticism"
+   ],
+   "answer": 3,
+   "explain": "Fanaticism is the maladaptive tendency of adolescence; role confusion leads to repudiation.",
+   "page": 171,
+   "sectionId": "weaknesses"
+  },
+  {
+   "q": "Erikson's theory is best described as",
+   "options": [
+    "only partially deterministic",
+    "wholly deterministic",
+    "wholly free-willed",
+    "biologically determined"
+   ],
+   "answer": 0,
+   "explain": "Early stages are largely beyond our control; later stages allow more free will.",
+   "page": 170,
+   "sectionId": "human-nature"
+  },
+  {
+   "q": "Erikson believed personality is affected more by",
+   "options": [
+    "heredity than learning",
+    "learning and experience than heredity",
+    "instinctual forces than social ones",
+    "birth order than culture"
+   ],
+   "answer": 1,
+   "explain": "Psychosocial experiences, not instinctual biology, are the greater determinant.",
+   "page": 170,
+   "sectionId": "human-nature"
+  },
+  {
+   "q": "Why did Erikson reject the psychoanalytic couch?",
+   "options": [
+    "It was too expensive",
+    "Freud had abandoned it",
+    "It could foster exploitation, false objectivity and therapist aloofness",
+    "It made patients too talkative"
+   ],
+   "answer": 2,
+   "explain": "He preferred face-to-face seating as equals.",
+   "page": 171,
+   "sectionId": "assessment-play-therapy"
+  },
+  {
+   "q": "Erikson described dream analysis as",
+   "options": [
+    "his main technique",
+    "essential with children",
+    "useful only with veterans",
+    "wasteful and harmful"
+   ],
+   "answer": 3,
+   "explain": "He rarely analysed dreams.",
+   "page": 171,
+   "sectionId": "assessment-play-therapy"
+  },
+  {
+   "q": "'Disciplined subjectivity' refers to",
+   "options": [
+    "adopting the subject's viewpoint to see events through his or her eyes",
+    "refusing to interpret data",
+    "using only objective tests",
+    "analysing dreams systematically"
+   ],
+   "answer": 0,
+   "explain": "Erikson used it in psychohistorical analysis.",
+   "page": 172,
+   "sectionId": "psychohistory"
+  },
+  {
+   "q": "Which figure was a subject of Erikson's psychohistories?",
+   "options": [
+    "Abraham Lincoln",
+    "Martin Luther",
+    "Vera Brittain",
+    "Carol Tavris"
+   ],
+   "answer": 1,
+   "explain": "He studied Gandhi, Martin Luther and George Bernard Shaw; Brittain was analysed by Peterson and Stewart.",
+   "page": 172,
+   "sectionId": "psychohistory"
+  },
+  {
+   "q": "The Loyola Generativity Scale is",
+   "options": [
+    "a 32-item adolescent questionnaire",
+    "a 64-item racial identity scale",
+    "a 20-item self-report inventory",
+    "a projective play test"
+   ],
+   "answer": 2,
+   "explain": "McAdams and de St. Aubin (1992) developed it to measure generativity vs. stagnation.",
+   "page": 172,
+   "sectionId": "tests"
+  },
+  {
+   "q": "The Ego Identity Process Questionnaire measures",
+   "options": [
+    "trust and mistrust",
+    "PEM and NEM",
+    "power and intimacy motivation",
+    "exploration and commitment"
+   ],
+   "answer": 3,
+   "explain": "It has 32 items for adolescents.",
+   "page": 172,
+   "sectionId": "tests"
+  },
+  {
+   "q": "In Erikson's play-constructions study, girls typically built",
+   "options": [
+    "low, enclosed, peaceful scenes",
+    "tall towers",
+    "scenes full of moving cars",
+    "battle scenes"
+   ],
+   "answer": 0,
+   "explain": "Boys focused on height, exteriors and action.",
+   "page": 172,
+   "sectionId": "research-play-constructions"
+  },
+  {
+   "q": "Who mainly teaches and reinforces gender-based play, according to the chapter?",
+   "options": [
+    "Mothers",
+    "Fathers",
+    "Teachers",
+    "Siblings"
+   ],
+   "answer": 1,
+   "explain": "Fathers treat boys and girls more stereotypically than mothers (Quiery, 1998).",
+   "page": 173,
+   "sectionId": "research-play-constructions"
+  },
+  {
+   "q": "Holocaust survivors had successfully dealt with all stages except",
+   "options": [
+    "identity vs. role confusion",
+    "generativity vs. stagnation",
+    "trust vs. mistrust",
+    "intimacy vs. isolation"
+   ],
+   "answer": 2,
+   "explain": "Suedfeld et al. (2005) found more mistrust, yet later stages were resolved.",
+   "page": 174,
+   "sectionId": "research-trust"
+  },
+  {
+   "q": "Children with a well-developed sense of trust were found to be",
+   "options": [
+    "more withdrawn",
+    "less forceful in pursuing goals",
+    "reluctant to play",
+    "more curious, popular and sensitive to others"
+   ],
+   "answer": 3,
+   "explain": "Low-trust children showed those negative traits.",
+   "page": 174,
+   "sectionId": "research-trust"
+  },
+  {
+   "q": "Waterman, Buebel and Waterman (1970) found that identity cohesion was related to",
+   "options": [
+    "adaptive coping in the first four stages",
+    "having divorced parents",
+    "low self-esteem",
+    "early marriage"
+   ],
+   "answer": 0,
+   "explain": "Adolescents with trust, autonomy, initiative and industriousness showed identity cohesion.",
+   "page": 175,
+   "sectionId": "research-stages"
+  },
+  {
+   "q": "Among Canadian men studied by Beaumont and Zukanovic, distress was lowest in",
+   "options": [
+    "men aged 19–25",
+    "men aged 65–87",
+    "men aged 35–55",
+    "all groups equally"
+   ],
+   "answer": 1,
+   "explain": "Older men coped better, consistent with Erikson.",
+   "page": 175,
+   "sectionId": "research-stages"
+  },
+  {
+   "q": "Adolescents committed to an occupation chosen by their parents, without a crisis, are in",
+   "options": [
+    "moratorium",
+    "identity diffusion",
+    "foreclosure",
+    "alienated achievement"
+   ],
+   "answer": 2,
+   "explain": "Foreclosed teens tend to be rigid and authoritarian.",
+   "page": 176,
+   "sectionId": "research-adolescence"
+  },
+  {
+   "q": "The order of increasingly successful resolution of the identity problem is",
+   "options": [
+    "foreclosure, diffusion, achievement, moratorium",
+    "moratorium, diffusion, foreclosure, achievement",
+    "achievement, moratorium, foreclosure, diffusion",
+    "diffusion, foreclosure, moratorium, achievement"
+   ],
+   "answer": 3,
+   "explain": "The chapter gives this order; Bourne supported greater ego strength with integrated identity.",
+   "page": 177,
+   "sectionId": "research-adolescence"
+  },
+  {
+   "q": "Compared with men, women's identity formation depends more on",
+   "options": [
+    "social relationships",
+    "individual skills",
+    "occupational status",
+    "detachment"
+   ],
+   "answer": 0,
+   "explain": "Curry (1998) and Mellor (1989).",
+   "page": 177,
+   "sectionId": "research-sex-differences"
+  },
+  {
+   "q": "In the diary study of 155 adolescents, what percentage of interactions involved conflict?",
+   "options": [
+    "13 percent",
+    "31 percent",
+    "51 percent",
+    "71 percent"
+   ],
+   "answer": 1,
+   "explain": "Jensen-Campbell & Graziano (2000); conflicts with parents were more intense.",
+   "page": 178,
+   "sectionId": "research-sex-differences"
+  },
+  {
+   "q": "Linares et al. (2011) found that Second Life users",
+   "options": [
+    "created entirely fictional personas",
+    "avoided social interaction",
+    "brought portions of their real lives into their online personas",
+    "lost their real identities"
+   ],
+   "answer": 2,
+   "explain": "They projected parts of their offline lives online.",
+   "page": 179,
+   "sectionId": "research-virtual-identity"
+  },
+  {
+   "q": "Australian youth who communicated more online about intimate matters scored high in",
+   "options": [
+    "self-esteem",
+    "generativity",
+    "identity achievement",
+    "loneliness and social anxiety"
+   ],
+   "answer": 3,
+   "explain": "Bonetti, Campbell & Gilmore (2010).",
+   "page": 179,
+   "sectionId": "research-virtual-identity"
+  },
+  {
+   "q": "Erikson defined identity consolidation as",
+   "options": [
+    "dealing successfully with the social realities of adult life",
+    "resolving the Oedipal conflict",
+    "achieving wisdom in old age",
+    "rejecting parental values"
+   ],
+   "answer": 0,
+   "explain": "It usually occurs in the 20s.",
+   "page": 180,
+   "sectionId": "research-gender-identity"
+  },
+  {
+   "q": "Adams and Fitch (1982) found that compared with employed peers, college students",
+   "options": [
+    "achieved identity earlier",
+    "stayed longer in the moratorium status",
+    "were in foreclosure",
+    "showed no identity crisis"
+   ],
+   "answer": 1,
+   "explain": "College may delay resolution of the identity crisis.",
+   "page": 181,
+   "sectionId": "research-gender-identity"
+  },
+  {
+   "q": "High-generativity adults describing life episodes tended to report",
+   "options": [
+    "positive events turned negative",
+    "no turning points",
+    "negative experiences transformed into positive redemptive ones",
+    "only childhood memories"
+   ],
+   "answer": 2,
+   "explain": "McAdams et al. (2001).",
+   "page": 181,
+   "sectionId": "research-generativity"
+  },
+  {
+   "q": "Contrary to Erikson, Zucker, Ostrove and Stewart found women's generativity",
+   "options": [
+    "was highest in their 20s",
+    "dropped sharply after 40",
+    "was unrelated to age",
+    "stayed at the same level into their 60s"
+   ],
+   "answer": 3,
+   "explain": "It rose from the 20s to the 40s as predicted but did not decline later.",
+   "page": 182,
+   "sectionId": "research-generativity"
+  },
+  {
+   "q": "Staudinger found that older adults reflected on their lives mainly to",
+   "options": [
+    "evaluate their lives and achieve ego integrity",
+    "solve current problems",
+    "gain self-insight for the future",
+    "avoid thinking about death"
+   ],
+   "answer": 0,
+   "explain": "Younger people reflected for insight and current problems.",
+   "page": 184,
+   "sectionId": "research-maturity"
+  },
+  {
+   "q": "Why may women find ego integrity harder in old age?",
+   "options": [
+    "They reflect less often",
+    "A double standard on aging, longer lives and more losses",
+    "They are lower in generativity",
+    "They lack basic trust"
+   ],
+   "answer": 1,
+   "explain": "Rainey (1998) and Miner-Rubino et al. (2004).",
+   "page": 184,
+   "sectionId": "research-maturity"
+  },
+  {
+   "q": "In Cross's model, the stage in which experiencing racism shifts one's worldview is",
+   "options": [
+    "pre-encounter",
+    "immersion-emersion",
+    "encounter",
+    "internalization"
+   ],
+   "answer": 2,
+   "explain": "Encounter follows pre-encounter.",
+   "page": 186,
+   "sectionId": "research-ethnic-identity"
+  },
+  {
+   "q": "Bracey et al. (2004) found self-esteem was highest among",
+   "options": [
+    "Asian adolescents",
+    "biracial adolescents",
+    "White adolescents",
+    "Black adolescents"
+   ],
+   "answer": 3,
+   "explain": "Lowest among Asians, biracial in between.",
+   "page": 185,
+   "sectionId": "research-ethnic-identity"
+  },
+  {
+   "q": "The first stage in Frable's model of gender preference identity is",
+   "options": [
+    "sensitization",
+    "identity confusion",
+    "identity assumption",
+    "commitment"
+   ],
+   "answer": 0,
+   "explain": "Sensitization occurs before adolescence.",
+   "page": 186,
+   "sectionId": "research-gender-preference"
+  },
+  {
+   "q": "Coming out and expressing pride in one's identity is associated with",
+   "options": [
+    "more harassment and lower grades",
+    "higher self-esteem and lower depression",
+    "greater gender role conflict",
+    "lower well-being"
+   ],
+   "answer": 1,
+   "explain": "Bockting (2014); Frable (1997); Kosciw et al. (2014).",
+   "page": 187,
+   "sectionId": "research-gender-preference"
+  },
+  {
+   "q": "Erikson attributed the vagueness of his concepts to",
+   "options": [
+    "Anna Freud's influence",
+    "lack of clinical cases",
+    "his artistic temperament and lack of scientific training",
+    "translation errors"
+   ],
+   "answer": 2,
+   "explain": "He said he came to psychology from art.",
+   "page": 188,
+   "sectionId": "contributions-criticisms"
+  },
+  {
+   "q": "Slugoski and Ginsburg criticised Erikson's theory because",
+   "options": [
+    "it ignores the unconscious",
+    "it has too few stages",
+    "it ignores infancy",
+    "a moratorium may be a luxury unavailable to the poor"
+   ],
+   "answer": 3,
+   "explain": "Those without means for college or travel may not be able to explore roles.",
+   "page": 188,
+   "sectionId": "contributions-criticisms"
+  },
+  {
+   "q": "Time magazine called Erikson",
+   "options": [
+    "the most influential living psychoanalyst",
+    "an authentic intellectual hero",
+    "the father of ego psychology",
+    "the founder of psychohistory"
+   ],
+   "answer": 0,
+   "explain": "Psychology Today called him an authentic intellectual hero.",
+   "page": 188,
+   "sectionId": "recognition-influence"
+  },
+  {
+   "q": "Erikson's play therapy today is a standard tool for",
+   "options": [
+    "older adults with despair",
+    "emotionally disturbed and abused children",
+    "corporate selection",
+    "measuring generativity"
+   ],
+   "answer": 1,
+   "explain": "Children can express abuse through dolls when they cannot verbalise it.",
+   "page": 189,
+   "sectionId": "recognition-influence"
+  }
+ ],
+ "practice": [
+  {
+   "q": "What is the epigenetic principle of maturation?",
+   "marks": 2,
+   "pages": [
+    163,
+    163
+   ],
+   "answer": "The epigenetic principle of maturation is Erikson's idea that human development unfolds in a sequence of stages determined by inherited (genetic) factors; epi means 'upon', so development rests on genetic foundations. However, social and environmental forces control how each predetermined stage is actually realised, so personality reflects both biology and social experience."
+  },
+  {
+   "q": "Distinguish maladaptive and malignant maldevelopment.",
+   "marks": 2,
+   "pages": [
+    170,
+    170
+   ],
+   "answer": "Maldevelopment occurs when the ego holds only one way of coping. If only the positive, adaptive tendency is present (e.g., total trust, giving sensory maladjustment) it is maladaptive and can lead to neuroses. If only the negative tendency is present (e.g., total mistrust, giving withdrawal) it is malignant and can lead to psychoses. Both can be corrected through psychotherapy."
+  },
+  {
+   "q": "What is psychohistorical analysis?",
+   "marks": 2,
+   "pages": [
+    172,
+    172
+   ],
+   "answer": "Psychohistorical analysis is Erikson's application of his life-span theory and psychoanalytic principles to historical figures such as Gandhi, Martin Luther and George Bernard Shaw. These biographical studies focus on a major crisis uniting past, present and future, and use 'disciplined subjectivity', viewing events through the subject's eyes."
+  },
+  {
+   "q": "Name the stages of gender preference identity proposed by Frable.",
+   "marks": 2,
+   "pages": [
+    186,
+    187
+   ],
+   "answer": "Frable (1997) proposed four stages: (1) sensitization, a pre-adolescent sense of being different from same-sex peers; (2) identity confusion, the adolescent, often frightening realisation that one's feelings may be homosexual; (3) identity assumption, beginning to accept a gay identity; and (4) commitment, full acceptance of the gay identity as a way of life."
+  },
+  {
+   "q": "Describe Erikson's own identity crises and explain how they were reflected in his theory.",
+   "marks": 5,
+   "pages": [
+    160,
+    162
+   ],
+   "answer": "Erikson's life illustrates how a theory can grow from its author's experience. He was born in Frankfurt to a Danish mother who never revealed his father's identity. She married his pediatrician, Theodore Homburger, and Erik grew up unsure of his name and identity, using the name Homburger until he became a U.S. citizen at 37 and renamed himself Erikson. At school, German classmates rejected him as Jewish, while Jewish classmates rejected him for his Aryan appearance.\n\nAfter high school he drifted through Europe as an artist, feeling neurotic and close to psychotic, repeatedly leaving art schools to continue searching for an identity. Only when he began teaching in Vienna and trained with Anna Freud did he feel he had found one. Even late in life, his daughter reports, he remained ashamed of his illegitimacy.\n\nThese experiences appear throughout his theory. The concept of the identity crisis, the psychological moratorium of adolescence, and the idea that one may withdraw from the normal life sequence (as he did) all mirror his own path. He even admitted that he needed to name the crisis and see it in everyone in order to deal with it himself. His later observations of identity confusion in uprooted American Indians and war veterans extended this personal theme into a general theory of ego identity."
+  },
+  {
+   "q": "Explain the role of conflict and crisis in Erikson's psychosocial stages, and describe the two ways of responding to each crisis.",
+   "marks": 5,
+   "pages": [
+    163,
+    163
+   ],
+   "answer": "For Erikson, development is a series of personal conflicts. Their potential is present at birth as innate predispositions, and each becomes prominent at a particular stage when the environment demands a new adaptation. Each such confrontation is a crisis, a turning point requiring a shift in perspective and a refocusing of energy to fit the needs of that stage.\n\nEach crisis can be met in a maladaptive (negative) or an adaptive (positive) way, for example mistrust or trust in infancy. Only when a conflict is resolved can personality continue normally and gain strength for the next stage; an unresolved conflict makes later adaptation harder, though success remains possible.\n\nImportantly, the ego should incorporate both ways of coping. Trust is healthier, but some mistrust protects us from deception and manipulation. The ideal resolution is an ego dominated by the adaptive attitude yet balanced by some of the negative one. A satisfactory resolution produces a basic strength such as hope; one-sided development, containing only one attitude, produces maldevelopment (maladaptive or malignant tendencies). Because the strengths are interdependent, each stage's resolution prepares the ground for the next crisis."
+  },
+  {
+   "q": "Describe Marcia's five identity statuses and the research findings on each.",
+   "marks": 5,
+   "pages": [
+    176,
+    177
+   ],
+   "answer": "Marcia identified five adolescent statuses. Identity achievement describes adolescents committed to occupational and ideological choices. They are stable, realistic, cope well with change, choose difficult majors, have high self-esteem and well-being, form stable romances in their twenties and avoid risky behaviour. Their parents gave loving direction rather than being too permissive or authoritarian.\n\nMoratorium describes those still in the identity crisis, with vague commitments and ambivalence toward authority; they are anxious, may daydream and believe in the supernatural. Foreclosure describes adolescents committed to choices made by their parents without having had a crisis; they are rigid, authoritarian and struggle with change, pursuing external goals.\n\nIdentity diffusion describes those with no commitments and possibly no crisis, sometimes drifting aimlessly; they see parents as indifferent and show poor adjustment, unstable self-image and impulsivity. Alienated achievement describes those who had a crisis but reject the social and economic system and so avoid careers; they are cerebral and cynical.\n\nDiffusion, foreclosure, moratorium and achievement represent increasingly successful resolution, and Bourne found greater ego strength in those with integrated identity. A review of more than 120 studies showed identity achievement rising over late adolescence and young adulthood, as Erikson predicted."
+  },
+  {
+   "q": "How does Erikson's image of human nature differ from Freud's?",
+   "marks": 5,
+   "pages": [
+    170,
+    170
+   ],
+   "answer": "Erikson's image is far more optimistic than Freud's. By describing basic strengths such as hope, purpose and wisdom, he implied that everyone has the potential to develop these virtues; nothing in human nature prevents it, and we are not doomed to conflict, anxiety and neurosis by biological instincts, as Freud's view suggested.\n\nEach stage centres on a crisis but offers a positive outcome, and failure at one stage can be corrected later. Freud saw personality as largely fixed by the first five years; Erikson held that we can consciously direct our growth throughout life and that later events can counteract early misfortunes.\n\nOn free will versus determinism, Erikson is only partially deterministic: in the first four stages experiences are largely beyond our control, but in the last four we have more free will, though earlier outcomes shape our choices. On nature versus nurture, he emphasised learning and psychosocial experience over heredity, whereas Freud emphasised instinctual biological forces. Finally, Erikson's ultimate goal is a positive ego identity incorporating all basic strengths, reflecting his focus on an independent ego rather than the id. Thus, where Freud saw people as victims of biology and childhood, Erikson saw them as capable of growth at every stage."
+  },
+  {
+   "q": "Describe the concept of generativity, give an example of how it can be achieved, and summarise research comparing people high and low in generativity.",
+   "marks": 5,
+   "pages": [
+    168,
+    182
+   ],
+   "answer": "Generativity is the adaptive pole of the seventh stage (about 35–55). It is the need to be actively involved in teaching and guiding the next generation, a concern that extends beyond one's family to future society. Parenthood is neither necessary nor sufficient. All institutions offer outlets, so a person might mentor junior colleagues, teach, or guide young people through social service. Failure leads to stagnation, boredom and self-absorption; success yields care.\n\nResearch shows that generativity is rooted in warm childhood parenting. High scorers on the Loyola Generativity Scale believe in the worth of human life, are happier and more satisfied, report life themes of early good fortune, sensitivity to suffering and clear goals, and tell redemption stories. They score higher in extraversion, self-esteem, conscientiousness, altruism and openness, have more satisfying relationships, successful marriages and careers, and greater well-being, whether or not they are parents. Generativity correlates with power and intimacy motivation and nurturance. Low scorers lack these themes and tell stories where good events turn bad. Most people slow to reach ego identity still catch up and become generative by midlife (Whitbourne et al.), while older people who feel out of touch with technology lose generativity (Cheng)."
+  },
+  {
+   "q": "Describe the eight psychosocial stages of Erikson's theory with their ages, crises and basic strengths. What is the major difference between the first four and the last four stages?",
+   "marks": 10,
+   "pages": [
+    162,
+    169
+   ],
+   "answer": "Introduction\nErik Erikson extended Freud's theory by proposing that personality develops across the whole life span in eight psychosocial stages. Governed by the epigenetic principle, the stages are genetically ordered but realised through social experience. Each involves a crisis with an adaptive and a maladaptive way of coping; a balanced, mainly adaptive resolution yields a basic strength.\n\nThe four childhood stages\n1. Oral-sensory (birth–1): trust vs. mistrust. The helpless infant depends on the mother; consistent love and care produce trust and the start of ego identity, while rejection or inconsistency produces mistrust. Strength: hope.\n2. Muscular-anal (1–3): autonomy vs. doubt and shame. Toddlers exercise choice for the first time; holding on and letting go are prototypes for later behaviour. Forced toilet training breeds doubt and shame. Strength: will.\n3. Locomotor-genital (3–5): initiative vs. guilt. Children take initiative, including Oedipal fantasies; punishment creates lasting guilt, loving guidance channels initiative into socially approved goals (the superego). Strength: purpose.\n4. Latency (6–11): industriousness vs. inferiority. At school children develop work habits and skills; praise fosters competence, ridicule fosters inferiority. Strength: competence.\n\nThe four later stages\n5. Adolescence (12–18): identity cohesion vs. role confusion. In a psychological moratorium adolescents experiment with roles to form ego identity; failure, the identity crisis, causes role confusion or a negative identity. Strength: fidelity.\n6. Young adulthood (18–35): intimacy vs. isolation. Caring, committed relationships merge identities without losing them; failure brings isolation. Strength: love, the greatest virtue.\n7. Adulthood (35–55): generativity vs. stagnation. Adults guide the next generation through family, work or institutions; failure brings stagnation, boredom and pseudo-intimacy. Strength: care.\n8. Maturity and old age (55+): ego integrity vs. despair. Reviewing life with acceptance gives integrity; regret and bitterness give despair. Erikson later stressed staying vitally involved and saw generativity as key. Strength: wisdom.\n\nFirst four versus last four\nThe outcome of the first four stages depends mainly on other people: it is more a function of what is done to children by parents and teachers than of what they do themselves. In the last four stages we gain increasing conscious control, choosing friends, colleges, careers, spouses and leisure. Still, whether the ego emerges from childhood mainly with trust, autonomy, initiative and industriousness, or with mistrust, doubt, guilt and inferiority, strongly shapes these choices.\n\nConclusion\nErikson's stages give an optimistic, life-long picture in which each crisis offers a chance for growth and earlier failures can be repaired later, a major broadening of Freud's childhood-centred model. The basic strengths are interdependent, each depending on confirmation of the previous one, and a healthy ego retains some of the negative pole (a little mistrust, for instance) as protection. One-sided development produces maldevelopment, such as fanaticism or repudiation in adolescence. Research supports the sequence: children's stories reflect their current stage themes (Ciaccio), Vera Brittain's writings moved from identity to intimacy to generativity, and older adults' memories of each decade centre on the matching stage issue."
+  },
+  {
+   "q": "Critically evaluate Erikson's theory, discussing his assessment methods, research support, contributions and criticisms.",
+   "marks": 10,
+   "pages": [
+    171,
+    189
+   ],
+   "answer": "Introduction\nErikson's identity theory remains one of the most influential personality theories. Evaluating it requires looking at how he gathered data, how far research supports it, and what its strengths and weaknesses are.\n\nAssessment methods\nErikson differed from Freud in assessment. He rejected the couch as potentially exploitative and impersonal, preferring face-to-face chairs, used free association only occasionally and considered dream analysis wasteful and harmful. He tailored techniques to each patient. His main data sources were play therapy, in which children's play revealed what they could not verbalise; anthropological studies such as his work on Sioux child-rearing; and psychohistorical analysis of figures like Gandhi and Martin Luther using disciplined subjectivity. Later researchers built tests from his ideas, including the Ego-Identity Scale, the Ego Identity Process Questionnaire and the Loyola Generativity Scale. His own research relied on case studies, which are hard to duplicate and verify, though he argued they yield rich insights into development and help resolve patients' problems.\n\nResearch support\nSupport is considerable, particularly for the first six stages and ego identity. Early secure attachment predicts later social competence; Holocaust survivors high in mistrust still mastered later stages, confirming that later events can repair early damage. Children's stories, Vera Brittain's writings and older adults' memories follow the predicted stage themes. Adaptive earlier development predicts identity cohesion. Marcia's statuses show identity achievement to be the most mature outcome. Generativity is linked to happiness, better relationships and well-being, and ego integrity to less fear of death. However, research also shows the identity crisis may extend into the twenties, college can prolong moratorium, and women's generativity does not decline as predicted.\n\nContributions\nErikson showed that personality develops over the entire life span, introduced the adolescent identity crisis, and incorporated cultural, social and historical forces. Research on virtual, ethnic and gender preference identity extends his framework. He sparked life-span developmental psychology, his ideas are used in education, counselling and social work, and play therapy is now standard with abused children.\n\nCriticisms\nCritics cite ambiguous concepts, conclusions lacking data and imprecision, which Erikson blamed on his artistic background. The maturity stage was incompletely described and may be too positive given the pain and loss of old age. His anatomical reading of play constructions is seen as biased; sex-role training is an alternative he later accepted. Tavris argued the stages do not fit women's lives, and Slugoski and Ginsburg argued the moratorium is a luxury unavailable to poorer people. He also neglected racial and ethnic identity, now shown to be central for minority youth.\n\nConclusion\nDespite vagueness and cultural bias, Erikson's theory has strong research support and enormous practical influence, which explains why he was called the most influential living psychoanalyst. On balance, his theory is better at describing and organising development than at producing precise, testable predictions, but its broad life-span framework has generated decades of productive research, from Marcia's identity statuses to McAdams's work on generativity, and continues to be extended to new areas such as online identity and minority identity development."
+  },
+  {
+   "q": "Discuss research on ego identity in adolescence, including virtual identity, sex differences and racial and ethnic identity.",
+   "marks": 10,
+   "pages": [
+    176,
+    186
+   ],
+   "answer": "Introduction\nErikson saw adolescence (12–18) as the stage of ego identity versus role confusion, a moratorium for experimenting with roles. A large body of research tests and extends this idea.\n\nIdentity statuses\nMarcia identified five statuses. Identity achievement (commitment after exploration) is the most mature, associated with stability, realistic goals, high self-esteem, stable later romances and less risky behaviour, and is fostered by loving but directive parents. Moratorium involves ongoing crisis and anxiety; foreclosure involves commitments adopted from parents, rigidity and authoritarianism; identity diffusion involves no commitment, poor adjustment and impulsivity; alienated achievement involves rejection of the social system. Diffusion, foreclosure, moratorium and achievement represent increasingly successful resolutions, and integrated identity brings greater ego strength. Extracurricular activities, volunteering and sport strengthen identity and fidelity.\n\nTiming and stress\nThe crisis may extend into the twenties: up to 30 percent were still searching at 24, and college students stay in moratorium longer than employed peers. Adolescence involves conflict with parents, mood disruption and risky behaviour, though many troubled teens had difficulties in childhood too.\n\nSex differences\nMale identity tends to centre on separation and individual competence, female identity on connection and relationships, and Dutch girls formed identity earlier than boys. Women's identity has been shaped by social forces such as the women's movement and career orientation: women in college when the movement began had higher aspirations and later achievement, and career-oriented women married later. This supports Erikson's emphasis on history and culture. An Indian study found girls higher in ego identity than boys.\n\nVirtual identity\nOnline games, MUDs and social media allow exactly the role experimentation Erikson described. Identification with virtual communities can be as satisfying as offline identification, and users often project parts of their real lives online. Personal home pages aid mastery and self-expression, but oversharing can delay identity, and teens lacking a true sense of self, or who are lonely and anxious, rely more on online communication.\n\nRacial and ethnic identity\nErikson did not consider race, but a strong ethnic identity among minority youth is linked to well-being, self-esteem, life satisfaction, academic motivation, resistance to drugs and buffering of stress, while identity confusion with majority beauty ideals may contribute to eating disorders. Cross's Revised Racial Identity Model describes four stages (pre-encounter, encounter, immersion-emersion, internalization); advanced stages bring better well-being and more mature defences.\n\nConclusion\nResearch broadly confirms the importance of ego identity in adolescence while showing that its timing, content and pathways vary with gender, culture, ethnicity and technology. These findings also extend Erikson's own position: he stressed culture and history in principle, but research on ethnic identity and gender preference identity (Frable's stages of sensitization, identity confusion, identity assumption and commitment) shows aspects of identity he did not directly consider, each developing in stages much like his psychosocial sequence."
+  },
+  {
+   "q": "In what ways does Erikson's theory differ from Freud's?",
+   "marks": 5,
+   "pages": [
+    159,
+    171
+   ],
+   "answer": "Erikson saw psychoanalysis as his starting point but departed from Freud in several ways. First, he extended development over the whole life span with eight stages, whereas Freud's stages end in childhood and adolescence. Second, he gave the ego greater emphasis and made it independent of the id rather than subservient to it. Third, he stressed cultural, social and historical forces; even in the stages that parallel Freud's oral, anal, phallic and latency periods, he emphasised psychosocial rather than biological correlates (for example, toilet training as a psychosocial conflict over autonomy).\n\nHis image of human nature is more optimistic: each crisis can be resolved positively, failures can be corrected later, and we can consciously shape our growth; Freud saw people as driven by instincts and largely fixed by early childhood. Erikson's theory is only partially deterministic and emphasises learning over heredity.\n\nHis methods also differed. He rejected the couch in favour of face-to-face seating as equals, rarely analysed dreams (calling it wasteful and harmful), and relied on play therapy, anthropological studies and psychohistorical analysis. He also studied normal people from diverse cultures, not just disturbed patients."
+  },
+  {
+   "q": "What did Erikson mean by identity confusion, and what evidence did he find for it among American Indians and World War II veterans?",
+   "marks": 5,
+   "pages": [
+    162,
+    162
+   ],
+   "answer": "Identity confusion is Erikson's original term for the lack of a clear self-image or self-identity, a confusion about who and what one is. It later developed into his concepts of the identity crisis and role confusion.\n\nWhile observing American Indians in South Dakota (in a study of Sioux child-rearing with a Yale anthropologist) and in California, Erikson noticed psychological symptoms that orthodox Freudian theory could not explain. These seemed linked to a sense of alienation from cultural traditions, which left people without a clear self-image.\n\nHe saw a similar condition in emotionally disturbed veterans after World War II. He argued that these men were not suffering from repressed conflicts, as Freud would claim, but from confusion caused by traumatic war experiences and by being temporarily uprooted from their culture. In both groups, then, disruption of the person's cultural and social context undermined identity. This evidence reinforced Erikson's emphasis on culture and history and his view that identity problems are psychosocial rather than purely instinctual. It also echoed Erikson's own life: as a child rejected by both German and Jewish classmates and unsure of his name, he had experienced the same uncertainty about who he was."
+  },
+  {
+   "q": "Contrast identity cohesion and role confusion, and explain what factors affect ego identity and why some people fail to achieve it.",
+   "marks": 5,
+   "pages": [
+    167,
+    181
+   ],
+   "answer": "In adolescence (12–18) we must resolve the crisis of ego identity by integrating our ideas about ourselves with what others think of us. Identity cohesion, the adaptive outcome, is a consistent, congruent self-image; such people face adulthood with certainty and confidence and develop fidelity. Role confusion, the maladaptive outcome of an identity crisis, leaves people not knowing who they are, where they belong or where they are going; they may withdraw from education, work and marriage or adopt a negative identity in crime or drugs.\n\nSeveral factors affect identity. Earlier stages matter: Waterman et al. found adolescents with trust, autonomy, initiative and industriousness achieved identity cohesion. A psychological moratorium for experimenting with roles is needed. Peer groups have a strong impact; fanatical groups, cults or obsessive celebrity identification restrict the ego. Parenting matters: loving but directive parents foster identity achievement. Social and historical forces, gender, ethnicity, activities such as sport and volunteering, college attendance and online role-play also play a part.\n\nPeople fail when earlier crises were resolved maladaptively, when they lack opportunity to experiment (Slugoski and Ginsburg note the moratorium may be unaffordable for the poor), or when they are cut off from their culture."
+  },
+  {
+   "q": "What are the two ways of adapting to maturity and old age, how can the positive way be achieved, and what role does generativity play in it?",
+   "marks": 5,
+   "pages": [
+    169,
+    184
+   ],
+   "answer": "In the final stage (55+), people evaluate their whole life and adapt through ego integrity or despair. Ego integrity means looking back with fulfilment, accepting one's place and past and believing one has coped with victories and failures. Despair means frustration, anger at missed opportunities, regret over unfixable mistakes, self-disgust, contempt for others and bitterness.\n\nIn Vital Involvement in Old Age, based on 29 people in their 80s, Erikson prescribed staying active and vitally involved: seeking challenge and stimulation through grandparenting, returning to school and developing new skills and interests, not merely reflecting on the past.\n\nAs an old man Erikson concluded that generativity was even more important than he had first thought; much of older people's despair is really continued stagnation. Generativity developed in the seventh stage may be the most important contributor to ego integrity. Research agrees: continued family and community involvement sustains generativity into old age (Warburton et al.), while Hong Kong elders who felt obsolete with technology lost generativity (Cheng). Life review, reminiscence and acknowledging regrets are also linked to ego integrity, which brings well-being, less fear of death and the strength of wisdom."
+  },
+  {
+   "q": "Based on his play-constructions research, what did Erikson conclude about sex differences in personality? Evaluate the conclusion.",
+   "marks": 5,
+   "pages": [
+    172,
+    188
+   ],
+   "answer": "Erikson asked boys and girls aged 10 to 12 to build a scene from an imaginary movie using dolls, toy animals, cars and blocks. Girls built static, peaceful, low enclosed structures that intruders (male or animal figures) tried to enter; boys built tall towers and scenes of action, cars and moving people.\n\nAs an orthodox Freudian, Erikson concluded that these differences paralleled genital anatomy: the external, intrusive male organ versus the internal female organs. Biology, he implied, determined that girls build enclosures and boys build towers, so sex differences in personality were anatomically based.\n\nThis conclusion has been strongly criticised for implying that women are victims of their anatomy, their personalities shaped by the absence of a penis. The differences could equally reflect cultural sex-role training, in which girls are taught to be less action-oriented, aggressive and achievement-oriented. Erikson himself later admitted this possibility. Later research supports the social explanation: gender-typed toy preferences persist and are taught by parents, especially fathers, who reward passivity in girls and assertiveness in boys. The anatomical interpretation is therefore poorly supported."
+  },
+  {
+   "q": "How can the conflicts of the three adult stages be resolved in positive ways?",
+   "marks": 2,
+   "pages": [
+    167,
+    169
+   ],
+   "answer": "Intimacy vs. isolation is resolved by forming caring, committed relationships in which one merges identity with another without losing it (strength: love). Generativity vs. stagnation is resolved by teaching, mentoring and guiding the next generation through family, work or institutions (care). Ego integrity vs. despair is resolved by accepting one's past and staying vitally involved (wisdom)."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Three ways Erikson extended Freud?",
+   "back": "Life-span development; ego independent of the id; cultural and historical forces.",
+   "page": 160
+  },
+  {
+   "front": "Who analysed Erikson?",
+   "back": "Anna Freud, almost daily for 3 years in Vienna.",
+   "page": 161
+  },
+  {
+   "front": "Erikson's stepfather?",
+   "back": "Dr. Theodore Homburger, his pediatrician.",
+   "page": 160
+  },
+  {
+   "front": "What did Erikson observe in American Indians and WWII veterans?",
+   "back": "Identity confusion caused by alienation and uprooting from culture.",
+   "page": 162
+  },
+  {
+   "front": "Epigenetic principle?",
+   "back": "Genes determine the sequence of stages; the environment determines how they are realised.",
+   "page": 163
+  },
+  {
+   "front": "Crisis (Erikson)?",
+   "back": "The turning point faced at each developmental stage.",
+   "page": 163
+  },
+  {
+   "front": "Why keep some mistrust?",
+   "back": "Total trust makes us gullible and vulnerable to deception.",
+   "page": 163
+  },
+  {
+   "front": "Oral-sensory: ages, crisis, strength?",
+   "back": "Birth–1; trust vs. mistrust; hope.",
+   "page": 164
+  },
+  {
+   "front": "Muscular-anal: ages, crisis, strength?",
+   "back": "1–3; autonomy vs. doubt and shame; will.",
+   "page": 164
+  },
+  {
+   "front": "Locomotor-genital: ages, crisis, strength?",
+   "back": "3–5; initiative vs. guilt; purpose.",
+   "page": 164
+  },
+  {
+   "front": "Latency: ages, crisis, strength?",
+   "back": "6–11; industriousness vs. inferiority; competence.",
+   "page": 164
+  },
+  {
+   "front": "Adolescence: ages, crisis, strength?",
+   "back": "12–18; identity cohesion vs. role confusion; fidelity.",
+   "page": 164
+  },
+  {
+   "front": "Young adulthood: ages, crisis, strength?",
+   "back": "18–35; intimacy vs. isolation; love.",
+   "page": 164
+  },
+  {
+   "front": "Adulthood: ages, crisis, strength?",
+   "back": "35–55; generativity vs. stagnation; care.",
+   "page": 164
+  },
+  {
+   "front": "Maturity: ages, crisis, strength?",
+   "back": "55+; ego integrity vs. despair; wisdom.",
+   "page": 164
+  },
+  {
+   "front": "Key crisis of the muscular-anal stage?",
+   "back": "Toilet training.",
+   "page": 165
+  },
+  {
+   "front": "Ego identity?",
+   "back": "Self-image formed in adolescence integrating what we are and want to be.",
+   "page": 167
+  },
+  {
+   "front": "Negative identity?",
+   "back": "A socially disapproved identity (crime, drugs), still better than none.",
+   "page": 167
+  },
+  {
+   "front": "Greatest human virtue for Erikson?",
+   "back": "Love.",
+   "page": 168
+  },
+  {
+   "front": "Maldevelopment?",
+   "back": "Ego consisting solely of one way of coping.",
+   "page": 170
+  },
+  {
+   "front": "Maladaptive vs. malignant?",
+   "back": "Only positive tendency = maladaptive (neuroses); only negative = malignant (psychoses).",
+   "page": 170
+  },
+  {
+   "front": "Adolescence maldevelopment tendencies?",
+   "back": "Identity cohesion to fanaticism; role confusion to repudiation.",
+   "page": 171
+  },
+  {
+   "front": "Old age maldevelopment tendencies?",
+   "back": "Ego integrity to presumption; despair to disdain.",
+   "page": 171
+  },
+  {
+   "front": "Is Erikson deterministic?",
+   "back": "Only partially: early stages beyond control, later stages allow free will.",
+   "page": 170
+  },
+  {
+   "front": "Why did Erikson reject the couch?",
+   "back": "Risk of exploitation, false objectivity, overemphasis on the unconscious, aloofness.",
+   "page": 171
+  },
+  {
+   "front": "Psychohistory subjects?",
+   "back": "Gandhi, Martin Luther, George Bernard Shaw.",
+   "page": 172
+  },
+  {
+   "front": "Loyola Generativity Scale?",
+   "back": "20-item self-report measure of generativity vs. stagnation.",
+   "page": 172
+  },
+  {
+   "front": "Marcia's five statuses?",
+   "back": "Identity achievement, moratorium, foreclosure, identity diffusion, alienated achievement.",
+   "page": 176
+  },
+  {
+   "front": "Foreclosure?",
+   "back": "Commitment chosen by parents without an identity crisis.",
+   "page": 176
+  },
+  {
+   "front": "Identity consolidation?",
+   "back": "Dealing successfully with the social realities of adult life, usually in the 20s.",
+   "page": 180
+  },
+  {
+   "front": "Cross model stages?",
+   "back": "Pre-encounter, encounter, immersion-emersion, internalization.",
+   "page": 186
+  },
+  {
+   "front": "Frable's stages?",
+   "back": "Sensitization, identity confusion, identity assumption, commitment.",
+   "page": 186
+  },
+  {
+   "front": "Slugoski & Ginsburg's criticism?",
+   "back": "The moratorium is a luxury the poor cannot afford.",
+   "page": 188
+  },
+  {
+   "front": "What did Time call Erikson?",
+   "back": "The most influential living psychoanalyst.",
+   "page": 188
+  }
+ ],
+ "summary": [
+  "Erikson, trained by Anna Freud without any degree, extended Freud: life-span development, an independent ego, and cultural and historical influences.",
+  "His own identity crises (unknown father, rejection at school, years of wandering) shaped his concept of the identity crisis.",
+  "He observed identity confusion in uprooted American Indians and WWII veterans.",
+  "Eight psychosocial stages follow the epigenetic principle: genes set the stages, the environment determines how they unfold.",
+  "Each stage has a crisis with adaptive and maladaptive ways of coping; a mostly adaptive but balanced resolution yields a basic strength.",
+  "Stages and strengths: trust/hope, autonomy/will, initiative/purpose, industriousness/competence, identity/fidelity, intimacy/love, generativity/care, integrity/wisdom.",
+  "Outcomes of the first four stages depend on others; in the last four we have increasing conscious choice.",
+  "Maldevelopment: only the adaptive tendency = maladaptive (neuroses); only the negative = malignant (psychoses); both treatable.",
+  "Erikson's view of human nature is optimistic, partially deterministic and emphasises learning over heredity.",
+  "Assessment: play therapy, anthropological studies and psychohistorical analysis; later tests include the Loyola Generativity Scale.",
+  "Research supports early trust, the stage sequence, Marcia's identity statuses and the benefits of generativity and ego integrity.",
+  "The identity crisis may continue into the twenties and college can prolong the moratorium.",
+  "Ethnic identity (Cross model) and gender preference identity (Frable) develop in stages and affect ego identity.",
+  "Criticisms: vague concepts, incomplete maturity stage, anatomical view of sex differences, poor fit to women and the poor.",
+  "His influence includes life-span developmental psychology and play therapy with abused children."
+ ],
+ "assessment": [
+  {
+   "q": "Which ages and basic strength go with industriousness vs. inferiority?",
+   "options": [
+    "3–5, purpose",
+    "12–18, fidelity",
+    "6–11, competence",
+    "1–3, will"
+   ],
+   "answer": 2,
+   "explain": "Table 6.1: latency stage, 6–11, competence.",
+   "page": 164
+  },
+  {
+   "q": "Young adulthood in Table 6.1 spans",
+   "options": [
+    "12–18",
+    "35–55",
+    "55+",
+    "18–35"
+   ],
+   "answer": 3,
+   "explain": "Intimacy vs. isolation, strength love.",
+   "page": 164
+  },
+  {
+   "q": "The basic strength of the adulthood stage (35–55) is",
+   "options": [
+    "care",
+    "love",
+    "wisdom",
+    "fidelity"
+   ],
+   "answer": 0,
+   "explain": "Care arises from generativity.",
+   "page": 164
+  },
+  {
+   "q": "Which stage parallels Freud's phallic stage?",
+   "options": [
+    "Muscular-anal",
+    "Locomotor-genital",
+    "Oral-sensory",
+    "Latency"
+   ],
+   "answer": 1,
+   "explain": "Locomotor-genital (3–5) is similar to the phallic stage.",
+   "page": 165
+  },
+  {
+   "q": "Excessive doubt and shame leads to which malignant tendency?",
+   "options": [
+    "Shameless willfulness",
+    "Inhibition",
+    "Compulsion",
+    "Withdrawal"
+   ],
+   "answer": 2,
+   "explain": "Table 6.2: autonomy to shameless willfulness; doubt/shame to compulsion.",
+   "page": 171
+  },
+  {
+   "q": "Narrow virtuosity results from an excess of",
+   "options": [
+    "inferiority",
+    "initiative",
+    "generativity",
+    "industriousness"
+   ],
+   "answer": 3,
+   "explain": "Inferiority to inertia.",
+   "page": 171
+  },
+  {
+   "q": "Maladaptions differ from malignancies in that maladaptions",
+   "options": [
+    "can lead to neuroses and can be relieved by re-adaptation",
+    "can lead to psychoses",
+    "involve only the negative tendency",
+    "cannot be treated"
+   ],
+   "answer": 0,
+   "explain": "Maladaptions are less severe and may also be relieved by environment, support or later success.",
+   "page": 170
+  },
+  {
+   "q": "Erikson's three main data sources for his theory were",
+   "options": [
+    "dream analysis, free association and tests",
+    "play therapy, anthropological studies and psychohistorical analysis",
+    "experiments, surveys and tests",
+    "case studies of neurotics only"
+   ],
+   "answer": 1,
+   "explain": "Stated on p. 172 and in the summary.",
+   "page": 172
+  },
+  {
+   "q": "Erikson's primary research method was the",
+   "options": [
+    "laboratory experiment",
+    "survey",
+    "case study",
+    "factor analysis"
+   ],
+   "answer": 2,
+   "explain": "Hard to verify but rich in insight.",
+   "page": 172
+  },
+  {
+   "q": "Which Marcia status describes cerebral, cynical students critical of the social system?",
+   "options": [
+    "Identity diffusion",
+    "Moratorium",
+    "Foreclosure",
+    "Alienated achievement"
+   ],
+   "answer": 3,
+   "explain": "They had a crisis but no occupational goal.",
+   "page": 177
+  },
+  {
+   "q": "Adolescents least likely to reach identity achievement had parents who were",
+   "options": [
+    "too authoritarian or too permissive",
+    "loving and directive",
+    "older",
+    "highly educated"
+   ],
+   "answer": 0,
+   "explain": "Berzonsky (2004); Mohammadi (2013).",
+   "page": 176
+  },
+  {
+   "q": "Women in college at the start of the women's movement, compared with older women, were",
+   "options": [
+    "less educated",
+    "more assertive and self-confident in middle age",
+    "earlier to marry",
+    "lower in income"
+   ],
+   "answer": 1,
+   "explain": "Duncan & Agronick; Helson, Stewart & Ostrove (1995).",
+   "page": 180
+  },
+  {
+   "q": "Generativity in middle age is positively correlated with",
+   "options": [
+    "identity diffusion",
+    "anti-White attitudes",
+    "power and intimacy motivation",
+    "negative emotionality"
+   ],
+   "answer": 2,
+   "explain": "McAdams, Ruetzel & Foley (1986).",
+   "page": 181
+  },
+  {
+   "q": "In Cross's model, the immersion-emersion stage includes which two identities?",
+   "options": [
+    "Assimilation and miseducation",
+    "Black nationalism and multiculturalist inclusive",
+    "Sensitization and commitment",
+    "Intense Black involvement and anti-White"
+   ],
+   "answer": 3,
+   "explain": "Assimilation/miseducation/self-hatred are pre-encounter; nationalism/multiculturalist are internalization.",
+   "page": 186
+  },
+  {
+   "q": "Which is a criticism of Erikson rather than a contribution?",
+   "options": [
+    "Incomplete description of the maturity stage",
+    "Life-span view of development",
+    "Concept of the identity crisis",
+    "Inclusion of cultural and historical forces"
+   ],
+   "answer": 0,
+   "explain": "The incomplete account of maturity is a criticism he tried to fix in 1986.",
+   "page": 188
+  },
+  {
+   "q": "Erikson's mother remained in Germany and married",
+   "options": [
+    "a Danish artist",
+    "the baby's pediatrician",
+    "a Viennese analyst",
+    "a Yale anthropologist"
+   ],
+   "answer": 1,
+   "explain": "Dr. Theodore Homburger was Erik's pediatrician.",
+   "page": 160
+  },
+  {
+   "q": "Erikson's first wife Joan Serson was",
+   "options": [
+    "Anna Freud's sister",
+    "a German pediatrician",
+    "a Canadian-born artist and dancer",
+    "a Harvard psychologist"
+   ],
+   "answer": 2,
+   "explain": "They met at a masquerade ball in Vienna in 1929.",
+   "page": 161
+  },
+  {
+   "q": "Which statement about the identity crisis is supported by research?",
+   "options": [
+    "It always ends by 15",
+    "College speeds its resolution",
+    "Employed youth stay longer in moratorium",
+    "It may continue past 18; up to 30% were still searching at 24"
+   ],
+   "answer": 3,
+   "explain": "Archer (1982); Adams & Fitch (1982).",
+   "page": 181
+  },
+  {
+   "q": "Erikson's early term for problems seen among veterans and American Indians was",
+   "options": [
+    "identity confusion",
+    "identity foreclosure",
+    "ego despair",
+    "malignant isolation"
+   ],
+   "answer": 0,
+   "explain": "Caused by uprooting from culture, not repressed conflict.",
+   "page": 162
+  },
+  {
+   "q": "High-trust children studied 3 years after secure infant attachment were",
+   "options": [
+    "less curious",
+    "more often leaders at games",
+    "more withdrawn",
+    "less sensitive to others"
+   ],
+   "answer": 1,
+   "explain": "Trust and Security research, p. 174.",
+   "page": 174
+  }
+ ]
+}

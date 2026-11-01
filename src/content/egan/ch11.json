@@ -1,0 +1,1810 @@
+{
+ "number": 11,
+ "title": "Stage II: Designing Problem-Managing Goals; Task II-A: Possibilities for a Better Future",
+ "theorist": null,
+ "approach": "Part III: The Problem-Management Approach",
+ "pages": [
+  282,
+  302
+ ],
+ "overview": "Chapter 11 opens Stage II of Egan's problem-management model, which is about designing problem-managing goals and a better future. It introduces the three tasks of Stage II, argues that the word 'solution' is ambiguous (distinguishing goals, outcomes and impact, and big-S from small-s solutions), and presents therapy as both art and science, linking it to design thinking. It then examines the role, nature and benefits of hope, especially Snyder's model of goals, agency and pathways. The core of the chapter is Task II-A, helping clients discover possibilities for a better future, and six skills for doing so: focusing on possible selves, tapping creativity, divergent thinking, adaptive brainstorming, future-oriented probes and reviewing exemplars and role models. It closes with two cases, Brendan's 'dying better' and the Washington family, that show possibilities feeding into goal setting.",
+ "objectives": [
+  "Explain why Stages II and III are central to Egan's client-directed, outcome-informed approach.",
+  "Describe the three tasks of Stage II and their relationship.",
+  "Distinguish goals, outcomes and impact, and explain why Egan avoids the term 'solution'.",
+  "Discuss therapy as both art and science and the relevance of design thinking.",
+  "Explain the role, nature and benefits of hope, including Snyder's goals-agency-pathways model.",
+  "Describe the purpose of Task II-A and the skills for identifying possibilities for a better future.",
+  "Apply possible selves, creativity, divergent thinking, brainstorming, future-oriented probes and exemplars to client cases.",
+  "Analyse the Brendan and Washington family cases as illustrations of Task II-A."
+ ],
+ "sections": [
+  {
+   "id": "intro-stage-ii",
+   "heading": "An Introduction to Stage II",
+   "pages": [
+    283,
+    283
+   ],
+   "detailed": "Why Stages II and III matter most. Egan argues that Stages II and III, together with the Action Arrow, are in many ways the most important parts of the helping model. The reason is that they deal with problem-managing outcomes, and the whole approach is described as client-directed and outcome-informed (CDOI). Stage I clarifies problem situations and unused opportunities, but the payoff for that clarification only comes when something is actually done about them.\n\nInsight is not enough. Egan's position is that insights are valuable only to the extent that they lead, directly or indirectly, to problem-managing action. It is in Stages II and III that counsellors help clients design and carry out programmes for constructive change, and the skills needed for this are reviewed and illustrated in these stages.\n\nTwo commonsense questions. The helper's work here can be summed up in two simple but critical questions that clients are helped to ask and answer: \"What outcomes do I want?\" (the concern of Stage II) and \"What do I have to do to get what I want?\" (the concern of Stage III).\n\nA better future. Egan sums up the spirit of these stages by saying they are about a better future for clients. Stage I looks at what is going wrong now; Stage II turns the client's attention to what could be different and better. This forward-looking orientation sets the tone for everything else in the chapter, including the treatment of hope, creativity and possibilities.\n\nExam angle. When writing about Stage II, link it to the CDOI orientation, stress the move from insight to action, and quote (in your own words) the two key questions about outcomes and action.",
+   "simple": "Stage II is where helping starts paying off. After clients understand their problems in Stage I, Stages II and III help them decide what they want and how to get it. Insight only matters if it leads to action, so these stages are about building a better future.",
+   "keyPoints": [
+    "Stages II and III plus the Action Arrow are, in many ways, the most important parts of the model because they deal with problem-managing outcomes.",
+    "The approach is client-directed and outcome-informed (CDOI).",
+    "Insights are useful only to the degree that they lead to problem-managing action.",
+    "Key questions: 'What outcomes do I want?' (Stage II) and 'What do I have to do to get what I want?' (Stage III).",
+    "Stages II and III are about a better future for clients."
+   ]
+  },
+  {
+   "id": "three-tasks",
+   "heading": "The Three Tasks of Stage II",
+   "pages": [
+    283,
+    284
+   ],
+   "detailed": "The future must be invented. Problems can make clients feel closed in, with no positive future in sight; both present and future seem troubled. Egan quotes Gelatt (1989), who held that the future does not exist and cannot be predicted, so it has to be imagined and invented. The three interrelated tasks of Stage II describe how helpers can partner with clients to explore, design and develop this better future.\n\nTask II-A: Problem-managing possibilities. Clients are helped to ask: What possibilities do I have for a better future? What do I think I want? What about my needs? What would my problem situation look like if it were being managed well? In moving clients from problems towards solutions, counsellors also help them develop a sense of hope.\n\nTask II-B: Goals, outcomes and impact. Here the question is: What do I really want and need, and which outcomes will manage my problem situation? Counsellors help clients craft a viable change agenda from among the possibilities. Egan calls shaping this agenda one of the central tasks of helping.\n\nTask II-C: Commitment. The question is: What am I willing to pay for what I want? Helpers assist clients to find incentives for committing themselves to their change agenda.\n\nFigure 11.1 summarises these as A, designing a better future (\"What are the possibilities?\"); B, designing and setting goals (\"What is my change agenda?\"); and C, exploring commitment (\"What am I willing to pay?\"), all leading to ongoing action and problem-managing outcomes.\n\nReal power lies in goal setting. Egan does not downplay what Stage I achieves: clarifying problems and opportunities, developing new and more constructive perspectives, and choosing high-leverage issues. Even so, the real power of helping lies in helping clients set goals and move to accomplish them.\n\nThe stages are intermingled. In actual sessions, Stages I and II are mixed together. Stories lead to goals; the client returns to the story and new perspectives emerge; goals are modified; and clients take small or large actions that move them towards outcomes and in turn affect the whole process. Egan advises helpers to become comfortable with this \"geography of helping\" so they can move with clients. Tasks II-B and II-C are dealt with in Chapter 12; this chapter covers Task II-A.",
+   "simple": "Stage II has three linked tasks: finding possibilities for a better future (II-A), turning them into a real change agenda of goals (II-B), and checking how committed the client is (II-C). In practice the stages overlap, so helpers move back and forth with clients.",
+   "keyPoints": [
+    "Gelatt: the future cannot be predicted; it must be imagined and invented.",
+    "Task II-A: possibilities for a better future, which also builds hope.",
+    "Task II-B: goals, outcomes and impact; crafting a viable change agenda, a central task of helping.",
+    "Task II-C: commitment; what the client is willing to pay, and incentives for commitment.",
+    "The real power of helping lies in goal setting and accomplishment; in practice Stages I and II are intermingled.",
+    "Tasks II-B and II-C are covered in Chapter 12."
+   ]
+  },
+  {
+   "id": "solution-ambiguous",
+   "heading": "Solution: An Ambiguous Term",
+   "pages": [
+    284,
+    285
+   ],
+   "detailed": "The problem-to-solution approach. In many versions of the standard problem-management model, Stage I exploration is followed almost at once by a search for \"solutions\", meaning actions that will fix the problem or develop the opportunity. Egan illustrates with Derek, a surgeon who, after a devastating encounter with a nurse, realises his \"I'm-always-right\" communication style does not work. After talking it over with his wife, he begins listening to staff and stops forcing decisions on colleagues, and within weeks the operating-room atmosphere is calmer and more upbeat. So this approach sometimes works.\n\nThe caveat. Its weakness is that it skips the goals-outcomes-impact package that lies at the heart of problem management. Egan suggests Derek might have done better to first think about what a communication style that made sense to him, his colleagues and the hospital would look like, and then design that style in the service of his profession.\n\nGoal, outcome and impact. A goal is some desired state, but it remains only an idea until it is accomplished. An accomplished goal is an outcome. Clive, the young man in trouble for drunk driving (DUI), saw that he needed to stop drinking; driven perhaps by fear of jail, he joined AA, followed the programme and stopped, which was an essential outcome. A further dimension is impact: the outcome must have the desired effect on the client's life, that is, it must be problem-managing (or opportunity-developing). For Clive it was, because he no longer had to fear another DUI as long as he avoided alcohol. Egan adds that outcomes are in many ways more important than the actions used to reach them; Clive could have ended his addiction by other means than AA.\n\nWhy avoid the word \"solution\". Mathematical problems have solutions, but problems in living have to be managed rather than solved. Also, in behaviour change the word has two meanings. An outcome with the desired impact is a Solution with a capital S (Clive's elimination of his alcohol habit). The actions leading to it (his adherence to AA) are a solution with a small s. Programmes that lead to outcomes are not outcomes themselves and should not be confused with them.\n\nHit-and-miss solving. Many clients try one small-s solution after another until something works. This may eventually achieve the goal, but the process is inefficient, people learn little from it, and they keep using it simply because it sometimes works.",
+   "simple": "Jumping straight from a problem to a fix sometimes works, but it skips the key step of deciding what outcome you want and what impact it should have. Egan prefers to avoid the word 'solution': a 'big S' solution is the outcome itself, while a 'small s' solution is just the action plan that gets you there.",
+   "keyPoints": [
+    "The problem-to-solution approach (Derek) can work but ignores the goals-outcomes-impact package.",
+    "Goal = desired state; outcome = accomplished goal; impact = the outcome actually manages the problem (Clive).",
+    "Outcomes matter more than the particular actions used to reach them.",
+    "Problems in living are managed, not solved.",
+    "Solution with a big S = outcome with desired impact; solution with a small s = the action programme.",
+    "Hit-and-miss trying of small-s solutions is inefficient and teaches little."
+   ]
+  },
+  {
+   "id": "art-or-science",
+   "heading": "Therapy: Art or Science?",
+   "pages": [
+    285,
+    286
+   ],
+   "detailed": "Both art and science. Asked whether therapy is an art or a science, Egan answers \"Yes.\" Therapy is a product of the social sciences rather than the hard sciences like physics or chemistry, so therapists must adapt and tailor research findings to each client's needs. This means there is an element of design in helping, which is why Stage II is titled designing goals rather than merely setting them: therapists help clients design their future.\n\nDesign thinking. Design is usually linked to the arts, but there is a movement to bring \"design thinking\" into problem management, or problem-management thinking into design (Ambrose & Harris, 2010; Lockwood, 2010). Design thinking starts from ill-defined problems and moves towards a deeper understanding of their context. It emphasises creativity in searching for insights and solutions, often begins with the goal, then moves back and forth between present and future in search of creative solutions. Its ultimate challenge is to fit the solution to the context.\n\nParallels with problem management. Egan notes that much of this resembles the main themes of the art of problem management. Therapy needs to be both rigorous and soft-edged. There is an art in helping clients explore possibilities for a better future before settling on one possibility or a particular set.\n\nSources. Many books on design thinking focus on business (Merholz, Wilkens, Schauer, & Verba, 2008), yet they still explain its principles well. Stanford University runs a Design Thinking Boot Camp linked to its business school, and there are design-thinking programmes for higher education and educators (Bell, 2010). IDEO, a global design firm, relates design thinking to creating a more desirable future in the face of difficult challenges, which Egan says sounds like Stage II.\n\nEgan's verdict. Some dismiss design thinking as nonsense, perhaps because it mixes art and reason, but Egan sees it as a softer-edged contribution to the helping professions that can produce hard-edged results.",
+   "simple": "Therapy is both an art and a science: it relies on social-science research but has to be tailored to each person. That is why Egan talks about 'designing' goals. Design thinking, which begins with fuzzy problems and searches creatively for solutions that fit the context, closely matches Stage II.",
+   "keyPoints": [
+    "Therapy is both art and science; research findings must be tailored to clients.",
+    "Stage II is about designing, not merely setting, goals.",
+    "Design thinking (Ambrose & Harris; Lockwood) starts with ill-defined problems, stresses creativity, often starts with the goal, and fits solutions to context.",
+    "Therapy must be both rigorous and soft-edged.",
+    "Examples: business-focused books (Merholz et al.), Stanford's boot camp, programmes for educators (Bell), IDEO.",
+    "Egan sees design thinking as soft-edged but able to produce hard-edged results."
+   ]
+  },
+  {
+   "id": "role-of-hope",
+   "heading": "The Role of Hope in Therapy",
+   "pages": [
+    286,
+    287
+   ],
+   "detailed": "Hope and the future. Because Stage II deals with outcomes not yet realised, it is about the future, and so hope is involved. Egan calls hope another soft-edged concept that can have a hard-edged impact on therapeutic outcomes. Hope is as old as humanity; almost everyone has said \"I hope...\" and has experienced gaining or losing hope.\n\nUncertainty is built in. Hope also has a long religious history. Egan cites St. Paul's point that hope centred on things you can already see is not really hope, which highlights uncertainty: if you know you will receive an Oscar tomorrow, you cannot hope for it, because it is certain. Hope plays a key role both in developing and in implementing possibilities for a better future.\n\nPsychology's neglect and change. Scientific psychology has not always been interested in hope (R. S. Lazarus, 1999; Stotland, 1969), but this is starting to change.\n\nRick Snyder. Snyder, already known for his work on the positive and negative uses of excuses (with Higgins and others), became a champion of hope and wrote widely on it. He linked excuses and hope in an article titled \"Reality Negotiation: From Excuses to Hope and Beyond\" (1989). He died in 2006. His University of Kansas colleague Ray Higgins described him as courageous and generous, noting that his seminal work on the psychology of hope grew out of his own 15-year struggle with chronic pain, and that he was a passionate mentor who helped others reach their goals.\n\nHope as expectancy. In psychological terms, hope in therapy is sometimes called \"expectancy\". Because expectancies can be positive, neutral or negative, the term \"positive-outcome expectancy bias\" is also used. There is plenty of evidence that clients who expect therapy outcomes to be positive have a better chance of achieving them. That is why therapists should establish a working alliance and get clients on board with the treatment method being used. Hope and expectancy can play an important role in therapy (Reiter, 2010; Westra, Constantino, & Aviram, 2011).",
+   "simple": "Stage II is about the future, so hope matters. Hope always involves some uncertainty. In psychology it is studied as 'expectancy': clients who expect good results from therapy tend to get them. Rick Snyder was the leading researcher who championed hope.",
+   "keyPoints": [
+    "Hope is a soft-edged concept with a hard-edged impact on outcomes.",
+    "Hope involves uncertainty (St. Paul; the Oscar example).",
+    "Psychology long neglected hope (Lazarus; Stotland), but this is changing.",
+    "Snyder linked excuses and hope ('Reality Negotiation', 1989); his work grew from his own chronic pain.",
+    "Hope in therapy = expectancy or positive-outcome expectancy bias; positive expectations predict better outcomes.",
+    "Hence the importance of the working alliance and client buy-in to the treatment method."
+   ]
+  },
+  {
+   "id": "nature-of-hope",
+   "heading": "The Nature of Hope",
+   "pages": [
+    287,
+    288
+   ],
+   "detailed": "Contrasting views. Historically, views of hope have differed. At the negative end, the German philosopher Friedrich Nietzsche called hope the worst of evils because it prolongs human torment. The poet Gerard Manley Hopkins, in The Wreck of the Deutschland, offers two views: when a ship is sinking and rescue seems impossible, he portrays hope as grown old, grieving and gone; later he describes a nun on board who, knowing all is lost, cries out to her God, not in despair but with a different kind of hope.\n\nGroopman's scientific view. Science also offers positive views, increasingly backed by research. Jerome Groopman (2004), who holds a chair of medicine at Harvard Medical School, wrote a moving book on the anatomy of hope. He defines hope as the uplifting feeling we have when we see in the mind's eye a path to a better future; true hope recognises the obstacles and pitfalls on that path and leaves no room for delusion. His search for a scientific basis for hope in dealing with illness leads him to the \"biology\" of hope, and the book shows how counselling lies at the heart of medical practice.\n\nSnyder's goal-directed view. Snyder began from the premise that people are goal directed and tied hope to goal setting. For him hope is the process of (1) thinking about one's goals; (2) having the will, desire or motivation to move towards them; and (3) thinking about strategies for reaching them. Egan illustrates with Serena, who is pregnant and determined to give up smoking, drinking and soft drugs (goal); who is serious because she has seen damaged children of drug-using mothers and is a caring person (will); and who knows friends will support her and is willing to join an arduous 12-step programme (strategies).\n\nHigh hopes. Hope is therefore a dimension of the problem-management process. Saying Serena has \"high hopes\" means her goal is clear, her sense of agency (or urgency) is high, and she is realistic in planning pathways to the goal. Both agency and some clarity about pathways are required.\n\nHope and emotion. Hope has emotional overtones, but it is not a free-floating emotion. It is the by-product or outcome of setting goals, developing agency and devising pathways. Serena feels elation, determination and satisfaction because \"the will\" (agency) and \"the way\" (pathways) have come together. Success feels within reach even though she knows barriers remain, such as the continuing pull of tobacco, wine and soft drugs.",
+   "simple": "People have seen hope very differently, from Nietzsche's view that it only prolongs suffering to Groopman's view of it as seeing a realistic path to a better future. Snyder's model says hope is made of goals, the will to pursue them (agency) and the ways to reach them (pathways). The good feeling of hope comes out of doing that work.",
+   "keyPoints": [
+    "Nietzsche: hope prolongs torment (negative view); Hopkins: two views of hope in The Wreck of the Deutschland.",
+    "Groopman: hope is seeing a path to a better future while recognising obstacles; true hope has no room for delusion.",
+    "Snyder: hope = thinking about goals + will/motivation (agency) + strategies (pathways).",
+    "Serena illustrates goal, agency and pathways.",
+    "'High hopes' = clear goal, high agency, realistic pathways; both agency and pathways are needed.",
+    "Hope is not a free-floating emotion but a by-product of goal setting, agency and pathways."
+   ]
+  },
+  {
+   "id": "benefits-of-hope",
+   "heading": "The Benefits of Hope",
+   "pages": [
+    288,
+    288
+   ],
+   "detailed": "Snyder's review. Snyder (1995) searched the research literature to discover the benefits of hope as he defined it. Compared with low-hope people, those with higher hope have more goals, set more difficult goals, succeed more often in achieving them, see their goals as challenges, are happier and less distressed, cope better, recover better from physical injury, and report less burnout at work, among other advantages.\n\nA balanced claim. Egan is careful not to suggest that hope cures cancer or any other illness. There is evidence that hope has positive effects on many people's lives, though this is disputed; for instance, Coyne, Stefanek and Palmer (2007) review what they call the conflict between hope and evidence. An article in the Harvard Heart Letter (August 2008) praises hope as a powerful force that can sustain people through personal tragedy or disease, but also counsels balance: realism matters too, keeping hope grounded before it drifts into fantasy.\n\nImplications for counsellors. Egan concludes that counsellors who do not spend a significant part of their time helping clients develop possibilities, clarify goals, devise strategies or pathways, and build the sense of agency needed to carry these through are shortchanging their clients. Since Stages II and III deal with possibilities, goals, commitment, pathways and overcoming barriers, Egan suggests they could be called \"ways of nurturing hope\".",
+   "simple": "Research reviewed by Snyder shows that high-hope people set more and harder goals, succeed more, are happier, cope better and burn out less. Hope is not a cure-all and needs realism, but helpers who do not build hope are shortchanging clients. Stages II and III can be seen as ways of nurturing hope.",
+   "keyPoints": [
+    "Snyder (1995): high-hope people have more and harder goals, more success, see goals as challenges.",
+    "They are happier, less distressed, cope better, recover better from injury and burn out less.",
+    "Hope does not cure illness; the evidence is disputed (Coyne, Stefanek & Palmer, 2007).",
+    "Harvard Heart Letter (2008): hope is powerful but must be grounded in realism.",
+    "Counsellors who neglect possibilities, goals, pathways and agency shortchange clients.",
+    "Stages II and III could be called 'ways of nurturing hope'."
+   ]
+  },
+  {
+   "id": "task-ii-a",
+   "heading": "Task II-A: Help Clients Discover Possibilities for a Better Future",
+   "pages": [
+    288,
+    289
+   ],
+   "detailed": "Goal of the task. Task II-A aims to help clients develop a sense of direction by exploring possibilities for a better future.\n\nThe late-night diner. Egan recalls sitting at a diner counter when a young man sat beside him and talked about problems with a friend. After listening, Egan asked what the relationship would look like if it were just what he wanted. The man slowly described a relationship he could live with, then remarked that Egan must be a professional. Egan believes he said this because nobody had ever asked him to describe possibilities for a better future before.\n\nBenefits. Reviewing possibilities often helps clients move beyond the \"problem-and-misery\" mind-set they bring and develop hope. It can also help them understand their problem situations better: once they start to know what they want, they see their problems and unused opportunities more clearly. This illustrates the intermingled nature of the stages.\n\nMara's possibilities. In the running case, Mara explores the theme \"Mara the doer\", her shorthand for substantial change: moving from a passive person who manages daily life \"well enough\" to someone who reaches out to life. She borrows from an article on leadership the progression from observer to participant to player to contributor and perhaps leader. When her counsellor Carlos asks her to describe the new Mara, she talks about using her business education to be more assertive at work, for example drafting a business strategy for the dealership, since she knows the numbers best. She mentions a part-time MBA and leaving her father's business, and, more wildly, working for Honda or Toyota. At home she wants to move from dutiful daughter to partner and share in decisions. She sees her parents' life as dull but accepts it is not her job to change them; she dislikes time with her two married cousins, whom she sees as narcissistic; and she is unsure whether she wants to marry but wants to find out, certainly not into a marriage like her cousins'.\n\nBreak-away thinking. Many clients are locked into the present. Even when they use imagination they think incrementally, so the future they picture is barely better than the present they dislike. Helpers serve clients well by encouraging some kind of \"break away\" thinking.",
+   "simple": "Task II-A helps clients get a sense of direction by imagining what a better future could look like. Simply asking 'What would it look like if it were how you wanted?' can lift clients out of a problem-focused mood, build hope and even clarify the problem. Helpers should push clients beyond small, incremental improvements.",
+   "keyPoints": [
+    "Aim: help clients develop a sense of direction by exploring possibilities for a better future.",
+    "Diner example: a single question about the desired relationship led to a picture of a better future.",
+    "Reviewing possibilities moves clients beyond a problem-and-misery mind-set, builds hope and clarifies problems.",
+    "Mara's 'doer' theme: assertiveness at work, an MBA, a new job; partner rather than dutiful daughter at home.",
+    "Clients locked into the present think incrementally; helpers encourage 'break away' thinking."
+   ]
+  },
+  {
+   "id": "skills-intro",
+   "heading": "Skills for Identifying Possibilities for a Better Future",
+   "pages": [
+    289,
+    290
+   ],
+   "detailed": "From problem mode to discovery mode. At its best, counselling helps clients move from a problem-centred mode to a \"discovery\" mode, which involves creativity and divergent thinking. Dean Simonton (2000) reviewed advances in understanding and using creativity as part of positive psychology.\n\nMental stimulation that helps. According to Taylor, Pham, Rivkin and Armor (1998), not just any kind of mental stimulation is helpful. It helps to the degree that it opens a window on the future, enabling people to envision possibilities and develop plans for bringing them about. In moving from the current situation towards the envisioned future, anticipating and managing emotions and starting and sustaining problem-solving activities are fundamental tasks.\n\nCreativity as a social enterprise. The helper's role in making clients' thinking about the future more creative is important, even essential. Uzzi and Spiro (2005) challenge the myth that creativity is the bold work of loners; research shows that creative thinking and acting at its best is social. In therapy, the client alone is not enough, but too many helpers (therapist, friends, relatives and others all offering noisy help) can spoil the broth. Helping is a two-person collaborative exercise in creativity, with the helper as a catalyst for the client's elusive creative abilities. Research also suggests small-group therapy, done right, can be powerful.\n\nNot mere fantasy. Imagining a future in which the problem is managed well is not fantasy or rumination, because it is tied to the actual problem situation. When a married couple is asked what kind of marriage they want if they are to stay married, their answer is rooted in what they have and do not want; they are asked to move beyond a problem they know too well, or, in Simonton's phrase, to \"harness the imagination\".\n\nThe skills. Egan then presents ways of helping clients do this: focusing on possible selves, tapping creativity, engaging in divergent thinking, using brainstorming adaptively, using future-oriented probes, and reviewing exemplars and role models.",
+   "simple": "Good counselling shifts clients from dwelling on problems to discovering possibilities, which needs creativity and divergent thinking. Creativity works best as a partnership, and the helper acts as a catalyst. Imagining a better future is useful because it stays linked to the real problem.",
+   "keyPoints": [
+    "Counselling moves clients from problem-centred mode to discovery mode (creativity + divergent thinking).",
+    "Simonton (2000) reviewed creativity within positive psychology.",
+    "Taylor et al. (1998): mental stimulation helps when it provides a window on the future and leads to plans.",
+    "Uzzi and Spiro (2005): creativity is a social enterprise, not the work of loners; helping is a two-person creative collaboration.",
+    "Imagining a managed future is not fantasy because it is linked to the problem; it 'harnesses the imagination'."
+   ]
+  },
+  {
+   "id": "possible-selves",
+   "heading": "Help Clients Focus on Their “Possible Selves”",
+   "pages": [
+    290,
+    291
+   ],
+   "detailed": "Stuck, not congealed. A character in Gail Godwin's (1985) novel The Finishing School warns against people who have \"congealed into their final selves\". Egan notes clients do not usually come because they have congealed (otherwise why come?) but because they are stuck in their current selves. Counselling helps them get \"unstuck\" and find direction.\n\nDefinition. Markus and Nurius (1986) coined \"possible selves\" for individuals' ideas of what they might become, what they would like to become, and what they fear becoming. A large body of clinically useful research has followed (for example Cross & Markus; Oyserman, Bybee, & Hart-Johnson; and others). While Egan uses the concept to help clients imagine a better future, clients may also arrive with very limited or negative possible selves.\n\nErnesto. A counsellor met Ernesto, a very young gang member, in a hospital emergency room, vomiting blood after his third beating in a year, this time likely to leave permanent damage. His lifestyle was destroying him, but it was the only one he knew, and no positive possible self occurred to him. Hurting enough to consider change, he was helped not mainly by exploring the complex sociocultural and emotional reasons for his plight, but by exploring upbeat possible selves in order to find a different purpose, direction and lifestyle.\n\nTranscending a problem. Developing an opportunity can help clients manage a problem by transcending rather than solving it. Over 40 million people with physical challenges live in the United States. Brenda, hit by a hit-and-run driver, was left with a back condition that ended her fitness-instructor career and left her depressed. Cartwright, Arredondo and D'Andrea (2004) note that physically challenged people have strengths often overlooked by the dominant cultural group and by many counsellors. Some friends now saw Brenda as \"broken\", and her first counsellor was sympathetic rather than empathic and expected little. Realising this relationship fed her depression, she switched. Her new counsellor used possible selves to help her draw on inner resources and focus on opportunity rather than loss. She found ways to cope with chronic pain, pursued a long-held interest in design through online courses and software, and became a successful interior designer, with new friends and no need to mourn her old career. She still had a bad back, but transcending was her way of coping. The second counsellor quickly spotted her resilience, strengths and talent.\n\nWhy the concept works. Possible selves are broader and richer than stark behavioural goals; King and Hicks (2007) note they include not only goals but all imaginable futures we might occupy. The term is psychologically respectable yet has a flair that can capture clients' imaginations in a way behavioural goals cannot.",
+   "simple": "Possible selves are the people we might become, want to become, or fear becoming (Markus and Nurius). Helping stuck clients imagine positive possible selves, as with Ernesto and Brenda, can give them new direction. Sometimes a problem is not solved but transcended by building a new opportunity.",
+   "keyPoints": [
+    "Clients are often stuck in their current selves; counselling helps them get unstuck (Godwin's 'congealed' selves).",
+    "Markus and Nurius (1986): possible selves = what we might become, would like to become, and fear becoming.",
+    "Clients may bring limiting or negative possible selves (Ernesto, the gang member).",
+    "Brenda transcended her injury by becoming an interior designer; her second counsellor spotted her strengths.",
+    "Cartwright, Arredondo and D'Andrea: strengths of physically challenged people are often overlooked.",
+    "King and Hicks: possible selves are broader and richer than behavioural goals and capture imagination."
+   ]
+  },
+  {
+   "id": "creativity",
+   "heading": "Help Clients Tap into Their Creativity",
+   "pages": [
+    291,
+    293
+   ],
+   "detailed": "Research and practical guides. There is a vast research literature on creativity (Kaufman & Sternberg, 2010) and a parallel practical literature (Wolff, 2009). Wolff's book has four parts, each covering a piece of the creative process and divided into 25 short chapters: Dreaming (ways of getting into a more creative frame of mind), Originating (methods for generating new ideas), Varying (using creative ideas to make something existing better or different) and Adapting (how others have turned possibilities into realities). Egan recommends it despite some professionals' disdain for \"how to\" books, saying he will use anything he believes helps clients.\n\nEveryone has creativity. A myth is that some people are creative and others are not; all have some spark, so clients can be more creative than they are. But helpers cannot make clients more creative unless they are creative about the helping process themselves. Carson and Becker (2004), reviewing a special 2002 journal issue edited by Hecker, argue that accessing one's own creativity at peak levels to help clients tap their creative problem-solving abilities and resources is a prerequisite for effective therapy. Clients and helpers should be sources of creativity for each other. Stages II and III help clients tap dormant creativity.\n\nRequirements for creativity. A review (Cole & Sarnoff, 1980; Robertshaw, Mecca, & Rerick, 1978) implies that troubled people often fail to use their creative resources. The creative person shows, with the client contrast in brackets: optimism and confidence (clients often depressed and powerless); acceptance of ambiguity and uncertainty (clients tortured by it and wanting to escape it); a wide range of interests (clients' interests narrow or narrowed by anxiety and pain); flexibility (clients rigid); tolerance of complexity (clients confused, wanting simple solutions); verbal fluency (clients unable to articulate problems or goals); curiosity (clients lacking a searching approach or hurt by venturing); drive and persistence (clients ready to give up); independence (clients dependent or counterdependent); and nonconformity or reasonable risk taking (clients very conservative and conformist, or in trouble because of their own brand of nonconformity).\n\nBarriers to creativity. Citing Azar (1995), innovation is hindered by: fear (clients are often fearful and anxious); fixed habits (deeply ingrained self-defeating patterns); dependence on authority (seeking \"right answers\" from helpers, or counterdependence expressed through games); perfectionism (accepting only ideal solutions); and problems with social networks (being \"different\" sets clients apart when they want to belong).\n\nFrom literature to practice. It is easy to say imagination is most useful in Stages II and III but harder to stimulate clients' dormant creativity. Despite a rich literature, including on creativity in the helping professions (Carson & Becker; Sternberg, Grigorenko, & Singer, 2004), little of it reaches the helping process. Egan recommends Richards' (2007) Everyday Creativity. A sign of creativity's growing importance is the Association for Creativity in Counseling, a relatively new division of the American Counseling Association (Kennedy, 2004), which sponsors the Journal of Creativity in Mental Health.",
+   "simple": "Everyone has some creativity, and helpers must be creative themselves to unlock it in clients. Creative people tend to be optimistic, flexible, curious and persistent, while clients in trouble often lack these qualities. Fear, fixed habits, dependence on authority, perfectionism and social-network problems block creativity.",
+   "keyPoints": [
+    "Wolff's four parts of the creative process: Dreaming, Originating, Varying, Adapting.",
+    "Myth: only some people are creative; everyone has a spark.",
+    "Carson and Becker: the helper's own peak creativity is a prerequisite to effective therapy.",
+    "Creative person: optimism, acceptance of ambiguity, wide interests, flexibility, tolerance of complexity, verbal fluency, curiosity, drive, independence, nonconformity/risk taking.",
+    "Barriers (Azar): fear, fixed habits, dependence on authority, perfectionism, problems with social networks.",
+    "Association for Creativity in Counseling (ACA division) sponsors the Journal of Creativity in Mental Health."
+   ]
+  },
+  {
+   "id": "divergent-thinking",
+   "heading": "Help Clients Engage in Divergent Thinking",
+   "pages": [
+    293,
+    294
+   ],
+   "detailed": "Convergent thinking. Many people habitually solve problems by looking for the \"one right answer\", or the one that is culturally acceptable. This has its uses, since often there is a right answer, but many life problems are too complex for it, and it limits how people use their own and environmental resources.\n\nDivergent thinking. Divergent thinking assumes there is always more than one answer. De Bono (1992) called it \"lateral thinking\". It is linked to curiosity, which Kashdan, Rose and Fincham (2004) describe as a positive emotional-motivational system associated with recognising, pursuing and self-regulating novelty and challenge. In helping, divergent thinking means more than one way to manage a problem or develop an opportunity.\n\nNot always rewarded. Our culture does not always reward divergent thinking and sometimes punishes it. Divergent students can be thorns in teachers' sides; some teachers are comfortable only with questions that elicit the one right answer. When students give unexpected but useful, even more useful, answers, they may be ignored, corrected or punished, and may conclude that divergent thinking is not worthwhile.\n\nQuentin. Quentin wanted to be a doctor and did well in premed, but not well enough for medical school. After the last rejection he decided that was the end of medicine for him, took a job in his brother-in-law's business, became a manager and did fairly well financially, but had little career satisfaction; his good marriage and home life compensated. No one asked what he really wanted. Medicine was his \"one right career\", and he never considered the dozens of other challenging jobs in health care.\n\nCaroline. Caroline also failed to get into medical school but thought she would still like to work in health. With a medical career counsellor she reviewed possibilities she had never realised existed. She trained as a nurse, worked in a clinic in Appalachia while earning an M.A. in family-practice nursing part time (chosen for broad service and more responsibility), became a nurse practitioner in a small Midwestern town with considerable responsibility, taught family-practice nursing, ran workshops on holistic preventive self-care, completed a doctorate, taught at a state university while practising, and is now one of two deans of a state school of nursing. Her persistence brought very high career satisfaction.\n\nLesson. Caroline's aim, a successful professional career in health care, stayed constant; divergent thinking and creativity went into turning that aim into specific goals and plans. Egan cautions that Quentin's case is probably the norm, because for many people divergent thinking is uncomfortable or too much work.",
+   "simple": "Convergent thinking hunts for one right answer; divergent (lateral) thinking assumes there are many. Quentin saw only one career and settled for an unsatisfying job, while Caroline thought divergently about the health field and built a very satisfying career. Sadly, divergent thinking is often discouraged.",
+   "keyPoints": [
+    "Convergent thinking seeks the one right (or culturally acceptable) answer; useful but limiting for complex problems.",
+    "Divergent thinking assumes more than one answer; De Bono called it lateral thinking.",
+    "Linked to curiosity (Kashdan, Rose & Fincham).",
+    "Divergent thinking is often not rewarded, e.g., by teachers who want one right answer.",
+    "Quentin (one right career, low satisfaction) vs Caroline (divergent path to nursing dean).",
+    "Quentin's case is probably the norm; divergent thinking feels uncomfortable or like too much work."
+   ]
+  },
+  {
+   "id": "brainstorming",
+   "heading": "Use Brainstorming Adaptively: Definition and the First Two Rules",
+   "pages": [
+    294,
+    296
+   ],
+   "detailed": "What brainstorming is. Brainstorming is one way of helping clients think divergently and creatively. Egan describes it as a simple idea-stimulation technique for exploring the elements of complex situations. In Stages II and III it helps clients develop both possibilities for a better future and ways of making that future real.\n\nThe rules in brief. The technique works best when people suspend judgment, produce as many ideas as possible, use one idea as a takeoff point for others, get rid of normal constraints on thinking, and generate still more ideas by clarifying items already on the list.\n\nRule 1: Suspend judgment. Helpers should not let clients criticise their ideas while generating them, and should not criticise them either. There is some evidence that this rule is especially effective when the problem has been clarified and defined but goals have not yet been set. A woman whose children are grown suggests volunteering, then says the word makes her sound pathetic; the helper simply asks her to add it to the list, as critique comes later. Suspending judgment handles the \"Yes, but\" game, in which clients produce a good idea and immediately show why it is not good. Helpers should equally avoid premature approval or doubt, such as saying \"I like that idea\" or \"How would that work?\", since both approval and criticism reduce creativity. When Nina proposed that she and her husband Tip would stop raising past hurts, Tip said she could never give up her main weapon; the marriage counsellor asked them to add it to the list and examine realism later.\n\nRule 2: Encourage a wide but focused range of possibilities. The traditional principle is that quantity ultimately breeds quality, and some of the best ideas come late, so cutting the process short can be self-defeating. A man in a sex-addiction programme, brainstorming activities to replace his preoccupation with sex, wanted to stop, but the helper noticed he was not running out of ideas; the client admitted it was fun, even liberating. Continuing, he joked that he could become a monk. Later the counsellor asked what a modern-day monk who is not even Catholic would look like, which helped him look at sexual responsibility from a new perspective and rethink religion and service in his life.\n\nFocused brainstorming. Possibility generation is not an end in itself. Coyne, Clifford and Dye (2007) challenge the quantity-breeds-quality rule on efficiency grounds and suggest focused brainstorming works better. In counselling, the helper frames questions relevant to the client's problems or opportunities and helps the client brainstorm around them. Carlos could have asked Mara to picture a good relationship with her father, but judged it premature after their disastrous last conversation, and since it takes two to define a relationship. Instead he asked her to brainstorm the state of mind she would like to be in before another serious talk. She listed being composed and in possession of herself, confident, sure of herself, and free of preconceived expectations of her father. In doing so she realised she was challenging her own attitudes, noticing how submissive she was at home and that self-possession is maturity, not arrogance. Carlos then had her choose two or three elements to picture that state of mind and explore what she needed to do to develop it.\n\nHow much is enough. Helpers should use clinical judgment and social intelligence to decide when enough is enough; if a client wants to stop, it is often best to stop.",
+   "simple": "Brainstorming is a simple way to generate lots of ideas. First, nobody judges ideas while they are being produced, not even with praise. Second, aim for many ideas because good ones often come late, but keep them focused on the client's real issues, as Carlos did with Mara.",
+   "keyPoints": [
+    "Brainstorming = simple idea-stimulation technique for exploring complex situations; used in Stages II and III.",
+    "Rules: suspend judgment, produce many ideas, piggyback, drop normal constraints, clarify items to produce more.",
+    "Suspend judgment: no criticism or premature approval; counters the 'Yes, but' game (Nina and Tip).",
+    "Quantity breeds quality; best ideas often come late (the 'monk' example).",
+    "Coyne, Clifford and Dye (2007): focused brainstorming is more efficient (Mara's desired state of mind).",
+    "Use clinical judgment and social intelligence to decide when to stop."
+   ]
+  },
+  {
+   "id": "brainstorming-2",
+   "heading": "Use Brainstorming Adaptively: Piggybacking, Wild Possibilities and a Brainstorming Mentality",
+   "pages": [
+    296,
+    297
+   ],
+   "detailed": "Rule 3: Use one idea to stimulate others (piggybacking). Without criticising the client's output, the helper encourages the client to develop ideas already generated and to combine different ideas into new possibilities. A client with chronic pain says that if the pain cannot be removed, he pictures living a full life without pain at its centre; asked to expand, he notes that most people in newspaper stories about chronic pain look miserable, but some live creatively with pain, often absorbed in a cause that takes their energy, so they have no time to be preoccupied with pain. A client with multiple sclerosis proposed having a friend or two with whom to share frustrations; asked what that would look like, the client described not a complaining or \"poor me\" session but a normal give-and-take relationship sharing both joys and pains.\n\nRule 4: Let clients go and develop \"wild\" possibilities. When clients dry up or their ideas are pedestrian, the helper might ask them to draw a line under the list, write \"wild\" beneath it and come up with really wild possibilities. It is easier to cut possibilities down later than to expand them, and the wildest ideas often contain a kernel of something workable. A lonely older single man who finds his list unexciting is invited to get a bit crazy and imagines starting and living in a commune. Clients often need permission to let go, even harmlessly, because they suppress good ideas that might sound foolish. Helpers should create a climate in which such ideas are accepted and encouraged, and help clients generate conservative, liberal, radical and even outrageous possibilities.\n\nAdaptive use. Brainstorming may not suit a particular client, or the helper. It is not always necessary or wise to use it explicitly. The helper can keep the rules in mind (they are not set in stone) and, by sharing highlights and using probes, get clients brainstorming without their realising it. Egan stresses that a brainstorming mentality, not its ritualistic practice, is useful throughout helping.\n\nThe theatre analogy. Sir Peter Hall, who directed 30 Shakespeare plays over 50 years, said directors should not hand the cast a finished concept on day one but lead them on a voyage of discovery during rehearsals and then edit the findings (Hall, 2005). There is no one right way in the theatre of life either; helpers guide clients on their own voyage of discovery.",
+   "simple": "Piggybacking means building new ideas on top of earlier ones. When ideas get dull, helpers can invite 'wild' possibilities, because even crazy ideas often contain something useful. Brainstorming should be used flexibly; the mindset matters more than the ritual.",
+   "keyPoints": [
+    "Piggybacking: develop and combine ideas already generated (chronic pain and MS examples).",
+    "Wild possibilities: 'draw a line and write wild'; easier to cut ideas down later than expand them.",
+    "Wild ideas often hold a workable kernel (lonely man's commune).",
+    "Help clients generate conservative, liberal, radical and outrageous possibilities.",
+    "Brainstorming need not be explicit; a brainstorming mentality, not ritual, is what helps.",
+    "Sir Peter Hall: lead a voyage of discovery, then edit; helpers guide clients' voyages."
+   ]
+  },
+  {
+   "id": "future-probes",
+   "heading": "Use Future-Oriented Probes",
+   "pages": [
+    297,
+    298
+   ],
+   "detailed": "Purpose. One way to help clients invent the future is to ask them, or get them to ask themselves, future-oriented questions linked to their current unmanaged problems or undeveloped opportunities. These are different ways of answering \"What do you want?\" and \"What do you need?\", and they focus on outcomes, that is, what will be in place after clients act.\n\nThe probes with Egan's examples:\n\n1. What would this problem situation look like if you were managing it better? Ken, a lonely college student, said he would have fewer anxiety attacks and spend more time with people.\n\n2. What changes in your present lifestyle would make sense? Cindy, a \"bored homemaker\", said she would drink less, exercise more, stop watching soaps all day and have something meaningful to do.\n\n3. What would you be doing differently with the people in your life? Lon, a graduate student lacking age-appropriate autonomy, said he would stop letting his mother make his decisions and would share an apartment with friends.\n\n4. What patterns of behaviour would be in place that are not in place now? Bridget, a depressed nursing-home resident, would join more of the home's activities. Rick, who has lymphoma, would stop seeing himself as a victim, research the disease and new treatments online, and get second or third opinions, managing his lymphoma rather than just suffering from it.\n\n5. What current patterns of behaviour would be eliminated? Bridget would stop putting herself down for incontinence she cannot control and stop complaining constantly, which brings everyone down.\n\n6. What would you have that you don't have now? Sissy, who has lived in a housing project for 11 years, would have a rat-free home, some friends and less misery. Drew, tortured by perfectionism, would sometimes wear sloppy clothes and like it, and would have a more realistic sense of a messy, chaotic world, finding beauty in the chaos.\n\n7. What accomplishments would be in place that are not in place now? Ryan, a divorced man in his mid-30s, would have a degree in practical nursing, do some part-time teaching and be close to someone he would like to marry.\n\n8. What would an unused opportunity look like if you were to develop it? Enid, a talented woman given only one modest promotion who feels like a second-class citizen, would in two years be an officer of her company or have a very good job elsewhere.\n\nHelpers must help with answers. It is a mistake to assume clients will gush with answers. Helpers should ask these questions, or have clients ask themselves, and then help them answer. Many clients do not know how to use their innate creativity, and divergent thinking is not part of their mental lifestyle, so helpers must work with them to produce creative output. Some clients are also reluctant to name possibilities because they sense it will bring more responsibility and require moving into action.",
+   "simple": "Future-oriented probes are questions like 'What would this look like if you were handling it better?' or 'What would you have that you don't have now?' They focus clients on outcomes. Helpers must actively help clients answer, because many are not used to thinking creatively or fear the responsibility that comes with naming goals.",
+   "keyPoints": [
+    "Future-oriented probes help clients answer 'What do you want?' and 'What do you need?'; they focus on outcomes.",
+    "Eight probes: managed problem; lifestyle changes; doing differently with people; new patterns; patterns eliminated; things to have; accomplishments; developed opportunity.",
+    "Illustrated by Ken, Cindy, Lon, Bridget, Rick, Sissy, Drew, Ryan and Enid.",
+    "Clients will not automatically gush with answers; helpers must help them answer.",
+    "Some clients avoid naming possibilities because it brings responsibility and action."
+   ]
+  },
+  {
+   "id": "exemplars",
+   "heading": "Help Clients Review Exemplars and Role Models as a Source of Possibilities",
+   "pages": [
+    298,
+    299
+   ],
+   "detailed": "Seeing possibilities in others. Some clients see future possibilities more easily when they are embodied in other people. Helpers can help clients brainstorm possibilities by identifying exemplars or models. Egan stresses that models are not superstars or people who do everything perfectly, since that would be self-defeating.\n\nThe bored couple. A marriage counsellor asked a middle-aged, childless couple, bored with their marriage, what it would look like if it were a little better, and saw they were stuck. He suggested they think about married relatives, friends or acquaintances. The wife said none had super marriages; the counsellor clarified he meant bits and pieces, small things that could make their marriage a little better. The wife noted that Fred and Lisa do not always do everything together, prompting an exchange about whose idea constant togetherness was and how it put them in each other's hair. Asked who else appealed to them, the husband mentioned Ron and Carol, who do volunteer work together, which gets them out of themselves and probably gives them better conversations. Though torturous, the process yielded a range of possibilities, which the counsellor had them write down. At this point the aim was to identify possibilities, not to get commitment.\n\nFran: discovering unexpected models. Fran, a somewhat withdrawn college junior, realised she lacked the interpersonal competence for the business world she planned to enter. After seeing a counsellor in Student Services, she joined a campus \"lifestyle\" group with interpersonal-skills training. She learned from what members said, but even more by watching them in action, noticing behaviours she wanted, often thinking \"there's something I never thought of\". Without becoming a slavish imitator, she started incorporating some of these patterns into her own style.\n\nUses of models. Models or exemplars help clients name what they want more specifically. They can be found anywhere: relatives, friends and associates, books, television, history and films. Counsellors help clients identify models, select the relevant dimensions of those people, and translate what they see into realistic possibilities for themselves.",
+   "simple": "Some clients find it easier to picture a better future by looking at other people. Models need not be perfect; even small things others do, like a couple volunteering together, can spark ideas. Helpers help clients pick out what is relevant and turn it into realistic possibilities.",
+   "keyPoints": [
+    "Some clients see possibilities better when embodied in others.",
+    "Models are not superstars or perfect people; that would be self-defeating.",
+    "Bored couple: 'bits and pieces' from other couples (Fred and Lisa; Ron and Carol) yielded possibilities, recorded but not yet committed to.",
+    "Fran learned from watching group members, without slavish imitation.",
+    "Models are everywhere: relatives, friends, books, TV, history, films.",
+    "Helpers help identify models, choose relevant dimensions and translate them into realistic possibilities."
+   ]
+  },
+  {
+   "id": "case-brendan",
+   "heading": "Cases Featuring Possibilities for a Better Future: The Case of Brendan, Dying Better",
+   "pages": [
+    299,
+    300
+   ],
+   "detailed": "Purpose of the cases. Egan closes with two cases showing how helping clients develop possibilities for a better future had a substantial impact.\n\nBrendan's situation. Brendan, a heavy drinker, had extensive, irreversible liver damage and was clearly getting sicker. Yet he wanted to \"get some things done\" before he died, and his action orientation helped a great deal. Over a few months a counsellor helped him name what he wanted before death or on his journey towards it.\n\nHis possibilities. In a homework exercise Brendan listed: talks with someone religious, such as a minister, about the bigger issues of life and death; dying not hopeless but with a sense of meaning; belonging to a community of people who understand what he is going through, are not sentimental, and are not disgusted by how he harmed himself; relief from some financial worries; a couple of close friends to share daily ups and downs with, without apologies; doing productive work, paid or not, for as long as possible, to contribute even in an ordinary way after being \"a flake\"; a decent place to live, perhaps with others; decent, compassionate medical care from a doctor who would challenge him to live until he died; better management of bouts of anxiety and depression; reuniting with his family, especially hugging his father and being hugged; making peace with one or two close friends who dropped him when he became ill but are good at heart; and dying in his home town.\n\nHow the counsellor worked. Brendan did not name all these at once. Through empathy and probes, the counsellor helped him name what he needed and wanted, then helped him stitch together a set of goals from these possibilities (Stage II) and ways of accomplishing them (Stage III). The case shows that even when the problem cannot be cured, possibilities for a better future, here a better way of dying, can be developed.",
+   "simple": "Brendan was dying from liver damage caused by drinking but wanted to get things done first. With empathy and probes, his counsellor helped him list possibilities such as meaning, community, family reconciliation, good medical care and dying in his home town. These then became goals and action plans.",
+   "keyPoints": [
+    "Brendan had irreversible liver damage but an action orientation that helped.",
+    "Homework exercise produced possibilities: spiritual talks, meaning, community, finances, friends, productive work, housing, compassionate care, managing anxiety/depression, family, reconciliation, dying at home.",
+    "Possibilities emerged gradually through empathy and probes.",
+    "Counsellor then helped turn possibilities into goals (Stage II) and action plans (Stage III).",
+    "Shows possibilities can improve life even when the problem cannot be cured ('dying better')."
+   ]
+  },
+  {
+   "id": "washington-family",
+   "heading": "The Washington Family Case",
+   "pages": [
+    300,
+    302
+   ],
+   "detailed": "Why the case is complex. This case involves a family, so the family as a unit and each member have their own wants and needs. Reviewing possibilities is therefore even more important, so that competing needs can be reconciled.\n\nBackground. Lane, the 15-year-old son of Troy and Rhonda Washington, was hospitalised with what was diagnosed as an \"acute schizophrenic attack\". He had two older teenage brothers and two younger sisters, aged 10 and 12, all at home. The family lived in a large city; both parents worked but still pinched pennies. They faced arranging ongoing care for Lane, financial burdens, behavioural problems among the other children, marital conflict and community stigma. They felt the hospital psychiatrist and psychologist did not take time to understand them and were trying to push Lane back into the community, giving him pills and handing him back. No one explained that short-term hospitalisation protects patients' civil rights and avoids the harmful effects of long-term institutionalisation. At discharge they were warned of possible relapse but not told what to do. Feeling abandoned and angry with the mental-health establishment, they by chance met someone who had worked for the local office of the National Alliance for the Mentally Ill (NAMI), an advocacy and education organisation, who referred them to an agency providing support.\n\nBernheim's seven areas. Social workers at the agency helped the family identify needs and wants in seven areas (Bernheim, 1989):\n\n1. The home environment: a home that balances the needs of all members, not an extension of the hospital; Lane cared for, but the other children's and parents' needs attended to as well.\n\n2. Care outside the home: a comprehensive therapeutic programme for Lane; reviewing, identifying and arranging access to relevant services, and finding a way to pay.\n\n3. Care inside the home: all members knowing how to cope with Lane's residual symptoms, whether he is withdrawn or aggressive, and how to relate to him and help with behavioural problems.\n\n4. Prevention: being able to spot early warning signs of relapse and knowing what to do, such as contacting the clinic or, in severe cases, calling an ambulance or the police.\n\n5. Family stress: coping with increased stress, having forums for working out problems, avoiding blowups and managing them without damaging the family's social fabric.\n\n6. Stigma: understanding and coping with stigma, for example the children knowing what to do when taunted about a \"crazy brother\", and members knowing whom to tell, what to say, how to answer inquiries and how to handle blame and insults.\n\n7. Limitation of grief: managing the normal guilt, anger, frustration, fear and grief of such situations.\n\nFrom possibilities to goals. Bernheim's schema served as a useful checklist for stimulating thinking about possibilities. Ideally all would be achieved, but that is not how the world works. The family first needed help developing these possibilities, then help setting priorities and establishing goals, which is the work of Task II-B.\n\nConcluding message. There are many ways to help clients think more broadly and deeply about problem-managing outcomes; the key, as always, is to tailor interventions to each client's needs.",
+   "simple": "When Lane was hospitalised for schizophrenia, his family faced money worries, stigma, stress and poor information. Agency social workers used Bernheim's seven areas (home environment, care outside and inside the home, prevention, family stress, stigma and grief) to help them list possibilities. The next step, choosing priorities and goals, belongs to Task II-B.",
+   "keyPoints": [
+    "Family cases are complex: the unit and each member have wants and needs, so competing needs must be reconciled.",
+    "Lane (15) hospitalised with an 'acute schizophrenic attack'; family faced finances, sibling problems, marital conflict, stigma and poor information.",
+    "NAMI contact led them to a supportive agency.",
+    "Bernheim's seven areas: home environment, care outside the home, care inside the home, prevention, family stress, stigma, limitation of grief.",
+    "The schema is a checklist for possibilities; prioritising and goal setting is Task II-B.",
+    "Tailor interventions to client needs."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Client-directed and outcome-informed (CDOI)",
+   "definition": "Egan's description of the helping approach; Stages II and III matter most within it because they deal with problem-managing outcomes.",
+   "page": 283
+  },
+  {
+   "term": "Stage II",
+   "definition": "The stage of the helping model concerned with designing problem-managing goals; it asks 'What outcomes do I want?'.",
+   "page": 283
+  },
+  {
+   "term": "Task II-A",
+   "definition": "Helping clients discover possibilities for a better future; it also helps them develop a sense of hope.",
+   "page": 283
+  },
+  {
+   "term": "Task II-B",
+   "definition": "Helping clients identify goals, outcomes and impact, crafting a viable change agenda from among the possibilities; covered in Chapter 12.",
+   "page": 283
+  },
+  {
+   "term": "Task II-C",
+   "definition": "Helping clients explore commitment: what they are willing to pay for what they want, and incentives for committing to the change agenda.",
+   "page": 283
+  },
+  {
+   "term": "Problem-to-solution approach",
+   "definition": "Moving almost straight from problem clarification to actions that remedy the problem; sometimes works but leaves out the goals-outcomes-impact package.",
+   "page": 284
+  },
+  {
+   "term": "Goal",
+   "definition": "Some desired state; it remains only an idea until it is accomplished.",
+   "page": 285
+  },
+  {
+   "term": "Outcome",
+   "definition": "An accomplished goal; therapy is about life-enhancing outcomes for clients.",
+   "page": 285
+  },
+  {
+   "term": "Impact (problem-managing outcome)",
+   "definition": "The requirement that an outcome has the desired effect on the client's life, actually managing the problem or developing the opportunity.",
+   "page": 285
+  },
+  {
+   "term": "Solution with a big S",
+   "definition": "An outcome with the desired impact, e.g., Clive eliminating his alcohol habit.",
+   "page": 285
+  },
+  {
+   "term": "Solution with a small s",
+   "definition": "The actions or programme leading to an outcome, e.g., Clive's adherence to AA; not to be confused with the outcome itself.",
+   "page": 285
+  },
+  {
+   "term": "Design thinking",
+   "definition": "An approach starting from ill-defined problems, seeking a deeper grasp of context, using creativity, often starting with the goal, and fitting solutions to context.",
+   "page": 285
+  },
+  {
+   "term": "Expectancy",
+   "definition": "A psychological term sometimes used for hope in therapy.",
+   "page": 286
+  },
+  {
+   "term": "Positive-outcome expectancy bias",
+   "definition": "The term used because expectancies can be positive, neutral or negative; clients who expect positive outcomes are more likely to achieve them.",
+   "page": 286
+  },
+  {
+   "term": "Hope (Groopman)",
+   "definition": "The elevating feeling of seeing, in the mind's eye, a path to a better future while acknowledging obstacles; true hope has no room for delusion.",
+   "page": 287
+  },
+  {
+   "term": "Hope (Snyder)",
+   "definition": "The process of thinking about one's goals, having the will or motivation to move towards them, and thinking about strategies to achieve them.",
+   "page": 287
+  },
+  {
+   "term": "Agency",
+   "definition": "The will, desire or motivation (and sense of urgency) to move towards one's goals; 'the will' in Snyder's model.",
+   "page": 287
+  },
+  {
+   "term": "Pathways",
+   "definition": "Realistic strategies or routes for reaching one's goals; 'the way' in Snyder's model.",
+   "page": 287
+  },
+  {
+   "term": "Break-away thinking",
+   "definition": "Thinking that goes beyond incremental improvement on a disliked present, which helpers encourage in clients locked into the present.",
+   "page": 289
+  },
+  {
+   "term": "Discovery mode",
+   "definition": "The mode counselling aims to move clients into from problem-centred mode; it involves creativity and divergent thinking.",
+   "page": 289
+  },
+  {
+   "term": "Possible selves",
+   "definition": "Markus and Nurius's term for individuals' ideas of what they might become, would like to become, and are afraid of becoming.",
+   "page": 290
+  },
+  {
+   "term": "Transcending a problem",
+   "definition": "Managing a problem by developing an opportunity that goes beyond it rather than 'solving' it, as Brenda did.",
+   "page": 291
+  },
+  {
+   "term": "Convergent thinking",
+   "definition": "Problem solving that looks for the 'one right answer' or the culturally acceptable one; useful but limiting for complex problems.",
+   "page": 293
+  },
+  {
+   "term": "Divergent thinking",
+   "definition": "Thinking that assumes there is always more than one answer; in helping, more than one way to manage a problem or develop an opportunity.",
+   "page": 293
+  },
+  {
+   "term": "Lateral thinking",
+   "definition": "De Bono's name for divergent thinking.",
+   "page": 293
+  },
+  {
+   "term": "Curiosity",
+   "definition": "A positive emotional-motivational system linked to recognising, pursuing and self-regulating novelty and challenge (Kashdan, Rose & Fincham); related to divergent thinking.",
+   "page": 293
+  },
+  {
+   "term": "Brainstorming",
+   "definition": "A simple idea-stimulation technique for exploring complex situations; used in Stages II and III to develop possibilities and ways to achieve them.",
+   "page": 294
+  },
+  {
+   "term": "'Yes, but' game",
+   "definition": "Coming up with a good idea and immediately showing why it is not good; handled by suspending judgment.",
+   "page": 295
+  },
+  {
+   "term": "Focused brainstorming",
+   "definition": "Brainstorming around questions the helper formulates about the client's specific problems or opportunities; argued by Coyne, Clifford and Dye to be more efficient.",
+   "page": 295
+  },
+  {
+   "term": "Piggybacking",
+   "definition": "Using one idea to stimulate others: developing ideas already generated and combining ideas into new possibilities.",
+   "page": 296
+  },
+  {
+   "term": "Wild possibilities",
+   "definition": "Deliberately unconventional ideas encouraged when clients dry up; they often contain a workable kernel.",
+   "page": 296
+  },
+  {
+   "term": "Brainstorming mentality",
+   "definition": "Keeping brainstorming rules in mind and using highlights and probes so clients brainstorm without a formal ritual.",
+   "page": 297
+  },
+  {
+   "term": "Future-oriented probes",
+   "definition": "Questions linked to current problems or opportunities that help clients say what they want and need, focusing on outcomes.",
+   "page": 297
+  },
+  {
+   "term": "Exemplars / models",
+   "definition": "People in whom clients see possibilities embodied; not superstars or perfect people.",
+   "page": 298
+  },
+  {
+   "term": "Bernheim's schema",
+   "definition": "Seven areas of family needs and wants (home environment, care outside and inside the home, prevention, family stress, stigma, limitation of grief) used as a checklist for possibilities.",
+   "page": 301
+  }
+ ],
+ "people": [
+  {
+   "name": "Gelatt",
+   "contribution": "Held that the future does not exist and cannot be predicted; it must be imagined and invented.",
+   "page": 283
+  },
+  {
+   "name": "Ambrose & Harris; Lockwood",
+   "contribution": "Cited for the movement to incorporate design thinking into problem management.",
+   "page": 285
+  },
+  {
+   "name": "Merholz, Wilkens, Schauer & Verba",
+   "contribution": "Authors of a business-focused book that still explains design-thinking principles well.",
+   "page": 286
+  },
+  {
+   "name": "Bell",
+   "contribution": "Cited for design-thinking programmes for higher education and educators.",
+   "page": 286
+  },
+  {
+   "name": "St. Paul",
+   "contribution": "Cited for the idea that hope in what can be seen is not really hope, highlighting uncertainty.",
+   "page": 286
+  },
+  {
+   "name": "R. S. Lazarus; Stotland",
+   "contribution": "Cited as evidence that scientific psychology has not always been interested in hope.",
+   "page": 286
+  },
+  {
+   "name": "Rick Snyder",
+   "contribution": "Champion of hope research; linked excuses and hope; defined hope as goals, agency and pathways; reviewed the benefits of high hope.",
+   "page": 286
+  },
+  {
+   "name": "Ray Higgins",
+   "contribution": "Snyder's colleague who noted that Snyder's work on hope grew from his own 15-year struggle with chronic pain.",
+   "page": 286
+  },
+  {
+   "name": "Reiter; Westra, Constantino & Aviram",
+   "contribution": "Cited for the important role of hope and expectancy in therapy.",
+   "page": 287
+  },
+  {
+   "name": "Friedrich Nietzsche",
+   "contribution": "Represented the negative view that hope is the worst evil because it prolongs torment.",
+   "page": 287
+  },
+  {
+   "name": "Gerard Manley Hopkins",
+   "contribution": "Poet whose The Wreck of the Deutschland gives two views of hope: lost hope and the nun's different kind of hope.",
+   "page": 287
+  },
+  {
+   "name": "Jerome Groopman",
+   "contribution": "Harvard medicine professor who defined hope as seeing a path to a better future without delusion and explored its biology.",
+   "page": 287
+  },
+  {
+   "name": "Coyne, Stefanek & Palmer",
+   "contribution": "Reviewed the conflict between hope and evidence, showing the benefits of hope are disputed.",
+   "page": 288
+  },
+  {
+   "name": "Dean Simonton",
+   "contribution": "Reviewed creativity within positive psychology; coined 'harness the imagination'.",
+   "page": 289
+  },
+  {
+   "name": "Taylor, Pham, Rivkin & Armor",
+   "contribution": "Showed mental stimulation helps when it offers a window on the future and leads to plans.",
+   "page": 289
+  },
+  {
+   "name": "Uzzi & Spiro",
+   "contribution": "Debunked the myth that creativity is the work of loners; creativity is social.",
+   "page": 290
+  },
+  {
+   "name": "Gail Godwin",
+   "contribution": "Novelist whose character warns against people 'congealed into their final selves'.",
+   "page": 290
+  },
+  {
+   "name": "Markus & Nurius",
+   "contribution": "Coined the term 'possible selves'.",
+   "page": 290
+  },
+  {
+   "name": "Cartwright, Arredondo & D'Andrea",
+   "contribution": "Noted that strengths of physically challenged people are often overlooked by counsellors and the dominant group.",
+   "page": 291
+  },
+  {
+   "name": "King & Hicks",
+   "contribution": "Noted possible selves include all imaginable futures, not only goals.",
+   "page": 291
+  },
+  {
+   "name": "Kaufman & Sternberg",
+   "contribution": "Cited for the enormous research literature on creativity.",
+   "page": 291
+  },
+  {
+   "name": "Wolff",
+   "contribution": "Wrote a practical guide to creativity in four parts: Dreaming, Originating, Varying, Adapting.",
+   "page": 291
+  },
+  {
+   "name": "Carson & Becker",
+   "contribution": "Argued that helpers' own peak creativity is a prerequisite to effective therapy; clients and helpers inspire each other's creativity.",
+   "page": 292
+  },
+  {
+   "name": "Hecker; Kottler",
+   "contribution": "Hecker edited the 2002 special journal issue reviewed by Carson and Becker (with Hecker & Kottler, Kottler & Hecker cited).",
+   "page": 292
+  },
+  {
+   "name": "Cole & Sarnoff; Robertshaw, Mecca & Rerick",
+   "contribution": "Sources for the review of characteristics of the creative person.",
+   "page": 292
+  },
+  {
+   "name": "Azar",
+   "contribution": "Source for the principal barriers to creativity.",
+   "page": 292
+  },
+  {
+   "name": "Richards",
+   "contribution": "Editor of Everyday Creativity, recommended for tapping helper and client creativity.",
+   "page": 293
+  },
+  {
+   "name": "Kennedy",
+   "contribution": "Cited for the formation of the Association for Creativity in Counseling within the ACA.",
+   "page": 293
+  },
+  {
+   "name": "De Bono",
+   "contribution": "Called divergent thinking 'lateral thinking'.",
+   "page": 293
+  },
+  {
+   "name": "Kashdan, Rose & Fincham",
+   "contribution": "Defined curiosity as a positive emotional-motivational system linked to novelty and challenge.",
+   "page": 293
+  },
+  {
+   "name": "Coyne, Clifford & Dye",
+   "contribution": "Challenged the quantity-breeds-quality rule and favoured focused brainstorming.",
+   "page": 295
+  },
+  {
+   "name": "Sir Peter Hall",
+   "contribution": "Theatre director who advocated leading a cast on a voyage of discovery rather than presenting a finished concept.",
+   "page": 297
+  },
+  {
+   "name": "Bernheim",
+   "contribution": "Provided the seven-area schema of family needs and wants used in the Washington case.",
+   "page": 301
+  }
+ ],
+ "studies": [
+  {
+   "title": "Expectancy and therapy outcomes",
+   "finding": "Plenty of evidence shows clients who expect positive therapy outcomes have a better chance of achieving them, so the working alliance and buy-in to the method matter.",
+   "page": 286
+  },
+  {
+   "title": "Snyder (1995): benefits of hope",
+   "finding": "Higher-hope people have more and harder goals, more success, see goals as challenges, are happier and less distressed, cope better, recover better from injury and report less burnout.",
+   "page": 288
+  },
+  {
+   "title": "Coyne, Stefanek & Palmer (2007): hope versus evidence",
+   "finding": "Review of the conflict between hope and evidence; shows the positive effect of hope is disputed.",
+   "page": 288
+  },
+  {
+   "title": "Harvard Heart Letter (2008)",
+   "finding": "Hope can sustain people through tragedy and disease, but realism is needed to keep it from becoming fantasy.",
+   "page": 288
+  },
+  {
+   "title": "Simonton (2000)",
+   "finding": "Reviewed advances in understanding and using creativity as part of positive psychology.",
+   "page": 289
+  },
+  {
+   "title": "Taylor, Pham, Rivkin & Armor (1998): mental stimulation",
+   "finding": "Mental stimulation helps only when it gives a window on the future, enabling envisioning of possibilities and plans; managing emotions and sustaining problem solving are fundamental.",
+   "page": 289
+  },
+  {
+   "title": "Uzzi & Spiro (2005): creativity as social",
+   "finding": "Creative thinking at its best is a social enterprise, not the work of loners; small-group therapy done right can be powerful.",
+   "page": 290
+  },
+  {
+   "title": "Research on possible selves",
+   "finding": "A great deal of clinically useful research has been done on possible selves since Markus and Nurius (1986).",
+   "page": 290
+  },
+  {
+   "title": "Carson & Becker (2004) review",
+   "finding": "Helpers accessing their own peak creativity to help clients tap their creative resources is a prerequisite to effective therapy.",
+   "page": 292
+  },
+  {
+   "title": "Requirements for creativity (Cole & Sarnoff; Robertshaw et al.)",
+   "finding": "Creative people show optimism, acceptance of ambiguity, wide interests, flexibility, tolerance of complexity, verbal fluency, curiosity, drive, independence and reasonable risk taking; troubled clients often lack these.",
+   "page": 292
+  },
+  {
+   "title": "Azar (1995): barriers to creativity",
+   "finding": "Innovation is hindered by fear, fixed habits, dependence on authority, perfectionism and problems with social networks.",
+   "page": 292
+  },
+  {
+   "title": "Suspending judgment in brainstorming",
+   "finding": "Some evidence that suspending judgment is especially effective when the problem is defined but goals have not yet been set.",
+   "page": 295
+  },
+  {
+   "title": "Coyne, Clifford & Dye (2007): focused brainstorming",
+   "finding": "Focused brainstorming is more efficient than relying on quantity breeding quality.",
+   "page": 295
+  },
+  {
+   "title": "Bernheim (1989): family needs",
+   "finding": "Families of people with serious mental illness have needs and wants in seven areas, from home environment to limitation of grief.",
+   "page": 301
+  }
+ ],
+ "examples": [
+  {
+   "title": "Big S vs small s for exam stress",
+   "text": "A student's goal is to stop panicking in exams. The big-S Solution is the outcome: sitting papers calmly and finishing on time. The small-s solutions are the routes: a study timetable, mock tests, or breathing exercises. If one route fails, the outcome can still be reached another way.",
+   "supplementary": true
+  },
+  {
+   "title": "Snyder's hope in a placement drive",
+   "text": "A final-year student wants a campus placement (goal), is genuinely motivated because her family is counting on her (agency), and has a plan of daily aptitude practice, mock interviews with seniors and resume feedback (pathways). Her hopeful feeling grows out of having all three in place.",
+   "supplementary": true
+  },
+  {
+   "title": "Divergent thinking after NEET",
+   "text": "A student who misses a medical seat thinks 'medicine is over for me'. Divergent thinking asks what else in health care fits: physiotherapy, nursing, clinical psychology, public health, pharmacy or biomedical research. Like Caroline, the aim (a health career) stays; the route changes.",
+   "supplementary": true
+  },
+  {
+   "title": "Wild possibilities for a lonely hosteller",
+   "text": "Brainstorming ways to feel less lonely, a hosteller lists 'join a club' and 'call home more'. Asked to go wild, he adds 'start a weekend cooking night for the whole floor'. It sounds silly, but its kernel, hosting small shared activities, becomes a realistic plan.",
+   "supplementary": true
+  }
+ ],
+ "checks": [
+  {
+   "q": "According to Egan, insights are valuable mainly to the degree that they:",
+   "options": [
+    "Lead directly or indirectly to problem-managing action",
+    "Uncover the client's unconscious motives",
+    "Explain the history of the problem",
+    "Replace the need for goal setting"
+   ],
+   "answer": 0,
+   "explain": "Egan says insights are fine only to the degree that they lead to problem-managing action.",
+   "page": 283,
+   "sectionId": "intro-stage-ii"
+  },
+  {
+   "q": "Which question captures the concern of Stage II?",
+   "options": [
+    "What do I have to do to get what I want?",
+    "What outcomes do I want?",
+    "What is really going on in my life?",
+    "Who is to blame for my problem?"
+   ],
+   "answer": 1,
+   "explain": "Stage II asks about desired outcomes; 'What do I have to do...' belongs to Stage III.",
+   "page": 283,
+   "sectionId": "intro-stage-ii"
+  },
+  {
+   "q": "Task II-C is concerned with:",
+   "options": [
+    "Discovering possibilities for a better future",
+    "Crafting a viable change agenda",
+    "Commitment: what the client is willing to pay",
+    "Clarifying the problem situation"
+   ],
+   "answer": 2,
+   "explain": "Task II-C asks 'What am I willing to pay for what I want?' and seeks incentives for commitment.",
+   "page": 283,
+   "sectionId": "three-tasks"
+  },
+  {
+   "q": "Gelatt's view, cited at the start of Stage II, is that the future:",
+   "options": [
+    "Can be predicted from past behaviour",
+    "Is determined by early childhood",
+    "Should be left to chance",
+    "Must be imagined and invented"
+   ],
+   "answer": 3,
+   "explain": "Gelatt held that the future does not exist and cannot be predicted; it must be imagined and invented.",
+   "page": 283,
+   "sectionId": "three-tasks"
+  },
+  {
+   "q": "In Clive's case, joining and following AA is an example of:",
+   "options": [
+    "A solution with a small s",
+    "A Solution with a big S",
+    "An impact",
+    "A possible self"
+   ],
+   "answer": 0,
+   "explain": "The actions leading to the outcome (AA adherence) are a small-s solution; eliminating the alcohol habit is the big-S Solution.",
+   "page": 285,
+   "sectionId": "solution-ambiguous"
+  },
+  {
+   "q": "The main weakness of the problem-to-solution approach is that it:",
+   "options": [
+    "Takes too long to produce action",
+    "Leaves out the goals-outcomes-impact package",
+    "Relies too heavily on brainstorming",
+    "Ignores the client's story"
+   ],
+   "answer": 1,
+   "explain": "Egan says it ignores the logic of problem management by leaving out the goals-outcomes-impact package.",
+   "page": 285,
+   "sectionId": "solution-ambiguous"
+  },
+  {
+   "q": "Egan titles Stage II 'designing' goals because:",
+   "options": [
+    "Goals are always artistic",
+    "Design firms invented the model",
+    "Therapy has an element of design in tailoring research to clients",
+    "Clients prefer the word"
+   ],
+   "answer": 2,
+   "explain": "Since therapy must tailor social-science findings to clients, there is an element of design; therapists help clients design their future.",
+   "page": 285,
+   "sectionId": "art-or-science"
+  },
+  {
+   "q": "Design thinking typically starts with:",
+   "options": [
+    "A fixed solution",
+    "A diagnosis",
+    "Statistical data",
+    "Ill-defined problems"
+   ],
+   "answer": 3,
+   "explain": "Egan says ill-defined problems constitute the starting point of design thinking.",
+   "page": 285,
+   "sectionId": "art-or-science"
+  },
+  {
+   "q": "In psychological terms, hope in therapy is sometimes called:",
+   "options": [
+    "Expectancy",
+    "Self-efficacy",
+    "Agency",
+    "Resilience"
+   ],
+   "answer": 0,
+   "explain": "Egan notes hope in therapy is sometimes called expectancy, or positive-outcome expectancy bias.",
+   "page": 286,
+   "sectionId": "role-of-hope"
+  },
+  {
+   "q": "Snyder's work on hope, according to Ray Higgins, grew out of his:",
+   "options": [
+    "Work with cancer patients",
+    "Own 15-year struggle with chronic pain",
+    "Research on depression",
+    "Study of religious texts"
+   ],
+   "answer": 1,
+   "explain": "Higgins said Snyder's seminal work on hope grew out of his 15-year struggle with chronic pain.",
+   "page": 286,
+   "sectionId": "role-of-hope"
+  },
+  {
+   "q": "In Snyder's model, 'the will' refers to:",
+   "options": [
+    "Pathways",
+    "Goals",
+    "Agency",
+    "Outcomes"
+   ],
+   "answer": 2,
+   "explain": "Serena's feelings arise as 'the will' (agency) and 'the way' (pathways) come together.",
+   "page": 288,
+   "sectionId": "nature-of-hope"
+  },
+  {
+   "q": "Which thinker held that hope is the worst of evils because it prolongs torment?",
+   "options": [
+    "Groopman",
+    "Snyder",
+    "Hopkins",
+    "Nietzsche"
+   ],
+   "answer": 3,
+   "explain": "Nietzsche's view lies at the negative end of views on hope.",
+   "page": 287,
+   "sectionId": "nature-of-hope"
+  },
+  {
+   "q": "Which was NOT among the benefits of high hope found by Snyder (1995)?",
+   "options": [
+    "Higher intelligence scores",
+    "More difficult goals",
+    "Superior coping skills",
+    "Less burnout at work"
+   ],
+   "answer": 0,
+   "explain": "Snyder listed more and harder goals, success, happiness, coping, recovery and less burnout; intelligence was not mentioned.",
+   "page": 288,
+   "sectionId": "benefits-of-hope"
+  },
+  {
+   "q": "Egan suggests Stages II and III could be named:",
+   "options": [
+    "Ways of solving problems",
+    "Ways of nurturing hope",
+    "Ways of reducing anxiety",
+    "Ways of building insight"
+   ],
+   "answer": 1,
+   "explain": "Because they deal with possibilities, goals, commitment, pathways and barriers, Egan calls them 'ways of nurturing hope'.",
+   "page": 288,
+   "sectionId": "benefits-of-hope"
+  },
+  {
+   "q": "The goal of Task II-A is to help clients:",
+   "options": [
+    "Commit to one goal immediately",
+    "Explore past causes of the problem",
+    "Develop a sense of direction by exploring possibilities",
+    "Evaluate action strategies"
+   ],
+   "answer": 2,
+   "explain": "Egan states Task II-A helps clients develop a sense of direction by exploring possibilities for a better future.",
+   "page": 288,
+   "sectionId": "task-ii-a"
+  },
+  {
+   "q": "Clients locked into the present tend to think:",
+   "options": [
+    "Divergently",
+    "Wildly",
+    "Laterally",
+    "Incrementally"
+   ],
+   "answer": 3,
+   "explain": "Even when imagining, such clients think incrementally, so helpers encourage break-away thinking.",
+   "page": 289,
+   "sectionId": "task-ii-a"
+  },
+  {
+   "q": "Uzzi and Spiro's research shows that creativity at its best is:",
+   "options": [
+    "A social enterprise",
+    "The work of brash loners",
+    "Purely genetic",
+    "Rare in therapy"
+   ],
+   "answer": 0,
+   "explain": "They debunk the myth of the creative loner; creativity is social, and helping is a two-person creative collaboration.",
+   "page": 290,
+   "sectionId": "skills-intro"
+  },
+  {
+   "q": "According to Taylor and colleagues, mental stimulation is helpful when it:",
+   "options": [
+    "Involves any form of daydreaming",
+    "Provides a window on the future and leads to plans",
+    "Focuses on past mistakes",
+    "Avoids emotions altogether"
+   ],
+   "answer": 1,
+   "explain": "Not just any stimulation helps; it must let people envision possibilities and plan to bring them about.",
+   "page": 289,
+   "sectionId": "skills-intro"
+  },
+  {
+   "q": "Markus and Nurius's 'possible selves' include all EXCEPT:",
+   "options": [
+    "What one might become",
+    "What one would like to become",
+    "What one was in childhood",
+    "What one fears becoming"
+   ],
+   "answer": 2,
+   "explain": "Possible selves are about the future: what one might become, would like to become and fears becoming.",
+   "page": 290,
+   "sectionId": "possible-selves"
+  },
+  {
+   "q": "Brenda managed her injury mainly by:",
+   "options": [
+    "Solving her back problem with surgery",
+    "Staying with her sympathetic counsellor",
+    "Returning to fitness instruction",
+    "Transcending it through a new career in interior design"
+   ],
+   "answer": 3,
+   "explain": "Developing an opportunity let her transcend rather than solve the problem.",
+   "page": 291,
+   "sectionId": "possible-selves"
+  },
+  {
+   "q": "Which is one of the four parts of Wolff's book on creativity?",
+   "options": [
+    "Originating",
+    "Diverging",
+    "Brainstorming",
+    "Incubating"
+   ],
+   "answer": 0,
+   "explain": "Wolff's parts are Dreaming, Originating, Varying and Adapting.",
+   "page": 291,
+   "sectionId": "creativity"
+  },
+  {
+   "q": "Which of the following is a barrier to creativity listed by Egan (citing Azar)?",
+   "options": [
+    "Verbal fluency",
+    "Perfectionism",
+    "Tolerance of complexity",
+    "Curiosity"
+   ],
+   "answer": 1,
+   "explain": "Barriers are fear, fixed habits, dependence on authority, perfectionism and social-network problems; the others are creative traits.",
+   "page": 293,
+   "sectionId": "creativity"
+  },
+  {
+   "q": "De Bono called divergent thinking:",
+   "options": [
+    "Vertical thinking",
+    "Convergent thinking",
+    "Lateral thinking",
+    "Critical thinking"
+   ],
+   "answer": 2,
+   "explain": "Egan notes De Bono (1992) called divergent thinking lateral thinking.",
+   "page": 293,
+   "sectionId": "divergent-thinking"
+  },
+  {
+   "q": "Quentin's case illustrates:",
+   "options": [
+    "Successful use of exemplars",
+    "Piggybacking",
+    "The 'Yes, but' game",
+    "A lack of divergent thinking about careers"
+   ],
+   "answer": 3,
+   "explain": "Medicine was Quentin's 'one right career'; he never considered other health-care jobs.",
+   "page": 294,
+   "sectionId": "divergent-thinking"
+  },
+  {
+   "q": "Which is NOT one of the brainstorming rules Egan lists?",
+   "options": [
+    "Evaluate each idea as soon as it is produced",
+    "Suspend judgment",
+    "Produce as many ideas as possible",
+    "Use one idea as a takeoff point for others"
+   ],
+   "answer": 0,
+   "explain": "Egan's rules require suspending judgment; evaluation comes later.",
+   "page": 294,
+   "sectionId": "brainstorming"
+  },
+  {
+   "q": "Coyne, Clifford and Dye (2007) argue that:",
+   "options": [
+    "Quantity always breeds quality",
+    "Focused brainstorming is more efficient",
+    "Brainstorming should be avoided in counselling",
+    "Only groups should brainstorm"
+   ],
+   "answer": 1,
+   "explain": "They challenge the quantity-breeds-quality rule on efficiency grounds and favour focused brainstorming.",
+   "page": 295,
+   "sectionId": "brainstorming"
+  },
+  {
+   "q": "Asking a client to 'draw a line and write wild' is used to:",
+   "options": [
+    "Stop the brainstorming",
+    "Evaluate realism",
+    "Generate wild possibilities when ideas dry up",
+    "Set priorities"
+   ],
+   "answer": 2,
+   "explain": "When clients dry up or ideas are pedestrian, helpers invite really wild possibilities.",
+   "page": 296,
+   "sectionId": "brainstorming-2"
+  },
+  {
+   "q": "Egan says what is useful throughout helping is:",
+   "options": [
+    "Formal brainstorming in every session",
+    "Avoiding brainstorming altogether",
+    "Brainstorming only in Stage III",
+    "A brainstorming mentality, not its ritualistic practice"
+   ],
+   "answer": 3,
+   "explain": "Helpers can use probes and highlights so clients brainstorm without knowing it.",
+   "page": 297,
+   "sectionId": "brainstorming-2"
+  },
+  {
+   "q": "Future-oriented probes focus primarily on:",
+   "options": [
+    "Outcomes: what will be in place after clients act",
+    "The origins of the problem",
+    "The helper's own goals",
+    "Clients' past successes"
+   ],
+   "answer": 0,
+   "explain": "Egan says these questions focus on outcomes, what will be in place after clients act.",
+   "page": 297,
+   "sectionId": "future-probes"
+  },
+  {
+   "q": "Why are some clients reluctant to name possibilities for a better future?",
+   "options": [
+    "They have too many ideas",
+    "They sense it will bring more responsibility and action",
+    "They distrust probes",
+    "They prefer convergent thinking only"
+   ],
+   "answer": 1,
+   "explain": "Egan notes some clients sense that naming possibilities brings responsibility and a move into action.",
+   "page": 298,
+   "sectionId": "future-probes"
+  },
+  {
+   "q": "According to Egan, models used as exemplars should NOT be:",
+   "options": [
+    "Relatives or friends",
+    "Characters from books or films",
+    "Superstars or people who do things perfectly",
+    "People from history"
+   ],
+   "answer": 2,
+   "explain": "Perfect models would be self-defeating; models can be found anywhere.",
+   "page": 298,
+   "sectionId": "exemplars"
+  },
+  {
+   "q": "Fran learned most about interpersonal style by:",
+   "options": [
+    "Reading self-help books",
+    "Copying her counsellor exactly",
+    "Taking a business course",
+    "Watching fellow group members in action"
+   ],
+   "answer": 3,
+   "explain": "She learned even more from watching group members than from what they said, without slavish imitation.",
+   "page": 299,
+   "sectionId": "exemplars"
+  },
+  {
+   "q": "How did Brendan's counsellor help him name his possibilities?",
+   "options": [
+    "Through empathy and probes, gradually",
+    "By giving him a ready-made list",
+    "By confronting his drinking",
+    "By referring him to a minister"
+   ],
+   "answer": 0,
+   "explain": "Brendan did not name them all at once; empathy and probes helped him name his needs and wants.",
+   "page": 300,
+   "sectionId": "case-brendan"
+  },
+  {
+   "q": "Which characteristic of Brendan helped a great deal?",
+   "options": [
+    "His wealth",
+    "His action orientation",
+    "His family's support",
+    "His medical knowledge"
+   ],
+   "answer": 1,
+   "explain": "Egan notes Brendan's action orientation helped a great deal.",
+   "page": 300,
+   "sectionId": "case-brendan"
+  },
+  {
+   "q": "How many areas of needs and wants did Bernheim's schema cover?",
+   "options": [
+    "Five",
+    "Four",
+    "Seven",
+    "Ten"
+   ],
+   "answer": 2,
+   "explain": "Social workers helped the Washingtons identify needs and wants in seven areas.",
+   "page": 301,
+   "sectionId": "washington-family"
+  },
+  {
+   "q": "After developing possibilities, the Washingtons needed help to set priorities and goals, which is the work of:",
+   "options": [
+    "Task II-A",
+    "Task II-C",
+    "Stage I",
+    "Task II-B"
+   ],
+   "answer": 3,
+   "explain": "Egan says setting priorities and establishing goals is the work of Task II-B.",
+   "page": 302,
+   "sectionId": "washington-family"
+  }
+ ],
+ "practice": [
+  {
+   "q": "Define 'possible selves'.",
+   "marks": 2,
+   "pages": [
+    290,
+    290
+   ],
+   "answer": "Possible selves is a term introduced by Markus and Nurius (1986) for a person's ideas of what they might become, what they would like to become, and what they are afraid of becoming. Egan uses the concept in Task II-A to help stuck clients imagine a better future, noting that clients may also bring limiting or negative possible selves."
+  },
+  {
+   "q": "Distinguish between a 'Solution with a big S' and a 'solution with a small s'.",
+   "marks": 2,
+   "pages": [
+    285,
+    285
+   ],
+   "answer": "A Solution with a big S is an outcome that has the desired impact on the client's life, such as Clive eliminating his alcohol habit. A solution with a small s is the action programme leading to that outcome, such as Clive following AA. Egan warns that programmes are not outcomes and the two should not be confused."
+  },
+  {
+   "q": "What is piggybacking in brainstorming?",
+   "marks": 2,
+   "pages": [
+    296,
+    296
+   ],
+   "answer": "Piggybacking is the brainstorming rule of using one idea to stimulate others. Without criticising the client, the helper encourages him or her to develop ideas already generated and to combine different ideas into new possibilities, as when a chronic-pain client expanded 'a full life without pain at its centre' into involvement in a cause."
+  },
+  {
+   "q": "What is positive-outcome expectancy bias?",
+   "marks": 2,
+   "pages": [
+    286,
+    287
+   ],
+   "answer": "It is a psychological term for hope in therapy. Because expectancies can be positive, neutral or negative, the positive form is called positive-outcome expectancy bias. Clients who expect positive outcomes have a better chance of achieving them, so therapists should build a working alliance and win clients' buy-in to the treatment method."
+  },
+  {
+   "q": "Differentiate convergent and divergent thinking.",
+   "marks": 2,
+   "pages": [
+    293,
+    293
+   ],
+   "answer": "Convergent thinking looks for the one right or culturally acceptable answer; it is sometimes useful but limiting for complex life problems. Divergent thinking, which De Bono called lateral thinking, assumes there is always more than one answer; in helping it means more than one way to manage a problem or develop an opportunity."
+  },
+  {
+   "q": "Briefly explain the three tasks of Stage II of Egan's model.",
+   "marks": 5,
+   "pages": [
+    283,
+    284
+   ],
+   "answer": "Stage II of Egan's problem-management model is about designing problem-managing goals. Since, as Gelatt put it, the future cannot be predicted and has to be imagined and invented, Stage II gives three interrelated ways in which helpers partner with clients to design a better future.\n\nTask II-A: Possibilities. Clients are helped to ask what possibilities they have for a better future, what they think they want and need, and what their problem situation would look like if managed well. This task moves clients from problems towards solutions and helps them develop hope.\n\nTask II-B: Goals, outcomes and impact. Clients ask what they really want and need and which outcomes will manage the problem. Helpers help them craft a viable change agenda from the possibilities, which Egan calls one of the central tasks of helping.\n\nTask II-C: Commitment. Clients ask what they are willing to pay for what they want, and helpers help them find incentives for commitment to the agenda.\n\nFigure 11.1 summarises these as designing a better future, designing and setting goals, and exploring commitment, all leading to action and outcomes. Egan adds that the real power of helping lies in goal setting and accomplishment, and that in practice Stages I and II are intermingled, so helpers must move flexibly with clients. Tasks II-B and II-C are treated in Chapter 12."
+  },
+  {
+   "q": "Explain Snyder's conception of hope with an example.",
+   "marks": 5,
+   "pages": [
+    287,
+    288
+   ],
+   "answer": "Rick Snyder, a leading champion of hope research, started from the premise that people are goal directed and tied hope to the goal-setting process. For Snyder, hope is a process with three parts.\n\nGoals. The person thinks about his or her goals. Egan's example is Serena, who, now pregnant, is determined to give up smoking, drinking and soft drugs.\n\nAgency. The person has the will, desire or motivation to move towards those goals. Serena is serious because she has seen children damaged by mothers' drug use and is a caring person.\n\nPathways. The person thinks about strategies to accomplish the goals. Serena knows friends will support her and is willing to join a demanding 12-step programme.\n\nHigh hope therefore means a clear goal, a high sense of agency (or urgency), and realistic planning of pathways; both agency and pathways are needed. Hope is a dimension of problem management.\n\nEgan stresses that hope is not a free-floating emotion. It is a by-product of setting goals, developing agency and devising pathways. Serena feels elation, determination and satisfaction because 'the will' and 'the way' have come together, even though she expects barriers such as the continuing lure of tobacco, wine and drugs. Snyder's (1995) review further showed that high-hope people set more and harder goals, succeed more, cope better and are happier."
+  },
+  {
+   "q": "Write a note on the requirements for creativity and the barriers to creativity as discussed by Egan.",
+   "marks": 5,
+   "pages": [
+    292,
+    293
+   ],
+   "answer": "Egan holds that everyone has a spark of creativity, but people in trouble often fail to use it. A review of the requirements for creativity (Cole & Sarnoff; Robertshaw, Mecca & Rerick) shows this by contrast.\n\nRequirements. The creative person shows optimism and confidence (clients are often depressed and powerless); acceptance of ambiguity and uncertainty (clients want to escape it); a wide range of interests (clients' interests are often narrowed by anxiety and pain); flexibility (clients may be rigid); tolerance of complexity (clients want simple solutions); verbal fluency (clients struggle to articulate problems and goals); curiosity (clients may lack a searching approach); drive and persistence (clients give up easily); independence (clients may be dependent or counterdependent); and nonconformity or reasonable risk taking (clients may be very conformist or in trouble because of their nonconformity).\n\nBarriers. Citing Azar, Egan lists obstacles to innovation: fear and anxiety; fixed, self-defeating habits; dependence on authority, such as seeking 'right answers' from helpers, or counterdependence shown through games; perfectionism, accepting only ideal solutions; and problems with social networks, since being different sets clients apart when they want to belong.\n\nImplication. Helpers must help clients overcome these barriers, and, as Carson and Becker argue, must access their own creativity, which is a prerequisite to effective therapy."
+  },
+  {
+   "q": "Describe the use of future-oriented probes in Task II-A with examples.",
+   "marks": 5,
+   "pages": [
+    297,
+    298
+   ],
+   "answer": "Future-oriented probes are questions, asked by the helper or by clients of themselves, linked to current unmanaged problems or undeveloped opportunities. They are ways of answering 'What do you want?' and 'What do you need?' and they focus on outcomes, that is, what will be in place after clients act.\n\nEgan lists eight probes with examples: what the problem would look like if managed better (Ken would have fewer anxiety attacks and spend more time with people); what lifestyle changes would make sense (Cindy would drink less, exercise and find meaningful activity); what one would do differently with people (Lon would stop letting his mother decide for him); what new patterns of behaviour would be in place (Bridget would join nursing-home activities; Rick would actively manage his lymphoma); what current patterns would be eliminated (Bridget would stop putting herself down and complaining); what one would have that one lacks now (Sissy would have a rat-free home and friends; Drew would find beauty in chaos); what accomplishments would be in place (Ryan's nursing degree and part-time teaching); and what a developed opportunity would look like (Enid as a company officer within two years).\n\nEgan warns that clients will not automatically gush with answers. Many cannot use their innate creativity, and some resist naming possibilities because it brings responsibility and action, so helpers must actively help them answer."
+  },
+  {
+   "q": "Explain Bernheim's seven areas of needs and wants with reference to the Washington family case.",
+   "marks": 5,
+   "pages": [
+    300,
+    302
+   ],
+   "answer": "The Washington case involves Lane, a 15-year-old hospitalised with an 'acute schizophrenic attack'. His family faced financial strain, sibling behaviour problems, marital conflict, stigma and poor information from hospital staff. Through a former NAMI worker they reached an agency whose social workers helped them identify needs and wants in Bernheim's seven areas.\n\n1. Home environment: a home balancing everyone's needs, not an extension of the hospital.\n2. Care outside the home: a comprehensive therapeutic programme for Lane, with access to services and a way to pay.\n3. Care inside the home: all members able to cope with Lane's residual symptoms, whether withdrawn or aggressive.\n4. Prevention: spotting early warning signs of relapse and knowing what to do, from calling the clinic to summoning an ambulance or police.\n5. Family stress: coping with stress, having forums to work out problems and managing blowups without damaging the family.\n6. Stigma: knowing how to respond to taunts and inquiries, whom to tell and how to handle blame.\n7. Limitation of grief: managing normal guilt, anger, frustration, fear and grief.\n\nEgan notes that family cases are complex because the unit and each member have needs, so reviewing possibilities helps reconcile them. Bernheim's schema served as a checklist; setting priorities and goals from it is the work of Task II-B."
+  },
+  {
+   "q": "Why does Egan suggest avoiding the term 'solution'? Discuss with reference to goals, outcomes and impact.",
+   "marks": 5,
+   "pages": [
+    284,
+    285
+   ],
+   "answer": "Egan notes that many versions of the standard problem-management model move straight from problem clarification to 'solutions', meaning actions to fix the problem. Derek, a surgeon who realised his 'always-right' style was counterproductive, simply started listening to staff and the operating-room atmosphere improved. So the approach sometimes works, but it ignores the goals-outcomes-impact package at the heart of problem management; Derek might have first designed a communication style that made sense to all concerned.\n\nEgan distinguishes three ideas. A goal is a desired state, only an idea until accomplished. An outcome is an accomplished goal. Impact means the outcome actually manages the problem. Clive, in DUI trouble, set the goal of stopping drinking, achieved it through AA (outcome), and no longer feared another DUI (impact). Outcomes matter more than the actions used, since Clive could have quit in other ways.\n\nEgan prefers to avoid 'solution' because problems in living are managed, not solved like mathematics, and because the word is ambiguous: the outcome with impact is a Solution with a big S, while the programme leading to it is a solution with a small s. Confusing them encourages hit-and-miss trying of action programmes, which may work but is inefficient and teaches little."
+  },
+  {
+   "q": "Discuss the role of hope in therapy as presented by Egan.",
+   "marks": 10,
+   "pages": [
+    286,
+    288
+   ],
+   "answer": "Introduction. Stage II of Egan's model deals with outcomes not yet realised, so it is about the future, and therefore about hope. Egan describes hope as a soft-edged concept that can have a hard-edged impact on therapeutic outcomes. It is as old as humanity and has a long religious history; St. Paul's remark that hope in what is already seen is not hope highlights its essential element of uncertainty. Hope plays a key role in both developing and implementing possibilities for a better future.\n\nHope in psychology. Scientific psychology long neglected hope (Lazarus; Stotland), but this is changing. Rick Snyder, known for work on excuses, became a champion of hope, linking the two in 'Reality Negotiation: From Excuses to Hope and Beyond'. His colleague Ray Higgins noted that Snyder's work grew out of his own long struggle with chronic pain. In therapy, hope is often called expectancy, or positive-outcome expectancy bias. There is plenty of evidence that clients who expect positive outcomes are more likely to achieve them, which is why therapists must build a working alliance and win clients' buy-in to the treatment method (Reiter; Westra and colleagues).\n\nThe nature of hope. Views have differed. Nietzsche saw hope as the worst evil because it prolongs torment. Hopkins, in The Wreck of the Deutschland, portrays both hope lost and the different hope of a nun facing death. Jerome Groopman offers a scientific view: hope is the elevating feeling of seeing a path to a better future while recognising obstacles, and true hope has no room for delusion; he explores its biology and shows counselling is central to medicine.\n\nSnyder's model. Snyder ties hope to goal setting. Hope is the process of thinking about goals, having the will or motivation (agency) to pursue them, and thinking about strategies (pathways) to reach them. Serena, pregnant and determined to give up smoking, drinking and drugs, has a clear goal, strong motivation and a realistic plan involving supportive friends and a 12-step programme. 'High hopes' means a clear goal, high agency and realistic pathways; both agency and pathways are required. Hope is not a free-floating emotion but the by-product of this work: Serena feels elation and determination because the will and the way have come together, though she expects barriers.\n\nBenefits of hope. Snyder's (1995) review found that higher-hope people have more and harder goals, succeed more, see goals as challenges, are happier and less distressed, cope better, recover better from injury and report less burnout. Egan is cautious: hope does not cure illness, the evidence is disputed (Coyne, Stefanek and Palmer), and the Harvard Heart Letter advises that realism must ground hope before it becomes fantasy.\n\nConclusion. Egan concludes that counsellors who do not devote significant time to helping clients develop possibilities, clarify goals, devise pathways and build agency are shortchanging them. Since Stages II and III deal with exactly these elements, along with commitment and overcoming barriers, Egan suggests they could be called 'ways of nurturing hope'. Hope is thus not an optional extra but woven into the process of designing a better future."
+  },
+  {
+   "q": "Describe the skills helpers can use to help clients identify possibilities for a better future.",
+   "marks": 10,
+   "pages": [
+    289,
+    299
+   ],
+   "answer": "Introduction. Task II-A aims to help clients develop a sense of direction by exploring possibilities for a better future. Egan argues that good counselling moves clients from a problem-centred mode into a 'discovery' mode that involves creativity and divergent thinking. Taylor and colleagues show that mental stimulation helps when it opens a window on the future and leads to plans, and Uzzi and Spiro show that creativity is social, so helping is a two-person creative collaboration with the helper as catalyst. Imagining a managed future is not fantasy because it is tied to the real problem; it 'harnesses the imagination' (Simonton). Egan describes six skills.\n\n1. Focus on possible selves. Markus and Nurius defined possible selves as what we might become, would like to become and fear becoming. Clients are often stuck in current selves. Ernesto, a beaten gang member, was helped by exploring upbeat possible selves rather than the causes of his plight. Brenda, injured and depressed, used a possible self to become an interior designer, transcending rather than solving her problem. Possible selves are richer than behavioural goals and capture imagination (King and Hicks).\n\n2. Tap creativity. Everyone has creativity, and helpers must be creative themselves (Carson and Becker). Creative people show optimism, acceptance of ambiguity, wide interests, flexibility, tolerance of complexity, verbal fluency, curiosity, drive, independence and reasonable risk taking, which troubled clients often lack. Barriers include fear, fixed habits, dependence on authority, perfectionism and social-network problems. Wolff's four stages, Dreaming, Originating, Varying and Adapting, offer practical help.\n\n3. Encourage divergent thinking. Convergent thinking seeks one right answer; divergent or lateral thinking (De Bono) assumes many. Quentin, rejected by medical school, saw no other career and settled for dissatisfaction, whereas Caroline explored health-care options and rose to become a nursing dean.\n\n4. Use brainstorming adaptively. Rules: suspend judgment (avoid the 'Yes, but' game and premature praise); produce many ideas, since quantity breeds quality, though focused brainstorming may be more efficient (Coyne, Clifford and Dye; Carlos and Mara); piggyback on ideas; and invite wild possibilities, which often hold a workable kernel. A brainstorming mentality matters more than ritual.\n\n5. Use future-oriented probes. Questions such as 'What would this look like if you were managing it better?' or 'What would you have that you don't have now?' focus on outcomes (Ken, Cindy, Lon, Bridget, Rick and others). Helpers must help clients answer them.\n\n6. Review exemplars and models. Clients can see possibilities in others, but models should not be perfect. A bored couple found ideas in other couples' 'bits and pieces', and Fran learned interpersonal behaviours by watching group members.\n\nConclusion. These skills help clients move beyond incremental thinking to break-away possibilities, build hope and prepare for goal setting in Task II-B. As cases like Brendan and the Washingtons show, Egan's overall advice is to tailor interventions to each client's needs."
+  },
+  {
+   "q": "Explain brainstorming and its rules as used in counselling, with suitable illustrations.",
+   "marks": 10,
+   "pages": [
+    294,
+    297
+   ],
+   "answer": "Introduction. Egan presents brainstorming as one way of helping clients think divergently and more creatively. It is a simple idea-stimulation technique for exploring the elements of complex situations. In Stages II and III it helps clients develop both possibilities for a better future and ways of making that future real. The technique works best when certain rules are followed: suspend judgment, produce many ideas, use ideas as takeoff points for others, drop normal constraints, and clarify items to generate still more.\n\nSuspend judgment. Helpers should neither let clients criticise their own ideas nor criticise them themselves. Some evidence suggests this is especially effective when the problem is defined but goals are not yet set. When a woman whose children have grown dismisses volunteering as sounding pathetic, the helper simply asks her to add it to the list. This counters the 'Yes, but' game. Helpers should also avoid premature approval or doubt, because both reduce creativity. When Tip scoffed at Nina's idea of no longer raising past hurts, the counsellor asked them to list it and check its realism later.\n\nWide but focused range. Traditionally, quantity breeds quality and the best ideas often come late. A man in a sex-addiction programme wanted to stop, but on continuing he joked about becoming a monk; exploring what a modern non-Catholic monk might look like helped him rethink sexual responsibility, religion and service. However, generating possibilities is not an end in itself. Coyne, Clifford and Dye argue that focused brainstorming is more efficient. Carlos asked Mara to brainstorm not her ideal relationship with her father but the state of mind she wanted before another serious talk; she listed composure, confidence and freedom from preconceived expectations, and realised how submissive she was at home. Helpers should use clinical judgment and social intelligence to decide when to stop, often stopping when the client wishes.\n\nPiggybacking. Helpers encourage clients to develop and combine earlier ideas. A chronic-pain client expanded 'a full life without pain at its centre' into involvement in a cause; a client with multiple sclerosis described a give-and-take friendship rather than complaining sessions.\n\nWild possibilities. When clients dry up, they can draw a line, write 'wild' and generate crazy ideas. It is easier to cut ideas down than expand them, and wild ideas often contain a workable kernel, like the lonely older man's commune. Clients need permission to let go, so helpers should welcome conservative, liberal, radical and even outrageous possibilities.\n\nAdaptive use. Brainstorming may not suit every client or helper, and need not be explicit. By keeping the rules in mind and using highlights and probes, helpers can get clients brainstorming without their knowing. Like Sir Peter Hall leading actors on a voyage of discovery, helpers guide clients on theirs.\n\nConclusion. For Egan, a brainstorming mentality rather than its ritual practice is valuable throughout helping. Used flexibly, it opens clients to creative, divergent possibilities that feed directly into goal setting."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What two questions do Stages II and III help clients answer?",
+   "back": "'What outcomes do I want?' (II) and 'What do I have to do to get what I want?' (III).",
+   "page": 283
+  },
+  {
+   "front": "What does CDOI stand for?",
+   "back": "Client-directed and outcome-informed.",
+   "page": 283
+  },
+  {
+   "front": "Name the three tasks of Stage II.",
+   "back": "II-A possibilities; II-B goals, outcomes and impact (change agenda); II-C commitment.",
+   "page": 283
+  },
+  {
+   "front": "Gelatt's view of the future?",
+   "back": "It does not exist and cannot be predicted; it must be imagined and invented.",
+   "page": 283
+  },
+  {
+   "front": "Goal vs outcome vs impact?",
+   "back": "Goal = desired state; outcome = accomplished goal; impact = outcome that actually manages the problem.",
+   "page": 285
+  },
+  {
+   "front": "Big-S Solution vs small-s solution?",
+   "back": "Big S = outcome with desired impact; small s = action programme leading to it.",
+   "page": 285
+  },
+  {
+   "front": "Why avoid 'solution'?",
+   "back": "Problems in living are managed, not solved, and the word is ambiguous (big S vs small s).",
+   "page": 285
+  },
+  {
+   "front": "Is therapy art or science?",
+   "back": "'Yes' – both; social-science findings must be tailored, so goals are designed.",
+   "page": 285
+  },
+  {
+   "front": "Starting point of design thinking?",
+   "back": "Ill-defined problems; it moves to deeper understanding of context.",
+   "page": 285
+  },
+  {
+   "front": "Psychological term for hope in therapy?",
+   "back": "Expectancy / positive-outcome expectancy bias.",
+   "page": 286
+  },
+  {
+   "front": "St. Paul's point about hope?",
+   "back": "Hope in what can be seen is not hope: uncertainty is essential.",
+   "page": 286
+  },
+  {
+   "front": "Snyder's three components of hope?",
+   "back": "Thinking about goals, will/motivation (agency), strategies (pathways).",
+   "page": 287
+  },
+  {
+   "front": "Groopman's definition of hope?",
+   "back": "Elevating feeling of seeing a path to a better future, acknowledging obstacles; no room for delusion.",
+   "page": 287
+  },
+  {
+   "front": "Is hope a free-floating emotion?",
+   "back": "No: it is a by-product of setting goals, agency and pathways.",
+   "page": 288
+  },
+  {
+   "front": "Benefits of high hope (Snyder, 1995)?",
+   "back": "More and harder goals, more success, goals as challenges, happiness, coping, injury recovery, less burnout.",
+   "page": 288
+  },
+  {
+   "front": "What could Stages II and III be named?",
+   "back": "'Ways of nurturing hope'.",
+   "page": 288
+  },
+  {
+   "front": "Goal of Task II-A?",
+   "back": "Help clients develop a sense of direction by exploring possibilities for a better future.",
+   "page": 288
+  },
+  {
+   "front": "What is 'break away' thinking?",
+   "back": "Going beyond incremental thinking that pictures a future barely better than the present.",
+   "page": 289
+  },
+  {
+   "front": "Discovery mode involves?",
+   "back": "Creativity and divergent thinking.",
+   "page": 289
+  },
+  {
+   "front": "Uzzi and Spiro on creativity?",
+   "back": "It is a social enterprise, not the work of loners.",
+   "page": 290
+  },
+  {
+   "front": "Possible selves (Markus & Nurius)?",
+   "back": "What one might become, would like to become, and fears becoming.",
+   "page": 290
+  },
+  {
+   "front": "How did Brenda cope with her injury?",
+   "back": "By transcending it: becoming an interior designer via a possible self.",
+   "page": 291
+  },
+  {
+   "front": "Wolff's four parts of the creative process?",
+   "back": "Dreaming, Originating, Varying, Adapting.",
+   "page": 291
+  },
+  {
+   "front": "Five barriers to creativity (Azar)?",
+   "back": "Fear, fixed habits, dependence on authority, perfectionism, problems with social networks.",
+   "page": 292
+  },
+  {
+   "front": "What did De Bono call divergent thinking?",
+   "back": "Lateral thinking.",
+   "page": 293
+  },
+  {
+   "front": "Quentin vs Caroline?",
+   "back": "Quentin saw one right career and settled; Caroline thought divergently and became a nursing dean.",
+   "page": 294
+  },
+  {
+   "front": "Brainstorming rules?",
+   "back": "Suspend judgment, many ideas, piggyback, drop constraints, clarify items for more ideas.",
+   "page": 294
+  },
+  {
+   "front": "What is the 'Yes, but' game?",
+   "back": "Producing a good idea and immediately explaining why it won't work.",
+   "page": 295
+  },
+  {
+   "front": "Who favoured focused brainstorming?",
+   "back": "Coyne, Clifford and Dye (2007).",
+   "page": 295
+  },
+  {
+   "front": "What is piggybacking?",
+   "back": "Using one idea to stimulate others; developing and combining ideas.",
+   "page": 296
+  },
+  {
+   "front": "Why encourage wild possibilities?",
+   "back": "Easier to cut ideas down than expand; wild ideas often hold a workable kernel.",
+   "page": 297
+  },
+  {
+   "front": "Purpose of future-oriented probes?",
+   "back": "To help clients say what they want and need, focusing on outcomes.",
+   "page": 297
+  },
+  {
+   "front": "Should models be perfect?",
+   "back": "No; superstars or perfect people would be self-defeating.",
+   "page": 298
+  },
+  {
+   "front": "Bernheim's seven areas?",
+   "back": "Home environment, care outside home, care inside home, prevention, family stress, stigma, limitation of grief.",
+   "page": 301
+  }
+ ],
+ "summary": [
+  "Stages II and III, with the Action Arrow, are central in a client-directed, outcome-informed approach; insight matters only if it leads to action (p. 283).",
+  "Stage II has three tasks: II-A possibilities, II-B goals/outcomes/impact (change agenda) and II-C commitment; Stages I and II intermingle in practice (pp. 283-284).",
+  "The problem-to-solution approach skips the goals-outcomes-impact package; a big-S Solution is an outcome with impact, a small-s solution is the action programme (pp. 284-285).",
+  "Therapy is both art and science, so goals are 'designed'; design thinking parallels Stage II (pp. 285-286).",
+  "Hope, or positive-outcome expectancy, predicts better outcomes; Snyder championed its study (pp. 286-287).",
+  "Views of hope range from Nietzsche's negativity to Groopman's realistic path to a better future (p. 287).",
+  "Snyder: hope = goals + agency (will) + pathways (way); hope is a by-product of this work, not a free-floating emotion (pp. 287-288).",
+  "High-hope people set more and harder goals, succeed more, cope better and burn out less, though hope is no cure and needs realism (p. 288).",
+  "Task II-A helps clients gain direction; reviewing possibilities builds hope, clarifies problems and requires break-away thinking (pp. 288-289).",
+  "Counselling moves clients to discovery mode; creativity is social and helping is a two-person creative collaboration (pp. 289-290).",
+  "Possible selves (Markus & Nurius) help stuck clients like Ernesto and Brenda find new direction, sometimes transcending problems (pp. 290-291).",
+  "Creative traits vs client deficits, and barriers (fear, fixed habits, dependence on authority, perfectionism, social networks) shape how helpers tap creativity (pp. 291-293).",
+  "Divergent (lateral) thinking assumes many answers, as Caroline's career shows in contrast to Quentin's (pp. 293-294).",
+  "Brainstorming rules: suspend judgment, generate many (but focused) ideas, piggyback, invite wild ideas; a brainstorming mentality matters more than ritual (pp. 294-297).",
+  "Future-oriented probes and exemplars or models help clients name outcomes they want (pp. 297-299).",
+  "Brendan's case and the Washington family case (Bernheim's seven areas) show possibilities feeding into goals of Task II-B (pp. 299-302)."
+ ],
+ "assessment": [
+  {
+   "q": "Egan describes his helping approach as:",
+   "options": [
+    "Client-directed and outcome-informed (CDOI)",
+    "Therapist-directed and insight-oriented",
+    "Diagnosis-driven",
+    "Psychodynamic"
+   ],
+   "answer": 0,
+   "explain": "Stages II and III are central because the approach is client-directed and outcome-informed.",
+   "page": 283
+  },
+  {
+   "q": "Which task of Stage II involves crafting a viable change agenda?",
+   "options": [
+    "Task II-A",
+    "Task II-B",
+    "Task II-C",
+    "Task I-C"
+   ],
+   "answer": 1,
+   "explain": "Task II-B concerns goals, outcomes and impact, crafting a change agenda from the possibilities.",
+   "page": 283
+  },
+  {
+   "q": "An accomplished goal is called:",
+   "options": [
+    "An impact",
+    "A possibility",
+    "An outcome",
+    "A pathway"
+   ],
+   "answer": 2,
+   "explain": "A goal is a desired state; once accomplished it becomes an outcome.",
+   "page": 285
+  },
+  {
+   "q": "Egan suggests problems in living need to be:",
+   "options": [
+    "Solved like mathematical problems",
+    "Ignored until they pass",
+    "Diagnosed before discussion",
+    "Managed rather than solved"
+   ],
+   "answer": 3,
+   "explain": "Mathematical problems have solutions; problems in living are managed.",
+   "page": 285
+  },
+  {
+   "q": "Which organisation relates design thinking to creating a more desirable future in the face of difficult challenges?",
+   "options": [
+    "IDEO",
+    "NAMI",
+    "ACA",
+    "Stanford Medical School"
+   ],
+   "answer": 0,
+   "explain": "IDEO, a global design firm, makes this link, which Egan says resembles Stage II.",
+   "page": 286
+  },
+  {
+   "q": "Groopman holds that true hope:",
+   "options": [
+    "Ignores obstacles",
+    "Has no room for delusion",
+    "Is a free-floating emotion",
+    "Is the worst of evils"
+   ],
+   "answer": 1,
+   "explain": "Groopman says hope acknowledges obstacles and pitfalls; true hope has no room for delusion.",
+   "page": 287
+  },
+  {
+   "q": "If Serena has 'high hopes', this means:",
+   "options": [
+    "She is certain to succeed",
+    "She feels positive without a plan",
+    "Her goal is clear, agency high and pathways realistic",
+    "She depends on others to set goals"
+   ],
+   "answer": 2,
+   "explain": "Egan explains high hopes as a clear goal, high agency and realistic pathways.",
+   "page": 287
+  },
+  {
+   "q": "For Snyder, the emotion of hope is best described as:",
+   "options": [
+    "A free-floating emotion",
+    "An inherited trait",
+    "A religious experience only",
+    "A by-product of goal setting, agency and pathways"
+   ],
+   "answer": 3,
+   "explain": "Egan stresses hope is not free-floating but the outcome of setting goals, agency and pathways.",
+   "page": 288
+  },
+  {
+   "q": "Gail Godwin's novel warns against people who have:",
+   "options": [
+    "Congealed into their final selves",
+    "Too many possible selves",
+    "Become too creative",
+    "Lost hope"
+   ],
+   "answer": 0,
+   "explain": "Egan uses Godwin's phrase to contrast 'congealed' people with clients who are stuck.",
+   "page": 290
+  },
+  {
+   "q": "King and Hicks say possible selves encompass:",
+   "options": [
+    "Only feared future selves",
+    "Not only goals but all imaginable futures we might occupy",
+    "Only behavioural goals",
+    "Only past selves"
+   ],
+   "answer": 1,
+   "explain": "Possible selves are broader and richer than stark behavioural goals.",
+   "page": 291
+  },
+  {
+   "q": "Which is a characteristic of the creative person?",
+   "options": [
+    "Dependence on authority",
+    "Fixed habits",
+    "Acceptance of ambiguity and uncertainty",
+    "Perfectionism"
+   ],
+   "answer": 2,
+   "explain": "Acceptance of ambiguity is a creative trait; the others are barriers to creativity.",
+   "page": 292
+  },
+  {
+   "q": "The Association for Creativity in Counseling sponsors:",
+   "options": [
+    "Everyday Creativity",
+    "The Harvard Heart Letter",
+    "The Journal of Clinical Activities",
+    "The Journal of Creativity in Mental Health"
+   ],
+   "answer": 3,
+   "explain": "It is a relatively new ACA division that sponsors the Journal of Creativity in Mental Health.",
+   "page": 293
+  },
+  {
+   "q": "Caroline's case shows that:",
+   "options": [
+    "A stable aim can be achieved through divergent goals and routes",
+    "Convergent thinking leads to satisfaction",
+    "Medicine is the only health career",
+    "Brainstorming must be formal"
+   ],
+   "answer": 0,
+   "explain": "Her aim of a health-care career stayed constant; divergent thinking produced specific goals and routes.",
+   "page": 294
+  },
+  {
+   "q": "When Tip said Nina could never give up raising past hurts, the counsellor:",
+   "options": [
+    "Agreed with Tip",
+    "Asked them to add the idea to the list and assess realism later",
+    "Praised Nina's idea",
+    "Ended the brainstorming"
+   ],
+   "answer": 1,
+   "explain": "This illustrates suspending judgment during brainstorming.",
+   "page": 295
+  },
+  {
+   "q": "Developing ideas already generated and combining them into new possibilities is called:",
+   "options": [
+    "Lateral thinking",
+    "Transcending",
+    "Piggybacking",
+    "Focused brainstorming"
+   ],
+   "answer": 2,
+   "explain": "Egan names this rule piggybacking.",
+   "page": 296
+  },
+  {
+   "q": "Sir Peter Hall's advice that directors lead the cast on a voyage of discovery illustrates:",
+   "options": [
+    "The 'Yes, but' game",
+    "Convergent thinking",
+    "Bernheim's schema",
+    "A brainstorming mentality in helping"
+   ],
+   "answer": 3,
+   "explain": "Like directors, helpers guide clients on their own voyage of discovery rather than imposing a finished concept.",
+   "page": 297
+  },
+  {
+   "q": "Rick, who has lymphoma, answered which future-oriented probe?",
+   "options": [
+    "What patterns of behaviour would be in place that are not now?",
+    "What would you have that you don't have now?",
+    "What current patterns would be eliminated?",
+    "What accomplishments would be in place?"
+   ],
+   "answer": 0,
+   "explain": "Rick would research his disease and seek further opinions, new patterns of managing rather than suffering.",
+   "page": 298
+  },
+  {
+   "q": "The bored childless couple's counsellor asked them to look at other couples for:",
+   "options": [
+    "Super marriages to copy",
+    "Bits and pieces that could make their marriage a little better",
+    "Reasons to separate",
+    "Evidence of who was to blame"
+   ],
+   "answer": 1,
+   "explain": "He clarified he did not mean super marriages but small things they could adopt.",
+   "page": 299
+  },
+  {
+   "q": "Which is NOT one of Bernheim's seven areas in the Washington case?",
+   "options": [
+    "Prevention",
+    "Stigma",
+    "Career guidance",
+    "Limitation of grief"
+   ],
+   "answer": 2,
+   "explain": "The seven areas are home environment, care outside and inside the home, prevention, family stress, stigma and limitation of grief.",
+   "page": 301
+  },
+  {
+   "q": "Why is reviewing possibilities especially important with families?",
+   "options": [
+    "Families cannot set goals",
+    "Families do not need hope",
+    "Only parents' needs matter",
+    "Competing needs of the unit and individual members must be reconciled"
+   ],
+   "answer": 3,
+   "explain": "Both the family unit and each member have wants and needs, so possibilities help reconcile them.",
+   "page": 300
+  }
+ ]
+}

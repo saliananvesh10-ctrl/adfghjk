@@ -1,0 +1,2721 @@
+{
+ "number": 2,
+ "title": "The Helping Relationship and the Values That Drive It",
+ "theorist": null,
+ "approach": "Part I: Laying the Groundwork",
+ "pages": [
+  36,
+  68
+ ],
+ "overview": "This chapter describes how helpers should behave toward clients. It first examines the helping relationship: the relationship valued in itself (Rogers) versus as a means to an end, and the working alliance that unites both through collaboration on goals and tasks. It covers getting off to a good start, keeping the client's preferences central, the relationship as a forum for relearning, and relationship flexibility. It then sets out five values that drive helping: respect (the foundation value), empathy (the primary orientation value), proactive appreciation of diversity (culture, personal culture and multicultural competence), self-responsibility (the empowerment value, set within helping as social influence) and a bias for action (the outcome value, including behavioral activation and discretionary change). It ends with the shadow side: flaws of helpers and clients and the reality of incompetent helpers.",
+ "objectives": [
+  "Compare the Rogerian, psychodynamic and means-to-end views of the helping relationship.",
+  "Define the working alliance and explain the principles that make it work in practice.",
+  "Describe how helpers can get off to a good start and keep clients' preferences central.",
+  "Explain how the relationship serves as a forum for relearning and why flexibility is essential.",
+  "Distinguish espoused values from values-in-use and explain why values are tools of the trade.",
+  "Explain respect and empathy as helping values and the behaviours through which they are shown.",
+  "Discuss culture, personal culture and the competencies needed for diversity-sensitive helping.",
+  "Explain helping as a social-influence process and the norms for client empowerment and self-responsibility.",
+  "Explain the bias for action, behavioral activation and discretionary change.",
+  "Identify shadow-side realities including helper and client flaws and incompetent helpers."
+ ],
+ "sections": [
+  {
+   "id": "helping-relationship",
+   "heading": "The Helping Relationship",
+   "pages": [
+    37,
+    38
+   ],
+   "detailed": "Egan opens the chapter by saying that it is about how helpers should behave toward clients. He advises reading it quickly but thoughtfully first and then returning to it while working through Parts II and III of the book, because its suggestions are detailed and the student can easily get lost in them.\n\nEveryone involved in helping, whether theoretician, researcher, practitioner or client, agrees that the client-helper relationship matters. The disagreement is about how the relationship should be described and how it should operate in practice. Some writers stress the relationship in itself; others stress the work that gets done through it. Some speak of a \"relationship\", others prefer \"working alliance\". Even where writers share a theme such as collaboration, they picture collaboration differently. Egan links this to the idea of uncertainty from Chapter 1: helping is not an exact science.\n\nEgan therefore does not try to settle the debates. His aim is to give helpers a clinical feel for what a good relationship looks like and the behaviours that build a helping partnership. There is no single correct way to form a helping relationship. Although some basic principles exist, each helper and each client have to co-discover and co-develop the right way for their particular encounter.\n\nHe notes that a large body of research on the relationship has appeared over the past decade (Norcross), some of it contradictory, and that the APA Task Force findings were introduced in Chapter 1. Rather than review all of it critically, the chapter asks practical questions: what helpers and clients need to know about the relationship, how counsellors can bring clients into a collaborative relationship, and how to make sure the relationship serves life-enhancing outcomes.\n\nEgan's own view is that research often just confirms common sense. Common sense is not a scientific term, but clients understand it, and related words such as prudence, judgement, practicality, wisdom and street smarts convey the idea. He admits that one person's common sense may not be another's, and jokes that common sense may not be all that common.",
+   "simple": "Everyone agrees the helper-client relationship matters, but people describe it differently: some focus on the relationship itself, others on the work done through it. Egan does not try to settle the debate. He wants helpers to get a practical feel for a good relationship, knowing that each helper and client must work out the right way together.",
+   "keyPoints": [
+    "The chapter is about how helpers should behave toward clients.",
+    "Views differ: relationship in itself vs work done through the relationship; 'relationship' vs 'working alliance'.",
+    "Collaboration is a common theme, but writers define it differently.",
+    "There is no one right way; helper and client co-discover and co-develop the relationship.",
+    "Egan holds that much relationship research confirms common sense."
+   ]
+  },
+  {
+   "id": "importance-of-relationship",
+   "heading": "The Importance of the Relationship Itself",
+   "pages": [
+    38,
+    38
+   ],
+   "detailed": "Any relationship, helping relationships included, can be understood by looking at what each party brings to the table and how these contributions interact. Helper and client each come with personality traits and a personal culture (explained later in the chapter) that shape how they form and keep relationships. Egan imagines the two meeting at a party or conference before therapy: neither would be acting from a role, and the relationship would depend on what each brought along. The point is that the human package each person carries into the session affects the helping relationship. Norcross reminds us that the relationship is wider and more inclusive than the working alliance alone. So the better both client and helper understand how they themselves build and maintain relationships, the better they might be at forming a working alliance; Egan stresses that the word is \"might\".\n\nMost therapy approaches affirm the relationship's importance, but in different ways. Carl Rogers, a major pioneer of counselling and a representative of the humanistic-experiential approach, emphasised the quality of the relationship. He claimed that three helper conditions, unconditional positive regard, accurate empathy and genuineness, when offered by the helper and perceived by the client, were necessary and often sufficient for therapeutic progress. Through such a strongly empathic relationship, counsellors help clients understand themselves, release unused resources and manage their lives better. Rogers's work launched the client-centred approach.\n\nPsychoanalytic and psychodynamic approaches see the relationship differently. For them transference and countertransference are central. These are complex, initially unconscious interpersonal dynamics between helper and client rooted in the past of the client and sometimes of the helper. Some argue that working through these murky dynamics is essential to successful outcomes.\n\nThe contrast is important for exams: Rogers treated the empathic relationship as a facilitative condition that makes change possible, not as a problem to be explored and resolved, whereas psychodynamic writers treat the relational dynamics themselves as material to be worked through.",
+   "simple": "Both helper and client bring their own personalities and personal cultures to the relationship, and this shapes it. Rogers said that unconditional positive regard, accurate empathy and genuineness are necessary and often sufficient for change. Psychodynamic approaches instead focus on transference and countertransference as issues to be resolved.",
+   "keyPoints": [
+    "Each party 'brings to the table' personality traits and personal culture.",
+    "Norcross: the relationship is broader than the working alliance.",
+    "Rogers: unconditional positive regard, accurate empathy and genuineness are necessary and often sufficient.",
+    "Psychodynamic view: transference and countertransference are central and must be resolved.",
+    "Rogers saw the relationship as a facilitative condition, not a problem to explore."
+   ]
+  },
+  {
+   "id": "means-to-end",
+   "heading": "The Relationship as a Means to an End",
+   "pages": [
+    39,
+    39
+   ],
+   "detailed": "A second view holds that the relationship is very important but is still a means to an end. This fits the book's emphasis, from Chapter 1, that life-enhancing client outcomes are what helping is about. Tursi and Cochran observed that the cognitive-behavioural tasks of helping are carried out within a person-centred relational framework. On this view a good relationship is valuable because it is practical: it allows client and counsellor to do whatever work the chosen helping process calls for.\n\nPractitioners who use cognitive and behavioural approaches, including the manualised treatments discussed in Part III, tend to hold this means-to-end view, although they are sensitive to relationship issues. They argue that overstressing the relationship is a mistake, because it hides the ultimate goal of helping, which is managing problem situations and developing life-enhancing opportunities.\n\nTheir position has two sides. A poor relationship will block the goal: the work will not succeed if the relationship is bad. But too much attention to the relationship itself can distract both client and helper from the real work that needs to be done. The relationship is therefore necessary but not the end product.\n\nThis view sits between the Rogerian emphasis on the relationship as healing in itself and a purely technical view of therapy, and it prepares the ground for the working-alliance idea that follows.",
+   "simple": "Here the relationship is important but mainly as a tool for getting the real work done. Cognitive-behavioural helpers say a bad relationship blocks progress, but focusing too much on the relationship distracts from solving the client's problems.",
+   "keyPoints": [
+    "Relationship valued because it enables the work of helping.",
+    "Tursi and Cochran: cognitive-behavioural tasks done within a person-centred relational framework.",
+    "Typical of cognitive and behavioural approaches and manualised treatments.",
+    "Overstressing the relationship obscures the goal of problem management and opportunity development.",
+    "A poor relationship still prevents success."
+   ]
+  },
+  {
+   "id": "working-alliance",
+   "heading": "The Relationship as a Working Alliance",
+   "pages": [
+    39,
+    41
+   ],
+   "detailed": "Norcross defines the alliance as the quality and strength of the collaborative relationship between client and therapist. The term has a long history and many interpretations (Horvath and colleagues), but Egan uses it to combine the best of the two earlier views: the empathic relationship valued in itself and the relationship as a means to desired outcomes. Bordin defined the working alliance as client-helper collaboration based on agreement on the goals and tasks of counselling. Horvath and associates add a dynamic element: the alliance is an emerging quality of partnership and mutual collaboration that may form quickly or be nurtured over a longer time.\n\nThe collaborative nature of helping. In the alliance helpers and clients are collaborators. Helping is not something done to clients but a process both work through together (Frankel). Helpers do not cure patients. Both have work to do in the problem-management and opportunity-development stages, and both share responsibility for outcomes. Outcomes depend on the competence and motivation of each, and on the quality of their interaction. It is a two-person team effort; if either refuses to play or plays incompetently, the whole enterprise can fail.\n\nTypes of client collaboration. Bachelor, Laverdiere, Gamache and Bordeleau found three types. Active clients see themselves as playing a significant role in whether the work moves forward. Mutual clients acknowledge their own role but expect the therapist to play an equally active role. Therapist-dependent clients see collaboration as the therapist's beneficial interventions; about a third of clients were of this type, and Egan suggests it might better be called cooperation than collaboration.\n\nGuiding principles for alliance behaviour. Because the alliance is an abstraction, it becomes real only through behaviour. Egan offers these principles, illustrated with Laura and her client Karl, a veteran:\n- Alliances emerge. Do not try to build an alliance directly; make sure everything you do contributes to a spirit of collaboration, and the alliance grows.\n- Track the client's evolving needs and wants. Understand preferences and adjust. When Karl rejects a survey method of monitoring, Laura does not push; there are other ways to get feedback.\n- Focus on resources. Attend to strengths, resources and expectations, not just problems, right from the start.\n- Do not be surprised at differing views of the relationship. Helper and client may see it differently, especially early on; look for cues throughout.\n- Ups and downs are common. An upsetting insight or a sulk does not mean the relationship is in trouble. Horvath and colleagues see these variations as normal and, if attended to and resolved, linked with good outcomes.\n- Expect and deal with client negativity. Therapy is hard work and frustrated clients may lash out. When Karl tells Laura she knows nothing about war, she does not take it personally but tries to learn from it.\n\nThe communication and relationship-building skills needed for all this are covered in Part II.",
+   "simple": "The working alliance is the collaborative partnership between client and helper, based on agreement about goals and tasks (Bordin). Helping is a two-person team effort; both share responsibility. Alliances emerge from good collaborative work, and helpers should track client needs, focus on strengths, and expect ups and downs and even client anger.",
+   "keyPoints": [
+    "Norcross: the alliance is the quality and strength of client-therapist collaboration.",
+    "Bordin: collaboration based on agreement on goals and tasks.",
+    "Bachelor et al.: active, mutual and therapist-dependent collaboration (a third are dependent).",
+    "Helping is a two-person team effort; helpers do not 'cure' clients.",
+    "Six principles: alliances emerge, track needs, focus on resources, expect differing views, ups and downs, client negativity."
+   ]
+  },
+  {
+   "id": "good-start",
+   "heading": "Getting Off to a Good Start",
+   "pages": [
+    41,
+    42
+   ],
+   "detailed": "Miller, Duncan and colleagues report research showing that client change tends to happen early in treatment and that the client's subjective sense of meaningful change in the first few sessions is critical; if well-being does not improve early, the chance of a good outcome drops significantly. Helpers and clients therefore need to establish a supportive alliance fairly quickly. DeFife and Hilsenroth, reviewing evidence on effective therapeutic relationships, identified three areas that help both parties get off to a good start.\n\n1. Help clients develop positive expectancies about the process and its outcomes. Ways of doing this, illustrated by Laura and Karl, include:\n- using the relationship-building skills of Part II (Laura is attentive, honest and flexible, so Karl feels he can work with her);\n- giving a framework that helps clients understand their problems (Laura explains PTSD but tailors it to Karl's version);\n- sharing the problem-management process in terms of the client's own issues, for example helping Karl see his thinking from a different angle;\n- suggesting that there are specific ways of handling symptoms, to be chosen jointly;\n- helping clients gain confidence in treatment (Karl agrees to try a 'buddy' approach with someone who has been through it);\n- discussing the commitment and work needed in sessions and in daily life;\n- normalising the client's problems: given what Karl went through in Iraq and Afghanistan, his difficulties are expected; it is a matter of degree.\n\n2. Help clients understand and move into the role of a proactive, committed client by:\n- explaining practical details such as frequency and length of meetings and work between sessions, and inviting questions and objections;\n- giving a brief, simple but not simplistic overview of what sessions might be like, reinforcing that the client is in the driver's seat;\n- making sure the client understands the collaborative nature of the role (Laura deliberately uses 'we');\n- giving some idea of the issues to be discussed while making clear the client sets the agenda.\n\n3. Emphasise goal formation and its collaborative nature. Life-enhancing outcomes chosen by the client are the goal of helping; collaborative goal setting is treated later in the book.\n\nWhich of these many items matter most? Those that make a difference in this client's life, which cannot be predicted in advance and must be worked out together. Egan warns against dumping too many decisions on the client at the start: simplicity helps.",
+   "simple": "Research shows change often happens early, so a good start matters. DeFife and Hilsenroth suggest three things: build positive expectations, help clients take up an active, committed role, and set goals together. Keep it simple and do not overload the client with decisions.",
+   "keyPoints": [
+    "Miller, Duncan et al.: early subjective improvement predicts positive outcome.",
+    "DeFife and Hilsenroth: three areas for a good start.",
+    "Build positive expectancies (framework, normalising, confidence, commitment).",
+    "Help clients become proactive, committed partners in the 'driver's seat'.",
+    "Emphasise collaborative goal formation; avoid overloading clients early."
+   ]
+  },
+  {
+   "id": "client-point-of-view",
+   "heading": "Keeping the Client's Point of View and Preferences Center Stage",
+   "pages": [
+    42,
+    43
+   ],
+   "detailed": "Bedi argued that researchers have paid too much attention to therapists' views of the relationship and neglected clients' views. Two questions follow: what kind of relationship does this client want (clients differ widely), and what does the therapist need to do to help the client become a collaborating partner?\n\nTherapist attributes and techniques. Ackerman and Hilsenroth examined therapists' personal attributes and in-session activities that strengthen the alliance. The attributes were flexibility, honesty, respect, trustworthiness, confidence, warmth, interest and openness. Helpful techniques included exploration, reflection, noting past therapy success, accurate interpretation, facilitating the expression of feeling, and attending to the client's experience.\n\nWhat clients value. Bedi's study found that clients appreciated the helping setting, the helper's self-presentation and body language, nonverbal gestures, emotional support and care, honesty, validation, guidance, challenge, the helper's education, the helper's respect for client self-responsibility, and well-run sessions. Duff and Bedi found that even small strengths-fostering behaviours, such as encouraging statements, positive comments about the client and greeting the client with a smile, may contribute disproportionately to alliance building. Bedi and Davis argue that helpers need training in client-focused behaviours, especially in programmes that overstress treatment methods.\n\nUsing this knowledge. For the helper this is background knowledge. What matters is tailoring what research shows to the individual client. Egan advises not to get lost in detail but to reflect on it and develop a natural personal style; Parts II and III give many examples of tailoring the relationship to the client.",
+   "simple": "Research has focused too much on what therapists think about the relationship and too little on what clients want. Studies show clients value warmth, honesty, support, validation and even small things like a smile. Helpers should use this as background and fit the relationship to each client.",
+   "keyPoints": [
+    "Bedi: client views of the relationship have been neglected.",
+    "Key questions: what relationship does the client want, and how to make them a partner?",
+    "Ackerman and Hilsenroth: alliance-building attributes (flexibility, honesty, respect, warmth, etc.) and techniques.",
+    "Duff and Bedi: small strengths-fostering behaviours count a lot.",
+    "Tailor research knowledge to the individual client; develop a natural style."
+   ]
+  },
+  {
+   "id": "forum-for-relearning",
+   "heading": "The Relationship as a Forum for Relearning",
+   "pages": [
+    43,
+    43
+   ],
+   "detailed": "Although helpers do not cure clients, the relationship itself can be therapeutic. In the working alliance it often acts as a forum or vehicle for social-emotional relearning (Mallinckrodt). Effective helpers model attitudes and behaviours that encourage clients to challenge and change their own.\n\nEgan gives examples of what a client might implicitly say to themselves: since the helper obviously cares for and trusts me, perhaps I can care for and trust myself; the helper takes the risk of challenging me, and challenge done well is not so bad; I came terrified of relationships and now I am in a non-exploitative relationship I value.\n\nExperimenting in sessions. Protected by the safety of the relationship, clients can try out new behaviours within the sessions: the shy person speaks up, the reclusive person opens up, the aggressive person backs off, and the overly sensitive person asks to be challenged.\n\nTransfer to everyday life. Clients can then carry this learning into other social settings. A client may notice that the helper listens carefully and checks understanding even when disagreeing, and realise that doing the same would change her outside relationships. Another may see that the helper keeps self-control in the face of provocative behaviour without losing humanity, and want to do likewise.\n\nEgan concludes that the relearning dynamic, even when subtle or covert, is often powerful: needed changes in attitudes, emotional expression and behaviour often occur within the sessions through the relationship itself.",
+   "simple": "The helping relationship can itself be a place where clients relearn how to relate. Clients learn from how the helper treats them, try new behaviours safely in sessions, and then use them in daily life.",
+   "keyPoints": [
+    "Mallinckrodt: the relationship as a vehicle for social-emotional relearning.",
+    "Helpers model attitudes and behaviours clients can adopt.",
+    "Safety allows clients to experiment with new behaviours in sessions.",
+    "Learning transfers to relationships outside therapy.",
+    "Change in attitudes, emotional expression and behaviour can happen through the relationship itself."
+   ]
+  },
+  {
+   "id": "relationship-flexibility",
+   "heading": "Relationship Flexibility",
+   "pages": [
+    43,
+    44
+   ],
+   "detailed": "Egan calls it a myth that one perfect relationship fits all clients. Clients have different needs, best met by different kinds of relationships and by adjusting within the same relationship. One client works best with a very warm helper, another with a more objective, businesslike one. Some clients fear intimacy, and lots of empathy and warmth from the outset may put them off; stronger interventions can follow once trust is established. Effective helpers use a mix of styles, skills and techniques tailored to each client (A. A. Lazarus; Mahrer) while remaining themselves.\n\nWho takes the lead? Duncan, Miller and Sparks give an answer many see as radical. They argue that forty years of outcome research support privileging the client's role in change: clients, not therapists, make therapy work. Therapy should therefore be organised around clients' resources, perceptions, experiences and ideas, and therapists should take direction from clients, following their lead and adopting their language, worldview, goals and ideas about the problem. Egan notes this goes at least a step beyond Rogers's client-centred approach. The earlier phrase \"no one right way to relate to a client\" becomes \"no one right way to put the client in the driver's seat\". Thinking about the relationship continues to evolve.\n\nPatience. A fully collaborative relationship may not appear at once. Keep doing the right things, remembering that what you think most important may not be what the client thinks. Karl says he keeps expecting to see Laura as a mother, teacher or nurse and himself as a child, student or patient, but does not feel that way; Laura reflects that it is taking time to understand what this relationship is, and Karl agrees it is new for him.\n\nRuptures. Breakdowns do happen, so helpers must know how to get back on track. Eubanks-Carter, Muran and Safran describe ways of handling challenges, misunderstandings, impasses, deterioration, stress and threats to the relationship, which they call ruptures, and show how ruptures can become opportunities for change and growth. Relationships are built through conversation and behaviour; the skills needed, including immediacy, are detailed in Part II.",
+   "simple": "No single type of relationship suits every client; helpers adjust warmth, style and technique to each person while staying themselves. Duncan, Miller and Sparks argue clients make therapy work, so helpers should follow their lead. Breakdowns, called ruptures, are normal and can become chances for growth.",
+   "keyPoints": [
+    "One perfect relationship for all clients is a myth.",
+    "Tailor styles and techniques (A. A. Lazarus; Mahrer) while remaining yourself.",
+    "Duncan, Miller and Sparks: clients, not therapists, make therapy work.",
+    "This goes a step beyond Rogers's client-centred approach.",
+    "Eubanks-Carter, Muran and Safran: ruptures can become opportunities for growth."
+   ]
+  },
+  {
+   "id": "values-drive",
+   "heading": "The Values That Drive the Helping Relationship",
+   "pages": [
+    44,
+    45
+   ],
+   "detailed": "One of the best ways to characterise a helping relationship is through the values that run through it. The relationship is the vehicle through which values come alive, and values, expressed concretely in working-alliance behaviours, play a critical part in helping. However, the uncertainties in the beliefs-values-norms-ethics-morality package described in Chapter 1 make this less clear-cut.\n\nProfessional codes. The ethical codes of the American Psychological Association, the American Counseling Association, the American Psychiatric Association and other bodies give a clear set of values and detailed norms for helper-client interaction. They reduce many uncertainties but do not remove them; ethical uncertainties and conflicts will always trouble helping. Egan presents values that many people, himself included, think should drive helping, but admits there is no universal agreement on the right package. In the end each helper must develop values that make sense to them and their clients and that comply with the codes and the law.\n\nEspoused values and values-in-use. Drawing on Argyris (and Argyris and Schon), values can be seen as mental maps that define how to act in situations. People have values but do not always use them. So clients, like everyone, hold espoused values, which are like ideals, and values-in-use, the behavioural maps they actually use more or less consistently to make decisions and guide behaviour. There is often a gap between espoused values and action, in helper or client, which adds uncertainty to helping. Moreover, some values-in-use lead to life-limiting rather than life-enhancing outcomes.",
+   "simple": "Values are what drive the helping relationship, and the relationship is how those values show up in practice. Ethical codes help but do not remove all uncertainty. Argyris distinguishes values people say they hold (espoused) from values they actually act on (values-in-use).",
+   "keyPoints": [
+    "The relationship is the vehicle through which values come alive.",
+    "Ethical codes (APA, ACA, American Psychiatric Association) reduce but do not remove uncertainty.",
+    "Helpers must build their own value set consistent with codes and law.",
+    "Argyris: values as mental maps; espoused values vs values-in-use.",
+    "Some values-in-use produce life-limiting outcomes."
+   ]
+  },
+  {
+   "id": "values-tools",
+   "heading": "Values as Tools of the Trade; Determining the Values Inherent to Successful Helping",
+   "pages": [
+    45,
+    46
+   ],
+   "detailed": "Values as tools of the trade. Values-in-use are not just mental states but practical tools that guide decisions and give rise to client-enabling behaviour. Egan illustrates with a helper's inner reasoning about a difficult client with an arrogant, always-right attitude that distorts her decisions, poisons her relationships and keeps her stuck. The helper wants to give feedback or, better, invite her to challenge herself, without damaging the relationship. He values genuineness and openness, does not want to belittle her, but feels he owes it to her to help her see herself as others do, in the right way and at the right time. His values shape how he proceeds.\n\nHelpers without working values are adrift. Those with no explicit values have an implicit, default set that may or may not serve the client. Reviewing the values behind your helping behaviour is therefore not optional.\n\nDetermining the values. Helping-related values cannot be handed over on a platter, much less forced on anyone. The chapter is meant to stimulate thinking: in the end only the beliefs, values and norms you have made your own will affect your helping behaviour. This does not mean inventing values unlike anyone else's; tradition matters in value formation, and helpers learn from the rich tradition of the helping professions.\n\nEgan then names five major values from that tradition and translates them into norms:\n1. Respect, the foundation value.\n2. Empathy, the value that orients helpers in every interaction.\n3. Proactive appreciation of diversity, which opens the helper to the world as it is.\n4. Self-responsibility together with client empowerment.\n5. A bias toward action, an outcome-focused value.\n\nThese are a starting point for reflection. Egan urges readers not to just swallow them but to analyse, reflect on and debate them and to build their own values package.",
+   "simple": "Values are practical tools that guide what a helper does in the moment. A helper without clear values falls back on unexamined default ones. Egan offers five values: respect, empathy, appreciation of diversity, self-responsibility/empowerment and a bias for action, but asks readers to think them through and make them their own.",
+   "keyPoints": [
+    "Values-in-use are tools that guide decisions and client-enabling behaviour.",
+    "Helpers without explicit values work from an implicit 'default' set.",
+    "Values cannot be imposed; only owned values affect behaviour.",
+    "Tradition of the helping professions informs value formation.",
+    "Five values: respect (foundation), empathy (orientation), diversity, self-responsibility/empowerment, bias for action (outcome)."
+   ]
+  },
+  {
+   "id": "respect",
+   "heading": "Respect as the Foundation Value; Behaviors Showing Disrespect",
+   "pages": [
+    46,
+    47
+   ],
+   "detailed": "Respect for clients is the foundation of all helping interventions. Like most fundamental concepts it resists definition. The word comes from a Latin root involving 'seeing' or 'viewing', and respect is indeed a particular way of viewing oneself and others. But to make a difference it cannot stay an attitude; it has to show in behaviour. Ideally helpers and clients \"matter to one another\" (Rayle).\n\nCarl Rogers recognised the importance of respect early, calling it positive regard and adding nonpossessive warmth toward and affirmation of the client. Later research (Farber and Doolin) links these behaviours to successful outcomes. Egan derives norms from the interaction between a belief in the dignity of the person and the value of respect. First, behaviours to avoid.\n\nDo no harm. This is the first rule of the physician and of the helper (Lilienfeld; Rhule). Yet some helpers do harm because they are unprincipled or incompetent. Helping is not neutral; it works for better or for worse. In a world where child abuse, wife battering and exploitation of workers are more common than we like to think, helpers must take a non-manipulative, non-exploitative approach.\n\nDo not rush to judgement. Helpers are not there to judge clients or impose their values, but to help clients identify, explore, review and challenge the consequences of the values they hold. Egan's example: a client says arrogantly that he says what he wants when he wants and others' dislike is their problem, because his first duty is to himself. An irritated helper might reply judgementally that the client has just named the core of his problem and ask how he expects to get along with such a self-centred philosophy. A second counsellor instead reflects that being himself is a top priority and total frankness is part of that. The first rushes to judgement; the second neither judges nor condones, but tries to understand and show understanding, even though she sees the client might later benefit from exploring the unintended consequences of his philosophy.",
+   "simple": "Respect is the base on which all helping rests; it means seeing clients in a certain way and acting on it. Rogers called it positive regard. Showing disrespect includes doing harm and rushing to judge clients instead of understanding them.",
+   "keyPoints": [
+    "Respect is the foundation of all helping interventions.",
+    "Latin root: 'seeing' or 'viewing'; must go beyond attitude into behaviour.",
+    "Rogers: positive regard plus nonpossessive warmth; Farber and Doolin link it to outcomes.",
+    "Do no harm: helping is 'for better or for worse'.",
+    "Do not rush to judgement: understand without judging or condoning."
+   ]
+  },
+  {
+   "id": "behaviors-respect",
+   "heading": "Behaviors Showing Respect",
+   "pages": [
+    47,
+    48
+   ],
+   "detailed": "Egan lists behaviours through which helpers show respect.\n\nBecome competent and committed. Master the helping model you use and become skilled in the problem-management and opportunity-development framework and its skills. There is no place for the \"caring incompetent\". Egan regrets that not every graduate of a training programme is competent or grows in competence over a career.\n\nBe genuine. Gelso and others (Kolden and colleagues) distinguish the real relationship from the alliance. Gelso defines the real relationship as the personal relationship between people, reflected in how genuine each is with the other and how far each perceives the other in ways that fit the other. So the relationship is real to the extent it is empathic and not phony. Pretending to like someone you do not is phony, and phoniness is incompatible with respect. Another form of phoniness is overstressing your professional role. With a client, the helper is a helper, catalyst, encourager and collaborator, not primarily a member of a profession, an expert or the one with answers. The client's success is the helper's success; you are competent to the degree the client improves.\n\nMake it clear that you are 'for' the client. Your manner should convey that you care in a down-to-earth, non-sentimental way, as if saying working with the client is worth your time and energy. Respect is both gracious and tough-minded. Being for the client is not taking the client's side or being their advocate; it means taking their views seriously even when they need challenge. Respect often involves helping clients place demands on themselves; this tough love does not rule out appropriate warmth.\n\nAssume the client's goodwill. Assume clients want to live more effectively until proved otherwise. Reluctance and resistance, especially in involuntary clients, are not necessarily signs of ill will; respect means entering the client's world to understand the reluctance and helping them work through it.\n\nKeep the client's agenda in focus. Helpers should pursue the client's agenda, not their own. Three helpers lost clients through failing at this: one became preoccupied with his theories of depression rather than the client's painful episodes; another dismissed a client's grief over a dead pet as trivial, and the client attempted suicide, the loss being the last straw in a downward spiral; a third, a white male counsellor proud of his multicultural focus, lost a Hispanic client who said, perhaps unfairly, that he was more interested in Anglo-Hispanic politics than in her.",
+   "simple": "Respect shows in action: being competent and committed, being genuine rather than phony or hiding behind a professional role, being clearly 'for' the client, assuming goodwill, and following the client's agenda rather than your own.",
+   "keyPoints": [
+    "Become competent and committed; no room for the 'caring incompetent'.",
+    "Be genuine: Gelso's 'real relationship'; phoniness, including overplaying the professional role, is disrespectful.",
+    "Be 'for' the client: gracious and tough-minded, not the same as taking sides.",
+    "Assume goodwill; reluctance is not proof of ill will.",
+    "Keep the client's agenda in focus (three cautionary cases)."
+   ]
+  },
+  {
+   "id": "empathy",
+   "heading": "Empathy as the Primary Orientation Value",
+   "pages": [
+    48,
+    48
+   ],
+   "detailed": "Empathy is a key way of showing respect. Egan defines it as the ability to understand the client from the client's point of view and, when appropriate, to communicate that understanding. Put simply, it means understanding and feeling for another person's mental states and emotions, and, Egan adds, understanding how the person's context shapes their thinking and feeling. The empathic person experiences the other in context.\n\nAlthough rich, empathy has been a confusing concept. The literature is vast, with philosophers, psychologists, theoreticians and practitioners all contributing (Batson, Coplan and Goldie, Decety, Elliott and colleagues, and others), and definitions differ:\n- Empathy as a personality trait: a disposition to feel what others feel or understand them from the inside. On this view some people are naturally more empathic than others.\n- Empathy as a situation-specific state of feeling for and understanding another's experiences. The implication is that helpers can learn to bring about this state because it is useful in counselling.\n- Empathy as a process with stages, building on the state view. Barrett-Lennard identified three phases: empathic resonance, expressed empathy and received empathy. Carl Rogers spoke of sensing the client's inner world and communicating that sensing.\n\nEgan simplifies matters for helpers: this chapter treats empathy as a basic value that informs and drives all helping behaviour, while Chapter 4 treats empathy as a communication skill.",
+   "simple": "Empathy means understanding clients from their point of view, including their feelings and life context, and communicating that understanding when helpful. It has been described as a trait, a state, or a process with stages. Here Egan treats it as a value that guides all helping.",
+   "keyPoints": [
+    "Empathy: understanding the client from their point of view and communicating it when appropriate.",
+    "Includes understanding how context shapes thinking and feeling.",
+    "Defined variously as trait, situation-specific state, or staged process.",
+    "Barrett-Lennard: empathic resonance, expressed empathy, received empathy.",
+    "Chapter 2: empathy as a value; Chapter 4: empathy as a skill."
+   ]
+  },
+  {
+   "id": "overview-empathy",
+   "heading": "A Brief Overview of Empathy",
+   "pages": [
+    48,
+    50
+   ],
+   "detailed": "All theoreticians, researchers and practitioners agree empathy matters in everyday life and in helping. Egan then looks at several facets.\n\nIs empathy even possible? Can a helper understand a very different client: a 'normal' person someone with bipolar disorder, or a Hispanic male counsellor a middle-class female Iranian-American client? The practical answer is yes (Hatcher and colleagues). Clients working with helpers who hold empathy as a value and have the communication skills of Part II can feel understood. The underlying philosophical question is another matter.\n\nA rich concept, perhaps too rich for a scientist. Several authors treat empathy as a value and describe the behaviours that flow from it, sometimes almost lyrically. Kohut described empathy as an accepting, confirming and understanding human echo, a psychological nutrient without which human life could not be sustained. Covey named empathic communication one of the seven habits of highly effective people, saying it gives others psychological air to breathe more freely in relationships. Goleman put empathy at the heart of emotional intelligence: it is a person's social radar for sensing others' feelings and perspectives and taking an active interest in their concerns.\n\nThe importance of empathy early in life. Research commissioned by the WAVE Trust, an international charity working on the root causes of violence, concluded that empathy is the single greatest inhibitor of a propensity to violence, and that empathy fails to develop when parents or prime carers fail to attune to their infants (Hosking and Walsh). They defined empathy as others' observed experiences affecting our thoughts and feelings in a caring way, which involves stepping outside oneself emotionally and temporarily suspending one's own perspective to take another's. To attune to a child means trying to respond to the child's needs, especially emotional ones, so the child feels understood, cared for and valued.\n\nChildren should also learn to express empathy. Kennedy argues that unless children both experience and express empathy, they risk becoming self-centred, aggressive and cruel and unable to feel or show remorse, a quasi-sociopathic style. This happens when parents are physically or emotionally unavailable, when they are overindulgent, and when children are exposed to violent media. Kennedy urges parents to talk about others' emotions, model empathic communication, teach children to make amends, expose them to the less fortunate, let them feel useful unhappiness such as the frustration of not getting their way, and shield them from violent media.",
+   "simple": "Empathy across differences is possible in practice: clients can feel understood. Writers like Kohut, Covey and Goleman describe empathy in glowing terms. Research shows empathy develops when carers attune to infants and protects against violence, and children also need to learn to show empathy.",
+   "keyPoints": [
+    "Hatcher et al.: practically, empathy across differences is possible.",
+    "Kohut: empathy as a psychological nutrient; Covey: 'psychological air'; Goleman: 'social radar' in emotional intelligence.",
+    "WAVE Trust (Hosking and Walsh): empathy is the greatest inhibitor of violence; needs parental attunement.",
+    "Attunement: responding to a child's emotional needs so they feel understood and valued.",
+    "Kennedy: children must experience and express empathy; parental guidelines."
+   ]
+  },
+  {
+   "id": "two-way-street",
+   "heading": "Empathy as a Two-Way Street",
+   "pages": [
+    50,
+    50
+   ],
+   "detailed": "Pedersen, Crethar and Carlson show that helpers can become more competent by going beyond the traditional view of one individual helper trying to understand one individual client. At its best, empathy is relationship-oriented. Zaki, Bolger and Ochsner showed that empathic accuracy depends on how both people in a conversation communicate. Pedersen and colleagues explore how cultural similarities and differences shape counselling relationships and argue helpers should focus less on individuals and more on relationships.\n\nJanet Clark has reconceptualised empathy in a similar way. Like Pedersen, she defines culture very broadly, including the traits and characteristics that make individuals different. She uses ethnographic concepts to focus on the individual client's unique frame of reference rather than that of a cultural group. She contrasts traditional one-way, individualistic empathy with diversity-oriented, two-way relationship empathy, which Pedersen calls \"inclusive cultural empathy\". Her principles are:\n- The client's reality is knowable, but the helper's understanding is always partial and fallible.\n- Helpers must attune not only to underlying mental states and feelings but also to the cultural meaning of the client's words.\n- Relationship empathy is not only person-centred; it includes the key contexts of the client's life.\n- The client's complex sociopolitical environment and status, their social location, is often a key part of context.\n- Regarding the client's cultural uniqueness, the helper is a learner, not an expert.\n- The client's inductive understandings of self and world matter more than the helper's deductive understandings drawn from theory, research and practice.\n- Empathy is not offered one-way by the helper but produced mutually through dialogue.\n- Self-awareness of cultural bias is not enough; ongoing self-reflexivity about ideas, fears, mistakes, confusion, breakthroughs and obstacles arising in sessions is essential.",
+   "simple": "Empathy works best as something built between two people, not just something a helper does to a client. Clark and Pedersen describe 'inclusive cultural empathy', in which the helper is a learner about the client's culture and understanding is created through dialogue.",
+   "keyPoints": [
+    "Pedersen, Crethar and Carlson: empathy at its best is relationship-oriented.",
+    "Zaki, Bolger and Ochsner: empathic accuracy depends on how both parties communicate.",
+    "Janet Clark: two-way relationship empathy vs one-way individualistic empathy.",
+    "Pedersen's term: 'inclusive cultural empathy'.",
+    "Helper as learner; empathy mutually produced; continuous self-reflexivity; attention to social location."
+   ]
+  },
+  {
+   "id": "radical-commitment",
+   "heading": "Empathy as Radical Commitment",
+   "pages": [
+    50,
+    51
+   ],
+   "detailed": "As a value, empathy is a radical commitment by helpers to understand clients as fully as possible in three ways.\n\n1. Understanding the client's point of view. A commitment to understand each client from their own point of view, together with the feelings surrounding it, and to communicate this understanding whenever it seems helpful.\n\n2. Understanding the client in context. A commitment to understand people in and through the context of their lives. The social settings, large and small, in which they have developed and currently live provide routes to understanding.\n\n3. Understanding the gap between point of view and reality. A commitment to understand the dissonance between the client's view and reality. Giving feedback on this third kind of empathy is sensitive and is discussed in Part II.\n\nEmpathy is active, not passive. Empathic helpers respectfully communicate these kinds of understanding and take an active interest in clients' concerns. Respectful empathy is especially important with clients who differ from the helper personally, socially or culturally (Wang and colleagues). Chapter 4 will show that communicating empathy is also one of the best ways of keeping clients in the driver's seat.",
+   "simple": "Empathy as a value is a strong commitment to understand clients fully: their point of view and feelings, their life context, and the gap between how they see things and how things are. It is active, not passive, and especially important with clients who are different from you.",
+   "keyPoints": [
+    "Three commitments: client's point of view, client in context, dissonance between view and reality.",
+    "Communicate understanding whenever helpful.",
+    "Feedback on the third type is sensitive (Part II).",
+    "Empathy is active, not passive.",
+    "Especially important with clients who differ from the helper (Wang et al.); keeps clients in the driver's seat."
+   ]
+  },
+  {
+   "id": "diversity",
+   "heading": "Proactive Appreciation of Diversity",
+   "pages": [
+    51,
+    52
+   ],
+   "detailed": "Dealing knowledgeably and sensitively with diversity (Muran), including the particular form called multiculturalism, is part of respect and empathy and is linked to client empowerment. Egan gives it special attention because of its own importance and because of society's current emphasis on diversity. The most important feature of this focus is that it highlights client factors as the essential ingredient of successful therapy. In Egan's words, it is not about the countless forms of diversity, nor about culture; it is about clients.\n\nThe literature has exploded (Bernal and Domenech Rodriguez, Hays, Lewis and colleagues, Ponterotto and colleagues, and others). An internet bookseller search gave over 16,000 entries, a dictionary of multicultural psychology (L. E. Hall) runs over 170 pages, and whole journal issues are devoted to it, so Egan hesitates to recommend particular readings.\n\nUpsides. The flood of literature forces helpers to examine their blind spots about diversity, including ethnic and cultural diversity, and to look more deeply at the world. There is also evidence that exposure to multiple cultures can itself enhance creativity (Leung, Maddux, Galinsky and Chiu); Egan adds that this probably applies to all forms of diversity.\n\nDownsides. Multiculturalism risks becoming a fad that spawns an industry and draws attention away from individual clients' needs. Putnam found a short-term minus: the more diverse a community, the less its inhabitants trust anyone, from neighbours to the mayor, and Egan thinks this is probably true at the individual level too. In the long term diversity can be enriching, but not automatically. Mere contact is not enough (Dixon, Durrheim and Tredoux); communities and individuals must work at it.",
+   "simple": "Appreciating diversity is part of respect and empathy, and its real point is the individual client, not culture as such. The huge literature helps expose blind spots and diversity can boost creativity, but it can become a fad, and Putnam found diverse communities show less trust in the short term.",
+   "keyPoints": [
+    "Diversity work is part of respect and empathy, linked to empowerment.",
+    "Its key message: client factors are the essential ingredient; 'it's about clients'.",
+    "Upsides: exposes blind spots; multicultural exposure can enhance creativity (Leung et al.).",
+    "Downsides: risk of a fad/industry; Putnam: more diversity, less trust (short term).",
+    "Mere contact is not enough (Dixon et al.); diversity must be worked at."
+   ]
+  },
+  {
+   "id": "personal-culture",
+   "heading": "Culture, Personal Culture, and Values",
+   "pages": [
+    52,
+    53
+   ],
+   "detailed": "Since culture is the form of diversity that gets most attention, helpers need to understand the term. Bronfenbrenner called culture the largest and most controlling of systems at individual and societal levels. There are many definitions, but helpers need practical ones. Values are central to culture, but culture is more than values. Egan's fuller notion: shared beliefs and assumptions interact with shared values to produce shared norms, which drive shared patterns of behaviour. Culture usually applies to societies, institutions, companies, professions, groups and families, but counsellors work with individuals and small groups, so Egan applies the framework to the individual, using Isaiah, a client with PTSD after gang violence and a brutal attack:\n- Assumptions and beliefs: over life, people develop beliefs about themselves, others and the world. Isaiah believes the world is heartless.\n- Values: what people prize, picked up along life's path. Isaiah prizes personal security.\n- Norms: beliefs interacting with values generate internal dos and don'ts. Isaiah's norm: do not trust people or you will get hurt.\n- Patterns of behaviour: norms drive internal and external behaviour patterns, the bottom line of personal culture, 'the way I live my life'. Isaiah stays on defensive alert, takes no chances with people and tends to be a loner.\n\nPersonal cultures are not formed in a vacuum; group memberships strongly shape beliefs, values and norms. Yet individuals personalise them, tailoring them in different ways (Massimini and Delle Fave). Individuals are not cultural carbon copies, and people from the same social culture can differ widely in personal culture. Effective helpers understand both a client's cultural background and personal culture. Isaiah shares many traits of his family, ethnic group, neighbourhood, school and class, but his mix is unique.\n\nA popular definition of group culture is 'the way we do things here'; for an individual client it becomes 'the way I choose to live my life', and for a helper 'the way I do helping'. The helper's social-personal-professional culture inevitably interacts with the client's, for better or worse.\n\nEgan illustrates with Sue Smith, a Midwestern American, married to Patrick Lee, an immigrant from Singapore, seeing marriage counsellor Antonio Ochoa, a Hispanic-American son of immigrants. Since many clients come with relationship difficulties, understanding different approaches to relationships matters. Guisinger and Blatt note that Western psychologies have favoured self-development (autonomy, independence, identity) over interpersonal relatedness, whereas women, many minority groups and non-Western societies have emphasised relatedness; both are essential for maturity. Sue is focused on autonomy and her identity as a successful working woman; Patrick runs a small web business. Helping them find the right balance requires understanding what 'right balance' means in each culture and each personal culture; Antonio must put Clark's principles into practice. When cultural values clash (Knapp and VandeCreek), which prevails? Multiculturalism solves some problems and raises others.",
+   "simple": "Culture is shared beliefs and values producing shared norms and behaviour patterns. Applied to a person, this becomes 'personal culture': the way I live my life. People are shaped by their groups but are never carbon copies, so helpers must understand both the cultural background and the unique personal culture of each client.",
+   "keyPoints": [
+    "Bronfenbrenner: culture is the largest and most controlling of systems.",
+    "Culture: beliefs/assumptions + values -> norms -> patterns of behaviour.",
+    "Personal culture ('the way I live my life'), illustrated by Isaiah.",
+    "Individuals personalise culture (Massimini and Delle Fave); not carbon copies.",
+    "Guisinger and Blatt: self-development vs relatedness; case of Sue, Patrick and Antonio."
+   ]
+  },
+  {
+   "id": "helper-competencies",
+   "heading": "Helper Competencies Related to Client Diversity",
+   "pages": [
+    53,
+    56
+   ],
+   "detailed": "Diversity competence is the knowledge and skill needed to relate to and communicate effectively with people who differ from us in any significant way. Cross-cultural competence gets most attention (Constantine and Sue and others), but other forms of diversity are just as important. Many competency lists, hefty handbooks (Pope-Davis and colleagues) and countless studies exist. Day describes multicultural counselling competence as awareness of one's own culture, biases and values; knowledge of social and cultural influences on individuals; and skills for applying this knowledge in counselling. Still, there is no universal agreement on the right package (Kia 'I Kitaoka). Egan offers broad guidelines.\n\nUnderstand and appreciate diversity. Clients share humanity but differ in many ways: abilities, accent, age, attractiveness, colour, developmental stage, disability, economic status, education, ethnicity, fitness, gender, group culture, health, national origin, occupation, personal culture, personality, politics, problem type, religion, sexual orientation and social status. Hays offers the ADDRESSING framework: Age, Developmental and acquired Disabilities, Religion, Ethnicity, Socioeconomic status, Sexual orientation, Indigenous heritage and Gender, to help therapists recognise, understand and address diversity and multiculturalism in a multidimensional way. Since people differ in hundreds of ways, helpers must understand clients and problems contextually: a life-threatening illness means different things at 20 and 80; a homeless former graduate student with a drug history differs from a drifter who hates shelters. Helpers can learn a lot about the populations they serve, such as lifespan tasks or the needs of the elderly, but cannot know everything about every population or syndrome. Egan asks how a highly educated African American female psychologist could fully understand a poor, homeless, middle-aged lapsed-Catholic man of Mexican and Polish parentage, and indeed how anyone can fully understand anyone. Pushed too far, diversity principles would make helping impossible.\n\nChallenge your diversity blind spots. Because helpers differ from clients, they risk blind spots that cause inept interventions; for example, an attractive extroverted helper may misjudge the social flexibility and self-esteem of an unattractive introverted client. Counsellors should become aware of their own cultural values and biases, try to understand clients' worldviews, and take special care with the key ways they differ from clients.\n\nTailor interventions in a diversity-sensitive way. Understanding and self-knowledge must become appropriate interventions. How a Hispanic helper challenges a Hispanic client may not suit a white client, and vice versa; how a younger helper self-discloses to a young client may not suit an older one. Intimate self-disclosure may be easier for someone from North American culture than from, say, Asian or British culture. A middle-class helper should check assumptions about poverty, and with a disabled client should not feel sorry but try to see the world from their perspective. Personal cultures within the same social culture differ: Egan bristles at 'I know you Irish'. A client from a disclosure-friendly culture may still be terrified of disclosure; one gay client may be proud of his identity and another ashamed. Check all group assumptions at the door.\n\nWork with individuals. The more helpers understand broad characteristics of populations, the better they can adapt the process to individuals; but helpers work with individuals, not groups. Satel says psychotherapy cannot be about celebrating racial diversity because it is about individuals and their infinite complexity. Category traits can destroy understanding as well as aid it. Focus on the diversity factors relevant to this client and this problem, or you will get lost in the weeds and lose the client. There are no homogeneous groups; social psychology shows as many or more differences within groups as between them (Weinrach and Thomas). Even a conversation between identical twins is a cross-cultural event (Brenner). Valuing diversity is not the same as a splintered society where group membership outranks humanity, and valuing individuality is not a 'society of one'. Egan's example is Sean, 26: bright, gay, Hispanic, poorly educated, underemployed, feeling defeated and trapped. Understand him in any way you can, but work with Sean.",
+   "simple": "Diversity competence is the knowledge and skill to work with people who differ from us in any way. Helpers should understand diversity (e.g. Hays's ADDRESSING framework), challenge their own blind spots, adapt interventions sensitively, and above all treat each client as a unique individual rather than a member of a group.",
+   "keyPoints": [
+    "Diversity competence: knowledge and skills for relating to anyone significantly different.",
+    "Day: awareness, knowledge and skills; no universal agreement on the package.",
+    "Hays's ADDRESSING framework; understand clients contextually.",
+    "Challenge blind spots and tailor interventions; check group assumptions at the door.",
+    "Work with individuals: more variation within than between groups (Weinrach and Thomas); Satel; case of Sean."
+   ]
+  },
+  {
+   "id": "multicultural-competencies",
+   "heading": "Specific Multicultural Competencies",
+   "pages": [
+    56,
+    58
+   ],
+   "detailed": "Cultural Competence Continuum. The National Center for Cultural Competence at Georgetown University adapted, from a monograph by Cross and colleagues, a framework called the Cultural Competence Continuum with six stages: cultural destructiveness, cultural incapacity, cultural blindness, cultural pre-competence, cultural competence and cultural proficiency. Cultural competence includes acceptance and respect for difference, continuing self-assessment, careful attention to the dynamics of difference, continuous expansion of knowledge and resources, and adapting services to meet diverse needs. Egan likes that it uses the language of diversity rather than the narrower language of culture.\n\nEgan's adapted list. Egan adapts a list by Hansen, Pepitone-Arreola-Rockwell and Greene, openly adding his own bias that diversity, especially personal culture, is the key concept, with culture one important factor among many. The counsellor must engage each client's personal culture. The competencies are:\n- Be aware of your own personal culture and heritage and how you may come across to people who differ from you.\n- Be aware of your personal-culture biases toward other individuals and groups.\n- Be aware of ways you are similar to and different from each client; both can help or hinder.\n- Understand the values, beliefs and worldviews of the groups and individuals you work with.\n- Understand how all kinds of diversity contribute to each client's makeup.\n- Be aware of how sociopolitical influences such as poverty, oppression, stereotyping, stigma, discrimination, prejudice and marginalisation may have affected clients; any form of diversity, such as age, education or disability, can be a target.\n- Realise that mainstream Western theories, research methods, diagnoses, assessments and practices may not fit other cultures, or even all Westerners, without adaptation.\n- Know the basics of family structure and gender roles in client groups, remembering within-culture differences.\n- Understand how different cultures view and handle illness, including mental illness, and help-seeking.\n- Build rapport and convey empathy in culturally sensitive ways, to individuals, not cultures; do not assume people from your own culture are alike.\n- Recognise differences in interaction style and language, including nonverbal communication.\n- When clients tell their stories, distinguish culture-specific issues from universal human experience; problems with parents are nearly universal (Egan quotes a Jacques Brel line asking which child is without complaint), but their specific twists are often culturally conditioned.\n- Design non-biased treatment plans that factor in cultural and personal-culture variables.\n- Raise and explore differences between yourself and clients when appropriate; ultimately the interaction is personal culture to personal culture.\n- Assess your own cross-cultural and personal-culture competence and keep improving.\n\nKeep it simple. Work with clients as they are, without apologising for who you are. Adding up all cultural-competence principles is dizzying; Collins, Arthur and Wong-Wylie's 'cultural audit' of 13 steps and over 60 questions is, for Egan, a step too far. Stuart notes it is easy to endorse culturally sensitive practice but much harder to achieve it, and writes about avoiding over- or under-valuing cultural-competence behaviours. No one holds a 'pure' culture: everyone belongs to multiple groups (nation, region, gender, religion, age cohort, occupation) whose influences may agree or conflict, and each person interprets them, so everyone is a unique blend. It is never safe to infer someone's cultural orientation from a group they are thought to belong to. Egan praises Stuart's 12 practical suggestions as an excellent starting point that neither overstates nor understates culture and stresses diversity beyond culture.",
+   "simple": "The Cultural Competence Continuum runs through six stages from cultural destructiveness to cultural proficiency. Egan lists practical competencies like knowing your own culture and biases, understanding clients' worldviews and sociopolitical pressures, and adapting Western methods. He warns against overcomplicating it: everyone is a unique blend, so never assume a person's views from their group.",
+   "keyPoints": [
+    "Cultural Competence Continuum (Cross et al.): destructiveness, incapacity, blindness, pre-competence, competence, proficiency.",
+    "Egan adapts Hansen et al.'s list with his bias toward personal culture.",
+    "Self-awareness, knowledge of worldviews, sociopolitical influences, limits of Western methods.",
+    "Distinguish culture-specific from universal issues; non-biased treatment plans.",
+    "Stuart: no one has a 'pure' culture; never infer orientation from group membership; cultural audit is 'a step too far'."
+   ]
+  },
+  {
+   "id": "self-responsibility",
+   "heading": "Self-Responsibility as an Empowerment-Focused Value",
+   "pages": [
+    58,
+    59
+   ],
+   "detailed": "Egan opens with Robert Zoellick, president of the World Bank, who, reviewing global problems, rejected labels like the Age of Reversal, Intolerance or Decline for the first half of the 21st century and chose 'the Age of Responsibility'.\n\nClient responsibility assumes the client has the power to do what is right for self and others. Two goals of helping from Chapter 1, helping clients develop a problem-management and opportunity-development approach to life and a preference for prevention over cure, are both empowerment skills.\n\nHowever, helpers do not empower clients. Rather, they help clients discover, acquire, develop and use the power they already have for constructive change; that is, they help clients identify, develop and use resources that make them more effective agents of change both in sessions and in everyday life (Strong, Yoder and Corcoran).\n\nThe opposite of empowerment is dependency (Abramson and colleagues; Bornstein and Bowen), deference (Rennie) and oppression (McWhirter). Because clients often experience helpers as relatively powerful, and because even the most egalitarian, client-centred helpers influence clients, helpers must come to terms with social influence in helping.",
+   "simple": "Self-responsibility means clients have the power to do what is right for themselves and others. Helpers do not hand out power; they help clients find and use the power they already have. The opposite is dependency, deference and oppression, so helpers must handle their influence carefully.",
+   "keyPoints": [
+    "Zoellick: 'the Age of Responsibility'.",
+    "Client responsibility assumes the client can do what is right for self and others.",
+    "Helpers do not empower; they help clients discover and use their own power.",
+    "Opposites of empowerment: dependency, deference, oppression.",
+    "Helpers inevitably influence clients, so social influence must be faced."
+   ]
+  },
+  {
+   "id": "social-influence",
+   "heading": "Helping as a Social-Influence Process",
+   "pages": [
+    59,
+    60
+   ],
+   "detailed": "People influence one another constantly. E. R. Smith and Mackie count influence among eight basic principles for understanding behaviour, and Crano calls social-influence research the defining hallmark of social psychology. Parents, children, teachers, students, bosses, subordinates and team members all influence one another.\n\nRashotte distinguishes social influence from power plays: social influence is change in a person's thoughts, feelings, attitudes or behaviour that results from interaction with another person or group, distinct from conformity, power and authority; people make real changes through interaction with others seen as similar, desirable or expert. Clients dislike influence they see as power because power often leads to manipulation and oppression (McCarthy and Frieze).\n\nStrong's influential article, 'Counseling: An Interpersonal Influence Process', triggered much research on helping as social influence. Corrigan and associates' extensive 1980 review opened by observing that virtually all relationships involve attempts at influence and ended, after forty pages, with the blunt conclusion that counsellors are influential, leaving open how and for what purpose. Perrin and colleagues suggest the recent emphasis on diversity and multiculturalism has reduced helpers' tendency to over-influence clients, de-emphasising top-down influence in favour of an interactive, reciprocal, collegial process.\n\nEgan's point: influence pervades helping, but helpers can influence clients without robbing them of self-responsibility, and can work so clients are empowered rather than oppressed in sessions and in daily life. A growing social-justice literature raises the theme of power imbalance, with the helper 'one up', though Zur has challenged this. The properly empowered client, whose resources for self-regulation and improvement are recognised, still faces the challenge of exercising self-responsibility.\n\nA continuum of influence. Imagine a line from 'directing clients' lives' to 'leaving clients completely to their own devices'. Thaler and Sunstein argue the latter is impossible: in many situations someone must make choices that affect others, nudging is unavoidable, and nudges shape choices whether intended or not; helping is such a situation. Somewhere in between lies 'helping clients make their own decisions and act on them', where most helper influence falls. Stopping a client from jumping off a bridge is at the controlling end; simply accepting a client's decision to delay facing a troubled relationship because they are 'not ready' is toward the other end. Hare-Mustin and Marecek note the tension between clients' right to run their own lives and the therapist's obligation to help them live more effectively.",
+   "simple": "Helping always involves influence, just like any relationship. Research (Strong; Corrigan) shows counsellors are influential. The goal is to influence clients in a way that empowers them rather than controlling them, somewhere between directing their lives and leaving them completely alone.",
+   "keyPoints": [
+    "Rashotte: social influence is change through interaction, distinct from conformity, power and authority.",
+    "Strong: counselling as an interpersonal influence process; Corrigan et al.: 'counselors are influential'.",
+    "Perrin et al.: diversity focus shifted influence toward reciprocal, collegial forms.",
+    "Helpers can influence without robbing clients of self-responsibility.",
+    "Continuum from directing to leaving alone; Thaler and Sunstein: nudging is unavoidable; Hare-Mustin and Marecek's tension."
+   ]
+  },
+  {
+   "id": "norms-empowerment",
+   "heading": "Norms for Empowerment and Self-Responsibility",
+   "pages": [
+    60,
+    63
+   ],
+   "detailed": "Helpers do not self-righteously empower clients; that would be patronising. Freire warned against making helping another form of oppression for the oppressed. Effective counsellors help clients discover, develop and use their untapped power. Egan gives empowerment norms, some adapted from Farrelly and Brandsma.\n\nStart with the premise that clients can change if they choose. Clients have more resources than they or their helpers assume. These may be blocked or unused; the counsellor helps identify, free and cultivate them, and helps clients assess them realistically so aspirations do not outstrip resources.\n\nDo not see clients as victims. Even if victimised by institutions or people, clients are not helpless. The cult of victimhood is growing too fast. Where circumstances limit freedom, as with an abused spouse unable to leave, work with the freedom that remains.\n\nDo not be fooled by appearances. A trainer dismissed a reserved, self-deprecating trainee as 'more like a client than a trainee'; she became one of the programme's best students and was hired by a prestigious mental-health centre.\n\nShare the helping process with clients. Explicit and implicit contracts govern many relationships, such as marriage and friendship. In collaborative helping both parties must know their responsibilities. Egan prefers 'working charter' to 'contract', avoiding legal overtones. It should cover: (1) the nature and goals of helping; (2) an overview of the approach and techniques; (3) the flexibility built in; (4) how the process helps clients reach goals; (5) relevant information about the helper; (6) how the relationship is structured and each party's responsibilities; (7) the values driving helping; and (8) procedural issues, such as where and how long sessions are and limits like contact between sessions. Manthei and Miller wrote a practical book on charters for clients, and charters seem to work even with the seriously mentally ill (Heinssen, Levendusky and Hunter). Helping should not be a black box; clients have a right to know what they are getting into. Helpers can explain, use a simple pamphlet, or, like Reis and Brown, a short video, sharing details over several sessions without overwhelming distressed clients. Clients should be told as much as they can reasonably assimilate.\n\nHelp clients see sessions as work sessions. Sessions explore the need for change, decide what change is needed, create programmes of change, run change 'pilot projects' and deal with obstacles. This is work, sometimes agonising, sometimes exhilarating. Building a work ethic in clients may be one of the helper's toughest challenges; some helpers cancel sessions until the client is ready to work, though helping clients find incentives is less dramatic.\n\nBecome a coach or consultant. Helpers can act as coaches or expert consultants (Mee-Lee, McLellan and Miller). Business consultants listen, observe, collect data, teach, support, challenge, advise and even advocate, but managers keep responsibility for decisions. Coaching is collaborative influence that does not rob managers, or clients, of their responsibilities. The best clients learn to use their helpers to add value.\n\nAccept helping as a natural, two-way influence process. Tyler, Pargament and Gatz proposed the 'resource collaborator role'. Seeing both parties as people with defects, they stressed give-and-take: either can initiate helping, both have equal status in defining the relationship, originating actions and evaluating outcomes, and ideally both change. Egan's example: Wei-Lian corrects his counsellor Timothy, who reflects that Wei-Lian dislikes his father forcing opinions on him; Wei-Lian replies that he must respect his father and listen to his wisdom. Timothy realises he has been using his own cultural assumptions and says he needs to be more of a learner.\n\nFocus on learning instead of helping. Helping is better seen as a learning process than an education process: sessions and the time between involve learning, unlearning and relearning. Howell said learning is incorporated into living to the extent that viable options are increased. Successful collaboration gives clients more degrees of freedom as they open up and act on options.\n\nDo not see clients as overly fragile. Neither pampering nor brutalising helps. Helpers who constantly see clients as fragile may be protecting themselves. Driscoll noted many helpers do little more than listen early on. Clients' natural deference (Rennie), including fear of criticising the therapist, trying to understand the therapist's frame of reference, meeting perceived expectations and showing indebtedness, and fear of irretrievable error, can mislead helpers; it does not mean fragility. Driscoll urged intervening more from the start, by reasonably challenging clients' thinking and action and getting them to say what they want.\n\nCultural differences. Lin found Taiwanese university students tend to see help-seeking as weakness or shame, prefer informal help, seek help only when things are serious, and avoid strangers, holding beliefs like 'God helps people who help themselves'. This self-reliance differs greatly from Western individualism such as in Australia and the US. In the end, what matters is this client's approach to self-responsibility.",
+   "simple": "Helpers should not 'empower' clients patronisingly but help them use their own power. Norms include believing clients can change, not treating them as victims or as fragile, sharing the process through a working charter, treating sessions as work, acting like a coach, accepting two-way influence and focusing on learning.",
+   "keyPoints": [
+    "Freire: helping must not become another form of oppression.",
+    "Clients can change if they choose; do not see them as victims or overly fragile; do not be fooled by appearances.",
+    "Working charter with eight elements; helping should not be a 'black box'.",
+    "Sessions as work sessions; helper as coach/consultant (Mee-Lee et al.); resource collaborator role (Tyler, Pargament and Gatz).",
+    "Learning focus (Howell); client deference (Rennie); Driscoll: intervene early; Lin: Taiwanese students' self-reliance."
+   ]
+  },
+  {
+   "id": "conscientiousness",
+   "heading": "Conscientiousness",
+   "pages": [
+    63,
+    64
+   ],
+   "detailed": "The growing literature on conscientiousness (Bogg and Roberts; Friedman and Martin; Hill and colleagues; B. W. Roberts, Walton and Bogg) is another rich source for understanding and developing self-responsibility.\n\nBogg and Roberts define conscientiousness as individual differences in the propensity to follow socially prescribed norms for impulse control, to be task- and goal-oriented, to be planful, to delay gratification and to follow norms and rules.\n\nSome might read this as a description of a dull person, while others link it to social-emotional intelligence and maturity.\n\nOrigins are uncertain. We do not know whether conscientiousness as a trait is genetically or neurologically determined, a product of personal and social development, or something acquired through choice and effort. Egan's own reading suggests it is probably some of each.\n\nBut the research is consistent that conscientious people live longer and healthier lives, and Egan expects future research to show further personal and social benefits. For helpers, conscientiousness offers a way of thinking about the qualities clients need in order to take charge of their lives.",
+   "simple": "Conscientiousness is the tendency to control impulses, be goal-oriented, plan, delay gratification and follow rules. Research shows conscientious people live longer, healthier lives. It may come from genes, development, choice, or probably all three.",
+   "keyPoints": [
+    "Conscientiousness is a source for understanding self-responsibility.",
+    "Bogg and Roberts: impulse control, task/goal orientation, planfulness, delayed gratification, rule-following.",
+    "Seen by some as dull, by others as maturity and social-emotional intelligence.",
+    "Origins: genetic, developmental or chosen; probably some of each.",
+    "Conscientious people live longer and healthier lives."
+   ]
+  },
+  {
+   "id": "self-regulation",
+   "heading": "Self-Responsibility, Self-Regulation, Self-Control",
+   "pages": [
+    64,
+    64
+   ],
+   "detailed": "Self-regulation or self-control (Hoyle) is a key component of self-responsibility, though Egan wonders how much of it shows in everyday life. Baumeister and colleagues define self-regulation as a highly adaptive, distinctively human trait that lets people override and alter their responses, including changing themselves to meet social and other standards.\n\nDespite its value, many people, especially children, seem to have little self-control, which can be maddening. In a controversial book, Druckerman suggests French children behave better than American children because French parents indulge them less. Self-indulgence, or being indulged, often leads to trouble, and when it becomes part of a culture, society is in trouble.\n\nOur own lapses in self-control get us into trouble too, so it is unsurprising that poor self-regulation lies at the heart of many clients' problems. Self-indulgence and its sibling self-absorption (McKenzie and Hoyle) can be damaging, but self-control can be learned.\n\nEgo depletion and the muscle analogy. Baumeister and colleagues found that efforts at self-control are psychologically costly ('ego depletion'), but regular self-regulation exercises improve self-regulation, like strengthening a muscle.\n\nSelf-control as a subset. VanDellen, Hoyle and Miller distinguish self-control from broader self-regulation: self-control is self-regulation that is both effortful and conscious. A self-regulatory task depleted resources only when it required sustained effort. They also hold that self-control can be learned.\n\nContagion. VanDellen and Hoyle found self-control can be 'contagious': watching someone exercise self-control makes it easier later, and even thinking of a friend with good self-control helps people stay in control.\n\nImplications. Helping clients find ways to stay in control is more useful than just getting them to recognise and challenge self-indulgent habits. Many clients will struggle with self-regulation, and if they are to take responsibility and stay in the driver's seat they may need help with self-control.",
+   "simple": "Self-control is central to taking responsibility for yourself, and lack of it often lies behind clients' problems. Research shows self-control uses up energy (ego depletion) but gets stronger with practice like a muscle, and can even be 'caught' from others. Helpers should help clients find ways to stay in control.",
+   "keyPoints": [
+    "Self-regulation is a key component of self-responsibility (Hoyle).",
+    "Baumeister et al.: definition; ego depletion; strengthening like a muscle.",
+    "VanDellen, Hoyle and Miller: self-control is effortful and conscious self-regulation.",
+    "VanDellen and Hoyle: self-control is 'contagious'.",
+    "Druckerman: indulgence and children's behaviour; help clients find ways to stay in control."
+   ]
+  },
+  {
+   "id": "bias-for-action",
+   "heading": "A Bias for Action as an Outcome-Focused Value; The Need for Behavioral Activation",
+   "pages": [
+    65,
+    66
+   ],
+   "detailed": "If life-enhancing outcomes are central to helping, so is the behaviour that produces them. Clients must ultimately engage, directly or indirectly, in internal (thinking) and external (action) behaviour that creates outcomes.\n\nBehavioral activation (BA). Sometimes called activity scheduling, BA is a treatment for depression built on this principle. Devised years ago (Jacobson), it has had a renaissance of sorts (Coffman and colleagues, Cuijpers and colleagues, Hopko and colleagues, and others). BA targets inertia and avoidance. Hopko and colleagues state its premise: increased activity and the resulting contact with positive consequences are enough to reduce depressive symptoms and increase positive thoughts and feelings.\n\nBA involves helping clients monitor mood and daily activities, identify rewarding activities, schedule pleasant activities and increase their number, increase positive interactions with the environment, move from easier to harder tasks, reward progress, and review and maintain gains; in short, moving clients into action beyond inertia and avoidance. Cuijpers, van Straten and Warmerdam's meta-analysis found activity scheduling effective, and noted it is attractive because it is uncomplicated, time-efficient and does not require complex skills from patient or therapist.\n\nWhy only a renaissance 'of sorts'? A real renaissance would stress clients acting on their own behalf in all problem situations. BA is not limited to depression; an action component is needed in all problem management.\n\nAgency. The overall goal from Chapter 1 is helping clients become more effective agents in helping and in daily life: doers rather than reactors, preventers rather than fixers, initiators rather than followers. Egan's example is Lawrence, valued by superiors because he was competent and did whatever they wanted, being moved from job to job without complaint. As he matured he took to heart the adage that if you are not in charge of your career, no one is. After career counselling he presented his desired career path, showing how it served both the company and himself; his superiors, taken aback, agreed, and when they later sidetracked him he stood up for his rights. Assertiveness was his bias for action.\n\nThe doer is more likely to pursue 'stretch' rather than merely adaptive goals and to move beyond problem management to opportunity development. Bandura, focusing on human agency, argues the helping professions under-emphasise personal agency. Angus and Kagan link empathy and action: when helpers respond empathically to clients describing what they have done to bring about change, they encourage the client's sense of agency, which they call 'empathic validation'.",
+   "simple": "Outcomes come from action, so helpers should have a bias for action. Behavioral activation, a treatment for depression, gets clients doing rewarding activities to beat inertia and avoidance, and it works. Egan wants this action focus in all helping, so clients become doers and initiators rather than passive reactors.",
+   "keyPoints": [
+    "Outcomes require internal (thinking) and external (action) behaviour.",
+    "Behavioral activation/activity scheduling (Jacobson) targets inertia and avoidance.",
+    "Hopko et al.: increased activity and positive consequences reduce depression; Cuijpers et al. meta-analysis: effective and simple.",
+    "A true renaissance would apply action to all problem situations; case of Lawrence.",
+    "Bandura: personal agency; Angus and Kagan: 'empathic validation'; doers pursue stretch goals."
+   ]
+  },
+  {
+   "id": "discretionary-change",
+   "heading": "Action and Discretionary Change",
+   "pages": [
+    66,
+    66
+   ],
+   "detailed": "To become more effective agents, clients need to understand the difference between discretionary and nondiscretionary change. Nondiscretionary change is mandated: if a court tells a divorced man negotiating visiting rights that he cannot see his children unless he stops drinking, there will be no visits without change. Discretionary change is not forced: a couple with marital difficulties is not under the gun to change; the message is 'IF you want a better relationship, THEN you must change in these ways'.\n\nEgan says the fact of discretionary change is central to mediocrity. If we do not have to change, we often do not, as the track record of New Year's resolutions shows. Clients often see change as discretionary; they may talk as though it is required, but underneath runs the feeling 'I don't really have to change; others and the world should change'. Egan stresses this is not cynicism but realism, meant to make helpers realistic about the challenges they and their clients face.\n\nA pragmatic bias toward client action, rather than mere talk about action, is a cardinal value. Effective helpers are active, see no value in mere listening and nodding, and engage clients in dialogue, constantly asking what they can do to raise the probability that the client will act intelligently and prudently on his or her own behalf. Egan's cautionary example: a man went 'into therapy' partly for indecisiveness and, over years, got engaged several times and broke each engagement off; so much for decisiveness.",
+   "simple": "Nondiscretionary change is forced (e.g. by a court); discretionary change is optional, and people often avoid it, like broken New Year's resolutions. Clients often feel they do not really have to change, so helpers must actively push toward action rather than just listen and nod.",
+   "keyPoints": [
+    "Nondiscretionary change is mandated; discretionary change is optional ('IF... THEN').",
+    "Discretionary change is 'central to mediocrity': if we don't have to change, we often don't.",
+    "Clients often privately treat change as optional.",
+    "A pragmatic bias toward client action is a cardinal value.",
+    "Effective helpers are active, not just listeners and nodders."
+   ]
+  },
+  {
+   "id": "real-life-focus",
+   "heading": "Real-Life Focus",
+   "pages": [
+    66,
+    67
+   ],
+   "detailed": "For clients to make progress they must do better in their day-to-day lives. The focus of helping is therefore not narrowly on sessions and client-helper interactions but on clients managing everyday life more effectively.\n\nEgan tells of a friend who, early in his career, was delighted with the solid relationship he was building with a client until, in the third interview, she told him he was full of himself and that they were not getting anywhere. He had become so absorbed in relationship building that he forgot her pressing everyday concerns.\n\nHanna, working with difficult clients, developed a model of change that emphasises clients as active agents. He argues the behaviourist view of human beings overemphasises mechanistic and deterministic factors and so shortchanges clients. Bohart and Tallman say clients, to varying degrees, can solve their own problems, generate ideas and actively contribute to therapy. Egan goes further: clients not only can, they must.",
+   "simple": "Helping is about clients doing better in real life, not just about good sessions. A helper who focuses only on the relationship can forget the client's actual problems. Clients are active agents who can and must contribute to their own change.",
+   "keyPoints": [
+    "Progress means doing better in day-to-day life, not just in sessions.",
+    "Cautionary tale: a helper lost in relationship building.",
+    "Hanna: clients as 'active agents'; behaviourism overemphasises mechanistic factors.",
+    "Bohart and Tallman: clients can solve problems and contribute to therapy.",
+    "Egan: clients not only can but must."
+   ]
+  },
+  {
+   "id": "shadow-side-flaws",
+   "heading": "Shadow-Side Realities in the Helping Relationship; Helpers' and Clients' Flaws",
+   "pages": [
+    67,
+    68
+   ],
+   "detailed": "Like any relationship, the helper-client relationship can go wrong in many ways. Egan samples these shadow-side realities.\n\nHelpers' flaws. Helping relationships often fall short of the chapter's ideals, and helpers' motives are not always pure. Helpers find clients attractive or unattractive, which is not wrong in itself, but they must manage closeness in a way that furthers helping (R. S. Schwartz) and handle both positive and negative feelings, lest they do silly things. They may need to resist being less challenging with attractive clients or listening less carefully to unattractive ones. Some helpers lack commitment in a profession that demands it. And helpers, like others, get into trouble but often fail to use their own tools to get out of it: 'Don't do as I do; do as I say.'\n\nClients' flaws. Some clients have unrealistic expectations of counselling (Tinsley, Bowman and Barich); others are tripped up by distorted views of their helpers, so helpers must manage expectations and the relationship. Clients play games with themselves, their helpers and the process. Helpers sometimes seduce clients and clients seduce helpers, not necessarily sexually. Both may pursue hidden agendas. The relationship can even become a conspiracy to do nothing.\n\nBeing neither naive nor cynical. Neither helpers nor clients are usually heroes; they have all-too-human tendencies. We now talk openly about human defects without descending into cynicism. Needleman asks why people repeatedly violate their deepest values; Hollis asks why good people do bad things and explores humanity's darker side; Ford asks the same and suggests how to stop being our own worst enemies; Martinez-Lewi discusses freeing ourselves from narcissism. The dark side is often as close as the end of one's nose. The trick is to be neither naive nor cynical about yourself or your clients.",
+   "simple": "Real helping relationships have flaws. Helpers may be swayed by attraction, lack commitment or not practise what they preach. Clients may have unrealistic expectations, play games or have hidden agendas, and the pair may even 'conspire' to do nothing. The answer is to be neither naive nor cynical.",
+   "keyPoints": [
+    "Helpers' motives are not always pure; manage attraction and closeness (R. S. Schwartz).",
+    "Some helpers lack commitment or don't use their own tools ('Don't do as I do').",
+    "Clients: unrealistic expectations (Tinsley et al.), distorted views, games, hidden agendas.",
+    "The relationship can become a 'conspiracy to do nothing'.",
+    "Be neither naive nor cynical (Needleman, Hollis, Ford, Martinez-Lewi)."
+   ]
+  },
+  {
+   "id": "incompetent-helpers",
+   "heading": "Incompetent Helpers",
+   "pages": [
+    68,
+    68
+   ],
+   "detailed": "Some helpers are competent and others are not, yet incompetent helpers pass themselves off as professionals, just as there are good and bad teachers, social workers, managers, police officers and ministers. Helpers who underestimate the severity of problems, have interpersonal difficulties with clients, use poor techniques, overuse a technique or disagree with clients about methods can make things worse. Clients, aided by helpers, work on the wrong issues; helpers fail to keep up with the profession and use methods unlikely to help; helping continues though it is going nowhere. So there is evidence that therapy sometimes makes things worse: some helping leads to negative outcomes.\n\nEven competent, committed helpers have lapses. Luborsky and associates found that:\n- therapists differ considerably in their average success rates;\n- outcomes vary considerably within an individual therapist's caseload;\n- variations in success usually have more to do with the therapist than with the type of treatment.\n\nHelping usually works, but ineffective helping abounds. Helping is powerful and easy to mismanage, and some clients get worse because of inept helpers. Helping is not neutral; it is for better or for worse.\n\nAlbert Ellis claimed inept helpers are either ineffective or inefficient. The inefficient may eventually help, but with inept methods that produce weak, short-lived results and waste enormous time and money. Because efficacy studies rarely separate high-level from low-level helpers, and deterioration research suggests many low-level helpers exist, the negative results in many studies are predictable. Finally, little has been written about how helpers deal with failure in therapy (Stewart and Chambless).\n\nEgan closes by noting that Part II (communication and relationship-building skills) and Part III (the problem-management and opportunity-development framework) follow, and the spirit of Chapters 1 and 2 runs through both.",
+   "simple": "Not all helpers are competent, and bad helping can make clients worse. Luborsky found success depends more on the therapist than on the type of therapy. Ellis said inept helpers are either ineffective or inefficient, and little is written about how helpers handle failure.",
+   "keyPoints": [
+    "Incompetent helpers exist and can make clients worse (negative outcomes).",
+    "Signs: underestimating severity, poor or overused techniques, wrong issues, outdated methods.",
+    "Luborsky et al.: success varies more with the therapist than the treatment type.",
+    "Ellis: inept helpers are ineffective or inefficient.",
+    "Little written on handling failure (Stewart and Chambless); helping is 'for better or for worse'."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Working alliance",
+   "definition": "Norcross: the quality and strength of the collaborative relationship between client and therapist.",
+   "page": 39
+  },
+  {
+   "term": "Working alliance (Bordin)",
+   "definition": "Collaboration between client and helper based on their agreement on the goals and tasks of counselling.",
+   "page": 39
+  },
+  {
+   "term": "Transference and countertransference",
+   "definition": "Complex, initially unconscious interpersonal dynamics between helper and client rooted in the past of the client and even the helper; central in psychodynamic approaches.",
+   "page": 38
+  },
+  {
+   "term": "Core conditions (Rogers)",
+   "definition": "Unconditional positive regard, accurate empathy and genuineness, offered by the helper and perceived by the client; claimed to be necessary and often sufficient for progress.",
+   "page": 38
+  },
+  {
+   "term": "Client-centered approach",
+   "definition": "The approach to helping launched by Carl Rogers's work, emphasising the quality of the empathic relationship.",
+   "page": 38
+  },
+  {
+   "term": "Active collaboration",
+   "definition": "Client type (Bachelor et al.) who sees self as playing a significant role in whether therapy moves forward.",
+   "page": 39
+  },
+  {
+   "term": "Mutual collaboration",
+   "definition": "Client type who acknowledges own role in change but expects the therapist to play an equally active role.",
+   "page": 39
+  },
+  {
+   "term": "Therapist-dependent collaboration",
+   "definition": "Client type for whom collaboration means beneficial therapist interventions; about a third of clients; better called cooperation.",
+   "page": 40
+  },
+  {
+   "term": "Forum for relearning",
+   "definition": "The idea (Mallinckrodt) that the helping relationship itself is a vehicle for social-emotional relearning.",
+   "page": 43
+  },
+  {
+   "term": "Ruptures",
+   "definition": "Eubanks-Carter, Muran and Safran's term for challenges, misunderstandings, impasses and threats to the relationship that can become opportunities for growth.",
+   "page": 44
+  },
+  {
+   "term": "Values as mental maps",
+   "definition": "Argyris: values are mental maps that define how to act in situations.",
+   "page": 45
+  },
+  {
+   "term": "Espoused values",
+   "definition": "Values a person holds as ideals but may not act on.",
+   "page": 45
+  },
+  {
+   "term": "Values-in-use",
+   "definition": "Behavioural maps people actually use, more or less consistently, to make decisions and guide behaviour.",
+   "page": 45
+  },
+  {
+   "term": "Respect",
+   "definition": "The foundation value of helping; from a Latin root meaning 'seeing' or 'viewing'; a way of viewing self and others that must show in behaviour.",
+   "page": 46
+  },
+  {
+   "term": "Positive regard",
+   "definition": "Rogers's term for respect, with nonpossessive warmth toward and affirmation of the client.",
+   "page": 46
+  },
+  {
+   "term": "Caring incompetent",
+   "definition": "A helper who cares but lacks competence; Egan says there is no place for such a person in the helping professions.",
+   "page": 47
+  },
+  {
+   "term": "Real relationship",
+   "definition": "Gelso: the personal relationship reflected in how genuine each person is and how far each perceives the other in ways that befit the other.",
+   "page": 47
+  },
+  {
+   "term": "Empathy",
+   "definition": "The ability to understand the client from his or her point of view and, when appropriate, communicate this understanding; includes understanding the person in context.",
+   "page": 48
+  },
+  {
+   "term": "Phases of empathy (Barrett-Lennard)",
+   "definition": "Empathic resonance, expressed empathy and received empathy.",
+   "page": 48
+  },
+  {
+   "term": "Attunement",
+   "definition": "Hosking and Walsh: trying to respond to a child's needs, especially emotional ones, so the child feels understood, cared for and valued.",
+   "page": 49
+  },
+  {
+   "term": "Inclusive cultural empathy",
+   "definition": "Pedersen's term for diversity-oriented, two-way relationship empathy, as opposed to one-way individualistic empathy.",
+   "page": 50
+  },
+  {
+   "term": "Social location",
+   "definition": "The client's complex sociopolitical environment and status, often a key part of context.",
+   "page": 50
+  },
+  {
+   "term": "Empathy as radical commitment",
+   "definition": "Commitment to understand the client's point of view, the client in context, and the dissonance between the client's view and reality.",
+   "page": 50
+  },
+  {
+   "term": "Culture",
+   "definition": "Shared beliefs and assumptions interacting with shared values to produce shared norms that drive shared patterns of behaviour.",
+   "page": 52
+  },
+  {
+   "term": "Personal culture",
+   "definition": "An individual's own beliefs, values, norms and behaviour patterns: 'the way I live my life'.",
+   "page": 52
+  },
+  {
+   "term": "Diversity competence",
+   "definition": "The knowledge and skills needed to relate to and communicate effectively with people who differ from us in any significant way.",
+   "page": 53
+  },
+  {
+   "term": "Multicultural counseling competence",
+   "definition": "Day: awareness of one's own culture, biases and values; knowledge of social and cultural influences; skills for applying this in counselling.",
+   "page": 53
+  },
+  {
+   "term": "ADDRESSING framework",
+   "definition": "Hays: Age, Developmental and acquired Disabilities, Religion, Ethnicity, Socioeconomic status, Sexual orientation, Indigenous heritage and Gender.",
+   "page": 54
+  },
+  {
+   "term": "Cultural Competence Continuum",
+   "definition": "Six-stage framework (Cross et al.): cultural destructiveness, incapacity, blindness, pre-competence, competence and proficiency.",
+   "page": 56
+  },
+  {
+   "term": "Cultural audit",
+   "definition": "Collins, Arthur and Wong-Wylie's 13-step, 60-plus-question tool for practitioners; Egan calls it 'a step too far'.",
+   "page": 58
+  },
+  {
+   "term": "Client responsibility",
+   "definition": "The assumption that the client has the power to do what is right for self and others.",
+   "page": 58
+  },
+  {
+   "term": "Empowerment",
+   "definition": "Helping clients discover, acquire, develop and use the power they already have for constructive change; its opposites are dependency, deference and oppression.",
+   "page": 58
+  },
+  {
+   "term": "Social influence",
+   "definition": "Rashotte: change in thoughts, feelings, attitudes or behaviour resulting from interaction with others; distinct from conformity, power and authority.",
+   "page": 59
+  },
+  {
+   "term": "Nudging",
+   "definition": "Thaler and Sunstein: unavoidable influence on others' choices by whoever must make choices affecting them.",
+   "page": 60
+  },
+  {
+   "term": "Working charter",
+   "definition": "Egan's preferred term for the helping contract, covering goals, approach, roles, values and procedural issues without legal connotations.",
+   "page": 61
+  },
+  {
+   "term": "Procedural issues",
+   "definition": "The nuts and bolts of helping, such as where and how long sessions are, and limits such as contact between sessions.",
+   "page": 61
+  },
+  {
+   "term": "Resource collaborator role",
+   "definition": "Tyler, Pargament and Gatz: helper and client have equal status and mutual give-and-take; ideally both change.",
+   "page": 62
+  },
+  {
+   "term": "Learning (Howell)",
+   "definition": "Learning is incorporated into living to the extent that viable options are increased.",
+   "page": 63
+  },
+  {
+   "term": "Client deference",
+   "definition": "Rennie: early client tendencies such as fear of criticising the therapist and trying to meet the therapist's expectations.",
+   "page": 63
+  },
+  {
+   "term": "Conscientiousness",
+   "definition": "Bogg and Roberts: propensity to follow norms for impulse control, be task- and goal-oriented, be planful, delay gratification and follow rules.",
+   "page": 63
+  },
+  {
+   "term": "Self-regulation",
+   "definition": "Baumeister et al.: an adaptive, distinctively human trait for overriding and altering one's responses to meet standards.",
+   "page": 64
+  },
+  {
+   "term": "Ego depletion",
+   "definition": "Baumeister et al.: efforts at self-control are psychologically costly.",
+   "page": 64
+  },
+  {
+   "term": "Self-control (VanDellen, Hoyle and Miller)",
+   "definition": "The subset of self-regulation that is both effortful and conscious.",
+   "page": 64
+  },
+  {
+   "term": "Behavioral activation (activity scheduling)",
+   "definition": "A treatment for depression that targets inertia and avoidance by increasing rewarding activity.",
+   "page": 65
+  },
+  {
+   "term": "Empathic validation",
+   "definition": "Angus and Kagan: responding empathically to clients' accounts of their own change efforts, which boosts their sense of agency.",
+   "page": 66
+  },
+  {
+   "term": "Stretch goals",
+   "definition": "Ambitious rather than merely adaptive goals, which 'doers' are more likely to pursue.",
+   "page": 66
+  },
+  {
+   "term": "Nondiscretionary change",
+   "definition": "Mandated change, such as a court requirement.",
+   "page": 66
+  },
+  {
+   "term": "Discretionary change",
+   "definition": "Change that is not forced; 'IF you want X, THEN you must change'; often avoided.",
+   "page": 66
+  },
+  {
+   "term": "Shadow side",
+   "definition": "The things that can go wrong in the helping relationship, such as flawed motives, games and hidden agendas.",
+   "page": 67
+  },
+  {
+   "term": "Conspiracy to do nothing",
+   "definition": "When the helping relationship ends up as a tacit agreement between helper and client to avoid real change.",
+   "page": 67
+  },
+  {
+   "term": "Ineffective vs inefficient helpers",
+   "definition": "Ellis: inept helpers either fail, or help slowly with weak, unlasting results at great cost of time and money.",
+   "page": 68
+  }
+ ],
+ "people": [
+  {
+   "name": "Norcross",
+   "contribution": "Led the work summarising relationship research; said the relationship is broader than the alliance and defined the alliance as the quality and strength of collaboration.",
+   "page": 38
+  },
+  {
+   "name": "Carl Rogers",
+   "contribution": "Pioneer of the humanistic-experiential, client-centred approach; core conditions; called respect positive regard; described empathy as sensing and communicating the client's inner world.",
+   "page": 38
+  },
+  {
+   "name": "Tursi and Cochran",
+   "contribution": "Noted that cognitive-behavioural tasks are done within a person-centred relational framework.",
+   "page": 39
+  },
+  {
+   "name": "Bordin",
+   "contribution": "Defined the working alliance as collaboration based on agreement on goals and tasks.",
+   "page": 39
+  },
+  {
+   "name": "Horvath and associates",
+   "contribution": "Described the alliance as an emergent partnership; ups and downs, if resolved, linked to good outcomes.",
+   "page": 39
+  },
+  {
+   "name": "Frankel",
+   "contribution": "Helping is a process helpers and clients work through together, not something done to clients.",
+   "page": 39
+  },
+  {
+   "name": "Bachelor, Laverdiere, Gamache and Bordeleau",
+   "contribution": "Identified active, mutual and therapist-dependent client collaboration.",
+   "page": 39
+  },
+  {
+   "name": "Miller, Duncan et al.",
+   "contribution": "Early subjective change is critical to positive outcome.",
+   "page": 41
+  },
+  {
+   "name": "DeFife and Hilsenroth",
+   "contribution": "Identified three areas for getting off to a good start.",
+   "page": 41
+  },
+  {
+   "name": "Bedi",
+   "contribution": "Argued client views of the relationship are neglected; studied what clients appreciate.",
+   "page": 42
+  },
+  {
+   "name": "Ackerman and Hilsenroth",
+   "contribution": "Identified therapist attributes and techniques that strengthen the alliance.",
+   "page": 42
+  },
+  {
+   "name": "Duff and Bedi",
+   "contribution": "Small strengths-fostering behaviours contribute disproportionately to the alliance.",
+   "page": 43
+  },
+  {
+   "name": "Bedi and Davis",
+   "contribution": "Helpers need training in client-focused behaviours.",
+   "page": 43
+  },
+  {
+   "name": "Mallinckrodt",
+   "contribution": "The relationship as a vehicle for social-emotional relearning.",
+   "page": 43
+  },
+  {
+   "name": "A. A. Lazarus and Mahrer",
+   "contribution": "Effective helpers tailor styles, skills and techniques to each client.",
+   "page": 44
+  },
+  {
+   "name": "Duncan, Miller and Sparks",
+   "contribution": "Clients, not therapists, make therapy work; therapists should follow the client's lead.",
+   "page": 44
+  },
+  {
+   "name": "Eubanks-Carter, Muran and Safran",
+   "contribution": "Described relationship 'ruptures' and turning them into opportunities.",
+   "page": 44
+  },
+  {
+   "name": "Argyris (and Schon)",
+   "contribution": "Values as mental maps; espoused values vs values-in-use.",
+   "page": 45
+  },
+  {
+   "name": "Rayle",
+   "contribution": "Ideally helpers and clients 'matter to one another'.",
+   "page": 46
+  },
+  {
+   "name": "Farber and Doolin",
+   "contribution": "Linked positive regard and warmth to successful outcomes.",
+   "page": 46
+  },
+  {
+   "name": "Gelso",
+   "contribution": "Defined the 'real relationship' as distinct from the alliance.",
+   "page": 47
+  },
+  {
+   "name": "Barrett-Lennard",
+   "contribution": "Three phases of empathy: resonance, expressed, received.",
+   "page": 48
+  },
+  {
+   "name": "Hatcher et al.",
+   "contribution": "In practice, empathy across differences is possible.",
+   "page": 49
+  },
+  {
+   "name": "Kohut",
+   "contribution": "Empathy as an accepting, confirming human echo; a psychological nutrient.",
+   "page": 49
+  },
+  {
+   "name": "Covey",
+   "contribution": "Empathic communication as one of the seven habits; gives 'psychological air'.",
+   "page": 49
+  },
+  {
+   "name": "Goleman",
+   "contribution": "Empathy at the heart of emotional intelligence; 'social radar'.",
+   "page": 49
+  },
+  {
+   "name": "Hosking and Walsh (WAVE Trust)",
+   "contribution": "Empathy is the greatest inhibitor of violence; depends on parental attunement.",
+   "page": 49
+  },
+  {
+   "name": "Kennedy",
+   "contribution": "Children must both experience and express empathy; guidelines for parents.",
+   "page": 49
+  },
+  {
+   "name": "Pedersen, Crethar and Carlson",
+   "contribution": "Relationship-oriented 'inclusive cultural empathy'.",
+   "page": 50
+  },
+  {
+   "name": "Zaki, Bolger and Ochsner",
+   "contribution": "Empathic accuracy depends on how both parties communicate.",
+   "page": 50
+  },
+  {
+   "name": "Janet Clark",
+   "contribution": "Reconceptualised empathy as two-way, diversity-oriented relationship empathy.",
+   "page": 50
+  },
+  {
+   "name": "Putnam",
+   "contribution": "More diverse communities show less trust in the short term.",
+   "page": 51
+  },
+  {
+   "name": "Leung, Maddux, Galinsky and Chiu",
+   "contribution": "Exposure to multiple cultures can enhance creativity.",
+   "page": 51
+  },
+  {
+   "name": "Bronfenbrenner",
+   "contribution": "Culture is the largest and most controlling of systems.",
+   "page": 52
+  },
+  {
+   "name": "Massimini and Delle Fave",
+   "contribution": "People within the same culture personalise beliefs, values and norms differently.",
+   "page": 52
+  },
+  {
+   "name": "Guisinger and Blatt",
+   "contribution": "Western psychology favours self-development; others emphasise relatedness; both needed for maturity.",
+   "page": 53
+  },
+  {
+   "name": "Day",
+   "contribution": "Defined multicultural counselling competence as awareness, knowledge and skills.",
+   "page": 53
+  },
+  {
+   "name": "Hays",
+   "contribution": "ADDRESSING framework.",
+   "page": 54
+  },
+  {
+   "name": "Satel",
+   "contribution": "Psychotherapy is about individuals, not celebrating racial diversity.",
+   "page": 55
+  },
+  {
+   "name": "Cross and colleagues",
+   "contribution": "Monograph behind the Cultural Competence Continuum.",
+   "page": 56
+  },
+  {
+   "name": "Hansen, Pepitone-Arreola-Rockwell and Greene",
+   "contribution": "List of multicultural competencies that Egan adapts.",
+   "page": 56
+  },
+  {
+   "name": "Stuart",
+   "contribution": "No one has a 'pure' culture; 12 practical suggestions for competence.",
+   "page": 58
+  },
+  {
+   "name": "Robert Zoellick",
+   "contribution": "Called the first half of the 21st century 'the Age of Responsibility'.",
+   "page": 58
+  },
+  {
+   "name": "Rashotte",
+   "contribution": "Defined social influence as distinct from conformity, power and authority.",
+   "page": 59
+  },
+  {
+   "name": "Strong",
+   "contribution": "'Counseling: An Interpersonal Influence Process'.",
+   "page": 59
+  },
+  {
+   "name": "Corrigan and associates",
+   "contribution": "1980 review concluding 'counselors are influential'.",
+   "page": 59
+  },
+  {
+   "name": "Perrin and colleagues",
+   "contribution": "Diversity emphasis shifted therapist influence toward reciprocal, collegial forms.",
+   "page": 59
+  },
+  {
+   "name": "Thaler and Sunstein",
+   "contribution": "Nudging is unavoidable.",
+   "page": 60
+  },
+  {
+   "name": "Hare-Mustin and Marecek",
+   "contribution": "Tension between client self-determination and therapist's obligation to help.",
+   "page": 60
+  },
+  {
+   "name": "Freire",
+   "contribution": "Warned against helping becoming another form of oppression.",
+   "page": 60
+  },
+  {
+   "name": "Farrelly and Brandsma",
+   "contribution": "Source of some of the empowerment norms.",
+   "page": 60
+  },
+  {
+   "name": "Manthei and Miller",
+   "contribution": "Practical book for clients on working charters.",
+   "page": 61
+  },
+  {
+   "name": "Reis and Brown",
+   "contribution": "Made a short orientation video for clients entering therapy.",
+   "page": 61
+  },
+  {
+   "name": "Tyler, Pargament and Gatz",
+   "contribution": "Resource collaborator role.",
+   "page": 62
+  },
+  {
+   "name": "Howell",
+   "contribution": "Learning increases viable options in living.",
+   "page": 63
+  },
+  {
+   "name": "Driscoll",
+   "contribution": "Helpers too often only listen early; urged earlier intervention.",
+   "page": 63
+  },
+  {
+   "name": "Rennie",
+   "contribution": "Described client deference early in helping.",
+   "page": 63
+  },
+  {
+   "name": "Lin",
+   "contribution": "Taiwanese students' views of help-seeking and self-reliance.",
+   "page": 63
+  },
+  {
+   "name": "Bogg and Roberts",
+   "contribution": "Defined conscientiousness.",
+   "page": 63
+  },
+  {
+   "name": "Baumeister and colleagues",
+   "contribution": "Defined self-regulation; ego depletion; self-control strengthens like a muscle.",
+   "page": 64
+  },
+  {
+   "name": "VanDellen, Hoyle and Miller",
+   "contribution": "Self-control is effortful, conscious self-regulation.",
+   "page": 64
+  },
+  {
+   "name": "VanDellen and Hoyle",
+   "contribution": "Self-control is 'contagious'.",
+   "page": 64
+  },
+  {
+   "name": "Druckerman",
+   "contribution": "French parents indulge children less than American parents.",
+   "page": 64
+  },
+  {
+   "name": "Jacobson",
+   "contribution": "Devised behavioral activation.",
+   "page": 65
+  },
+  {
+   "name": "Hopko et al.",
+   "contribution": "Stated the premise of behavioral activation.",
+   "page": 65
+  },
+  {
+   "name": "Cuijpers, van Straten and Warmerdam",
+   "contribution": "Meta-analysis showing activity scheduling is effective.",
+   "page": 65
+  },
+  {
+   "name": "Bandura",
+   "contribution": "Helping professions under-emphasise personal agency.",
+   "page": 66
+  },
+  {
+   "name": "Angus and Kagan",
+   "contribution": "Empathic validation links empathy and action.",
+   "page": 66
+  },
+  {
+   "name": "Hanna",
+   "contribution": "Model of change stressing clients as active agents.",
+   "page": 67
+  },
+  {
+   "name": "Bohart and Tallman",
+   "contribution": "Clients can solve their own problems and contribute to therapy.",
+   "page": 67
+  },
+  {
+   "name": "Tinsley, Bowman and Barich",
+   "contribution": "Some clients have unrealistic expectations of counselling.",
+   "page": 67
+  },
+  {
+   "name": "Luborsky and associates",
+   "contribution": "Therapist differences matter more than treatment type.",
+   "page": 68
+  },
+  {
+   "name": "Albert Ellis",
+   "contribution": "Inept helpers are ineffective or inefficient.",
+   "page": 68
+  },
+  {
+   "name": "Stewart and Chambless",
+   "contribution": "Little written on how helpers handle failure.",
+   "page": 68
+  }
+ ],
+ "studies": [
+  {
+   "title": "Bachelor et al. (2007): types of client collaboration",
+   "finding": "Found active, mutual and therapist-dependent collaboration; about one third of clients were therapist-dependent.",
+   "page": 39
+  },
+  {
+   "title": "Horvath et al. (2011): alliance fluctuations",
+   "finding": "Ups and downs in the alliance are normal and, if attended to and resolved, are associated with good outcomes.",
+   "page": 40
+  },
+  {
+   "title": "Miller, Duncan et al. (2006): early change",
+   "finding": "Client change occurs early; without subjective improvement in the first few sessions the chance of a positive outcome drops significantly.",
+   "page": 41
+  },
+  {
+   "title": "DeFife and Hilsenroth (2011): good start",
+   "finding": "Three areas: positive expectancies, a proactive client role, collaborative goal formation.",
+   "page": 41
+  },
+  {
+   "title": "Ackerman and Hilsenroth (2003): alliance factors",
+   "finding": "Attributes such as flexibility, honesty, respect, warmth and openness, and techniques such as exploration, reflection and accurate interpretation, strengthen the alliance.",
+   "page": 42
+  },
+  {
+   "title": "Bedi (2006): what clients value",
+   "finding": "Clients valued the setting, helper's self-presentation and body language, support, honesty, validation, guidance, challenge, education, respect for self-responsibility and good session administration.",
+   "page": 42
+  },
+  {
+   "title": "Duff and Bedi (2010): small behaviours",
+   "finding": "Encouraging statements, positive comments and a smiling greeting contribute, perhaps disproportionately, to alliance building.",
+   "page": 43
+  },
+  {
+   "title": "Duncan, Miller and Sparks (2004): forty years of outcome research",
+   "finding": "Strong support for privileging the client's role: clients, not therapists, make therapy work.",
+   "page": 44
+  },
+  {
+   "title": "Farber and Doolin (2011): positive regard",
+   "finding": "Positive regard and warmth are linked to successful client outcomes.",
+   "page": 46
+  },
+  {
+   "title": "Hatcher et al. (2005): possibility of empathy",
+   "finding": "Clients can feel understood by helpers who value empathy and have communication skills, even across differences.",
+   "page": 49
+  },
+  {
+   "title": "Hosking and Walsh / WAVE Trust (2005): empathy and violence",
+   "finding": "Empathy is the single greatest inhibitor of propensity to violence; it fails to develop when carers fail to attune to infants.",
+   "page": 49
+  },
+  {
+   "title": "Zaki, Bolger and Ochsner (2008): empathic accuracy",
+   "finding": "Empathic accuracy depends on how both parties to a conversation communicate.",
+   "page": 50
+  },
+  {
+   "title": "Leung, Maddux, Galinsky and Chiu (2008): culture and creativity",
+   "finding": "Exposure to multiple cultures can in itself enhance creativity.",
+   "page": 51
+  },
+  {
+   "title": "Putnam (2007): diversity and trust",
+   "finding": "The more diverse a community, the less its inhabitants trust anyone (short term); long-term enrichment is not automatic.",
+   "page": 51
+  },
+  {
+   "title": "Corrigan et al. (1980): review of influence research",
+   "finding": "Concluded, after 40 pages, that 'counselors are influential'.",
+   "page": 59
+  },
+  {
+   "title": "Perrin et al. (2010): social influence in therapy",
+   "finding": "Diversity emphasis reduced over-influence; influence became more interactive, reciprocal and collegial.",
+   "page": 59
+  },
+  {
+   "title": "Heinssen, Levendusky and Hunter (1995): charters",
+   "finding": "Some evidence that working charters also work with the seriously mentally ill.",
+   "page": 61
+  },
+  {
+   "title": "Lin (2002): Taiwanese students",
+   "finding": "Saw help-seeking as weakness or shame, preferred informal help, sought help only when serious, avoided strangers.",
+   "page": 63
+  },
+  {
+   "title": "Conscientiousness research (Bogg and Roberts etc.)",
+   "finding": "Conscientious people live longer and healthier lives.",
+   "page": 64
+  },
+  {
+   "title": "Baumeister et al. (2006): ego depletion",
+   "finding": "Self-control is psychologically costly, but regular exercise strengthens it like a muscle.",
+   "page": 64
+  },
+  {
+   "title": "VanDellen, Hoyle and Miller (2012): self-control vs self-regulation",
+   "finding": "Self-regulatory tasks depleted resources only when they required sustained effort.",
+   "page": 64
+  },
+  {
+   "title": "VanDellen and Hoyle (2010): contagion",
+   "finding": "Watching or even thinking about someone with good self-control makes self-control easier.",
+   "page": 64
+  },
+  {
+   "title": "Cuijpers, van Straten and Warmerdam (2007): meta-analysis",
+   "finding": "Activity scheduling is effective for depression and is simple and time-efficient.",
+   "page": 65
+  },
+  {
+   "title": "Luborsky et al. (1986): therapist effects",
+   "finding": "Therapists differ in success rates, outcomes vary within caseloads, and variation reflects the therapist more than the treatment type.",
+   "page": 68
+  }
+ ],
+ "examples": [
+  {
+   "title": "Values-in-use vs espoused values",
+   "text": "A student says health matters most to them (espoused value) but every night chooses reels over sleep (value-in-use). A counsellor would work with the gap between the two.",
+   "supplementary": true
+  },
+  {
+   "title": "Personal culture within one family",
+   "text": "Two cousins raised in the same joint family: one sees asking for help as normal, the other sees it as shameful. Same social culture, different personal cultures; the counsellor cannot assume either view from the family background.",
+   "supplementary": true
+  },
+  {
+   "title": "Discretionary change",
+   "text": "A student told by the college that they will be detained unless attendance reaches 75% faces nondiscretionary change. The same student wanting to 'start going to the gym' faces discretionary change, which is easy to keep postponing.",
+   "supplementary": true
+  },
+  {
+   "title": "Being 'for' the client without taking sides",
+   "text": "A client complains that everyone at work is against him. The counsellor takes his feelings seriously and shows care, but also invites him to look at his own part, instead of simply agreeing that the colleagues are unfair.",
+   "supplementary": true
+  },
+  {
+   "title": "Behavioral activation in practice",
+   "text": "A low-mood client logs daily activities and mood, notices that a short evening walk with a friend lifts mood, and schedules it three times a week, gradually adding harder tasks.",
+   "supplementary": true
+  }
+ ],
+ "checks": [
+  {
+   "q": "Egan's purpose in discussing the helping relationship is to",
+   "options": [
+    "give helpers a clinical feel for a good relationship",
+    "reconcile all research differences",
+    "prove the working alliance superior",
+    "provide a critical review of all research"
+   ],
+   "answer": 0,
+   "explain": "He says the aim is not to reconcile differences but to give a clinical feel (p. 37).",
+   "page": 37,
+   "sectionId": "helping-relationship"
+  },
+  {
+   "q": "According to Egan, the 'right way' of relating to a particular client is",
+   "options": [
+    "set by professional codes",
+    "co-discovered and co-developed by helper and client",
+    "determined by the helper's theory",
+    "the same for all clients"
+   ],
+   "answer": 1,
+   "explain": "There is no one right way; each pair must co-discover it (p. 37).",
+   "page": 37,
+   "sectionId": "helping-relationship"
+  },
+  {
+   "q": "Rogers considered the empathic relationship to be",
+   "options": [
+    "a problem to be resolved",
+    "a form of transference",
+    "a facilitative condition",
+    "irrelevant to outcome"
+   ],
+   "answer": 2,
+   "explain": "Rogers saw it as facilitative, not a problem to be explored (p. 38).",
+   "page": 38,
+   "sectionId": "importance-of-relationship"
+  },
+  {
+   "q": "Which pair is central in psychodynamic views of the relationship?",
+   "options": [
+    "Genuineness and warmth",
+    "Goals and tasks",
+    "Resonance and reception",
+    "Transference and countertransference"
+   ],
+   "answer": 3,
+   "explain": "Psychodynamic approaches centre on transference and countertransference (p. 38).",
+   "page": 38,
+   "sectionId": "importance-of-relationship"
+  },
+  {
+   "q": "Cognitive-behavioural practitioners warn that overstressing the relationship",
+   "options": [
+    "distracts from the real work of managing problems",
+    "causes transference",
+    "makes clients dependent on medication",
+    "violates ethical codes"
+   ],
+   "answer": 0,
+   "explain": "Too much focus on the relationship obscures the goal of helping (p. 39).",
+   "page": 39,
+   "sectionId": "means-to-end"
+  },
+  {
+   "q": "Tursi and Cochran noted that cognitive-behavioural tasks are carried out within a",
+   "options": [
+    "psychoanalytic frame",
+    "person-centred relational framework",
+    "manualised protocol only",
+    "group setting"
+   ],
+   "answer": 1,
+   "explain": "Stated on p. 39.",
+   "page": 39,
+   "sectionId": "means-to-end"
+  },
+  {
+   "q": "Bordin defined the working alliance in terms of agreement on",
+   "options": [
+    "fees and schedules",
+    "diagnosis and prognosis",
+    "goals and tasks",
+    "values and beliefs"
+   ],
+   "answer": 2,
+   "explain": "Bordin: collaboration based on agreement on goals and tasks (p. 39).",
+   "page": 39,
+   "sectionId": "working-alliance"
+  },
+  {
+   "q": "About what proportion of clients were 'therapist-dependent' in Bachelor et al.'s study?",
+   "options": [
+    "One half",
+    "One tenth",
+    "Two thirds",
+    "One third"
+   ],
+   "answer": 3,
+   "explain": "The researchers found a third fall into this category (p. 40).",
+   "page": 40,
+   "sectionId": "working-alliance"
+  },
+  {
+   "q": "According to Miller, Duncan et al., a positive outcome becomes much less likely if",
+   "options": [
+    "the client does not feel improvement in the first few sessions",
+    "the helper is younger than the client",
+    "therapy lasts less than a year",
+    "the client is involuntary"
+   ],
+   "answer": 0,
+   "explain": "Early subjective improvement is critical (p. 41).",
+   "page": 41,
+   "sectionId": "good-start"
+  },
+  {
+   "q": "'Normalizing' Karl's problems is a way of",
+   "options": [
+    "setting procedural limits",
+    "building positive expectancies",
+    "challenging blind spots",
+    "handling ruptures"
+   ],
+   "answer": 1,
+   "explain": "It is listed under helping clients develop positive expectancies (p. 41).",
+   "page": 41,
+   "sectionId": "good-start"
+  },
+  {
+   "q": "Bedi argued that researchers have neglected",
+   "options": [
+    "therapists' views",
+    "manualised treatments",
+    "clients' views of the relationship",
+    "cultural factors"
+   ],
+   "answer": 2,
+   "explain": "Too much attention to therapist views, too little to client views (p. 42).",
+   "page": 42,
+   "sectionId": "client-point-of-view"
+  },
+  {
+   "q": "Duff and Bedi found that which behaviour can contribute disproportionately to the alliance?",
+   "options": [
+    "Accurate interpretation of dreams",
+    "Long silences",
+    "Detailed diagnosis",
+    "Greeting the client with a smile"
+   ],
+   "answer": 3,
+   "explain": "Small strengths-fostering behaviours like a smile (p. 43).",
+   "page": 43,
+   "sectionId": "client-point-of-view"
+  },
+  {
+   "q": "Mallinckrodt describes the relationship as a vehicle for",
+   "options": [
+    "social-emotional relearning",
+    "transference analysis",
+    "diagnosis",
+    "advocacy"
+   ],
+   "answer": 0,
+   "explain": "Stated on p. 43.",
+   "page": 43,
+   "sectionId": "forum-for-relearning"
+  },
+  {
+   "q": "In the relearning view, a shy client speaking up in session is an example of",
+   "options": [
+    "resistance",
+    "experimenting with new behaviour in a safe setting",
+    "a rupture",
+    "therapist-dependent collaboration"
+   ],
+   "answer": 1,
+   "explain": "Clients can experiment within the safety of the relationship (p. 43).",
+   "page": 43,
+   "sectionId": "forum-for-relearning"
+  },
+  {
+   "q": "Egan calls the idea of one perfect relationship for all clients",
+   "options": [
+    "an ethical requirement",
+    "Rogers's main claim",
+    "a myth",
+    "an empirical finding"
+   ],
+   "answer": 2,
+   "explain": "Stated on p. 43.",
+   "page": 43,
+   "sectionId": "relationship-flexibility"
+  },
+  {
+   "q": "Eubanks-Carter, Muran and Safran call breakdowns in the relationship",
+   "options": [
+    "impasses of transference",
+    "black boxes",
+    "nudges",
+    "ruptures"
+   ],
+   "answer": 3,
+   "explain": "They call them ruptures that can become opportunities (p. 44).",
+   "page": 44,
+   "sectionId": "relationship-flexibility"
+  },
+  {
+   "q": "Values that a person holds as ideals are called",
+   "options": [
+    "espoused values",
+    "values-in-use",
+    "norms",
+    "mental maps"
+   ],
+   "answer": 0,
+   "explain": "Argyris distinguishes espoused values from values-in-use (p. 45).",
+   "page": 45,
+   "sectionId": "values-drive"
+  },
+  {
+   "q": "Professional ethical codes, according to Egan,",
+   "options": [
+    "eliminate all uncertainty",
+    "reduce but do not eliminate ethical uncertainty",
+    "are irrelevant to values",
+    "replace personal values"
+   ],
+   "answer": 1,
+   "explain": "Codes dissipate many uncertainties but not all (p. 45).",
+   "page": 45,
+   "sectionId": "values-drive"
+  },
+  {
+   "q": "Helpers who lack an explicit set of values",
+   "options": [
+    "have no values at all",
+    "always follow codes",
+    "work from an implicit 'default' set",
+    "become more client-centred"
+   ],
+   "answer": 2,
+   "explain": "Stated on p. 45.",
+   "page": 45,
+   "sectionId": "values-tools"
+  },
+  {
+   "q": "Which value does Egan call the foundation value?",
+   "options": [
+    "Empathy",
+    "Bias for action",
+    "Self-responsibility",
+    "Respect"
+   ],
+   "answer": 3,
+   "explain": "Respect is the foundation value (p. 46).",
+   "page": 46,
+   "sectionId": "values-tools"
+  },
+  {
+   "q": "The Latin root of 'respect' involves the idea of",
+   "options": [
+    "seeing or viewing",
+    "caring",
+    "obeying",
+    "trusting"
+   ],
+   "answer": 0,
+   "explain": "Stated on p. 46.",
+   "page": 46,
+   "sectionId": "respect"
+  },
+  {
+   "q": "In the arrogant-client example, the second counsellor",
+   "options": [
+    "confronted the client's selfishness",
+    "neither judged nor condoned",
+    "agreed with the client",
+    "referred the client"
+   ],
+   "answer": 1,
+   "explain": "She tried to understand without judging or condoning (p. 47).",
+   "page": 47,
+   "sectionId": "respect"
+  },
+  {
+   "q": "Gelso's 'real relationship' refers to",
+   "options": [
+    "the contract between client and helper",
+    "the transference relationship",
+    "the degree of genuineness and fitting perception between people",
+    "agreement on goals"
+   ],
+   "answer": 2,
+   "explain": "Gelso's definition (p. 47).",
+   "page": 47,
+   "sectionId": "behaviors-respect"
+  },
+  {
+   "q": "Being 'for' the client means",
+   "options": [
+    "taking the client's side",
+    "acting as the client's advocate",
+    "avoiding all challenge",
+    "taking the client's views seriously even when they need challenge"
+   ],
+   "answer": 3,
+   "explain": "Being for is not taking sides (p. 47).",
+   "page": 47,
+   "sectionId": "behaviors-respect"
+  },
+  {
+   "q": "Barrett-Lennard's three phases of empathy are",
+   "options": [
+    "resonance, expressed and received empathy",
+    "sensing, feeling and acting",
+    "trait, state and process",
+    "attending, listening and responding"
+   ],
+   "answer": 0,
+   "explain": "Stated on p. 48.",
+   "page": 48,
+   "sectionId": "empathy"
+  },
+  {
+   "q": "In this chapter, Egan treats empathy primarily as",
+   "options": [
+    "a personality trait",
+    "a basic value",
+    "a communication technique",
+    "a diagnostic tool"
+   ],
+   "answer": 1,
+   "explain": "Chapter 2 treats it as a value; Chapter 4 as a skill (p. 48).",
+   "page": 48,
+   "sectionId": "empathy"
+  },
+  {
+   "q": "Goleman calls empathy the individual's",
+   "options": [
+    "psychological air",
+    "human echo",
+    "social radar",
+    "psychological nutrient"
+   ],
+   "answer": 2,
+   "explain": "Goleman: 'social radar' (p. 49).",
+   "page": 49,
+   "sectionId": "overview-empathy"
+  },
+  {
+   "q": "The WAVE Trust research found empathy fails to develop when",
+   "options": [
+    "children watch too little TV",
+    "schools ignore it",
+    "parents are too strict",
+    "carers fail to attune with their infants"
+   ],
+   "answer": 3,
+   "explain": "Hosking and Walsh (p. 49).",
+   "page": 49,
+   "sectionId": "overview-empathy"
+  },
+  {
+   "q": "Zaki, Bolger and Ochsner showed that empathic accuracy depends on",
+   "options": [
+    "how both parties communicate",
+    "the helper's personality only",
+    "the client's diagnosis",
+    "the length of therapy"
+   ],
+   "answer": 0,
+   "explain": "Stated on p. 50.",
+   "page": 50,
+   "sectionId": "two-way-street"
+  },
+  {
+   "q": "In Clark's two-way empathy, regarding the client's cultural uniqueness the helper is",
+   "options": [
+    "an expert",
+    "a learner",
+    "a judge",
+    "an advocate"
+   ],
+   "answer": 1,
+   "explain": "The helper is not an expert but a learner (p. 50).",
+   "page": 50,
+   "sectionId": "two-way-street"
+  },
+  {
+   "q": "Which is NOT one of the three commitments of empathy as a value?",
+   "options": [
+    "Understanding the client's point of view",
+    "Understanding the client in context",
+    "Agreeing with the client's view",
+    "Understanding dissonance between view and reality"
+   ],
+   "answer": 2,
+   "explain": "The three are point of view, context and dissonance (pp. 50-51).",
+   "page": 51,
+   "sectionId": "radical-commitment"
+  },
+  {
+   "q": "Egan says empathy is",
+   "options": [
+    "purely passive listening",
+    "only a feeling",
+    "a trait that cannot be learned",
+    "active, not passive"
+   ],
+   "answer": 3,
+   "explain": "There is nothing passive about empathy (p. 51).",
+   "page": 51,
+   "sectionId": "radical-commitment"
+  },
+  {
+   "q": "Putnam found that in more diverse communities, in the short term,",
+   "options": [
+    "people trust others less",
+    "creativity drops",
+    "crime falls",
+    "trust rises"
+   ],
+   "answer": 0,
+   "explain": "Stated on p. 51.",
+   "page": 51,
+   "sectionId": "diversity"
+  },
+  {
+   "q": "According to Egan, the focus on diversity is ultimately about",
+   "options": [
+    "culture",
+    "clients",
+    "politics",
+    "theory"
+   ],
+   "answer": 1,
+   "explain": "'It's about clients' (p. 51).",
+   "page": 51,
+   "sectionId": "diversity"
+  },
+  {
+   "q": "In Isaiah's case, 'Don't trust people. You'll get hurt' is an example of a",
+   "options": [
+    "value",
+    "belief",
+    "norm",
+    "pattern of behaviour"
+   ],
+   "answer": 2,
+   "explain": "Norms are the dos and don'ts generated by beliefs and values (p. 52).",
+   "page": 52,
+   "sectionId": "personal-culture"
+  },
+  {
+   "q": "Guisinger and Blatt say Western psychologies have emphasised",
+   "options": [
+    "relatedness over autonomy",
+    "spirituality",
+    "family loyalty",
+    "self-development over relatedness"
+   ],
+   "answer": 3,
+   "explain": "Stated on p. 53.",
+   "page": 53,
+   "sectionId": "personal-culture"
+  },
+  {
+   "q": "Hays's ADDRESSING framework helps therapists",
+   "options": [
+    "address diversity multidimensionally",
+    "diagnose disorders",
+    "write working charters",
+    "measure conscientiousness"
+   ],
+   "answer": 0,
+   "explain": "Stated on p. 54.",
+   "page": 54,
+   "sectionId": "helper-competencies"
+  },
+  {
+   "q": "According to social psychology, as cited by Egan, differences within groups are",
+   "options": [
+    "fewer than between groups",
+    "as many as, or more than, between groups",
+    "irrelevant",
+    "always cultural"
+   ],
+   "answer": 1,
+   "explain": "Weinrach and Thomas (pp. 55-56).",
+   "page": 55,
+   "sectionId": "helper-competencies"
+  },
+  {
+   "q": "Which is the final stage of the Cultural Competence Continuum?",
+   "options": [
+    "Cultural competence",
+    "Cultural blindness",
+    "Cultural proficiency",
+    "Cultural pre-competence"
+   ],
+   "answer": 2,
+   "explain": "The six stages end with proficiency (p. 56).",
+   "page": 56,
+   "sectionId": "multicultural-competencies"
+  },
+  {
+   "q": "Egan's view of the 13-step 'cultural audit' is that it is",
+   "options": [
+    "essential",
+    "too brief",
+    "the best starting point",
+    "a step too far"
+   ],
+   "answer": 3,
+   "explain": "Stated on p. 58.",
+   "page": 58,
+   "sectionId": "multicultural-competencies"
+  },
+  {
+   "q": "Egan says helpers ___ clients.",
+   "options": [
+    "do not empower but help them use their own power",
+    "empower",
+    "should direct",
+    "must protect"
+   ],
+   "answer": 0,
+   "explain": "Helpers help clients discover and use their power (p. 58).",
+   "page": 58,
+   "sectionId": "self-responsibility"
+  },
+  {
+   "q": "Which is NOT listed as an opposite of empowerment?",
+   "options": [
+    "Dependency",
+    "Collaboration",
+    "Deference",
+    "Oppression"
+   ],
+   "answer": 1,
+   "explain": "Opposites: dependency, deference, oppression (p. 58).",
+   "page": 58,
+   "sectionId": "self-responsibility"
+  },
+  {
+   "q": "Corrigan and associates' review concluded that",
+   "options": [
+    "influence is unethical",
+    "clients cannot be influenced",
+    "counselors are influential",
+    "influence is rare"
+   ],
+   "answer": 2,
+   "explain": "Stated on p. 59.",
+   "page": 59,
+   "sectionId": "social-influence"
+  },
+  {
+   "q": "Thaler and Sunstein argue that leaving clients completely to their own devices is",
+   "options": [
+    "ideal",
+    "required by ethics",
+    "the client-centred goal",
+    "impossible"
+   ],
+   "answer": 3,
+   "explain": "Nudging is unavoidable (p. 60).",
+   "page": 60,
+   "sectionId": "social-influence"
+  },
+  {
+   "q": "Egan prefers the term 'working charter' to 'contract' because it",
+   "options": [
+    "avoids legal implications",
+    "is shorter",
+    "is required by law",
+    "excludes values"
+   ],
+   "answer": 0,
+   "explain": "Stated on p. 61.",
+   "page": 61,
+   "sectionId": "norms-empowerment"
+  },
+  {
+   "q": "The 'resource collaborator role' was proposed by",
+   "options": [
+    "Farrelly and Brandsma",
+    "Tyler, Pargament and Gatz",
+    "Mee-Lee et al.",
+    "Manthei and Miller"
+   ],
+   "answer": 1,
+   "explain": "Stated on p. 62.",
+   "page": 62,
+   "sectionId": "norms-empowerment"
+  },
+  {
+   "q": "Bogg and Roberts' definition of conscientiousness includes",
+   "options": [
+    "seeking novelty",
+    "emotional instability",
+    "delaying gratification",
+    "sociability"
+   ],
+   "answer": 2,
+   "explain": "Stated on p. 63.",
+   "page": 63,
+   "sectionId": "conscientiousness"
+  },
+  {
+   "q": "Research shows conscientious people",
+   "options": [
+    "are always dull",
+    "are less creative",
+    "seek therapy more",
+    "live longer and healthier lives"
+   ],
+   "answer": 3,
+   "explain": "Stated on p. 64.",
+   "page": 64,
+   "sectionId": "conscientiousness"
+  },
+  {
+   "q": "'Ego depletion' refers to",
+   "options": [
+    "the psychological cost of self-control efforts",
+    "loss of identity",
+    "Freud's ego defences",
+    "burnout in helpers"
+   ],
+   "answer": 0,
+   "explain": "Baumeister et al. (p. 64).",
+   "page": 64,
+   "sectionId": "self-regulation"
+  },
+  {
+   "q": "VanDellen and Hoyle found that self-control can be",
+   "options": [
+    "inherited only",
+    "contagious",
+    "lost permanently",
+    "taught only to children"
+   ],
+   "answer": 1,
+   "explain": "Stated on p. 64.",
+   "page": 64,
+   "sectionId": "self-regulation"
+  },
+  {
+   "q": "Behavioral activation targets",
+   "options": [
+    "transference",
+    "cognitive distortions only",
+    "inertia and avoidance",
+    "family conflict"
+   ],
+   "answer": 2,
+   "explain": "Stated on p. 65.",
+   "page": 65,
+   "sectionId": "bias-for-action"
+  },
+  {
+   "q": "Angus and Kagan's 'empathic validation' encourages",
+   "options": [
+    "transference",
+    "dependency",
+    "insight into the past",
+    "the client's sense of personal agency"
+   ],
+   "answer": 3,
+   "explain": "Stated on p. 66.",
+   "page": 66,
+   "sectionId": "bias-for-action"
+  },
+  {
+   "q": "A court requiring a man to stop drinking to get visiting rights is",
+   "options": [
+    "nondiscretionary change",
+    "discretionary change",
+    "behavioral activation",
+    "a working charter"
+   ],
+   "answer": 0,
+   "explain": "Mandated change is nondiscretionary (p. 66).",
+   "page": 66,
+   "sectionId": "discretionary-change"
+  },
+  {
+   "q": "Egan says discretionary change is central to",
+   "options": [
+    "excellence",
+    "mediocrity",
+    "empathy",
+    "diversity"
+   ],
+   "answer": 1,
+   "explain": "Stated on p. 66.",
+   "page": 66,
+   "sectionId": "discretionary-change"
+  },
+  {
+   "q": "The client who told Egan's friend 'we're not getting anywhere' shows the danger of",
+   "options": [
+    "too much challenge",
+    "behavioral activation",
+    "getting lost in relationship building",
+    "cultural blindness"
+   ],
+   "answer": 2,
+   "explain": "He forgot her everyday concerns (pp. 66-67).",
+   "page": 67,
+   "sectionId": "real-life-focus"
+  },
+  {
+   "q": "Hanna argues the behaviourist view of humans",
+   "options": [
+    "stresses agency too much",
+    "is ideal for difficult clients",
+    "ignores behaviour",
+    "overemphasises mechanistic and deterministic factors"
+   ],
+   "answer": 3,
+   "explain": "Stated on p. 67.",
+   "page": 67,
+   "sectionId": "real-life-focus"
+  },
+  {
+   "q": "Egan says the helping relationship can end up as",
+   "options": [
+    "a conspiracy to do nothing",
+    "a working charter",
+    "a cultural audit",
+    "a nudge"
+   ],
+   "answer": 0,
+   "explain": "Stated on p. 67.",
+   "page": 67,
+   "sectionId": "shadow-side-flaws"
+  },
+  {
+   "q": "Egan's advice about human flaws is to be",
+   "options": [
+    "cynical",
+    "neither naive nor cynical",
+    "naive",
+    "silent"
+   ],
+   "answer": 1,
+   "explain": "Stated on p. 68.",
+   "page": 68,
+   "sectionId": "shadow-side-flaws"
+  },
+  {
+   "q": "Luborsky et al. found that variations in success rates have more to do with",
+   "options": [
+    "the type of treatment",
+    "the client's age",
+    "the therapist",
+    "session length"
+   ],
+   "answer": 2,
+   "explain": "Stated on p. 68.",
+   "page": 68,
+   "sectionId": "incompetent-helpers"
+  },
+  {
+   "q": "Albert Ellis said inept helpers are either",
+   "options": [
+    "unethical or untrained",
+    "directive or passive",
+    "young or old",
+    "ineffective or inefficient"
+   ],
+   "answer": 3,
+   "explain": "Stated on p. 68.",
+   "page": 68,
+   "sectionId": "incompetent-helpers"
+  }
+ ],
+ "practice": [
+  {
+   "q": "What is the working alliance?",
+   "marks": 2,
+   "pages": [
+    39,
+    39
+   ],
+   "answer": "The working alliance is the collaborative partnership between client and helper. Norcross describes it as the quality and strength of their collaboration, and Bordin defines it as collaboration based on agreement on the goals and tasks of counselling. Egan uses it to combine the value of the relationship in itself with its use as a means to outcomes."
+  },
+  {
+   "q": "Distinguish espoused values from values-in-use.",
+   "marks": 2,
+   "pages": [
+    45,
+    45
+   ],
+   "answer": "Drawing on Argyris, espoused values are the ideals a person says they hold, while values-in-use are the behavioural maps they actually use, more or less consistently, to make decisions and guide behaviour. There is often a gap between the two in both clients and helpers, and some values-in-use lead to life-limiting outcomes."
+  },
+  {
+   "q": "What is the ADDRESSING framework?",
+   "marks": 2,
+   "pages": [
+    54,
+    54
+   ],
+   "answer": "Proposed by Hays, ADDRESSING is an acronym for Age, Developmental and acquired Disabilities, Religion, Ethnicity, Socioeconomic status, Sexual orientation, Indigenous heritage and Gender. It helps therapists recognise, understand and address diversity and multiculturalism in a multidimensional way."
+  },
+  {
+   "q": "Differentiate discretionary and nondiscretionary change.",
+   "marks": 2,
+   "pages": [
+    66,
+    66
+   ],
+   "answer": "Nondiscretionary change is mandated, for example a court refusing visiting rights unless a man stops drinking. Discretionary change is optional: 'if you want a better relationship, then you must change'. Egan notes that discretionary change is often avoided, which makes it central to mediocrity."
+  },
+  {
+   "q": "What is behavioral activation?",
+   "marks": 2,
+   "pages": [
+    65,
+    65
+   ],
+   "answer": "Behavioral activation, or activity scheduling, is a treatment for depression devised by Jacobson. It targets inertia and avoidance by helping clients monitor mood and activity, schedule rewarding activities and move from easier to harder tasks. Its premise is that more activity and contact with positive consequences reduce depression."
+  },
+  {
+   "q": "Explain the three types of client collaboration identified by Bachelor and colleagues and the guiding principles for alliance behaviour.",
+   "marks": 5,
+   "pages": [
+    39,
+    41
+   ],
+   "answer": "Egan sees helping as a two-person team effort in which both helper and client share responsibility for outcomes. Bachelor, Laverdiere, Gamache and Bordeleau examined what collaboration means to clients and found three types. Active clients see themselves as playing a significant role in whether therapy moves forward. Mutual clients acknowledge their own role but expect the therapist to play an equally active role. Therapist-dependent clients see collaboration as the therapist's beneficial interventions; about a third of clients were of this type, and Egan suggests this is really cooperation rather than collaboration.\n\nBecause the alliance is an abstraction, it becomes real through behaviour. Egan's guiding principles are: alliances emerge from collaborative work rather than being built directly; helpers should track clients' evolving needs and preferences and adjust (Laura does not push Karl to accept surveys); focus on clients' resources and strengths from the start; expect helper and client to view the relationship differently, especially early; accept ups and downs as normal, since Horvath and colleagues link resolved fluctuations with good outcomes; and expect and handle client negativity without taking it personally, as when Karl tells Laura she knows nothing about war. Together these principles turn the idea of collaboration into everyday practice."
+  },
+  {
+   "q": "Discuss the behaviours that show respect and disrespect towards clients.",
+   "marks": 5,
+   "pages": [
+    46,
+    48
+   ],
+   "answer": "Egan calls respect the foundation value of helping. Its Latin root refers to seeing, and it is a way of viewing others that must show in behaviour; Rogers called it positive regard with nonpossessive warmth.\n\nDisrespect: first, doing harm. 'Do no harm' is the first rule of helpers, yet unprincipled or incompetent helpers harm clients, since helping is for better or for worse; a non-manipulative, non-exploitative stance is essential. Second, rushing to judgement. Helpers should help clients explore the consequences of their values rather than condemn them; in Egan's example, the respectful counsellor reflects an arrogant client's priority on frankness without judging or condoning.\n\nRespect: become competent and committed, since there is no place for the caring incompetent; be genuine, as in Gelso's real relationship, avoiding phoniness and hiding behind the professional role; make it clear you are 'for' the client, caring in a tough-minded, non-sentimental way without simply taking sides; assume the client's goodwill, treating reluctance as something to understand rather than ill will; and keep the client's agenda in focus. Egan's three cautionary cases, a helper absorbed in theories of depression, one who dismissed grief over a pet, and one more interested in politics than the client, show what happens when helpers pursue their own agenda."
+  },
+  {
+   "q": "Explain empathy as a 'two-way street' with reference to Clark's principles.",
+   "marks": 5,
+   "pages": [
+    50,
+    50
+   ],
+   "answer": "Traditional empathy pictures one helper trying to understand one client. Pedersen, Crethar and Carlson argue that empathy at its best is relationship-oriented, and Zaki, Bolger and Ochsner showed that empathic accuracy depends on how both people communicate. Pedersen calls this inclusive cultural empathy.\n\nJanet Clark similarly reconceptualised empathy, defining culture broadly as the traits that make individuals different and using ethnographic ideas to focus on each client's unique frame of reference rather than a group's. Her principles contrast one-way individualistic empathy with two-way relationship empathy: the client's reality is knowable but the helper's understanding is always partial and fallible; helpers must attune to the cultural meaning of words, not just feelings; empathy covers key contexts of the client's life, including social location, their sociopolitical environment and status; regarding cultural uniqueness, the helper is a learner, not an expert; the client's inductive self-understanding matters more than the helper's theory-based deductions; empathy is produced mutually through dialogue; and self-awareness of bias is not enough without ongoing self-reflexivity about fears, mistakes and breakthroughs in sessions. The upshot is that understanding is co-created, not handed over by the helper."
+  },
+  {
+   "q": "Describe the working charter and why helping should not be a 'black box'.",
+   "marks": 5,
+   "pages": [
+    61,
+    61
+   ],
+   "answer": "Many relationships, such as marriage and friendship, are governed by explicit or implicit contracts. If helping is collaborative, both parties must understand their responsibilities. Egan prefers 'working charter' to 'contract' because it avoids legal overtones and suggests a cooperative venture.\n\nThe charter should cover eight elements: the nature and goals of helping; an overview of the approach and techniques; the flexibility built into the process; how the process will help clients reach their goals; relevant information about the helper; how the relationship is structured and each party's responsibilities; the values driving helping; and procedural issues such as session place and length and rules about contact between sessions. Manthei and Miller wrote a practical book on charters for clients, and there is some evidence they help even seriously mentally ill clients.\n\nHelping should not be a black box because clients have a right to know what they are getting into. Helpers can explain the process, give a simple pamphlet, or use a short orientation video like that of Reis and Brown. Details can be shared over several sessions so distressed clients are not overwhelmed; clients should be told as much as they can reasonably assimilate. Sharing the process is itself an empowerment norm."
+  },
+  {
+   "q": "Write a note on self-regulation and self-control as part of self-responsibility.",
+   "marks": 5,
+   "pages": [
+    63,
+    64
+   ],
+   "answer": "Egan treats self-regulation, or self-control, as a key part of self-responsibility. Baumeister and colleagues define self-regulation as an adaptive, distinctively human trait that lets people override and change their responses to meet social and other standards. Related is conscientiousness, which Bogg and Roberts define as the tendency to control impulses, be task- and goal-oriented, plan, delay gratification and follow rules; conscientious people live longer and healthier lives.\n\nLack of self-control often lies at the heart of clients' problems. Druckerman controversially suggests French children behave better because they are indulged less, and Egan notes that self-indulgence and self-absorption (McKenzie and Hoyle) can be damaging. However, self-control can be learned. Baumeister found self-control efforts are costly (ego depletion) but regular practice strengthens self-regulation like a muscle. VanDellen, Hoyle and Miller treat self-control as the effortful, conscious subset of self-regulation, which depletes resources only when sustained effort is needed. VanDellen and Hoyle found self-control is contagious: watching, or even thinking about, someone with good self-control helps.\n\nFor helpers, the implication is that helping clients find ways to stay in control is more useful than just pointing out bad habits, so that clients can get into and stay in the driver's seat."
+  },
+  {
+   "q": "Discuss the different views of the helping relationship. How does the working alliance integrate them, and how can the relationship itself be a vehicle for change?",
+   "marks": 10,
+   "pages": [
+    37,
+    44
+   ],
+   "answer": "Introduction\nEveryone in counselling agrees the helper-client relationship matters, but Egan shows they differ on how it should be understood and used. Some stress the relationship itself, others the work done through it, and the vocabulary ranges from 'relationship' to 'working alliance'. Egan does not try to settle the debate; he wants helpers to gain a clinical feel for a good relationship, remembering that each helper and client must co-discover the right way for their encounter.\n\nThe relationship in itself\nEach party brings personality traits and a personal culture that shape how they relate, and Norcross reminds us that the relationship is broader than the alliance. Carl Rogers, representing the humanistic-experiential approach, held that unconditional positive regard, accurate empathy and genuineness, offered by the helper and perceived by the client, are necessary and often sufficient for change. For Rogers the relationship is a facilitative condition. Psychodynamic approaches instead centre on transference and countertransference, unconscious dynamics rooted in the past that must be worked through.\n\nThe relationship as a means to an end\nCognitive and behavioural practitioners value the relationship because it enables the work. Tursi and Cochran note that cognitive-behavioural tasks occur within a person-centred relational frame. Overstressing the relationship distracts from the real goal of managing problems and developing opportunities, though a poor relationship will still block success.\n\nThe working alliance as integration\nNorcross defines the alliance as the quality and strength of collaboration; Bordin as collaboration based on agreement on goals and tasks; Horvath and colleagues as an emergent partnership. It joins the empathic relationship with the outcome focus. Helping becomes a two-person team effort in which helpers do not cure clients and both share responsibility. Bachelor and colleagues found active, mutual and therapist-dependent collaboration. Egan's alliance principles include letting alliances emerge, tracking client needs, focusing on resources, expecting differing views and ups and downs, and handling client negativity. Research by Bedi and by Ackerman and Hilsenroth shows clients value warmth, honesty, validation and even a smiling greeting. Getting off to a good start matters because early change predicts outcome (Miller, Duncan et al.).\n\nThe relationship as a vehicle for change\nMallinckrodt describes the relationship as a forum for social-emotional relearning. Helpers model attitudes clients can adopt: a client who feels cared for may learn to care for himself. In the safety of sessions, shy clients speak up and aggressive ones back off, and they transfer this learning to outside relationships. Flexibility is essential: one perfect relationship for all is a myth, and helpers tailor warmth and style (A. A. Lazarus; Mahrer). Duncan, Miller and Sparks go further, arguing clients make therapy work and helpers should follow their lead. Ruptures (Eubanks-Carter, Muran and Safran) can become opportunities for growth.\n\nConclusion\nEgan's position is that the relationship is both valuable in itself and a means to life-enhancing outcomes. The working alliance captures both, and through modelling, safe experimentation and repair of ruptures, the relationship becomes a powerful vehicle for change, provided it stays tailored to each client and focused on real-life results."
+  },
+  {
+   "q": "Explain the five values that drive the helping relationship according to Egan.",
+   "marks": 10,
+   "pages": [
+    44,
+    67
+   ],
+   "answer": "Introduction\nEgan argues that the best way to characterise a helping relationship is through the values that drive it; the relationship is the vehicle through which values come alive. Values-in-use are practical tools for decisions, and helpers without explicit values fall back on an implicit default set. Drawing on the tradition of the helping professions, he proposes five values, while urging helpers to debate them and make them their own.\n\n1. Respect: the foundation value\nRespect, from a root meaning 'seeing', is a way of viewing clients that must show in behaviour; Rogers called it positive regard. Helpers show disrespect by doing harm or rushing to judgement. They show respect by being competent and committed, genuine rather than phony, clearly 'for' the client in a tough-minded way, assuming the client's goodwill, and keeping the client's agenda in focus.\n\n2. Empathy: the primary orientation value\nEmpathy is understanding clients from their point of view, in context, and communicating this when helpful. It has been seen as a trait, a state and a staged process (Barrett-Lennard). Kohut, Covey and Goleman describe its importance, and WAVE Trust research found empathy is the greatest inhibitor of violence. Pedersen and Clark present it as a two-way, culturally inclusive process. As a value it is a radical commitment to understand the client's viewpoint, the client's context and the dissonance between viewpoint and reality.\n\n3. Proactive appreciation of diversity\nDiversity is part of respect and empathy, and its essence is client factors: 'it's about clients'. Culture is shared beliefs and values producing norms and behaviour patterns; personal culture is 'the way I live my life'. Helpers need diversity competence: understanding diversity (Hays's ADDRESSING), challenging blind spots, tailoring interventions and working with individuals, since differences within groups can exceed those between groups. The Cultural Competence Continuum and Egan's adapted competencies guide practice.\n\n4. Self-responsibility: the empowerment value\nHelpers do not empower clients; they help clients find and use their own power. Since helping is a social-influence process (Strong; Corrigan), helpers must influence without taking away responsibility. Norms include believing clients can change, not seeing them as victims or fragile, sharing the process through a working charter, treating sessions as work, acting as a coach, accepting two-way influence and focusing on learning. Conscientiousness and self-regulation, which can be strengthened like a muscle, support self-responsibility.\n\n5. A bias for action: the outcome value\nOutcomes require action. Behavioral activation shows the power of moving clients beyond inertia and avoidance, and Egan wants this in all problem management. Clients often treat change as discretionary, so helpers must actively raise the probability that clients will act, and keep the focus on real life rather than the sessions alone.\n\nConclusion\nTogether these values form a coherent package: respect as foundation, empathy as orientation, diversity as openness to the world as it is, self-responsibility as empowerment and action as the route to outcomes. Egan treats them as a starting point that helpers must examine and make their own."
+  },
+  {
+   "q": "Critically discuss Egan's view of diversity and multicultural competence in counselling.",
+   "marks": 10,
+   "pages": [
+    51,
+    58
+   ],
+   "answer": "Introduction\nEgan treats proactive appreciation of diversity as a core helping value, part of respect and empathy and linked to empowerment. His central message is that the diversity focus highlights client factors as the key to successful therapy: it is not about culture as such, but about clients.\n\nUpsides and downsides\nThe literature has exploded. Its benefits are that it forces helpers to confront blind spots and that exposure to many cultures may enhance creativity (Leung and colleagues). Its risks are that multiculturalism can become a fad and an industry that diverts attention from individual clients, and Putnam found diverse communities trust less in the short term; mere contact is not enough.\n\nCulture and personal culture\nBronfenbrenner called culture the most controlling system. Egan defines it as shared beliefs and values producing shared norms and behaviour patterns, and applies it to individuals as personal culture. Isaiah's beliefs (the world is heartless), values (security), norms (do not trust) and behaviour (staying a loner) illustrate this. People personalise group culture (Massimini and Delle Fave), so they are never carbon copies. The case of Sue, Patrick and their counsellor Antonio, together with Guisinger and Blatt's contrast between self-development and relatedness, shows how cultural values can clash in counselling.\n\nHelper competencies\nDiversity competence is the knowledge and skill to work with anyone significantly different. Day lists awareness, knowledge and skills, though no package is universally agreed. Egan's guidelines are: understand diversity contextually (Hays's ADDRESSING); challenge blind spots; tailor interventions, for example around self-disclosure; and work with individuals. Satel says therapy is about individuals, not groups, and there are as many differences within groups as between them. The Cultural Competence Continuum runs from destructiveness to proficiency, and Egan's adapted list covers self-awareness, sociopolitical influences, limits of Western methods, culture-specific versus universal issues and non-biased treatment planning.\n\nCritical evaluation\nThe strength of Egan's view is its balance. He accepts the importance of culture but warns that category traits can destroy understanding as well as aid it and that, pushed too far, diversity principles would make helping anyone impossible. He openly states his bias toward personal culture and rejects over-complex tools such as the 60-question cultural audit, siding with Stuart that no one has a pure culture and it is never safe to infer orientation from group membership. Critics might say this emphasis on the individual could underplay structural factors, though Egan does list sociopolitical influences such as oppression and marginalisation among the competencies. His admission that multiculturalism solves some problems and raises others is honest rather than dismissive.\n\nConclusion\nFor Egan, diversity competence means understanding groups well enough to adapt to the individual, being aware of one's own biases, and engaging each client's personal culture. In his words, understand the client in any way you can, but work with the individual."
+  },
+  {
+   "q": "Discuss helping as a social-influence process and the norms that support client empowerment.",
+   "marks": 10,
+   "pages": [
+    58,
+    63
+   ],
+   "answer": "Introduction\nEgan frames self-responsibility as an empowerment-focused value. Client responsibility assumes clients have the power to do what is right for themselves and others. Helpers do not hand out power; they help clients discover and use their own. Because clients experience helpers as powerful and all helpers influence clients, the issue of social influence must be faced.\n\nHelping as social influence\nInfluence is everywhere; Smith and Mackie count it among basic principles of behaviour, and Crano calls it the hallmark of social psychology. Rashotte separates social influence, real change through interaction with people seen as similar, desirable or expert, from conformity, power and authority. Clients dislike influence experienced as power because it can become manipulation (McCarthy and Frieze). Strong's article on counselling as interpersonal influence sparked research, and Corrigan's review concluded simply that counsellors are influential. Perrin and colleagues note that the diversity movement has shifted influence toward reciprocal, collegial forms. Egan's point is that helpers can influence without robbing clients of responsibility.\n\nThe influence continuum\nInfluence ranges from directing clients' lives to leaving them entirely alone. Thaler and Sunstein argue the latter is impossible because nudging is unavoidable. Most helping lies between, at 'helping clients make and act on their own decisions'. Preventing suicide sits near the controlling end; passively accepting avoidance near the other. Hare-Mustin and Marecek describe the tension between self-determination and the helper's duty to help.\n\nNorms for empowerment\nFreire warned that helping must not become another form of oppression. Egan's norms, partly from Farrelly and Brandsma, are:\n- Start from the premise that clients can change if they choose, helping them free and realistically assess their resources.\n- Do not see clients as victims; work with whatever freedom remains.\n- Do not be fooled by appearances, as the dismissed trainee who became a star shows.\n- Share the helping process through a working charter covering goals, approach, roles, values and procedures, so helping is not a black box.\n- Help clients see sessions as work sessions.\n- Act as a coach or consultant (Mee-Lee and colleagues) who influences while leaving decisions with the client.\n- Accept helping as two-way influence, as in Tyler, Pargament and Gatz's resource collaborator role and Timothy learning from Wei-Lian.\n- Focus on learning: Howell links learning to increasing viable options.\n- Do not see clients as overly fragile; client deference (Rennie) is not fragility, and Driscoll urges earlier challenge.\nCultural differences matter, as Lin's study of Taiwanese students' self-reliance shows, but ultimately it is this client's approach that counts.\n\nConclusion\nInfluence in helping is inevitable; the question is its direction and purpose. Egan's norms ensure influence is collaborative and empowering, so clients leave with more resources and responsibility rather than more dependency."
+  },
+  {
+   "q": "What are the shadow-side realities of the helping relationship? Discuss with reference to incompetent helpers.",
+   "marks": 10,
+   "pages": [
+    67,
+    68
+   ],
+   "answer": "Introduction\nAfter describing an ideal relationship driven by respect, empathy, diversity, empowerment and action, Egan honestly admits that, like any relationship, helping can go wrong. He calls these the shadow-side realities and samples them under two headings: the flaws of helpers and clients, and incompetent helpers.\n\nHelpers' flaws\nHelpers' motives are not always pure. They find some clients attractive and others not; this is normal, but they must manage closeness so that it serves helping (R. S. Schwartz) and handle both positive and negative feelings. They may challenge attractive clients less or listen less carefully to unattractive ones. Some lack commitment in a profession that demands it, and many fail to apply their own tools to their own troubles, a 'don't do as I do, do as I say' attitude.\n\nClients' flaws\nSome clients have unrealistic expectations of counselling (Tinsley, Bowman and Barich), and others hold distorted views of their helpers, so helpers must manage expectations and the relationship. Clients play games with themselves, their helpers and the process. Helpers and clients may seduce each other, not necessarily sexually, and both may pursue hidden agendas. At worst the relationship becomes a conspiracy to do nothing.\n\nA realistic stance\nNeither party is heroic; both are all too human. Egan cites writers who explore human failings: Needleman on violating one's values, Hollis and Ford on why good people do bad things, Martinez-Lewi on narcissism. The dark side may be as close as the end of one's nose. The key is to be neither naive nor cynical about oneself or clients.\n\nIncompetent helpers\nSome helpers are incompetent yet pass as professionals. They underestimate problem severity, struggle interpersonally, use poor or overused techniques, argue with clients about methods, work on the wrong issues, fail to keep up with the field and continue helping that is going nowhere. As a result some helping produces negative outcomes. Even competent helpers lapse: Luborsky and associates found that therapists differ considerably in average success, outcomes vary within each therapist's caseload, and success depends more on the therapist than on the type of treatment. Albert Ellis said inept helpers are either ineffective or inefficient, the latter producing weak, short-lived results at great cost of time and money. Because efficacy studies seldom separate high- and low-level helpers, negative findings are predictable, and little has been written on how helpers handle failure (Stewart and Chambless).\n\nConclusion\nThe shadow side reminds helpers that helping is not neutral but 'for better or for worse'. Recognising flaws in oneself and clients, and committing to competence, is itself an expression of the respect that Egan places at the foundation of helping."
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Two broad views of the helping relationship?",
+   "back": "Relationship valued in itself (e.g. Rogers) vs relationship as a means to an end (cognitive-behavioural).",
+   "page": 38
+  },
+  {
+   "front": "Rogers's three core conditions?",
+   "back": "Unconditional positive regard, accurate empathy, genuineness: necessary and often sufficient.",
+   "page": 38
+  },
+  {
+   "front": "Bordin's definition of the working alliance?",
+   "back": "Collaboration based on agreement on goals and tasks.",
+   "page": 39
+  },
+  {
+   "front": "Bachelor et al.'s three types of client collaboration?",
+   "back": "Active, mutual, therapist-dependent (about one third).",
+   "page": 39
+  },
+  {
+   "front": "Six guiding principles for alliance behaviour?",
+   "back": "Alliances emerge; track needs; focus on resources; expect differing views; ups and downs are common; handle client negativity.",
+   "page": 40
+  },
+  {
+   "front": "DeFife and Hilsenroth's three areas for a good start?",
+   "back": "Positive expectancies; proactive committed client role; collaborative goal formation.",
+   "page": 41
+  },
+  {
+   "front": "What did Duff and Bedi find?",
+   "back": "Small strengths-fostering behaviours, like a smiling greeting, contribute disproportionately to the alliance.",
+   "page": 43
+  },
+  {
+   "front": "Relationship as a forum for relearning (who)?",
+   "back": "Mallinckrodt.",
+   "page": 43
+  },
+  {
+   "front": "Who said 'clients, not therapists, make therapy work'?",
+   "back": "Duncan, Miller and Sparks.",
+   "page": 44
+  },
+  {
+   "front": "What are 'ruptures'?",
+   "back": "Breakdowns in the relationship (Eubanks-Carter, Muran and Safran) that can become opportunities for growth.",
+   "page": 44
+  },
+  {
+   "front": "Espoused values vs values-in-use?",
+   "back": "Ideals one claims vs behavioural maps one actually uses (Argyris).",
+   "page": 45
+  },
+  {
+   "front": "Egan's five helping values?",
+   "back": "Respect, empathy, proactive appreciation of diversity, self-responsibility/empowerment, bias for action.",
+   "page": 46
+  },
+  {
+   "front": "Which value is the foundation value?",
+   "back": "Respect.",
+   "page": 46
+  },
+  {
+   "front": "Two behaviours showing disrespect?",
+   "back": "Doing harm; rushing to judgement.",
+   "page": 46
+  },
+  {
+   "front": "Five behaviours showing respect?",
+   "back": "Be competent and committed; be genuine; be 'for' the client; assume goodwill; keep the client's agenda in focus.",
+   "page": 47
+  },
+  {
+   "front": "Gelso's 'real relationship'?",
+   "back": "Degree to which each is genuine and perceives the other in ways that befit the other.",
+   "page": 47
+  },
+  {
+   "front": "Egan's definition of empathy?",
+   "back": "Understanding the client from their point of view (in context) and communicating it when appropriate.",
+   "page": 48
+  },
+  {
+   "front": "Barrett-Lennard's phases of empathy?",
+   "back": "Empathic resonance, expressed empathy, received empathy.",
+   "page": 48
+  },
+  {
+   "front": "Goleman's metaphor for empathy?",
+   "back": "Social radar.",
+   "page": 49
+  },
+  {
+   "front": "WAVE Trust finding?",
+   "back": "Empathy is the single greatest inhibitor of propensity to violence; requires carer attunement.",
+   "page": 49
+  },
+  {
+   "front": "Pedersen's term for two-way empathy?",
+   "back": "Inclusive cultural empathy.",
+   "page": 50
+  },
+  {
+   "front": "Three commitments of empathy as a value?",
+   "back": "Client's point of view; client in context; dissonance between view and reality.",
+   "page": 50
+  },
+  {
+   "front": "Egan's definition of culture?",
+   "back": "Shared beliefs and values produce shared norms that drive shared patterns of behaviour.",
+   "page": 52
+  },
+  {
+   "front": "Personal culture in a phrase?",
+   "back": "'The way I live my life.'",
+   "page": 53
+  },
+  {
+   "front": "ADDRESSING stands for?",
+   "back": "Age, Developmental and acquired Disabilities, Religion, Ethnicity, Socioeconomic status, Sexual orientation, Indigenous heritage, Gender.",
+   "page": 54
+  },
+  {
+   "front": "Six stages of the Cultural Competence Continuum?",
+   "back": "Destructiveness, incapacity, blindness, pre-competence, competence, proficiency.",
+   "page": 56
+  },
+  {
+   "front": "Opposites of empowerment?",
+   "back": "Dependency, deference, oppression.",
+   "page": 58
+  },
+  {
+   "front": "Corrigan's conclusion?",
+   "back": "'Counselors are influential.'",
+   "page": 59
+  },
+  {
+   "front": "Eight elements of a working charter?",
+   "back": "Nature/goals; approach and techniques; flexibility; how it helps; helper info; structure and responsibilities; values; procedural issues.",
+   "page": 61
+  },
+  {
+   "front": "Resource collaborator role?",
+   "back": "Tyler, Pargament and Gatz: equal status, give-and-take, both may change.",
+   "page": 62
+  },
+  {
+   "front": "Ego depletion?",
+   "back": "Self-control efforts are psychologically costly (Baumeister); practice strengthens self-control like a muscle.",
+   "page": 64
+  },
+  {
+   "front": "Behavioral activation targets?",
+   "back": "Inertia and avoidance.",
+   "page": 65
+  },
+  {
+   "front": "Empathic validation?",
+   "back": "Angus and Kagan: empathic responses to clients' change efforts boost agency.",
+   "page": 66
+  },
+  {
+   "front": "Why is discretionary change 'central to mediocrity'?",
+   "back": "If we don't have to change, we often don't.",
+   "page": 66
+  },
+  {
+   "front": "Luborsky's key finding?",
+   "back": "Success rates depend more on the therapist than on the type of treatment.",
+   "page": 68
+  },
+  {
+   "front": "Ellis on inept helpers?",
+   "back": "They are either ineffective or inefficient.",
+   "page": 68
+  }
+ ],
+ "summary": [
+  "Everyone agrees the relationship matters, but views differ on whether it is valuable in itself or a means to an end.",
+  "Rogers held that positive regard, accurate empathy and genuineness are necessary and often sufficient; psychodynamic approaches focus on transference and countertransference.",
+  "The working alliance (Bordin: agreement on goals and tasks) integrates both views; helping is a two-person team effort.",
+  "Alliances emerge from collaborative work; early change matters, so a good start (positive expectancies, active client role, collaborative goals) is important.",
+  "Clients value warmth, honesty, validation and small strengths-fostering behaviours; client views deserve more attention (Bedi).",
+  "The relationship is a forum for relearning, and no single relationship style fits all clients; ruptures can become opportunities.",
+  "Values-in-use are tools of the trade; helpers must examine and own their values.",
+  "Respect is the foundation value: do no harm, don't rush to judgement; be competent, genuine, 'for' the client, assume goodwill, follow the client's agenda.",
+  "Empathy is the primary orientation value: a radical commitment to understand the client's viewpoint, context and the gap between view and reality; at its best it is two-way.",
+  "Diversity is about clients: understand personal culture, challenge blind spots, tailor interventions and work with individuals.",
+  "Helpers do not empower clients but help them use their own power; influence is inevitable and should be collaborative.",
+  "Empowerment norms include working charters, sessions as work, coaching, two-way influence and not treating clients as victims or fragile.",
+  "Conscientiousness and self-control support self-responsibility; self-control can be learned and is even contagious.",
+  "A bias for action is the outcome value; behavioral activation shows the power of action, and discretionary change is easily avoided.",
+  "The shadow side includes flawed motives, games, hidden agendas and incompetent helpers; helping is 'for better or for worse'."
+ ],
+ "assessment": [
+  {
+   "q": "Rogers claimed the core conditions are",
+   "options": [
+    "neither necessary nor sufficient",
+    "necessary and often sufficient",
+    "sufficient but not necessary",
+    "useful only in psychoanalysis"
+   ],
+   "answer": 1,
+   "explain": "Rogers's claim (p. 38).",
+   "page": 38
+  },
+  {
+   "q": "Norcross defines the alliance as",
+   "options": [
+    "agreement on fees",
+    "the client's transference",
+    "the quality and strength of the collaborative client-therapist relationship",
+    "the therapist's expertise"
+   ],
+   "answer": 2,
+   "explain": "Quoted on p. 39.",
+   "page": 39
+  },
+  {
+   "q": "Which client collaboration type 'expects the therapist to play an equally active role'?",
+   "options": [
+    "Active",
+    "Therapist-dependent",
+    "Passive",
+    "Mutual"
+   ],
+   "answer": 3,
+   "explain": "Bachelor et al. (p. 39).",
+   "page": 39
+  },
+  {
+   "q": "Which is a guiding principle for alliance behaviour?",
+   "options": [
+    "Alliances emerge; don't try to build them directly",
+    "Avoid all client negativity",
+    "Always use surveys to monitor",
+    "Focus only on problems"
+   ],
+   "answer": 0,
+   "explain": "Listed on p. 40.",
+   "page": 40
+  },
+  {
+   "q": "DeFife and Hilsenroth's third area for a good start is",
+   "options": [
+    "teaching diagnosis",
+    "emphasising collaborative goal formation",
+    "interpreting transference",
+    "setting fees"
+   ],
+   "answer": 1,
+   "explain": "Stated on p. 42.",
+   "page": 42
+  },
+  {
+   "q": "Duncan, Miller and Sparks' view is radical because it",
+   "options": [
+    "rejects the alliance",
+    "favours manualised treatment",
+    "goes a step beyond Rogers's client-centred approach",
+    "makes the therapist the expert"
+   ],
+   "answer": 2,
+   "explain": "Stated on p. 44.",
+   "page": 44
+  },
+  {
+   "q": "Argyris saw values as",
+   "options": [
+    "inborn traits",
+    "legal rules",
+    "emotional states",
+    "mental maps that define how to act"
+   ],
+   "answer": 3,
+   "explain": "Stated on p. 45.",
+   "page": 45
+  },
+  {
+   "q": "Empathy is described by Egan as the",
+   "options": [
+    "primary orientation value",
+    "foundation value",
+    "outcome value",
+    "empowerment value"
+   ],
+   "answer": 0,
+   "explain": "Section title (p. 48).",
+   "page": 48
+  },
+  {
+   "q": "Kohut described empathy as",
+   "options": [
+    "social radar",
+    "a psychological nutrient",
+    "psychological air",
+    "a habit"
+   ],
+   "answer": 1,
+   "explain": "Stated on p. 49.",
+   "page": 49
+  },
+  {
+   "q": "'Social location' refers to the client's",
+   "options": [
+    "home address",
+    "diagnosis",
+    "sociopolitical environment and status",
+    "seat in the session room"
+   ],
+   "answer": 2,
+   "explain": "Clark's principles (p. 50).",
+   "page": 50
+  },
+  {
+   "q": "Bronfenbrenner called culture",
+   "options": [
+    "a personal choice",
+    "a set of values only",
+    "an outdated concept",
+    "the largest and most controlling of systems"
+   ],
+   "answer": 3,
+   "explain": "Stated on p. 52.",
+   "page": 52
+  },
+  {
+   "q": "The bottom line of personal culture is",
+   "options": [
+    "patterns of behaviour",
+    "beliefs",
+    "genes",
+    "values alone"
+   ],
+   "answer": 0,
+   "explain": "Patterns of behaviour are the bottom line (p. 52).",
+   "page": 52
+  },
+  {
+   "q": "Day's model of multicultural competence includes awareness, knowledge and",
+   "options": [
+    "diagnosis",
+    "skills",
+    "advocacy",
+    "research"
+   ],
+   "answer": 1,
+   "explain": "Stated on pp. 53-54.",
+   "page": 53
+  },
+  {
+   "q": "Satel argued that psychotherapy is about",
+   "options": [
+    "celebrating racial diversity",
+    "groups",
+    "individuals and their infinite complexity",
+    "politics"
+   ],
+   "answer": 2,
+   "explain": "Quoted on p. 55.",
+   "page": 55
+  },
+  {
+   "q": "Stuart notes that it is never safe to",
+   "options": [
+    "discuss culture",
+    "challenge clients",
+    "self-disclose",
+    "infer cultural orientation from group membership"
+   ],
+   "answer": 3,
+   "explain": "Stated on p. 58.",
+   "page": 58
+  },
+  {
+   "q": "Rashotte distinguishes social influence from",
+   "options": [
+    "conformity, power and authority",
+    "persuasion and learning",
+    "empathy and respect",
+    "attitudes and feelings"
+   ],
+   "answer": 0,
+   "explain": "Quoted on p. 59.",
+   "page": 59
+  },
+  {
+   "q": "Freire warned against helping becoming",
+   "options": [
+    "too directive",
+    "another form of oppression",
+    "too brief",
+    "too empathic"
+   ],
+   "answer": 1,
+   "explain": "Stated on p. 60.",
+   "page": 60
+  },
+  {
+   "q": "Which is NOT an element of the working charter?",
+   "options": [
+    "Nature and goals of helping",
+    "Values driving helping",
+    "The client's diagnosis code",
+    "Procedural issues"
+   ],
+   "answer": 2,
+   "explain": "The eight elements are listed on p. 61.",
+   "page": 61
+  },
+  {
+   "q": "Howell said learning is incorporated into living to the extent that",
+   "options": [
+    "mistakes are avoided",
+    "insight is gained",
+    "habits are broken",
+    "viable options are increased"
+   ],
+   "answer": 3,
+   "explain": "Quoted on p. 63.",
+   "page": 63
+  },
+  {
+   "q": "Driscoll suggested that early in helping, helpers should",
+   "options": [
+    "intervene more, e.g. by reasonable challenge",
+    "only listen",
+    "avoid all challenge",
+    "give diagnoses"
+   ],
+   "answer": 0,
+   "explain": "Stated on p. 63.",
+   "page": 63
+  },
+  {
+   "q": "VanDellen, Hoyle and Miller distinguish self-control as self-regulation that is",
+   "options": [
+    "automatic",
+    "effortful and conscious",
+    "unconscious",
+    "inherited"
+   ],
+   "answer": 1,
+   "explain": "Stated on p. 64.",
+   "page": 64
+  },
+  {
+   "q": "Behavioral activation is also called",
+   "options": [
+    "cognitive restructuring",
+    "systematic desensitisation",
+    "activity scheduling",
+    "empathic validation"
+   ],
+   "answer": 2,
+   "explain": "Stated on p. 65.",
+   "page": 65
+  },
+  {
+   "q": "Lawrence's assertiveness with his superiors illustrates",
+   "options": [
+    "discretionary avoidance",
+    "client deference",
+    "cultural blindness",
+    "a bias for action"
+   ],
+   "answer": 3,
+   "explain": "Stated on p. 65.",
+   "page": 65
+  },
+  {
+   "q": "Bohart and Tallman say clients",
+   "options": [
+    "can solve their own problems and contribute to therapy",
+    "need expert direction",
+    "are mostly fragile",
+    "rarely change"
+   ],
+   "answer": 0,
+   "explain": "Quoted on p. 67.",
+   "page": 67
+  }
+ ]
+}

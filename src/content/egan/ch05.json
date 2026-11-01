@@ -1,0 +1,1698 @@
+{
+ "number": 5,
+ "title": "The Art of Probing and Summarizing",
+ "theorist": null,
+ "approach": "Part II: The Therapeutic Dialogue",
+ "pages": [
+  135,
+  157
+ ],
+ "overview": "Chapter 5 completes Egan's set of basic communication skills with probing and summarising. It opens by framing all helping as influence and, borrowing Thaler and Sunstein's idea of the nudge and libertarian paternalism, casts helpers as choice architects whose skills exert 'gentle power'. It then covers prompts (verbal and nonverbal), the four forms of probes (statements, requests, questions, single words), how to use questions well, and a series of guidelines for probing, from using feedback and building concreteness to filling in missing pieces, getting a balanced view, moving clients to useful stages and inviting self-challenge, before showing how probes must be mixed with empathy (Box 5.1). The second half explains summarising: when helpers should summarise and why clients should sometimes do it themselves, illustrated through Mara and Carlos. It closes with the shadow side of communication skills (necessary but not sufficient; relationship versus technology) and advice on developing real proficiency through everyday practice.",
+ "objectives": [
+  "Explain nudging, libertarian paternalism and the helper as choice architect.",
+  "Define prompts and probes and distinguish verbal and nonverbal prompts.",
+  "Describe and illustrate the four forms of probes.",
+  "State Egan's guidelines for using questions, including open-ended and closed questions.",
+  "Explain the guidelines and goals for using probes, including Box 5.1.",
+  "Describe how empathic responses and probes should be combined in practice.",
+  "Explain when and how to use summaries, including client-provided summaries.",
+  "Analyse the Mara and Carlos excerpt as an illustration of probing and summarising.",
+  "Discuss the shadow side of communication skills and how proficiency is developed."
+ ],
+ "sections": [
+  {
+   "id": "nudging",
+   "heading": "Nudging",
+   "pages": [
+    135,
+    136
+   ],
+   "detailed": "Egan opens the chapter by recalling a point from Chapter 2: every attempt to help another person involves some degree of influence. Helpers inevitably influence their clients. The real question is how to influence them well, so that clients discuss difficult problems, develop new life-enhancing perspectives on themselves, others and the world, work on the right issues, explore possibilities for a better future, choose and commit to problem-managing goals, explore ways of reaching those goals and take effective action, all without being robbed of their freedom.\n\nLibertarian paternalism. To describe this kind of influence Egan borrows from Thaler and Sunstein (2008) and their book Nudge. They call it libertarian paternalism. The influence side is in a sense paternalistic, and the freedom side is libertarian. Egan stresses two qualifications: paternalism here does not mean coercion, physical or psychological, and libertarian does not mean \"do whatever you want\".\n\nHelpers as choice architects. Thaler and Sunstein speak of choice architects, people responsible for organising the context in which others make decisions. Because decision making is one of the key ingredients of successful therapy, Egan argues it is important to look at how helpers shape the context of clients' decisions. Since helpers cannot avoid influencing clients, they are choice architects whether they like it or not. Treatment models, including the Skilled Helper framework and the methods and communication skills that make it work, are different forms of choice architecture. In the hands of savvy, principled helpers, the model, methods and skills of any approach can serve as nudges.\n\nWhat a nudge is. Thaler and Sunstein define a nudge as any feature of the choice architecture that changes behaviour in a predictable way without forbidding any options. Egan adds that the predictability meant is that of the social sciences, not the physical sciences.\n\nEmpathy as a nudge. Egan shows that an empathic response already works as a nudge in two ways. First, because a helper cannot respond empathically to everything a client says, choosing what to respond to is itself a form of influence (selective responding). Second, empathic responses tend to encourage clients to explore the issue more broadly or deeply. Yet empathic responses do not pin clients down.\n\nGentle power. Nudges have power, but it is gentle. Used skilfully, nudges promote collaboration rather than block it, do not overwhelm clients and keep the client at the centre of decision making. Egan announces that the two skills of this chapter, probing and summarising, are often used as nudges, and that their gentle power, rightly used, can greatly benefit clients.",
+   "simple": "All helping involves influencing clients. Egan, using Thaler and Sunstein's idea of a nudge, says helpers should influence clients gently and predictably without taking away their freedom or any of their options. Helpers are choice architects, and probes and summaries are two of their main nudges.",
+   "keyPoints": [
+    "All helping involves influence; the aim is to influence without robbing clients of freedom.",
+    "Thaler and Sunstein (2008) call this libertarian paternalism: not coercion, and not 'do whatever you want'.",
+    "A choice architect organises the context in which people decide; helpers and treatment models are choice architecture.",
+    "A nudge alters behaviour predictably without forbidding any options.",
+    "Empathic responses nudge through selective responding and by prompting deeper exploration.",
+    "Nudges have 'gentle' power: they foster collaboration and keep clients at the centre of decisions."
+   ]
+  },
+  {
+   "id": "art-of-probing",
+   "heading": "The Art of Probing",
+   "pages": [
+    136,
+    137
+   ],
+   "detailed": "In most of the examples Egan used for sharing empathic responses (Chapter 4), clients explored themselves fairly easily. That is not always the case. Helpers must respond with empathy when clients do reveal themselves, but at times they also need to nudge, encourage or prompt clients to explore their concerns when clients do not do so on their own. So the ability to use prompts and probes well is another important communication skill. Egan's image: if empathic responding is the lubricant of the dialogue, probes supply the nudges that are often needed.\n\nDefinition. Prompts and probes are verbal, and sometimes nonverbal, tactics that help clients talk more freely and concretely about any issue at any stage of the helping process. They are not limited to the opening stage of telling the story.\n\nWhat probes can do across the process. Egan lists several uses: helping clients identify and explore opportunities they have been overlooking, clearing up blind spots, translating dreams into realistic goals, developing realistic plans for accomplishing goals, and working through obstacles to action. Used judiciously, probes give focus and direction to the whole helping process.\n\nProbing therefore links the skills of Chapters 3 and 4 (tuning in, listening, empathy) to the later stages of the Skilled Helper model (new perspectives, goals, strategies, action). The chapter moves from the lightest forms (prompts) to fuller probes (statements, requests, questions, single words), then to how to use questions, guidelines for probing, and the balance between probing and empathy.",
+   "simple": "Some clients do not open up on their own, so helpers need to prompt and probe. Prompts and probes are verbal or nonverbal moves that help clients talk more freely and concretely at any stage of helping. If empathy oils the conversation, probes give it a push.",
+   "keyPoints": [
+    "Probing is needed when clients do not explore their concerns spontaneously.",
+    "Empathy is the 'lubricant' of dialogue; probes provide the needed nudges.",
+    "Prompts and probes are verbal and sometimes nonverbal tactics for freer, more concrete talk at any stage.",
+    "Probes help clients find overlooked opportunities, clear blind spots, turn dreams into goals, make plans and work through obstacles.",
+    "Used judiciously, probes give focus and direction to the whole helping process."
+   ]
+  },
+  {
+   "id": "prompts",
+   "heading": "Verbal and Nonverbal Prompts",
+   "pages": [
+    137,
+    137
+   ],
+   "detailed": "Egan defines prompts as brief verbal or nonverbal interventions meant to let clients know the helper is with them and to encourage them to keep talking. They are the lightest form of probing.\n\nNonverbal prompts. A counsellor's nonverbal behaviour can work like a probe. Egan's example: a client struggling to make a peace overture to a neighbour he or she is at odds with says, \"I just can't do it!\" The helper says nothing, simply leans forward attentively and waits. After a pause the client explains that taking the first step would feel like giving in, like weakness, and the two go on to explore how a well-handled overture could be a sign of strength instead. Body movements, gestures, nods, eye movements and similar behaviours can all serve as nonverbal prompts or nudges.\n\nVocal and verbal prompts. Sounds and words such as \"um\", \"uh-huh\", \"sure\", \"yes\", \"I see\", \"ah\", \"okay\" and \"oh\" can act as prompts, with one condition: they must be used intentionally, not as a sign that attention is drifting, that the helper does not know what else to do, or that he or she is on automatic pilot. In Egan's example a 33-year-old married woman struggling with perfectionism at work and at home doubts she can keep the contract she made with herself to let trivial things go. The helper says only a brief \"Um\" and stays silent. The client pauses, laughs at the irony of a perfectionist saying she \"can't\" do something, and concludes that she can, though it will not be easy at first. The single sound prompted her to reconsider what she had just said.\n\nPlace of prompts. Egan's culinary metaphor: prompts should never be the main course, but they are useful condiments in the therapeutic dialogue.",
+   "simple": "Prompts are tiny signals, like leaning forward, nodding or saying \"uh-huh\", that tell clients you are with them and encourage them to continue. They work only when used on purpose, not out of habit. They are condiments, not the main course.",
+   "keyPoints": [
+    "Prompts are brief verbal or nonverbal interventions showing you are with the client and encouraging more talk.",
+    "Nonverbal prompts: leaning forward, waiting, gestures, nods, eye movement (neighbour peace-overture example).",
+    "Vocal/verbal prompts: 'um', 'uh-huh', 'I see', 'okay', etc., used intentionally, not on automatic pilot.",
+    "A simple 'Um' led the perfectionistic client to reconsider her claim that she could not change.",
+    "Prompts are 'condiments', never the main course."
+   ]
+  },
+  {
+   "id": "forms-of-probes",
+   "heading": "Different Forms of Probes",
+   "pages": [
+    137,
+    139
+   ],
+   "detailed": "Used judiciously, probes help clients name, notice, explore, clarify or further define any issue at any point in helping. Their purpose is to provide clarity and move things forward. Egan describes four forms.\n\n1. Statements. A probe can be a statement that signals the need for more clarity. A helper working with a client whose 25-year-old daughter still lives at home says it is still not clear whether the client wants to challenge her to leave the nest. The client then reveals that he wants to but fears alienating her or seeming not to care. Statement probes often take the form of the helper confessing that he or she is in the dark (\"I'm not sure I understand how you intend...\", \"I guess I'm still confused about...\"). Such probes put responsibility on clients without accusing them of holding back the truth.\n\n2. Requests. Probes can be direct requests for more information or clarity. A counsellor asks a woman living with her husband and mother-in-law to explain what she means by \"three's a crowd\". She explains that she gets along with each of them separately, but the chemistry of the three together is unsettling, which is helpful new information. Requests must not sound like commands (\"Come on, just tell me what you are thinking\"). Tone of voice and other paralinguistic and nonverbal cues soften requests.\n\n3. Questions. Direct questions are probably the most common probe, though Egan notes that whether they should be so common is another issue. Examples: how the client reacts when someone flies off the handle, what stops the client deciding, what a Plan B might look like. In a fuller case, a client who had built a solid anger-control programme shows hesitancy the next week. The counsellor names the hesitancy tentatively; the client fears looking like a wimp at work. The counsellor reflects that there is something about her style she does not want to lose and asks what it might be. She answers \"Spunk!\", and they explore keeping spunk without outbursts, that is, the practical difference between assertiveness and aggression.\n\n4. Single words or phrases that act as questions or requests. Sometimes one word or a short phrase does the job. A client says she really hates her sister; the helper calmly repeats \"Hate.\" The client concedes that hate is too strong and that things are simply getting worse. Another client with irrational fears declares he will \"move forward\"; the counsellor replies, \"Move forward to...?\" and the client clarifies that he means no longer indulging his fears, which he now sees as a bad habit.\n\nEgan concludes that whatever form probes take, they are usually, directly or indirectly, questions of some sort, which is why he next discusses how to use questions.",
+   "simple": "Probes come in four forms: statements (\"I'm not clear about...\"), requests (\"Tell me what you mean by...\"), questions, and single words or phrases repeated back (\"Hate.\"). All aim at clarity and moving forward, and most are really questions in disguise.",
+   "keyPoints": [
+    "Probes help clients name, notice, explore, clarify or define issues; aim: clarity and forward movement.",
+    "Statements: often the helper admits being 'in the dark'; places responsibility on the client without accusing.",
+    "Requests: direct asks for information, softened by tone so they do not sound like commands.",
+    "Questions: the most common probe (anger programme / 'spunk' case: assertiveness vs aggression).",
+    "Single words/phrases: 'Hate.' and 'Move forward to...?' work as questions.",
+    "All probes are, directly or indirectly, questions of some sort."
+   ]
+  },
+  {
+   "id": "using-questions",
+   "heading": "Using Questions Effectively",
+   "pages": [
+    139,
+    140
+   ],
+   "detailed": "Egan warns that helpers, especially novices and inept counsellors, ask too many questions. When unsure what to say they fire off questions that add no value, as if gathering information were the goal of the interview. Used judiciously, though, questions are an important part of helping. He gives two guidelines.\n\nDo not ask too many questions. Clients bombarded with questions feel grilled, which harms the relationship. Many clients sense instinctively when questions are mere filler used because the helper has nothing better to say. Egan admits catching himself asking questions whose answers he did not even want to know. His case: Rolly, an inmate in a state facility for young offenders serving time for burglary and drug use. He is difficult and blames everything on his dysfunctional family. Out of frustration the counsellor asks a string of questions (when he first felt caught in the family mess, what he did to get away, what he could do differently, what friends he had). These amount to a random search for information of unclear value. Rolly, an expert at evading such questions after being grilled by professionals, simply clams up when he tires of them. Helping that becomes a question-and-answer session tends to go nowhere.\n\nAsk open-ended questions. As a general rule, ask questions that need more than a yes/no or one-word answer. Instead of asking a newly retired person whether he has any plans, ask how he sees the future and what plans he has. Counsellors who ask closed questions end up asking more and more, because one closed question leads to another.\n\nExceptions. A closed question is fine when a specific piece of information is needed: a career counsellor asking how many jobs the client has had in the past two years, because it is relevant to the résumé and job-search strategy. Occasionally a sharp closed question has the right impact: a counsellor asks a client plotting revenge on his \"ungrateful\" son whether getting back at him is what he really wants. Such rhetorical questions are a form of challenge. If the client replies forcefully that it is, the helper learns about the intensity of his feelings and knows he faces a tricky issue.\n\nIn general, open-ended questions used in moderation help clients fill in what is missing at every stage of helping.",
+   "simple": "Beginners ask too many questions, which makes clients feel grilled (as with Rolly, who just clams up). Ask fewer questions and make them open-ended. Closed questions are fine for specific facts, and a sharp rhetorical question can serve as a challenge.",
+   "keyPoints": [
+    "Novices tend to ask too many questions, as if information gathering were the goal.",
+    "Too many questions make clients feel grilled; Rolly's case shows a random search for information that goes nowhere.",
+    "Open-ended questions need more than a yes/no or one-word answer; closed questions breed more closed questions.",
+    "Closed questions are acceptable for needed specific facts (career counsellor: number of jobs in two years).",
+    "A sharp rhetorical question ('Is getting back at him what you really want?') can act as a challenge."
+   ]
+  },
+  {
+   "id": "probes-feedback-engagement",
+   "heading": "Guidelines for Using Probes (1): Feedback System and Engaging Clients in Dialogue",
+   "pages": [
+    140,
+    141
+   ],
+   "detailed": "Egan offers several guidelines that apply to all probes, whatever their form. The first two concern using feedback and helping clients take part in the dialogue.\n\nUse your ongoing feedback system as a way of probing. Whether a helper uses surveys such as Duncan's or another systematic way of getting client feedback on progress, outcomes and the quality of sessions, the feedback system is an excellent opportunity to probe. Egan illustrates with Letta, a single mother who lost a well-paid job in the economic crash. A \"hip\" drinker in good times, she became a problem drinker when things turned sour, had no financial cushion and spent much time railing against those blamed for the crash. Her \"individually\" rating was low in session one, rose sharply in session two because she thought counselling was the answer, and in session three fell below the first.\n\nThe helper uses the drop as a probe, asking what message the score carries and noting her face and posture. Letta describes soaring hopes followed by default notices, a pay cut and her boyfriend calling her \"scary\". The helper mixes empathy (\"you soared, then the crash\") with single-word and request probes (\"Shot down?\", \"Tell me more about that\"). She sees how much work lies ahead. The helper then acknowledges the misery but asks what good might be mined from it. After saying \"Nothing!\" and a silence, she suggests she could become more realistic, and they explore what a \"realistic\" lifestyle would look like. At the end-of-session survey she rates the session highly; when asked what worked, she names \"realism\" and links it to seeing her own self-centredness and society's habit of living beyond its means. Realism defined as concrete possibilities moved her back from the brink of \"impossible\", and she regained a more realistic enthusiasm.\n\nUse probes to help clients engage as fully as possible in the therapeutic dialogue. Many clients lack the communication skills needed for the problem-managing and opportunity-developing dialogue. Egan calls probes the principal tools for helping all clients engage in the give-and-take of helping. Example: at a church parish centre a parishioner struggles to describe her dealings with her insurance company after a car accident; she feels ignored. The counsellor responds empathically and suggests reviewing what she has done so far, then asks to see the forms. They are standard claims forms. Since this is her first dealing with an insurer and her communication skills are poor, the counsellor realises her phone calls are probably part of the problem. Through empathy and probes he helps her see her experience may be normal, and she gets help from a fellow parishioner experienced with such forms.",
+   "simple": "Feedback ratings are a natural opening for probes: a falling score invites \"What's the message?\" (Letta's case). Probes are also the main tool for helping clients with weak communication skills take part in the helping dialogue (the insurance-claim parishioner).",
+   "keyPoints": [
+    "Guidelines apply to all forms of probes.",
+    "Systematic feedback (e.g. Duncan's surveys) is an excellent opportunity for probing.",
+    "Letta: a falling 'individually' score opened a dialogue that turned misery into concrete 'realism'.",
+    "End-of-session feedback ('What made this session work?') is also probed.",
+    "Probes are the principal tools for helping clients with poor communication skills engage in the dialogue (insurance forms case)."
+   ]
+  },
+  {
+   "id": "probes-concreteness-viewpoints",
+   "heading": "Guidelines for Using Probes (2): Concreteness, Clarity and Clients' Points of View",
+   "pages": [
+    142,
+    144
+   ],
+   "detailed": "Use probes to help clients achieve concreteness and clarity. Probes help clients turn the abstract and vague into something concrete and clear that both parties can work with. Egan gives three examples.\n\nA man says his partner \"treats me badly\". The helper asks what she actually does. He reveals that she talks about him behind his back and cancels dates when something better comes up. Asked how he reacts, he admits they have not talked about it at all. Through empathy and probes the helper learns he tolerates a lot for fear of losing her and helps him with the psychological \"economics\" of a one-sided relationship.\n\nA man dissatisfied with his poor social life says he does \"funny things\" that make him feel good. Asked \"What kinds of things?\", he describes daydreams of being a tragic hero who saves people who ignore him and then rejects them when they come running. The helper's tentative empathic summary leads him to see the contradiction: he wants to be loved but does little to build a real social life; it is all in his head. Exploring his fantasy life could be a first step to finding what he wants from relationships.\n\nA woman who became the breadwinner after her 42-year-old husband's stroke says coming home is difficult and trails off. The helper responds empathically and asks what it is like. She describes pity for him turning into self-pity mixed with unfocused anger and rage. The probe brings out the intensity of her feelings and her desperation.\n\nIn each case the story becomes more specific. But Egan cautions that the goal is not ever more detail; it is the kind of detail that makes the problem or unused opportunity clear enough to see what can be done.\n\nUse probes to explore and clarify clients' points of view, intentions, proposals and decisions. Clients often announce views or decisions without clarifying them, their reasons or their implications. Egan's extended case: a man badly injured in a drink-driving accident (only he was hurt), whose accident opened a Pandora's box of problems such as poor self-responsibility. Early on he argues that DUI laws are too tough because they \"bully\" people. The counsellor probes by asking him to imagine all such laws dropped and to add back the ones that make sense, an attempt to get him to spell out the implications of his view and begin facing himself.\n\nLater he plans to hire an expensive lawyer to \"get off\". The counsellor asks for the best and then the worst outcome in court; the client has not considered the worst. The counsellor, putting himself in the client's shoes, suggests finding out how such cases usually go before spending heavily. Probes here explore the implications of a decision. The state's laws prove very tough: licence suspension for six months, a heavy fine and a month in jail. Visiting him in jail, the counsellor meets a sober, cooperative client who admits he was not ready to listen and wants to apologise to his family but does not know how. The counsellor's probe, finding out what he wants to accomplish through an apology, gives substance and order to the proposal and points it towards the future rather than the past.",
+   "simple": "Probes turn vague complaints into concrete, workable pictures (\"Tell me what she actually does\"), but the aim is useful detail, not endless detail. Probes also help clients spell out the reasons and consequences of their views and decisions, as with the drink-driving client.",
+   "keyPoints": [
+    "Probes turn the abstract and vague into the concrete and clear.",
+    "Examples: partner who 'treats me badly'; daydreaming 'tragic hero'; wife of a stroke patient.",
+    "Goal is not more and more detail but detail that shows what can be done.",
+    "Probes clarify clients' points of view, intentions, proposals and decisions and their implications.",
+    "DUI case: probes on the laws, best/worst court outcomes and the purpose of an apology move him toward responsibility and the future."
+   ]
+  },
+  {
+   "id": "probes-missing-pieces-balance",
+   "heading": "Guidelines for Using Probes (3): Missing Pieces and a Balanced View",
+   "pages": [
+    144,
+    146
+   ],
+   "detailed": "Use probes to help clients fill in missing pieces of the picture. Probes move the dialogue forward by helping clients identify missing parts of the problem-management puzzle: thoughts, experiences, behaviours and feelings that would give both parties a better fix on the problem situation or unused opportunity, uncover possibilities for a better future, or lead to a plan of action.\n\nMother-in-law case. A client at odds with his wife over his mother-in-law's visit is asked what exactly she does that angers him. He explains that she replaces the household schedule with her own and offers a constant stream of child-rearing advice; his wife sees an \"inconvenience\", he sees total disruption. Once her behaviour is spelled out, remedies are easier to find. But one piece is still missing: his own behaviour. Asked how he reacts, he admits he goes silent or leaves to fume, then takes it out on his wife. It becomes clear he does little to change things, and he is a little taken aback at being asked.\n\nDivorced woman case. A woman describes her ex-husband's Sunday visits with the children ending in verbal potshots that give her headaches. The helper has a clear picture of what he does but asks what she does. She says \"nothing\", but further probing reveals she had raised child-support payments and criticised him for not getting a better job. She has been describing herself as total victim and him as total aggressor, which is not the full story. Her behaviour contributes to the drama; she cannot change his behaviour directly but can experiment with changing her own.\n\nUse probes to help clients get a balanced view of problem situations and opportunities. Eager to make a point, clients often describe only one side of a picture. Probes help them fill it out. Example: a manager saddled with a bright, ambitious, aggressive young woman who plays office politics for her own ends has been agonising over his plight. The counsellor asks whether there is any upside or hidden opportunity, and, when the manager calls it a disaster, wonders aloud whether there are lessons for such a bright person. The manager reflects that he has always ignored politics, that politics exist wherever people are, and that he wants a way of dealing with it that keeps his integrity; the days of avoidance are over.\n\nEgan draws the lesson that problem situations have a flip side: they are opportunities for rethinking and learning, and so incentives for constructive change. Here it is a chance to understand male-female dynamics at work and to explore \"positive\" political skills.",
+   "simple": "Probes help clients notice what is missing from their story, very often their own part in the problem (the mother-in-law and ex-husband cases). They also help clients see the other side of a situation, since every problem has a flip side of opportunity (the manager and office politics).",
+   "keyPoints": [
+    "Probes help identify missing thoughts, experiences, behaviours and feelings in the problem-management puzzle.",
+    "Mother-in-law case: first her behaviour, then the client's own reaction (silence, fuming, blaming his wife).",
+    "Divorced woman: 'I do nothing' hides her own provocative behaviour; she can change her own part.",
+    "Probes help clients see a balanced picture rather than one side.",
+    "Manager with a political young colleague: problems have a flip side as opportunities for learning and constructive change."
+   ]
+  },
+  {
+   "id": "probes-stages-self-challenge",
+   "heading": "Guidelines for Using Probes (4): Moving Through the Helping Process and Self-Challenge",
+   "pages": [
+    146,
+    147
+   ],
+   "detailed": "Use probes to help clients move into more beneficial stages of the helping process. Probes can open dialogue about any part of helping: telling the story more fully, surfacing blind spots, setting goals, formulating strategies, discussing obstacles and reviewing actions. Many clients do not easily move to the stage that would help them most, and probes help them do so.\n\nSean and Fiona. A middle-aged couple who have been complaining about each other speak vaguely of \"reinventing\" their marriage, a term from a marriage encounter group, and hint at doing more things together. The counsellor asks what they like doing together and what the possibilities are. Fiona recalls that both like caring for others and once talked of joining the Peace Corps; Sean says those days are past. The counsellor asks \"Are they?\", accepts that the Peace Corps may not be an option, and has each write down three ways of helping others independently. Probes move them from tortuous problem exploration to opportunity development through brainstorming.\n\nThe affair. A woman who talks endlessly about her husband's affair (he knows she knows) says she will do nothing because it could hurt her son. The counsellor points out that doing nothing is not the only option and asks her to list what people in such situations typically do, drawing on people she knows, novels and films, without committing to any. She recalls an acquaintance who openly raised the affair at the family dinner table. The counsellor asks for more. This primes the pump; the focus on action brings energy to the session.\n\nJill and Justin. Justin, who lost a leg in a car accident, is letting his impairment stop him from picking up his life, and the session has bogged down. Jill proposes role reversal: she will play Justin and he will play the counsellor, asking questions that might make a difference. After a long pause Justin asks why \"Justin\" is taking the coward's way out and is on the verge of giving up, and his eyes fill with tears. By having Justin formulate the probes, Jill asks him to take responsibility for his part of the session. His \"probes\" are really challenges, almost accusations, stronger than anything Jill would have tried at that stage. Painful as it is, it is a breakthrough.\n\nUse probes to invite clients to challenge themselves. Chapter 4 showed that empathic responses can act as a mild form of social influence or challenge, and that good responses often work as probes, indirect requests for information or ways of steering clients to a more productive stage. Probes can go further, close to outright invitations to self-challenge. Many probes are not simply requests for information; they place a demand on the client to respond, reflect, review or re-evaluate. Probes thus serve as a bridge between communicating understanding and helping clients challenge themselves.\n\nExample: a client who committed to standing up to his possessive mother now seems to be weakening. The helper notes that he earlier spoke of \"having it out with her\" but now talks of \"being reasonable with her\" and asks how the two differ. After a pause the client admits to cold feet; she is a strong woman. The helper then helps him revisit his decision and, if he still wants it, strengthen his resolve. Egan concludes that probes used as mild challenges are perfectly legitimate, provided the helper knows what he or she is doing.",
+   "simple": "Probes can move stuck clients forward, from complaining to brainstorming options or taking responsibility (Sean and Fiona, the affair, Jill and Justin). Many probes also place a gentle demand on clients to rethink, making probes a bridge between understanding clients and helping them challenge themselves.",
+   "keyPoints": [
+    "Probes help clients move into the stage of helping most useful for them (story, blind spots, goals, strategies, obstacles, review).",
+    "Sean and Fiona: brainstorming ways of helping others shifts them from problem exploration to opportunity development.",
+    "Affair case: listing standard options 'primes the pump' and brings energy through a focus on action.",
+    "Jill and Justin role reversal: Justin's own 'probes' become self-challenges and a breakthrough.",
+    "Probes place demands to respond, reflect, review or re-evaluate: a bridge from understanding to self-challenge.",
+    "Probes as mild challenges are legitimate if the helper knows what he or she is doing."
+   ]
+  },
+  {
+   "id": "empathy-and-probes",
+   "heading": "The Relationship Between Sharing Empathic Responses and Using Probes",
+   "pages": [
+    148,
+    150
+   ],
+   "detailed": "Teaching skills one at a time takes each out of context. In real sessions skills must be blended naturally: skilled helpers continually tune in, listen actively and mix probes with empathy to help clients clarify concerns, deal with blind spots, set goals, make plans and get things done. There is no formula for the right mix; it depends on the client, the client's needs, the problem situation, possible opportunities and the stage of helping.\n\nThe basic guideline. After a probe to which the client responds, respond with empathy to what the client says and check your understanding. Be hesitant to follow one probe with another. Egan gives two reasons: (1) an effective probe yields information that needs to be listened to and understood; (2) an accurate empathic response itself places a demand on the client to explore further; it puts the ball back in the client's court.\n\nChinese American client: Counsellor A versus Counsellor B. A young Chinese American woman, whose father died in China and whose mother is dying in the United States, talks about the subservience common among Chinese women, her fear of slipping into passivity in her American life, and her sister who gives everything to her husband. The counsellor asks to what extent this self-effacing role is rooted in her culture. She says self-effacement is in her \"cultural genes\", that the North American style appeals to her, but that on a trip to China to meet her half-sisters she instantly felt totally Chinese again. Counsellor A follows with another probe (\"What did you learn there?\") and gets only an annoyed repetition: \"That I am Chinese!\" Counsellor B instead responds empathically: she learned how deep her cultural roots go. The client moves forward, asking what these roots mean for her life here and saying she wants to be Chinese and American at once but has not worked out how. Empathy works far better than a second probe.\n\nRepositioning case. A single middle-aged woman whose company reinvented itself after an economic downturn keeps her job but with lower pay, longer hours and work she dislikes; she lacks computer and Internet skills for better jobs and feels stuck, stressed and depressed. The helper alternates empathy and probes: reflecting her doubts about feeling \"grateful\", asking what she could change in the short term (she decides to stop joining the complaining chorus), reflecting that, then asking what she might start doing. She recognises unused strengths (communication, common sense, working well with people) and the helper reflects that she might reposition herself at work. The word \"repositioning\" energises her. The combination moves her from misery to naming possibilities for a better future.\n\nNeither machine nor interrogator. Helpers should become neither an empathic response \"machine\" grinding out one reflection after another nor an \"interrogator\" peppering clients with needless probes. All responses, including probes and challenges, are empathic if based on solid understanding of the client's core messages and points of view. Responses that build on and add to the client's remarks are implicitly empathic, which reduces the need for a constant stream of explicit empathic responses.\n\nBox 5.1: Guidelines in using probes. Keep in mind the goals of probing; use probes to help clients: engage as fully as possible in the dialogue; help nonassertive or reluctant clients tell their stories and engage in problem-managing behaviour; identify experiences, behaviours and feelings that give focus to their stories; open up new areas for discussion; explore and clarify stories, feelings, points of view, decisions and proposals; be as concrete and specific as possible; stay focused on relevant and important issues; move on to a further stage of helping. Further, use probes as nudges or mild challenges for clients to examine how they think and act in and outside sessions; probe in the spirit of empathy; use a mix of statements, open-ended questions, prompts and requests, not questions alone; follow a successful probe with an empathic response rather than another probe; and use whatever judicious mixture of empathy and probing is needed to clarify problems, identify blind spots, develop new scenarios, search for strategies, formulate plans and review outcomes.",
+   "simple": "In real sessions empathy and probing are mixed, with no fixed formula. The key rule: after a probe works, respond with empathy instead of firing another probe (Counsellor B succeeded where Counsellor A failed). Avoid being either an empathy machine or an interrogator. Box 5.1 sums up the guidelines.",
+   "keyPoints": [
+    "Skills must be blended naturally; the right mix depends on client, needs, situation, opportunities and stage.",
+    "Guideline: follow a probe the client answers with an empathic response; be hesitant to follow a probe with a probe.",
+    "Reasons: probes yield information that needs understanding; accurate empathy puts the ball back in the client's court.",
+    "Chinese American client: Counsellor A's second probe gets an annoyed repetition; Counsellor B's empathy moves her forward.",
+    "Don't be an empathic response 'machine' or an 'interrogator'; responses built on understanding are implicitly empathic.",
+    "Box 5.1 lists the goals of probing and rules: mix forms, probe in the spirit of empathy, follow probes with empathy."
+   ]
+  },
+  {
+   "id": "art-of-summarizing",
+   "heading": "The Art of Summarizing: Providing Focus and Direction",
+   "pages": [
+    149,
+    150
+   ],
+   "detailed": "Egan introduces the last basic communication skill. The skills of visibly tuning in, listening, responding with empathy and probing must be orchestrated so that clients focus on issues that make a difference. The ability to summarise, and to help clients summarise, the main points of an interchange or session can provide both focus and challenge.\n\nSummaries thus serve two purposes at once. They pull scattered material together so the client can see what matters (focus and direction), and, because a summary places the material in front of the client in a new way, they often nudge the client to move on or face something (challenge). Two forms are discussed: helper-provided summaries, used at particular moments, and summaries the client is asked to provide.\n\nLink with nudging. Like probes, summaries are among the gentle nudges described at the start of the chapter: they put the ball in the client's court without forcing any option.",
+   "simple": "Summarising pulls together the main points of a session so clients can focus on what matters. It provides both focus and a mild challenge, and can be done by the helper or by the client.",
+   "keyPoints": [
+    "Tuning in, listening, empathy and probing must be orchestrated to focus clients on issues that make a difference.",
+    "Summarising the main points of an interchange or session provides focus and challenge.",
+    "Helpers can summarise, or help clients summarise.",
+    "Summaries act as nudges that put responsibility back on the client."
+   ]
+  },
+  {
+   "id": "when-to-summarize",
+   "heading": "When to Use Summaries",
+   "pages": [
+    150,
+    152
+   ],
+   "detailed": "Brammer (1973) listed goals that summarising can serve: \"warming up\" the client, focusing scattered thoughts and feelings, closing discussion of a particular theme, and prompting the client to explore a theme more thoroughly. Egan names three times when summaries are especially useful.\n\n1. At the beginning of a new session. Especially when clients seem unsure how to start, an opening summary stops them simply repeating what was said before and pressures them to move on. Liz, a social worker, opens a session with an over-talkative man by summarising the main points of the previous session. This (a) shows she listened carefully and reflected afterwards, (b) gives him a jumping-off point and a chance to add to or modify what was said, and (c) places responsibility for moving forward on him. The implied message is \"Now where do you want to go with this?\" Summaries put the ball in the client's court and invite initiative. Getting client feedback at the beginning and end of each session also makes the flow between sessions smoother.\n\n2. During a session that is going nowhere. A main reason sessions stall is that helpers let clients go over the same ground instead of going deeper, focusing on possibilities and goals, or discussing strategies. Marcia, a coach, consultant and counsellor working with staff at a homeless shelter, meets a staff member showing signs of burnout who keeps recounting stressful incidents, such as being hit by someone she was helping and heated arguments with coworkers. Marcia summarises: the work is stressful by nature, such incidents are part of the furniture in shelters and will not stop, they are punishing, and so the real questions are how to cope, how to get ongoing satisfaction, and what changes might reduce incidents. The purpose is to move the client beyond \"poor me\" toward coping. Egan adds that the challenge in such settings is building a supportive work environment, a sense of organisational and personal purpose, mission-fitting teamwork and a culture of coping strategies.\n\n3. When the client needs a new perspective. Pulling scattered elements together often lets the client see the bigger picture. A man reluctant to attend counselling with his wife agrees to a couple of sessions \"to please her\" and talks disjointedly about home. The counsellor gathers the points: he encourages her career and her time with friends, spends time with the kids, handles the finances, accepts or rejects social invitations because his schedule is tighter, and now wants her to move to Boston for his better job. The client realises it sounds as if he is running her life. The summary gives a mild jolt; he must face the theme that he makes many decisions, some big, for her. (New perspectives are the focus of Chapter 6.)\n\nA second example: a 52-year-old single man who is \"down in the dumps\" hears a summary of his persistent slump, health worries that seem a symptom rather than cause, loss of old friends after a job change leaving a bleak social life, a painful struggle to stay young, and \"over investing\" in work so that life feels empty when a project ends. He finds it painful but accurate, admits to \"screwed-up values\", and agrees to look at what a better future might be like. The client draws his own conclusion.\n\nCautions. Do not overwhelm clients with the content of a summary, and never use summaries to \"build a case\" against a client; helping is not a judicial procedure. Egan suggests the last summary might have worked better had it also included the client's strengths, giving a more positive context.",
+   "simple": "Brammer listed goals of summaries such as warming up the client and focusing scattered thoughts. Summaries help most at the start of a session (Liz), when a session is going nowhere (Marcia), and when a client needs a new perspective (the husband \"running her life\"). Don't overwhelm the client or build a case against them; include strengths.",
+   "keyPoints": [
+    "Brammer (1973): summaries warm up the client, focus scattered thoughts and feelings, close a theme, prompt deeper exploration.",
+    "At the start of a session (Liz): shows listening, gives a jumping-off point, puts responsibility on the client.",
+    "When a session goes nowhere (Marcia at the shelter): moves the client beyond 'poor me' to coping.",
+    "When a new perspective is needed: husband sees he is 'running her life'; 52-year-old man sees his values.",
+    "Do not overwhelm clients or 'build a case'; helping is not a judicial procedure; include strengths."
+   ]
+  },
+  {
+   "id": "client-summary",
+   "heading": "Getting the Client to Provide the Summary",
+   "pages": [
+    152,
+    153
+   ],
+   "detailed": "Summaries are useful when clients do not seem to know where to go next, either within the session or in a real-world action programme. Probes could be used to help them move on, but summaries have a way of keeping the ball in the client's court.\n\nThe helper need not always supply the summary. Often it is better to ask the client to pull the major points together. This helps the client own the helping process, gather the salient points and move on. Because the exercise is not a test, the counsellor should give the client whatever help is needed to stitch the summary together.\n\nExample: a client who lost her job and her boyfriend because of alcohol-induced outbursts of anger has been talking about \"not being able to stick to the program\". The counsellor asks her to summarise what she has been doing and the obstacles she has met. With help, she stumbles through it and concludes that she clearly has not been sticking to the programme: on paper the plan looked easy, but she does not \"live on paper\". She then uses the counsellor to step back and review her goals, plans, obstacles and execution.",
+   "simple": "Instead of summarising for the client, the helper can ask the client to summarise. This helps the client own the process and move on. It is not a test, so the helper should help as needed.",
+   "keyPoints": [
+    "Useful when clients do not know where to go next in the session or in an action programme.",
+    "Summaries keep the ball in the client's court.",
+    "Asking the client to summarise helps them own the process, gather salient points and move on.",
+    "It is not a test; the helper helps the client stitch the summary together.",
+    "Alcohol/anger client: 'I don't live on paper' leads to reviewing goals, plans, obstacles and execution."
+   ]
+  },
+  {
+   "id": "mara-carlos",
+   "heading": "Mara and Carlos Revisited",
+   "pages": [
+    153,
+    155
+   ],
+   "detailed": "Egan returns to his running case. Carlos uses probes throughout to help Mara gain depth and clarity on key issues. Suspecting that her visit to Iran holds guidelines for her own future, he suggests reviewing what she learned there.\n\nProbing the Iran experience. Mara expected young Iranians to be depressed given a tough economy and less freedom, but Carlos reflects that she found they had their own kind of freedom. She describes them as upbeat, critical of the government and of overly controlling religious leaders but not of the religion itself, wanting a better economy yet talking about ideas instead of merely complaining, and loving their culture without feeling constrained by it; in some ways freer than she feels. When Carlos remarks that even their complaining sounds positive, she says she does not want to idealise it, and Carlos reflects that it nonetheless spoke to her strongly. She agrees: it showed her what is lacking in her own life. Carlos names \"the contrast\" and her \"cultural ghetto\" feeling. She envied their lively families and communities of friends; her own home has never been lively, and it is worse after the disastrous conversation with her father. Carlos reflects that finding or creating her own version of this is central to her desired future. Carlos combines empathy and probes and also helps her explore her relationship with her mother.\n\nClient-provided summary. To help her \"reset the system\" after the conversation with her father, Carlos suggests she summarise what has happened and what she has learned. Since it is near the end of the session, she chooses to think it over and open the next session with her summary, which Carlos invites with \"Where do we stand today?\"\n\nHer summary: she has been naive in carving out a future; she is now more realistic and determined, yet more fearful. Carlos reflects that she is wiser but the view is daunting. Her dilemma: she wants a full career and social life, but her parents see this as betrayal, they are ageing and her father's health is uncertain; it feels like a culture clash between the American who wants to move on and the dutiful Iranian daughter, though she knows that is too simplistic. Carlos suggests it may still be a useful simple framework, and she calls it a tool or map. Probed on her social life, she says \"the equation is wrong\": home life plus work life equals her social life; she lacks friends her age, a friendship community and intimate friends, her aunt is busy and her cousins too consumerist. Carlos reflects that the work-social balance needs immediate attention and asks for positives: she feels secure at home and work, though it is a lifeless security, and her strongest asset is her desire for a more engaging community. Her friend Jim is getting divorced, but he is \"not the one\". They then review her career aspirations and what it is like to be a \"cultural hybrid\".\n\nHer main challenge: she feels she cannot follow her heart in social or work life without in some sense abandoning her parents, which she does not want to do. Carlos frames the search as finding a way to pursue career and social life without abandoning them, and probes where \"not always pleasing them\" fits. Egan concludes that the issues are now fairly clear: Mara knows what she wants but cannot yet see how to get it, and figuring that out is the challenge.",
+   "simple": "Carlos uses empathy and probes to help Mara see what her trip to Iran revealed about what is missing in her own life: community and lively relationships. He then has Mara summarise her situation herself, which clarifies her core dilemma: building her own life without abandoning her parents.",
+   "keyPoints": [
+    "Carlos probes Mara's Iran trip for hints about her own future.",
+    "Contrast with upbeat, community-rich young Iranians highlights her 'cultural ghetto' feeling.",
+    "Carlos asks Mara to summarise; she opens the next session with her own summary.",
+    "Her dilemma: American who wants to move on vs dutiful Iranian daughter; 'the equation is wrong' in her social life.",
+    "Main challenge: following her heart without abandoning her parents; she knows what she wants but not how to get it."
+   ]
+  },
+  {
+   "id": "shadow-side-necessary-not-sufficient",
+   "heading": "The Shadow Side of Communication Skills: Communication Skills as Necessary but Not Sufficient",
+   "pages": [
+    155,
+    155
+   ],
+   "detailed": "Egan notes that the chapters so far have covered basic communication skills; Chapter 6 will move to advanced skills and processes that help clients move beyond blind spots to new perspectives, life-enhancing outcomes and action. Before that, he revisits the shadow side of communication skills under the heading \"essential, but not everything\".\n\nOveridentifying helping with communication skills. Some training programmes and helpers equate the helping process with the communication skills that serve it. These skills are critical tools, but being good at communication skills is not the same as being good at helping. An overemphasis on them can turn helping into a lot of talk with little action and few outcomes that make a real difference to clients' lives.\n\nSkills must serve process and outcomes. Communication skills are essential, but they must serve both the process and the outcomes of helping. They help build a good relationship, and a good relationship is the basis for the social-emotional re-education outlined earlier in the book. Yet a helper can be good at communication, relationship building and even social-emotional re-education and still shortchange clients, because clients need more than that.\n\nTwo kinds of overestimation. Some helpers treat a skill such as empathic responding as a \"magic bullet\"; others overestimate the value of information gathering. Egan stresses that this is not a sweeping indictment of the profession but a caution for beginners.",
+   "simple": "Communication skills are essential tools, but being good at them is not the same as being good at helping. Overemphasising them can produce lots of talk and little action. Empathy is no \"magic bullet\" and information gathering is not the goal.",
+   "keyPoints": [
+    "Chapter 6 will cover advanced skills; first Egan revisits the shadow side of communication skills.",
+    "Some programmes overidentify helping with communication skills; skill at communicating is not skill at helping.",
+    "Overemphasis can create much talk, little action and few meaningful outcomes.",
+    "Skills build the relationship, the basis for social-emotional re-education, but clients need more than that.",
+    "Some see empathy as a 'magic bullet'; others overvalue information gathering; a caution for beginners."
+   ]
+  },
+  {
+   "id": "relationship-vs-technologies",
+   "heading": "The Helping Relationship Versus Helping Technologies",
+   "pages": [
+    155,
+    156
+   ],
+   "detailed": "The opposite error is to underestimate the need for solid communication skills. Some practitioners quietly assume that the \"technology\" of their approach, such as treatment manuals, is enough. They listen and respond through their theories and constructs rather than through their humanity, becoming technologists instead of helpers. Egan compares them to some medical doctors who grow ever more proficient with medical technology and ever less in touch with their patients' humanity.\n\nEgan's hospital experience. Some years earlier Egan spent ten days in hospital (an eternity in the age of managed care). The staff handled his medical needs magnificently, but the psychological needs arising from anxiety about his illness were not addressed at all. Because his anxieties often showed up as physical symptoms, those symptoms were then treated medically. Frustrated, he asked the young doctor debriefing him about the staffing conference whether, after reviewing a patient's medical status, the team ever turned to what the patient was going through and how to help him through it. The resident replied that they did not have time. Egan emphasises that these were dedicated, generous people with his interests at heart, yet they ignored many of his needs. He sees involving healthcare psychologists in staffing sessions as a step in the right direction, and reports that on more recent visits to the same centre his experience was strikingly different: the medical profession's newer focus on relationship skills had become part of the centre's culture.\n\nTaken with the previous section, the message is balance: communication skills are necessary but not sufficient, and technique without relationship is equally inadequate.",
+   "simple": "The opposite mistake is relying on techniques and manuals and forgetting the human relationship, so that helpers become technologists. Egan's hospital stay, where his medical needs were met but his anxiety was ignored, shows the cost.",
+   "keyPoints": [
+    "Some practitioners underestimate communication skills and assume their approach's 'technology' (e.g. manuals) suffices.",
+    "They respond through theories and constructs, not their humanity: technologists instead of helpers.",
+    "Like doctors expert in technology but out of touch with patients' humanity.",
+    "Egan's 10-day hospital stay: medical needs met, psychological needs ignored; 'we don't have time'.",
+    "Healthcare psychologists in staffing sessions help; later visits showed relationship skills had entered the culture."
+   ]
+  },
+  {
+   "id": "developing-proficiency",
+   "heading": "Developing Proficiency in Communication Skills",
+   "pages": [
+    156,
+    157
+   ],
+   "detailed": "Understanding communication skills and how they fit into helping is one thing; becoming proficient in them is another. Some trainees assume these \"soft\" skills are easy and fail to put in the hard work and practice needed to become fluent. Doing manual exercises and practising in training groups helps but is not enough to make the skills second nature. Tuning in, listening, processing, sharing highlights and probing that are brought out only for helping sessions are likely to ring hollow. The skills must become part of the helper's everyday communication style and grow from a commitment to empathic relationships.\n\nPractise in real life. After initial training Egan tells students to go out into their real lives and get good at these skills, since he cannot do it for them. Practising them in daily life may be hard at first not because they are difficult but because they are rare in ordinary conversation. Take empathic responding: if you pressed an unobtrusive counter each time you heard someone give an empathic response, you might go days without pressing it. Yet you can make empathy part of your own life, and others will notice, though they will not call it empathy; they will say things like \"She really listens to me\" or \"He takes me seriously.\"\n\nProbes in everyday life. By contrast, probes, usually questions, are everywhere, because people are more comfortable asking questions than offering understanding. But many everyday probes are aimless, and worse, many are disguised criticisms (\"Why on earth did you do that?\"). Learning to integrate purposeful probes with empathy takes practice in daily life. Egan's slogan: life is your lab, and every conversation is an opportunity.\n\nRelevance beyond counselling. These skills belong in all human transactions, including business. When businesses list competencies they want in applicants, especially managers, communication and relationship-building skills are almost always at or near the top. Egan once trained an accounting firm; the training director valued the skills, but many account managers resisted. One notable resister later called to say he \"owed\" Egan a call. Meeting a prospective client dissatisfied with its audit firm, and thinking they had no chance of the account, he decided to amuse himself by trying the skills. The client gave his firm the account, saying it was not because they were the lowest bidder (they were not) but because they were the only ones who really understood the client's needs. Egan jokes that he forgot to ask for a share of the fee.",
+   "simple": "Knowing the skills is not the same as being good at them. They must be practised in everyday life until they become your natural style, since empathy is rare and aimless or critical questions are common. \"Life is your lab.\" These skills even win business, as the accounting firm story shows.",
+   "keyPoints": [
+    "Understanding skills is different from proficiency; 'soft' skills need hard work and practice.",
+    "Manuals and training groups are not enough; skills used only in sessions sound hollow.",
+    "Skills must become part of everyday style, rooted in commitment to empathic relationships.",
+    "Empathy is rare in daily talk (the counter exercise); probes are common but often aimless or disguised criticism.",
+    "'Life is your lab. Every conversation is an opportunity.'",
+    "Business values these skills: the resistant accountant won an account because the client felt understood."
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Nudge",
+   "definition": "Following Thaler and Sunstein, any feature of the choice architecture that changes behaviour in a predictable way without forbidding any options.",
+   "page": 136
+  },
+  {
+   "term": "Libertarian paternalism",
+   "definition": "Thaler and Sunstein's label for influence that guides people (paternalism, without coercion) while preserving their freedom of choice (libertarian, but not 'do whatever you want').",
+   "page": 136
+  },
+  {
+   "term": "Choice architect",
+   "definition": "Someone responsible for organising the context in which people make decisions; helpers are inevitably choice architects for their clients.",
+   "page": 136
+  },
+  {
+   "term": "Choice architecture",
+   "definition": "The context in which decisions are made; Egan treats treatment models, including the Skilled Helper framework and its skills, as forms of choice architecture.",
+   "page": 136
+  },
+  {
+   "term": "Selective responding",
+   "definition": "Because helpers cannot respond empathically to everything, choosing what to respond to is itself a form of influence, one way empathy acts as a nudge.",
+   "page": 136
+  },
+  {
+   "term": "Gentle power",
+   "definition": "Egan's description of nudges: they have power but do not overwhelm clients, foster collaboration and keep clients at the centre of decisions.",
+   "page": 136
+  },
+  {
+   "term": "Probes",
+   "definition": "Verbal and sometimes nonverbal tactics that help clients talk more freely and concretely about any issue at any stage of helping; they provide clarity and move things forward.",
+   "page": 136
+  },
+  {
+   "term": "Prompts",
+   "definition": "Brief verbal or nonverbal interventions that let clients know the helper is with them and encourage them to talk further.",
+   "page": 137
+  },
+  {
+   "term": "Nonverbal prompts",
+   "definition": "Bodily movements, gestures, nods, eye movements, leaning forward and waiting that work as nudges to keep a client talking.",
+   "page": 137
+  },
+  {
+   "term": "Vocal and verbal prompts",
+   "definition": "Sounds and words such as 'um', 'uh-huh', 'I see' or 'okay', effective only when used intentionally rather than on automatic pilot.",
+   "page": 137
+  },
+  {
+   "term": "Statement (as a probe)",
+   "definition": "A probe phrased as a statement of the need for more clarity, often the helper confessing confusion; it places responsibility on the client without accusing.",
+   "page": 137
+  },
+  {
+   "term": "Request (as a probe)",
+   "definition": "A direct request for more information or clarity ('Tell me what you mean...'), softened by tone so it does not sound like a command.",
+   "page": 138
+  },
+  {
+   "term": "Question (as a probe)",
+   "definition": "A direct question; perhaps the most common type of probe, though Egan doubts it should be so common.",
+   "page": 138
+  },
+  {
+   "term": "Single-word or phrase probe",
+   "definition": "A single word or short phrase (e.g. repeating 'Hate.' or 'Move forward to...?') that functions as a question or request.",
+   "page": 138
+  },
+  {
+   "term": "Open-ended question",
+   "definition": "A question that requires more than a yes/no or similar one-word answer; recommended as the general rule.",
+   "page": 139
+  },
+  {
+   "term": "Closed question",
+   "definition": "A question answerable with yes/no or one word; tends to lead to more closed questions but is appropriate when specific information is needed.",
+   "page": 139
+  },
+  {
+   "term": "Rhetorical question",
+   "definition": "A sharp closed question used as a form of challenge, e.g. 'Is getting back at him what you really want?'",
+   "page": 139
+  },
+  {
+   "term": "Grilling",
+   "definition": "What clients feel when they are asked too many questions; it harms the relationship and leads clients like Rolly to clam up.",
+   "page": 139
+  },
+  {
+   "term": "Ongoing feedback system",
+   "definition": "Systematic client feedback (e.g. Duncan's surveys) on progress, outcomes and session quality, which Egan says is an excellent opportunity for probing.",
+   "page": 140
+  },
+  {
+   "term": "Concreteness",
+   "definition": "Turning what is abstract and vague into something concrete and clear that helper and client can work with; a key aim of probing.",
+   "page": 142
+  },
+  {
+   "term": "Missing pieces of the picture",
+   "definition": "Thoughts, experiences, behaviours and feelings absent from a client's account (often the client's own behaviour) that probes help fill in.",
+   "page": 144
+  },
+  {
+   "term": "Balanced view",
+   "definition": "Seeing both sides of a problem situation or opportunity rather than the one side clients tend to describe.",
+   "page": 145
+  },
+  {
+   "term": "Flip side of problems",
+   "definition": "The idea that problem situations are also opportunities for rethinking and learning, and so incentives for constructive change.",
+   "page": 146
+  },
+  {
+   "term": "Probes as self-challenge",
+   "definition": "Probes that place a demand on clients to respond, reflect, review or re-evaluate, serving as a bridge between understanding and challenge.",
+   "page": 147
+  },
+  {
+   "term": "Empathic response 'machine'",
+   "definition": "A helper who mechanically grinds out one empathic response after another; one of two extremes to avoid.",
+   "page": 149
+  },
+  {
+   "term": "Interrogator",
+   "definition": "A helper who peppers clients with needless probes; the other extreme to avoid.",
+   "page": 149
+  },
+  {
+   "term": "Implicitly empathic responses",
+   "definition": "Responses, including probes and challenges, that build on and add to a client's remarks and rest on solid understanding of core messages.",
+   "page": 149
+  },
+  {
+   "term": "Summarizing",
+   "definition": "Pulling together the main points of an interchange or session, by the helper or the client, to provide focus, direction and challenge.",
+   "page": 149
+  },
+  {
+   "term": "Client-provided summary",
+   "definition": "A summary the client is asked to give, which helps the client own the process; the helper assists because it is not a test.",
+   "page": 152
+  },
+  {
+   "term": "Cultural ghetto feeling",
+   "definition": "Carlos's phrase for Mara's sense of what was missing in her own life when contrasted with the lively communities she saw in Iran.",
+   "page": 153
+  },
+  {
+   "term": "Cultural hybrid",
+   "definition": "Mara's description of her experience of being both American and Iranian.",
+   "page": 155
+  },
+  {
+   "term": "Social-emotional re-education",
+   "definition": "The process outlined earlier in the book for which a good helping relationship, built on communication skills, is the basis.",
+   "page": 155
+  },
+  {
+   "term": "Magic bullet",
+   "definition": "Egan's term for the mistaken belief that a single skill, such as empathic responding, can by itself make helping effective.",
+   "page": 155
+  },
+  {
+   "term": "Technologists (vs helpers)",
+   "definition": "Practitioners who rely on the 'technology' of their approach (e.g. treatment manuals) and respond through theory rather than their humanity.",
+   "page": 156
+  },
+  {
+   "term": "Life is your lab",
+   "definition": "Egan's slogan for practising communication skills in everyday conversations until they become second nature.",
+   "page": 157
+  }
+ ],
+ "people": [
+  {
+   "name": "Thaler and Sunstein",
+   "contribution": "Authors of Nudge (2008); source of the ideas of libertarian paternalism, choice architects and the nudge, which Egan applies to helping.",
+   "page": 136
+  },
+  {
+   "name": "Duncan",
+   "contribution": "Associated with client feedback surveys; Egan cites 'surveys such as Duncan's' as an ongoing feedback system that offers opportunities for probing.",
+   "page": 140
+  },
+  {
+   "name": "Brammer",
+   "contribution": "Listed (1973) goals of summarising: warming up the client, focusing scattered thoughts and feelings, closing a theme, and prompting deeper exploration.",
+   "page": 150
+  },
+  {
+   "name": "Gerard Egan",
+   "contribution": "Author; admits asking questions whose answers he did not want, recounts his hospital stay and his training programme for an accounting firm.",
+   "page": 139
+  },
+  {
+   "name": "Rolly",
+   "contribution": "Inmate in a facility for young offenders; case showing how a barrage of random questions leads a client to clam up.",
+   "page": 139
+  },
+  {
+   "name": "Letta",
+   "contribution": "Single mother and problem drinker after the financial crash; case showing feedback ratings used as probes and 'realism' as a turning point.",
+   "page": 140
+  },
+  {
+   "name": "Sean and Fiona",
+   "contribution": "Middle-aged couple; probes and brainstorming move them from complaining to ways of helping others together.",
+   "page": 146
+  },
+  {
+   "name": "Jill and Justin",
+   "contribution": "Counsellor and client who lost a leg; role reversal has Justin formulate probes that become self-challenges.",
+   "page": 147
+  },
+  {
+   "name": "Liz",
+   "contribution": "Social worker who opens a session with a summary of the previous one for an overly talkative client.",
+   "page": 150
+  },
+  {
+   "name": "Marcia",
+   "contribution": "Coach, consultant and counsellor at a homeless shelter; uses a summary to move a burnt-out staff member beyond 'poor me'.",
+   "page": 151
+  },
+  {
+   "name": "Mara and Carlos",
+   "contribution": "Running case: Carlos probes Mara's Iran trip and has her provide her own summary of her dilemma.",
+   "page": 153
+  }
+ ],
+ "studies": [
+  {
+   "title": "Thaler and Sunstein (2008), Nudge",
+   "finding": "Influence can be exercised through choice architecture that predictably alters behaviour without forbidding options (libertarian paternalism); Egan applies this to helping.",
+   "page": 136
+  },
+  {
+   "title": "Brammer (1973) on summarising",
+   "finding": "Summaries can warm up the client, focus scattered thoughts and feelings, bring a theme to a close and prompt fuller exploration of a theme.",
+   "page": 150
+  },
+  {
+   "title": "Egan's hospital experience",
+   "finding": "During a 10-day stay staff met his medical needs but ignored his anxiety, treating its physical symptoms medically; years later the same centre had absorbed relationship skills into its culture.",
+   "page": 156
+  },
+  {
+   "title": "Business competency preferences",
+   "finding": "When businesses are asked what they want in job applicants, especially managers, communication and relationship-building skills are inevitably at or near the top.",
+   "page": 157
+  },
+  {
+   "title": "Accounting firm training programme",
+   "finding": "A resistant account manager tried the skills with a prospect and won the account, not as low bidder but because the client felt his firm alone understood its needs.",
+   "page": 157
+  }
+ ],
+ "examples": [
+  {
+   "title": "A nudge in a college counselling room",
+   "text": "A first-year student says she is thinking of dropping out of her engineering course. The counsellor neither forbids it nor pushes it, but asks her to list what she would be moving toward if she left. All options stay open, yet the question predictably steers her to think about goals rather than escape.",
+   "supplementary": true
+  },
+  {
+   "title": "Statement vs grilling with an anxious parent",
+   "text": "Instead of firing questions at a mother worried about her son's board exams ('How many hours does he study? Does he use his phone? Does he sleep late?'), the counsellor says, 'I'm still not clear what worries you most about this.' She replies that her real fear is family comparison with a cousin, something no question in the list would have found.",
+   "supplementary": true
+  },
+  {
+   "title": "Following a probe with empathy",
+   "text": "Counsellor: 'What happens at home when your marks come?' Client: 'Appa doesn't shout. He just stops talking to me for days.' A second probe ('How many days?') would stall things. An empathic reply ('The silence hurts more than shouting would') invites the client to say more.",
+   "supplementary": true
+  },
+  {
+   "title": "Summary at the start of a session",
+   "text": "A counsellor opens: 'Last week you spoke about the hostel noise, missing your family in Mangaluru and feeling behind in two subjects. Where would you like to go with this today?' The client, who usually repeats the same complaints, picks the subjects and starts planning.",
+   "supplementary": true
+  }
+ ],
+ "checks": [
+  {
+   "q": "Thaler and Sunstein describe the influence helpers exercise as:",
+   "options": [
+    "Libertarian paternalism",
+    "Benevolent coercion",
+    "Directive counselling",
+    "Social persuasion"
+   ],
+   "answer": 0,
+   "explain": "Egan borrows the term libertarian paternalism from Thaler and Sunstein's Nudge.",
+   "page": 136,
+   "sectionId": "nudging"
+  },
+  {
+   "q": "Which best captures a 'nudge'?",
+   "options": [
+    "Removes unhealthy options from the client's choices",
+    "Uses rewards and punishments to shape behaviour",
+    "Gives clients complete freedom with no influence",
+    "Alters behaviour predictably without forbidding any options"
+   ],
+   "answer": 3,
+   "explain": "Thaler and Sunstein define a nudge as altering behaviour predictably without forbidding options.",
+   "page": 136,
+   "sectionId": "nudging"
+  },
+  {
+   "q": "Egan calls empathic responses the ______ of dialogue, while probes provide nudges.",
+   "options": [
+    "Engine",
+    "Foundation",
+    "Lubricant",
+    "Destination"
+   ],
+   "answer": 2,
+   "explain": "If empathy is the lubricant of dialogue, probes provide the needed nudges.",
+   "page": 136,
+   "sectionId": "art-of-probing"
+  },
+  {
+   "q": "Probes can be used:",
+   "options": [
+    "Only during the opening assessment",
+    "At any stage of the helping process",
+    "Only after goals are set",
+    "Only with involuntary clients"
+   ],
+   "answer": 1,
+   "explain": "Prompts and probes help clients talk freely about any issue at any stage.",
+   "page": 137,
+   "sectionId": "art-of-probing"
+  },
+  {
+   "q": "In Egan's metaphor, prompts are:",
+   "options": [
+    "Useful condiments, never the main course",
+    "The main course of the dialogue",
+    "The foundation of every intervention",
+    "A last resort for silent clients"
+   ],
+   "answer": 0,
+   "explain": "Prompts should never be the main course but are useful condiments.",
+   "page": 137,
+   "sectionId": "prompts"
+  },
+  {
+   "q": "Vocal prompts such as 'uh-huh' are useful provided they are:",
+   "options": [
+    "Used after every client sentence",
+    "Combined with direct questions",
+    "Avoided with highly verbal clients",
+    "Used intentionally, not on automatic pilot"
+   ],
+   "answer": 3,
+   "explain": "Egan says they work only if used intentionally, not when attention flags.",
+   "page": 137,
+   "sectionId": "prompts"
+  },
+  {
+   "q": "A helper says, 'I guess I'm still confused about...'. This probe is a:",
+   "options": [
+    "Request",
+    "Closed question",
+    "Statement",
+    "Nonverbal prompt"
+   ],
+   "answer": 2,
+   "explain": "Statement probes often take the form of the helper confessing being in the dark.",
+   "page": 138,
+   "sectionId": "forms-of-probes"
+  },
+  {
+   "q": "When a client says 'I really hate her', the helper replies 'Hate.' This is an example of:",
+   "options": [
+    "A rhetorical question",
+    "A single word functioning as a probe",
+    "Advanced empathy",
+    "A summary"
+   ],
+   "answer": 1,
+   "explain": "Single words or phrases can in effect be questions or requests.",
+   "page": 138,
+   "sectionId": "forms-of-probes"
+  },
+  {
+   "q": "What does Egan say happens with Rolly when he tires of questions?",
+   "options": [
+    "He clams up",
+    "He becomes aggressive",
+    "He opens up about his family",
+    "He requests a new counsellor"
+   ],
+   "answer": 0,
+   "explain": "Rolly is an expert in evading questions and simply clams up.",
+   "page": 139,
+   "sectionId": "using-questions"
+  },
+  {
+   "q": "According to Egan, counsellors who ask closed questions:",
+   "options": [
+    "Gather information more efficiently",
+    "Build rapport faster",
+    "Rarely need to probe again",
+    "End up asking more and more questions"
+   ],
+   "answer": 3,
+   "explain": "One closed question leads to another.",
+   "page": 139,
+   "sectionId": "using-questions"
+  },
+  {
+   "q": "In Letta's case, what prompted the helper's first probe in session three?",
+   "options": [
+    "Her late arrival",
+    "A complaint from her boyfriend",
+    "A drop in her 'individually' feedback score",
+    "Her request for medication"
+   ],
+   "answer": 2,
+   "explain": "The helper used the ongoing feedback system, noting her score had taken a hit.",
+   "page": 140,
+   "sectionId": "probes-feedback-engagement"
+  },
+  {
+   "q": "Egan calls probes the principal tools for helping clients:",
+   "options": [
+    "Accept the counsellor's interpretations",
+    "Engage in the give-and-take of the helping dialogue",
+    "Complete standardised tests",
+    "Accept a diagnosis"
+   ],
+   "answer": 1,
+   "explain": "Many clients lack communication skills; probes are the principal tools for engaging them.",
+   "page": 141,
+   "sectionId": "probes-feedback-engagement"
+  },
+  {
+   "q": "When probing for concreteness, the goal is:",
+   "options": [
+    "Detail that makes the problem clear enough to act on",
+    "As much detail as possible",
+    "A complete life history",
+    "Detail that confirms a diagnosis"
+   ],
+   "answer": 0,
+   "explain": "The goal is not ever more detail but detail that shows what can be done.",
+   "page": 143,
+   "sectionId": "probes-concreteness-viewpoints"
+  },
+  {
+   "q": "In the DUI case, the counsellor asks about the best and worst court outcomes in order to:",
+   "options": [
+    "Give legal advice",
+    "Test the client's honesty",
+    "Prepare him for jail",
+    "Help the client explore the implications of his decision"
+   ],
+   "answer": 3,
+   "explain": "Egan says the counsellor uses probes to explore the implications of a decision.",
+   "page": 144,
+   "sectionId": "probes-concreteness-viewpoints"
+  },
+  {
+   "q": "In both the mother-in-law and divorced woman cases, the missing piece filled in by probes was:",
+   "options": [
+    "The other person's motives",
+    "Childhood history",
+    "The client's own behaviour",
+    "Financial details"
+   ],
+   "answer": 2,
+   "explain": "Probes reveal what the clients themselves do in the situation.",
+   "page": 145,
+   "sectionId": "probes-missing-pieces-balance"
+  },
+  {
+   "q": "The manager with an ambitious, political colleague is helped to see that problems:",
+   "options": [
+    "Should be avoided where possible",
+    "Have a flip side as opportunities for learning",
+    "Are mostly caused by others",
+    "Cannot be changed"
+   ],
+   "answer": 1,
+   "explain": "The problem situation has a flip side: an opportunity for rethinking and learning.",
+   "page": 146,
+   "sectionId": "probes-missing-pieces-balance"
+  },
+  {
+   "q": "In the Jill and Justin case, Jill:",
+   "options": [
+    "Has Justin play counsellor and formulate the probes",
+    "Confronts Justin about his cowardice",
+    "Refers Justin to a support group",
+    "Summarises the previous session"
+   ],
+   "answer": 0,
+   "explain": "Jill reverses roles so Justin formulates probes, which become self-challenges.",
+   "page": 147,
+   "sectionId": "probes-stages-self-challenge"
+  },
+  {
+   "q": "Egan says probes can serve as a bridge between:",
+   "options": [
+    "Assessment and diagnosis",
+    "Individual and group therapy",
+    "Theory and research",
+    "Communicating understanding and helping clients challenge themselves"
+   ],
+   "answer": 3,
+   "explain": "Probes bridge understanding and self-challenge by placing demands on clients.",
+   "page": 147,
+   "sectionId": "probes-stages-self-challenge"
+  },
+  {
+   "q": "Egan's basic guideline after a client responds to a probe is to:",
+   "options": [
+    "Follow up quickly with another probe",
+    "Summarise the session",
+    "Respond with empathy and check understanding",
+    "Move to action planning"
+   ],
+   "answer": 2,
+   "explain": "Respond with empathy; be hesitant to follow one probe with another.",
+   "page": 148,
+   "sectionId": "empathy-and-probes"
+  },
+  {
+   "q": "Counsellor A's second probe to the Chinese American client produced:",
+   "options": [
+    "A deep insight about her mother",
+    "An annoyed repetition: 'That I am Chinese!'",
+    "Silence and tears",
+    "A request to end the session"
+   ],
+   "answer": 1,
+   "explain": "Another probe elicited only a repetition with some annoyance.",
+   "page": 148,
+   "sectionId": "empathy-and-probes"
+  },
+  {
+   "q": "Egan says summarising provides both:",
+   "options": [
+    "Focus and challenge",
+    "Diagnosis and treatment",
+    "Rapport and termination",
+    "Information and advice"
+   ],
+   "answer": 0,
+   "explain": "Summarising can be used to provide both focus and challenge.",
+   "page": 149,
+   "sectionId": "art-of-summarizing"
+  },
+  {
+   "q": "Summarising requires the orchestration of which skills?",
+   "options": [
+    "Interpretation and confrontation only",
+    "Testing and diagnosis",
+    "Advice giving and reassurance",
+    "Tuning in, listening, empathy and probing"
+   ],
+   "answer": 3,
+   "explain": "These skills must be orchestrated to help clients focus on issues that make a difference.",
+   "page": 149,
+   "sectionId": "art-of-summarizing"
+  },
+  {
+   "q": "Who listed goals such as 'warming up' the client as uses of summaries?",
+   "options": [
+    "Duncan",
+    "Thaler",
+    "Brammer",
+    "Sunstein"
+   ],
+   "answer": 2,
+   "explain": "Brammer (1973) listed these goals of summarising.",
+   "page": 150,
+   "sectionId": "when-to-summarize"
+  },
+  {
+   "q": "Marcia's summary at the homeless shelter was meant to:",
+   "options": [
+    "Document incidents for management",
+    "Move the client beyond 'poor me' toward coping",
+    "Persuade the client to resign",
+    "Build a case against coworkers"
+   ],
+   "answer": 1,
+   "explain": "The purpose was to help the client move beyond 'poor me' and cope.",
+   "page": 151,
+   "sectionId": "when-to-summarize"
+  },
+  {
+   "q": "Why should the counsellor help a client stitch together the client's own summary?",
+   "options": [
+    "It is not meant as a test",
+    "Clients cannot summarise",
+    "It shortens the session",
+    "It replaces probing entirely"
+   ],
+   "answer": 0,
+   "explain": "Because it is not meant to test clients, the counsellor gives whatever help is needed.",
+   "page": 153,
+   "sectionId": "client-summary"
+  },
+  {
+   "q": "The alcohol/anger client concludes her summary by noting that:",
+   "options": [
+    "Her boyfriend was to blame",
+    "The programme was too hard",
+    "She no longer needs help",
+    "She doesn't 'live on paper'"
+   ],
+   "answer": 3,
+   "explain": "Her plan looked easy on paper, but she doesn't live on paper.",
+   "page": 153,
+   "sectionId": "client-summary"
+  },
+  {
+   "q": "Carlos describes Mara's sense of contrast with young Iranians as a:",
+   "options": [
+    "Cultural hybrid identity",
+    "Generation gap",
+    "'Cultural ghetto' feeling",
+    "Religious conflict"
+   ],
+   "answer": 2,
+   "explain": "Carlos names it the contrast and the 'cultural ghetto' feeling.",
+   "page": 153,
+   "sectionId": "mara-carlos"
+  },
+  {
+   "q": "Mara's main challenge at the end of the excerpt is:",
+   "options": [
+    "Choosing between Jim and another man",
+    "Following her heart without abandoning her parents",
+    "Moving to Iran",
+    "Finding a better-paying job"
+   ],
+   "answer": 1,
+   "explain": "She feels she cannot follow her heart without in some sense abandoning her parents.",
+   "page": 155,
+   "sectionId": "mara-carlos"
+  },
+  {
+   "q": "Egan's caution about communication skills is that:",
+   "options": [
+    "Being good at them is not the same as being good at helping",
+    "They are unnecessary for experienced helpers",
+    "They should replace treatment models",
+    "They matter only in the first session"
+   ],
+   "answer": 0,
+   "explain": "Communication skills are necessary but not sufficient.",
+   "page": 155,
+   "sectionId": "shadow-side-necessary-not-sufficient"
+  },
+  {
+   "q": "Some helpers see empathic responding as a:",
+   "options": [
+    "Waste of time",
+    "Diagnostic tool",
+    "Technology",
+    "Magic bullet"
+   ],
+   "answer": 3,
+   "explain": "Some overestimate empathy as a 'magic bullet'.",
+   "page": 155,
+   "sectionId": "shadow-side-necessary-not-sufficient"
+  },
+  {
+   "q": "Practitioners who rely on treatment manuals and respond through their theories rather than their humanity become:",
+   "options": [
+    "Choice architects",
+    "Interrogators",
+    "Technologists instead of helpers",
+    "Empathic response machines"
+   ],
+   "answer": 2,
+   "explain": "Egan says they become technologists instead of helpers.",
+   "page": 156,
+   "sectionId": "relationship-vs-technologies"
+  },
+  {
+   "q": "When Egan asked whether staff discussed what he was going through, the resident replied:",
+   "options": [
+    "'That is the psychologist's job.'",
+    "'No, we don't have time.'",
+    "'Yes, always.'",
+    "'Only for surgical patients.'"
+   ],
+   "answer": 1,
+   "explain": "The resident said they did not have time.",
+   "page": 156,
+   "sectionId": "relationship-vs-technologies"
+  },
+  {
+   "q": "Egan says everyday probes are often:",
+   "options": [
+    "Aimless or disguised criticisms",
+    "Too empathic",
+    "Too rare",
+    "Highly purposeful"
+   ],
+   "answer": 0,
+   "explain": "Many everyday probes are aimless; worse, many are disguised criticisms.",
+   "page": 157,
+   "sectionId": "developing-proficiency"
+  },
+  {
+   "q": "Egan's slogan for developing proficiency is:",
+   "options": [
+    "'Practice makes perfect.'",
+    "'Know thyself.'",
+    "'Less is more.'",
+    "'Life is your lab.'"
+   ],
+   "answer": 3,
+   "explain": "Life is your lab; every conversation is an opportunity.",
+   "page": 157,
+   "sectionId": "developing-proficiency"
+  }
+ ],
+ "practice": [
+  {
+   "q": "What is meant by a 'nudge' in helping?",
+   "marks": 2,
+   "answer": "Following Thaler and Sunstein (2008), Egan defines a nudge as any aspect of the choice architecture that alters behaviour in a predictable way without forbidding any options. Helpers inevitably influence clients, and probes, summaries and even empathic responses act as nudges with 'gentle power' that keeps clients at the centre of decision making.",
+   "pages": [
+    136,
+    136
+   ]
+  },
+  {
+   "q": "Define libertarian paternalism.",
+   "marks": 2,
+   "answer": "A term from Thaler and Sunstein's Nudge, used by Egan for the influence helpers exercise. It is paternalistic because the helper influences the client, though without physical or psychological coercion, and libertarian because the client's freedom of choice is preserved, though this does not mean 'do whatever you want'.",
+   "pages": [
+    136,
+    136
+   ]
+  },
+  {
+   "q": "What are prompts? Give two examples.",
+   "marks": 2,
+   "answer": "Prompts are brief verbal or nonverbal interventions that let clients know the helper is with them and encourage further talk. Examples: leaning forward attentively and waiting after a client says \"I just can't do it!\", or a brief, intentional \"Um\" that led a perfectionistic client to reconsider her claim that she could not change. They are condiments, not the main course.",
+   "pages": [
+    137,
+    137
+   ]
+  },
+  {
+   "q": "Distinguish open-ended and closed questions.",
+   "marks": 2,
+   "answer": "Open-ended questions require more than a yes/no or one-word answer (\"How do you see the future?\") and are Egan's general rule. Closed questions invite one-word answers and tend to breed more closed questions, though they are appropriate when specific information is needed (number of jobs in two years) or as a sharp rhetorical challenge.",
+   "pages": [
+    139,
+    140
+   ]
+  },
+  {
+   "q": "What does Egan mean by 'Life is your lab'?",
+   "marks": 2,
+   "answer": "Communication skills become second nature only through practice in everyday life, not just in manuals or training groups. Since empathy is rare and aimless or critical probes are common in daily talk, every conversation is a chance to practise integrating purposeful probes with empathy.",
+   "pages": [
+    156,
+    157
+   ]
+  },
+  {
+   "q": "Explain the different forms of probes with examples.",
+   "marks": 5,
+   "answer": "Egan describes probes as verbal and sometimes nonverbal tactics that help clients name, notice, explore, clarify or further define issues at any stage of helping. Their aim is clarity and forward movement. They take four forms.\n\nStatements. A statement signals the need for more clarity, often as the helper admitting confusion: \"It's still not clear to me whether you want to challenge her to leave the nest.\" Such probes put responsibility on the client without accusing him or her of withholding.\n\nRequests. Direct requests for information, such as \"Tell me what you mean when you say three's a crowd at home,\" which brought out that the client's difficulty lay in the three-way chemistry with husband and mother-in-law. Requests must not sound like commands; tone and nonverbal cues soften them.\n\nQuestions. Probably the most common probe. In one case a client backtracking on an anger-control programme was asked what she did not want to lose; she said \"Spunk!\", which opened a discussion of assertiveness versus aggression.\n\nSingle words or phrases. Repeating \"Hate.\" led a client to admit the word was too strong; \"Move forward to...?\" helped a fearful client specify his goal.\n\nEgan concludes that all these are, directly or indirectly, questions, so the rules for using questions apply to every form.",
+   "pages": [
+    137,
+    139
+   ]
+  },
+  {
+   "q": "Discuss Egan's guidelines for using questions effectively.",
+   "marks": 5,
+   "answer": "Egan observes that novices and inept counsellors ask too many questions, often when unsure what to do, as though gathering information were the purpose of the interview. Used judiciously, though, questions are valuable. He offers two guidelines.\n\nDo not ask too many questions. Clients who are bombarded feel grilled, and many sense when questions are filler. Egan admits asking questions whose answers he did not want. In the case of Rolly, a young offender who blames his dysfunctional family, the frustrated counsellor fires a string of questions about his family and friends. These are a random search for information; Rolly, used to being grilled by professionals, clams up. Question-and-answer helping goes nowhere.\n\nAsk open-ended questions. Questions should need more than a yes/no answer: not \"Do you have any plans?\" but \"How do you see the future? What plans do you have?\" Closed questions generate more closed questions.\n\nExceptions. A closed question is right when specific information is needed, as when a career counsellor asks how many jobs a client has had in two years for a résumé. A sharp rhetorical question (\"Is getting back at him what you really want?\") can act as a challenge and reveal the intensity of feelings.\n\nThus open-ended questions in moderation help clients fill in what is missing at every stage.",
+   "pages": [
+    139,
+    140
+   ]
+  },
+  {
+   "q": "Explain the concept of nudging and its relevance to counselling.",
+   "marks": 5,
+   "answer": "Egan begins from the premise that all helping involves influence. The challenge is to influence clients to discuss difficult issues, develop new perspectives, choose goals and act, without robbing them of their freedom.\n\nHe borrows from Thaler and Sunstein's Nudge (2008). Their term libertarian paternalism describes influence that is paternalistic but not coercive, and libertarian without meaning \"anything goes\". A choice architect organises the context in which people decide. Because decision making is central to therapy and helpers cannot avoid influence, helpers are choice architects; treatment models, including the Skilled Helper framework, its methods and skills, are forms of choice architecture.\n\nA nudge alters behaviour predictably (in the social-science sense) without forbidding options. Even empathy nudges: selective responding influences what clients attend to, and empathic responses encourage broader and deeper exploration, without pinning clients down.\n\nNudges have \"gentle power\". Used skilfully they encourage collaboration, do not overwhelm and keep clients at the centre of decision making. Egan presents probing and summarising as two key nudges, which links the idea to the whole chapter and gives an ethical frame for influence in counselling.",
+   "pages": [
+    135,
+    136
+   ]
+  },
+  {
+   "q": "Explain the relationship between sharing empathic responses and using probes.",
+   "marks": 5,
+   "answer": "Egan notes that teaching skills separately takes them out of context; in real sessions helpers continually tune in, listen and blend probes with empathy. There is no formula: the mix depends on the client, needs, situation, opportunities and stage.\n\nBasic guideline. After a client responds to a probe, respond with empathy and check understanding; be hesitant to follow one probe with another. First, an effective probe yields information that needs to be understood. Second, accurate empathy places a demand on the client to explore further, putting the ball back in the client's court.\n\nIllustration. A Chinese American woman describes feeling totally Chinese on a trip to China. Counsellor A asks another probe, \"What did you learn there?\", and gets an annoyed \"That I am Chinese!\" Counsellor B reflects, \"You learned just how deep your cultural roots go,\" and she moves on to how to be Chinese and American at once. In a second case, alternating empathy and probes helps a stressed employee move from misery to \"repositioning\" herself using unused skills.\n\nHelpers should be neither an empathy \"machine\" nor an \"interrogator\". Any response grounded in understanding of the client's core messages is implicitly empathic. Box 5.1 summarises these guidelines.",
+   "pages": [
+    148,
+    150
+   ]
+  },
+  {
+   "q": "When should a counsellor use summaries? Illustrate.",
+   "marks": 5,
+   "answer": "Egan sees summarising as a skill that provides focus and challenge. Brammer (1973) listed its goals: warming up the client, focusing scattered thoughts and feelings, closing a theme and prompting deeper exploration. Egan highlights three occasions.\n\nBeginning of a session. Summaries stop clients repeating old material and press them to move on. Liz, a social worker, summarises the previous session for a talkative client: this shows she listened and reflected, offers a jumping-off point and places responsibility on him (\"Now where do you want to go with this?\").\n\nA session going nowhere. Marcia, working with a burnt-out shelter worker who keeps recounting incidents, summarises that such incidents are part of the furniture, then poses questions about coping and change, moving her beyond \"poor me\".\n\nWhen a new perspective is needed. Pulling together a husband's scattered comments (he handles finances, decides on invitations, plans a move to Boston) leads him to see he may be running his wife's life. A 52-year-old man hears a summary of his slump and admits to \"screwed-up values\".\n\nCautions: do not overwhelm clients, never \"build a case\", and include strengths. Clients can also be asked to provide the summary, which helps them own the process.",
+   "pages": [
+    150,
+    153
+   ]
+  },
+  {
+   "q": "'Communication skills are essential but not everything.' Discuss.",
+   "marks": 5,
+   "answer": "Under the shadow side of communication skills, Egan warns against two opposite errors.\n\nNecessary but not sufficient. Some training programmes and helpers overidentify helping with communication skills, which are only its tools. Being good at communication is not being good at helping, and overemphasis yields much talk, little action and few meaningful outcomes. Skills build the relationship that underpins social-emotional re-education, but clients need more. Some treat empathy as a \"magic bullet\"; others overvalue information gathering. Egan frames this as a caution for beginners, not an indictment of the profession.\n\nRelationship versus technologies. Other practitioners underestimate communication skills and rely on the \"technology\" of their approach, such as manuals, responding through theory rather than humanity: technologists instead of helpers, like doctors expert in equipment but out of touch with patients. Egan's ten-day hospital stay illustrates this: excellent medical care, but his anxiety was ignored and its physical symptoms treated medically; the resident said they had \"no time\". Later visits showed relationship skills had become part of the centre's culture.\n\nThe lesson is balance: skills must serve the process and outcomes of helping.",
+   "pages": [
+    155,
+    156
+   ]
+  },
+  {
+   "q": "Describe the guidelines for using probes in counselling, with suitable illustrations from Egan.",
+   "marks": 10,
+   "answer": "Introduction. Egan describes probes as verbal and sometimes nonverbal tactics that help clients talk more freely and concretely about any issue at any stage of helping. If empathy is the lubricant of dialogue, probes provide the needed nudges. Probes may be statements, requests, questions or single words, and Egan offers guidelines that apply to all of them.\n\n1. Use the ongoing feedback system to probe. Systematic feedback, such as Duncan's surveys, is an excellent opening. When Letta's \"individually\" score fell below her first-session level, the helper asked what message it carried. Mixing empathy with probes like \"Shot down?\" and \"What good might come from all of this?\" led her to the idea of \"realism\", which she later named as what made the session work.\n\n2. Help clients engage in the dialogue. Many clients lack the communication skills for problem-managing dialogue; probes are the principal tools for drawing them in. A parishioner frustrated with her insurer was helped to review what she had done and show her forms, revealing that her experience was normal.\n\n3. Achieve concreteness and clarity. \"Tell me what she actually does\" turned a vague complaint into specific behaviours and revealed the client's fear of losing his partner. \"What kinds of things?\" uncovered a client's tragic-hero daydreams. The aim is not endless detail but detail that shows what can be done.\n\n4. Clarify points of view, intentions, proposals and decisions. With a drink-driving client, probes about DUI laws and the best and worst court outcomes helped him face the implications of his views and decisions; later a probe about what an apology should achieve gave his proposal substance.\n\n5. Fill in missing pieces. Probes revealed what a man did when his mother-in-law disrupted the household (going silent, then blaming his wife) and that a divorced woman who said she did \"nothing\" was in fact provoking her ex-husband.\n\n6. Get a balanced view. Asking a manager about any \"upside\" to his political young colleague helped him see the flip side: problems are opportunities for learning.\n\n7. Move into more beneficial stages. Probes moved Sean and Fiona from complaints to brainstorming ways of helping others, primed the pump for a woman stuck on her husband's affair, and, through role reversal, let Justin pose his own challenging \"probes\".\n\n8. Invite self-challenge. Probes place demands on clients to reflect and re-evaluate, bridging understanding and challenge, as when a client was asked how \"having it out\" with his mother differed from \"being reasonable\" with her.\n\nBox 5.1 adds: keep the goals of probing in mind; probe in the spirit of empathy; mix statements, open-ended questions, prompts and requests rather than relying on questions; follow a successful probe with empathy, not another probe; and use whatever mix of empathy and probing helps clients clarify problems, see blind spots, develop scenarios, plan and review.\n\nConclusion. For Egan, probing is a disciplined skill that gives focus and direction to the whole helping process. Used judiciously and within an empathic relationship, probes act as gentle nudges that deepen exploration, move clients toward action and invite self-challenge, while the helper avoids becoming an interrogator.",
+   "pages": [
+    140,
+    150
+   ]
+  },
+  {
+   "q": "Discuss summarising as a communication skill, including when to use summaries and getting clients to summarise. Illustrate with the case of Mara and Carlos.",
+   "marks": 10,
+   "answer": "Introduction. Egan treats summarising as the skill that orchestrates tuning in, listening, empathy and probing so that clients focus on issues that make a difference. Summaries of the main points of an interchange or session provide both focus and challenge, and act as gentle nudges that put the ball in the client's court.\n\nGoals. Brammer (1973) listed goals of summarising: warming up the client, focusing scattered thoughts and feelings, bringing a theme to a close and prompting deeper exploration.\n\nWhen to use summaries. (a) At the beginning of a session, especially when clients are unsure how to start. Liz's summary for a talkative client showed she had listened and reflected, gave him a jumping-off point to add to or modify, and placed responsibility for moving forward on him. Feedback at the start and end of sessions also smooths the flow. (b) When a session is going nowhere, often because helpers let clients cover the same ground. Marcia summarised a burnt-out shelter worker's incidents as part of the furniture and reframed the issue as how to cope and what might change, moving her beyond \"poor me\". (c) When the client needs a new perspective. A husband hearing his scattered comments pulled together realised he might be running his wife's life; a 52-year-old man heard his slump, lost friendships, fear of ageing and over-investment in work summarised and admitted to \"screwed-up values\".\n\nCautions. Summaries should not overwhelm clients or \"build a case\"; helping is not a judicial procedure. Including strengths gives a more positive context.\n\nGetting the client to summarise. When clients do not know where to go next, the helper can ask them to pull the main points together. This helps them own the process and move on; since it is not a test, the helper should help. A client whose drinking-linked anger cost her a job and boyfriend summarised her lack of progress and concluded that she does not \"live on paper\", then reviewed goals, plans, obstacles and execution.\n\nMara and Carlos. Carlos first uses empathy and probes to help Mara review her trip to Iran, where the upbeat, community-rich lives of young people highlighted her \"cultural ghetto\" feeling. To help her reset after the painful conversation with her father, he asks her to summarise what she has learned; she chooses to open the next session with it. Her summary covers her naivety turned into realism and fear; the clash between the American who wants to move on and the dutiful Iranian daughter; the \"wrong equation\" of her social life; and her desire for community. Carlos's empathic responses and probes help her reach her central challenge: following her heart without abandoning her parents. The issues become clear even though the way forward is not.\n\nConclusion. Summaries, whether given by helper or client, bring focus and direction, challenge clients gently and keep responsibility with them. Used at the right moments and with care, they turn scattered talk into a clearer picture from which progress can follow.",
+   "pages": [
+    149,
+    155
+   ]
+  },
+  {
+   "q": "Critically discuss the shadow side of communication skills and how helpers can develop proficiency in them.",
+   "marks": 10,
+   "answer": "Introduction. After the basic communication skills (tuning in, listening, empathy, probing, summarising), Egan pauses before the advanced skills of Chapter 6 to examine their shadow side. His message is that these skills are \"essential, but not everything\", and that mastering them requires much more than classroom learning.\n\nNecessary but not sufficient. Some training programmes and helpers overidentify helping with communication skills, which are critical tools but not the process itself. Being good at communication is not the same as being good at helping. Overemphasis turns helping into a lot of talk with little action and few outcomes that matter in clients' lives. Skills help build a good relationship, which is the basis for social-emotional re-education, yet a helper can be good at all of these and still shortchange clients, who need more. Two specific errors are treating empathy as a \"magic bullet\" and overvaluing information gathering, which echoes the earlier warning about asking too many questions. Egan presents this as a caution for beginners rather than an indictment of the profession.\n\nThe helping relationship versus helping technologies. The opposite error is underestimating communication skills. Some practitioners assume the \"technology\" of their approach, such as treatment manuals, is enough. They respond through theory rather than through their humanity and become technologists instead of helpers, like doctors who master equipment and lose touch with patients. Egan's hospital stay shows the cost: superb medical care, but his anxiety was ignored and its physical symptoms were treated medically; asked whether staff ever considered what he was going through, the resident replied there was no time. Egan stresses these were dedicated people, recommends involving healthcare psychologists in staffing sessions, and notes that later visits showed relationship skills had become part of the centre's culture.\n\nDeveloping proficiency. Understanding skills differs from being proficient. Some trainees think \"soft\" skills come easily and skip the hard work. Manuals and training groups help but do not make skills second nature; skills brought out only for sessions ring hollow. They must become part of everyday style, rooted in commitment to empathic relationships. Egan tells students to go and get good at the skills in their real lives. Empathy is rare in daily talk (one could go days without hearing an empathic response), yet people notice when someone \"really listens\". Probes, by contrast, are common but often aimless or disguised criticisms (\"Why on earth did you do that?\"). Integrating purposeful probes with empathy needs daily practice: \"Life is your lab.\"\n\nWider value. Businesses rank communication and relationship-building skills at or near the top of desired competencies. A resistant account manager trained by Egan won a new account because the client felt only his firm understood its needs.\n\nConclusion. Egan's stance is balanced: communication skills must serve the process and outcomes of helping, neither replacing them nor being replaced by technique. Proficiency comes from making the skills a way of life, not a set of tricks for sessions.",
+   "pages": [
+    155,
+    157
+   ]
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Who wrote Nudge (2008)?",
+   "back": "Thaler and Sunstein.",
+   "page": 136
+  },
+  {
+   "front": "Libertarian paternalism?",
+   "back": "Influence (paternalism, without coercion) that preserves freedom of choice (libertarian, not 'do whatever you want').",
+   "page": 136
+  },
+  {
+   "front": "Choice architect?",
+   "back": "Someone who organises the context in which people make decisions; helpers inevitably are one.",
+   "page": 136
+  },
+  {
+   "front": "Definition of a nudge?",
+   "back": "Any aspect of choice architecture that alters behaviour predictably without forbidding options.",
+   "page": 136
+  },
+  {
+   "front": "Two ways empathic responses nudge?",
+   "back": "Selective responding, and encouraging broader or deeper exploration.",
+   "page": 136
+  },
+  {
+   "front": "Nature of a nudge's power?",
+   "back": "'Gentle': it fosters collaboration and keeps clients at the centre of decisions.",
+   "page": 136
+  },
+  {
+   "front": "Empathy vs probes metaphor?",
+   "back": "Empathy is the lubricant of dialogue; probes provide nudges.",
+   "page": 136
+  },
+  {
+   "front": "What are prompts and probes?",
+   "back": "Verbal and sometimes nonverbal tactics helping clients talk freely and concretely at any stage.",
+   "page": 136
+  },
+  {
+   "front": "Define prompts.",
+   "back": "Brief verbal/nonverbal interventions showing you are with the client and encouraging more talk.",
+   "page": 137
+  },
+  {
+   "front": "Condition for vocal prompts like 'uh-huh'?",
+   "back": "Use them intentionally, not when attention flags or on automatic pilot.",
+   "page": 137
+  },
+  {
+   "front": "Prompts: main course or condiment?",
+   "back": "Condiments, never the main course.",
+   "page": 137
+  },
+  {
+   "front": "Four forms of probes?",
+   "back": "Statements, requests, questions, single words or phrases.",
+   "page": 137
+  },
+  {
+   "front": "Typical form of a statement probe?",
+   "back": "Helper confesses being in the dark ('I'm still confused about...'); places responsibility without accusing.",
+   "page": 138
+  },
+  {
+   "front": "How should requests be softened?",
+   "back": "Tone of voice and paralinguistic/nonverbal cues, so they don't sound like commands.",
+   "page": 138
+  },
+  {
+   "front": "What did the anger-programme client fear losing?",
+   "back": "Her 'spunk'; led to assertiveness vs aggression.",
+   "page": 138
+  },
+  {
+   "front": "Examples of single-word probes?",
+   "back": "'Hate.' and 'Move forward to...?'",
+   "page": 138
+  },
+  {
+   "front": "Two guidelines on questions?",
+   "back": "Don't ask too many questions; ask open-ended questions.",
+   "page": 139
+  },
+  {
+   "front": "What happens to Rolly when over-questioned?",
+   "back": "He clams up; random questions go nowhere.",
+   "page": 139
+  },
+  {
+   "front": "When is a closed question acceptable?",
+   "back": "When specific information is needed, or as a sharp rhetorical challenge.",
+   "page": 139
+  },
+  {
+   "front": "Whose surveys does Egan mention for feedback?",
+   "back": "Duncan's.",
+   "page": 140
+  },
+  {
+   "front": "What word helped Letta turn a corner?",
+   "back": "'Realism'.",
+   "page": 141
+  },
+  {
+   "front": "Aim of probing for concreteness?",
+   "back": "Detail that makes the problem clear enough to act on, not more and more detail.",
+   "page": 143
+  },
+  {
+   "front": "Missing piece in mother-in-law and divorced-woman cases?",
+   "back": "The client's own behaviour.",
+   "page": 145
+  },
+  {
+   "front": "Flip side of problem situations?",
+   "back": "Opportunities for rethinking and learning; incentives for constructive change.",
+   "page": 146
+  },
+  {
+   "front": "Jill's technique with Justin?",
+   "back": "Role reversal: Justin formulates the probes, which become self-challenges.",
+   "page": 147
+  },
+  {
+   "front": "Probes as a bridge between...?",
+   "back": "Communicating understanding and helping clients challenge themselves.",
+   "page": 147
+  },
+  {
+   "front": "Guideline after a client answers a probe?",
+   "back": "Respond with empathy; be hesitant to follow a probe with a probe.",
+   "page": 148
+  },
+  {
+   "front": "Counsellor A vs B?",
+   "back": "A's second probe got 'That I am Chinese!'; B's empathy moved the client forward.",
+   "page": 148
+  },
+  {
+   "front": "Two extremes to avoid when mixing empathy and probing?",
+   "back": "Empathic response 'machine' and 'interrogator'.",
+   "page": 149
+  },
+  {
+   "front": "Summarising provides...?",
+   "back": "Focus and challenge (focus and direction).",
+   "page": 149
+  },
+  {
+   "front": "Brammer's (1973) goals of summarising?",
+   "back": "Warm up the client, focus scattered thoughts/feelings, close a theme, prompt deeper exploration.",
+   "page": 150
+  },
+  {
+   "front": "Three times summaries are especially useful?",
+   "back": "Start of a session; session going nowhere; client needs a new perspective.",
+   "page": 150
+  },
+  {
+   "front": "Implied message of an opening summary?",
+   "back": "'Now where do you want to go with this?'",
+   "page": 151
+  },
+  {
+   "front": "What should summaries never do?",
+   "back": "Overwhelm clients or 'build a case'; helping is not a judicial procedure.",
+   "page": 152
+  },
+  {
+   "front": "Why ask the client to summarise?",
+   "back": "Helps the client own the process and move on; not a test, so help them.",
+   "page": 152
+  },
+  {
+   "front": "'I don't live on paper'?",
+   "back": "Conclusion of the alcohol/anger client's own summary.",
+   "page": 153
+  },
+  {
+   "front": "Mara's dilemma?",
+   "back": "American who wants to move on vs dutiful Iranian daughter; following her heart without abandoning her parents.",
+   "page": 154
+  },
+  {
+   "front": "Communication skills: necessary or sufficient?",
+   "back": "Necessary but not sufficient.",
+   "page": 155
+  },
+  {
+   "front": "'Magic bullet' error?",
+   "back": "Seeing a skill like empathy as enough by itself.",
+   "page": 155
+  },
+  {
+   "front": "Technologists instead of helpers?",
+   "back": "Practitioners relying on manuals and theory rather than their humanity.",
+   "page": 156
+  },
+  {
+   "front": "Egan's hospital lesson?",
+   "back": "Medical needs met, psychological needs ignored; 'we don't have time'.",
+   "page": 156
+  },
+  {
+   "front": "Two problems with everyday probes?",
+   "back": "Often aimless; often disguised criticisms.",
+   "page": 157
+  },
+  {
+   "front": "Egan's slogan for proficiency?",
+   "back": "'Life is your lab. Every conversation is an opportunity.'",
+   "page": 157
+  }
+ ],
+ "summary": [
+  "All helping involves influence; Egan uses Thaler and Sunstein's 'nudge' and 'libertarian paternalism' to describe influence that preserves client freedom (p. 136).",
+  "Helpers are choice architects; treatment models and skills are choice architecture, and empathy itself nudges through selective responding (p. 136).",
+  "Probes are verbal and sometimes nonverbal tactics that help clients talk freely and concretely at any stage; empathy is the lubricant, probes the nudges (pp. 136-137).",
+  "Prompts are brief verbal or nonverbal signals (leaning forward, 'um') used intentionally; they are condiments, not the main course (p. 137).",
+  "Probes take four forms: statements, requests, questions, and single words or phrases; all are essentially questions (pp. 137-139).",
+  "Don't ask too many questions (Rolly clams up); prefer open-ended questions; closed questions fit specific information needs or rhetorical challenge (pp. 139-140).",
+  "Use the feedback system to probe (Letta) and use probes to help clients engage in the dialogue (pp. 140-141).",
+  "Probes help achieve concreteness, clarify points of view and decisions, fill in missing pieces and get a balanced view (pp. 142-146).",
+  "Probes help clients move into more beneficial stages (Sean and Fiona; Jill and Justin) and invite self-challenge (pp. 146-147).",
+  "After a successful probe, respond with empathy, not another probe; avoid being an empathy 'machine' or an 'interrogator'; Box 5.1 lists probing guidelines (pp. 148-150).",
+  "Summaries provide focus and challenge; Brammer listed their goals (pp. 149-150).",
+  "Summaries are most useful at the start of a session, in a session going nowhere, and when a new perspective is needed; never build a case against a client (pp. 150-152).",
+  "Asking clients to provide the summary helps them own the process (pp. 152-153).",
+  "Carlos uses probes and a client-provided summary to clarify Mara's core dilemma (pp. 153-155).",
+  "Communication skills are necessary but not sufficient; overemphasis yields talk without action (p. 155).",
+  "Relying on helping 'technologies' without relationship turns helpers into technologists (Egan's hospital story) (pp. 155-156).",
+  "Proficiency needs practice in everyday life: 'Life is your lab' (pp. 156-157)."
+ ],
+ "assessment": [
+  {
+   "q": "Thaler and Sunstein define choice architects as people who:",
+   "options": [
+    "Make decisions on behalf of others",
+    "Organise the context in which people make decisions",
+    "Design therapy rooms",
+    "Evaluate treatment outcomes"
+   ],
+   "answer": 1,
+   "explain": "Choice architects organise the decision-making context; helpers are inevitably choice architects.",
+   "page": 136
+  },
+  {
+   "q": "Empathic responses nudge clients in two ways. One is:",
+   "options": [
+    "Selective responding to some of what the client says",
+    "Rewarding desirable statements",
+    "Withholding responses to punish",
+    "Interpreting unconscious motives"
+   ],
+   "answer": 0,
+   "explain": "Because helpers cannot respond to everything, selective responding is influence.",
+   "page": 136
+  },
+  {
+   "q": "Egan defines prompts as:",
+   "options": [
+    "Direct questions requiring specific answers",
+    "Summaries of previous sessions",
+    "Challenges to client blind spots",
+    "Brief verbal or nonverbal interventions showing the helper is with the client and encouraging more talk"
+   ],
+   "answer": 3,
+   "explain": "This is Egan's definition of prompts.",
+   "page": 137
+  },
+  {
+   "q": "Which is NOT one of the four forms of probes Egan describes?",
+   "options": [
+    "Statements",
+    "Requests",
+    "Interpretations",
+    "Single words or phrases"
+   ],
+   "answer": 2,
+   "explain": "The four forms are statements, requests, questions and single words/phrases.",
+   "page": 137
+  },
+  {
+   "q": "Requests as probes should be softened by:",
+   "options": [
+    "Asking them only at the end of sessions",
+    "Tone of voice and other paralinguistic and nonverbal cues",
+    "Prefacing them with praise",
+    "Writing them down"
+   ],
+   "answer": 1,
+   "explain": "Egan says tone and paralinguistic/nonverbal cues soften requests.",
+   "page": 138
+  },
+  {
+   "q": "In the anger-programme case, the client fears losing her:",
+   "options": [
+    "Spunk",
+    "Job",
+    "Friends",
+    "Marriage"
+   ],
+   "answer": 0,
+   "explain": "She says 'Spunk!' and they discuss assertiveness versus aggression.",
+   "page": 138
+  },
+  {
+   "q": "Egan's first guideline on questions is:",
+   "options": [
+    "Always ask closed questions first",
+    "Ask 'why' questions to reveal motives",
+    "Ask only one question per session",
+    "Do not ask too many questions"
+   ],
+   "answer": 3,
+   "explain": "His two guidelines: don't ask too many questions; ask open-ended questions.",
+   "page": 139
+  },
+  {
+   "q": "A career counsellor's question 'How many jobs have you had in the past 2 years?' shows that closed questions:",
+   "options": [
+    "Should always be avoided",
+    "Are a form of challenge",
+    "Are appropriate when specific information is needed",
+    "Build rapport best"
+   ],
+   "answer": 2,
+   "explain": "A closed question may be used when a specific piece of information is needed.",
+   "page": 139
+  },
+  {
+   "q": "'Is getting back at him what you really want?' is an example of a:",
+   "options": [
+    "Open-ended question",
+    "Rhetorical question used as a challenge",
+    "Vocal prompt",
+    "Summary"
+   ],
+   "answer": 1,
+   "explain": "Rhetorical questions like this are a form of challenge.",
+   "page": 139
+  },
+  {
+   "q": "The 'tragic hero' daydreaming client comes to realise that:",
+   "options": [
+    "He wants to be loved but does little to build a real social life",
+    "He should become a counsellor",
+    "His friends are rejecting him",
+    "His daydreams are harmless"
+   ],
+   "answer": 0,
+   "explain": "He sees he contradicts himself; it is all in his head.",
+   "page": 142
+  },
+  {
+   "q": "Sean and Fiona are helped to move from problem exploration toward:",
+   "options": [
+    "Divorce mediation",
+    "Individual therapy",
+    "Termination",
+    "Opportunity development"
+   ],
+   "answer": 3,
+   "explain": "Brainstorming ways of helping others moves them toward opportunity development.",
+   "page": 146
+  },
+  {
+   "q": "Which item appears in Box 5.1, Guidelines in Using Probes?",
+   "options": [
+    "Use probes mainly to gather a full history",
+    "Follow every probe with another probe",
+    "Use a mix of statements, open-ended questions, prompts and requests, not questions alone",
+    "Avoid probes with reluctant clients"
+   ],
+   "answer": 2,
+   "explain": "Box 5.1 recommends a mix of forms, not questions alone.",
+   "page": 150
+  },
+  {
+   "q": "Egan warns helpers against becoming an empathic response 'machine' or a(n):",
+   "options": [
+    "Technologist",
+    "Interrogator",
+    "Choice architect",
+    "Advice giver"
+   ],
+   "answer": 1,
+   "explain": "The two extremes are the empathy machine and the interrogator.",
+   "page": 149
+  },
+  {
+   "q": "Which is NOT one of the three times Egan says summaries are especially useful?",
+   "options": [
+    "At the very end of the helping relationship only",
+    "At the beginning of a new session",
+    "When a session is going nowhere",
+    "When the client needs a new perspective"
+   ],
+   "answer": 0,
+   "explain": "Egan names the beginning of a session, a stalled session and need for new perspective.",
+   "page": 150
+  },
+  {
+   "q": "Liz's opening summary had all these purposes EXCEPT:",
+   "options": [
+    "Showing she had listened and reflected",
+    "Giving a jumping-off point",
+    "Placing responsibility on the client",
+    "Testing the client's memory"
+   ],
+   "answer": 3,
+   "explain": "Egan lists the three purposes; testing memory is not one.",
+   "page": 150
+  },
+  {
+   "q": "After the summary, the reluctant husband realised that:",
+   "options": [
+    "His wife was ungrateful",
+    "He should not move to Boston",
+    "It sounded as if he was running his wife's life",
+    "He needed individual therapy"
+   ],
+   "answer": 2,
+   "explain": "The summary gave him a mild jolt about making many decisions for her.",
+   "page": 152
+  },
+  {
+   "q": "Egan says summaries should never be used to:",
+   "options": [
+    "Begin a session",
+    "Build a case against a client",
+    "Provide a new perspective",
+    "Close a theme"
+   ],
+   "answer": 1,
+   "explain": "Helping is not a judicial procedure.",
+   "page": 152
+  },
+  {
+   "q": "Egan suggests the summary for the 52-year-old man might have been more effective if it had:",
+   "options": [
+    "Included some of the client's strengths",
+    "Been shorter",
+    "Been given by the client",
+    "Focused on his health"
+   ],
+   "answer": 0,
+   "explain": "Summarising strengths would have provided a more positive context.",
+   "page": 152
+  },
+  {
+   "q": "Mara describes her social life by saying:",
+   "options": [
+    "'I have too many friends'",
+    "'Home is my community'",
+    "'Work is enough for me'",
+    "'The equation is wrong'"
+   ],
+   "answer": 3,
+   "explain": "Home life plus work life equals her social life.",
+   "page": 154
+  },
+  {
+   "q": "An overemphasis on communication skills can turn helping into:",
+   "options": [
+    "A purely behavioural programme",
+    "A diagnostic procedure",
+    "A lot of talk with very little action",
+    "An advice service"
+   ],
+   "answer": 2,
+   "explain": "Egan warns of much talk, little action and few outcomes.",
+   "page": 155
+  },
+  {
+   "q": "Communication skills help build a good relationship, which is the basis for:",
+   "options": [
+    "Psychological testing",
+    "Social-emotional re-education",
+    "Medication compliance",
+    "Legal advocacy"
+   ],
+   "answer": 1,
+   "explain": "A good relationship is the basis for social-emotional re-education.",
+   "page": 155
+  },
+  {
+   "q": "Egan says it is hard at first to practise empathy in daily life because empathic responses are:",
+   "options": [
+    "Rare in ordinary conversations",
+    "Technically very difficult",
+    "Socially inappropriate",
+    "Only for professionals"
+   ],
+   "answer": 0,
+   "explain": "They are relatively rare in conversations, not especially difficult.",
+   "page": 156
+  },
+  {
+   "q": "People who experience your empathy are likely to say:",
+   "options": [
+    "'She is very empathic'",
+    "'She asks good questions'",
+    "'She gives good advice'",
+    "'She really listens to me'"
+   ],
+   "answer": 3,
+   "explain": "They won't call it empathy but will say things like 'She really listens to me'.",
+   "page": 156
+  },
+  {
+   "q": "The account manager won the new audit account because:",
+   "options": [
+    "His firm was the lowest bidder",
+    "He had a personal connection",
+    "The client felt his firm alone understood its needs",
+    "He offered extra services"
+   ],
+   "answer": 2,
+   "explain": "The client said it was not the low bid but that they understood its needs.",
+   "page": 157
+  }
+ ]
+}

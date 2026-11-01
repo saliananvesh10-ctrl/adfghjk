@@ -1,0 +1,2167 @@
+{
+  "number": 7,
+  "title": "Gordon Allport: Motivation and Personality",
+  "theorist": "Gordon Allport",
+  "approach": "Genetics",
+  "pages": [
+    193,
+    212
+  ],
+  "overview": "Gordon Allport made personality an academically respectable topic with his 1937 book and built a trait theory centred on the unique individual. Rejecting Freud, he held that healthy adults are conscious, rational and guided by present and future goals, not childhood conflicts. He defined personality as the dynamic organization of psychophysical systems that determine characteristic behaviour and thought, distinguished common traits from personal dispositions (cardinal, central and secondary), and proposed functional autonomy: adult motives become independent of their origins, at perseverative and propriate levels. The self, or proprium, develops through seven stages from infancy to adolescence, depending on the infant-mother bond, and the mature adult meets six criteria of health. Allport assessed personality with personal documents (the Jenny letters) and the Study of Values, and studied expressive behaviour, which later research on facial expressions, culture and computer recognition has extended. Critics note the theory is hard to test and over-stresses uniqueness and discontinuity, but it influenced humanistic psychology.",
+  "objectives": [
+    "Explain how Allport made personality an academically respectable field and how his theory differs from Freud's.",
+    "Relate Allport's childhood, his rivalry with Floyd and his meeting with Freud to his theory.",
+    "Define personality in Allport's terms and explain the roles of heredity, environment and discontinuity.",
+    "Describe the characteristics of traits and distinguish common traits from personal dispositions (cardinal, central, secondary).",
+    "Explain functional autonomy, its perseverative and propriate levels, and the three principles of propriate functioning.",
+    "Describe the proprium and its seven stages of development, and the role of the infant-mother bond.",
+    "List and explain Allport's six criteria of the healthy adult personality and his view of human nature.",
+    "Describe the personal-document technique and the Study of Values.",
+    "Summarise research on expressive behaviour, facial expressions, cultural differences and computer recognition.",
+    "Evaluate Allport's theory, including criticisms and its influence."
+  ],
+  "sections": [
+    {
+      "id": "personality-into-lab",
+      "heading": "Allport Brings Personality into the Classroom and the Psychology Lab",
+      "pages": [
+        193,
+        193
+      ],
+      "detailed": "Over a career of more than forty years, Gordon Allport did something no earlier theorist in the book had managed: he made personality a respectable academic subject. Freud's psychoanalysis and the neo-psychoanalytic theories that grew out of it (Jung, Adler, Horney and others) had developed largely in clinics and consulting rooms. Mainstream scientific psychology, which was experimental and university-based, did not treat them as part of its own territory.\n\nThe turning point came in 1937, when Allport published Personality: A Psychological Interpretation. Until then the psychology establishment had not accepted the formal, systematic study of personality as a legitimate field. The book was an instant success and became a classic of personality psychology. It defined personality as something that could be studied in university departments and taught in classrooms.\n\nThe chapter therefore credits Allport with two achievements. First, he moved personality from the margins into the mainstream of academic psychology. Second, he built his own theory of personality development in which traits occupy a central place. This is why Allport is placed in the book's \"genetics approach\" (trait approach) section: he gave traits, and the genetic raw material behind them, a major role in explaining individual personality.\n\nFor exam purposes, remember the date (1937), the book title, and the two-fold contribution. Later in the chapter (Reflections) the authors return to this point, describing Allport's most lasting legacy as making personality study academically respectable and stressing genetic factors within a trait approach. So this opening section and the final evaluation frame the whole chapter.",
+      "simple": "Allport made personality an accepted topic in university psychology. Before his 1937 book, psychoanalytic theories were seen as outside scientific psychology. He also created a theory of personality built around traits.",
+      "keyPoints": [
+        "Psychoanalytic theories were not considered part of mainstream scientific psychology.",
+        "Allport's 1937 book Personality: A Psychological Interpretation won formal recognition for personality study.",
+        "The book became an immediate success and a classic.",
+        "Two contributions: bringing personality into the mainstream and a trait-based theory of development."
+      ]
+    },
+    {
+      "id": "challenges-freud",
+      "heading": "Allport Challenges Freud",
+      "pages": [
+        194,
+        194
+      ],
+      "detailed": "Allport rejected Freud's psychoanalysis on three main points, and these contrasts run through the whole chapter.\n\n1. The role of the unconscious. Freud held that unconscious forces dominate personality. Allport denied that this is true of normal, mature adults. In his view, emotionally healthy people operate rationally and consciously; they are aware of, and can control, many of the forces that motivate them. The unconscious matters, he said, only for neurotic or disturbed people.\n\n2. Historical determinism. Historical determinism is the idea that the past determines the present. Freud believed adults are shaped by childhood conflicts and experiences. Allport argued that we are not prisoners of our past; we are guided more by the present and by how we see the future. He famously complained that people are busy living toward the future while psychology is busy tracing them back into the past (Allport, 1955).\n\n3. The use of abnormal subjects. Freud built his theory largely on data from neurotic patients and saw normal and abnormal behaviour as lying on one continuum. Allport saw a sharp break between the two. For him the abnormal personality functions at an infantile level. The only proper way to study personality was to gather data from emotionally healthy adults. Neurotics, children and animals should not be compared with normal adults, because Allport saw no functional similarity in personality between child and adult, abnormal and normal, or animal and human.\n\nThese three positions explain Allport's later ideas: functional autonomy (adult motives are independent of childhood), the two discontinuous personalities of childhood and adulthood, the emphasis on conscious intentions and future goals, and his reluctance to use case histories and projective tests. They also give rise to the main criticism of his theory: that research on children, animals and disturbed people has in fact taught us much about normal adults.",
+      "simple": "Allport disagreed with Freud on three things. Healthy adults are mostly conscious and rational, not ruled by the unconscious; we are guided by the present and future rather than trapped by childhood; and personality should be studied in healthy adults, not neurotics, children or animals.",
+      "keyPoints": [
+        "Unconscious forces matter only in neurotic or disturbed people, not in healthy adults.",
+        "Rejected historical determinism: present and future guide us more than the past.",
+        "Saw a clear break, not a continuum, between normal and abnormal; the abnormal personality is infantile.",
+        "Only emotionally healthy adults should be studied; no functional similarity between child/adult, abnormal/normal, animal/human."
+      ]
+    },
+    {
+      "id": "each-person-unique",
+      "heading": "Allport Makes Each Person Unique",
+      "pages": [
+        194,
+        194
+      ],
+      "detailed": "A second defining feature of Allport's theory is its insistence that every personality is unique, and that this uniqueness is defined by the particular traits each person has.\n\nTraditional science aims to discover general constructs and universal laws that apply to everyone. Allport resisted this emphasis when it came to personality. He argued that personality is not general or universal; it is particular and specific to each individual. Two people might both be described as \"anxious\" or \"friendly\", but the way those characteristics are organised and expressed in each person is distinctive.\n\nThis principle shapes much of the rest of the chapter. It explains why Allport later separated individual traits (personal dispositions) from common traits, and why he considered personal dispositions the more accurate description of a person. It explains his stress on genetic endowment as the main source of uniqueness, since no two people (except identical twins) share the same genes and no two people share exactly the same environment. It also explains his research preference: he favoured the idiographic approach, the intensive study of the single case (for example, the analysis of Jenny's letters), over the nomothetic approach of averaging across large groups, although he used nomothetic tests such as the Study of Values when appropriate.\n\nThe emphasis on uniqueness is also one of the main targets of criticism. Critics argue that if every person is studied only as a unique case, it becomes impossible to generalise from one person to another, which is the usual aim of science. Allport's uniqueness emphasis ran against the dominant nomothetic trend of the psychology of his time, and this partly explains why his theory as a whole has stimulated relatively little research.",
+      "simple": "Allport believed every personality is one-of-a-kind, defined by that person's own pattern of traits. He resisted the scientific habit of looking for universal laws that apply to everyone.",
+      "keyPoints": [
+        "Uniqueness of personality is defined by each person's traits.",
+        "Opposed the scientific emphasis on general constructs and universal laws for personality.",
+        "Personality is particular and specific to the individual.",
+        "Leads to his preference for the idiographic study of individual cases.",
+        "Later criticised because it makes generalising from one person to another impossible."
+      ]
+    },
+    {
+      "id": "life-childhood",
+      "heading": "The Life of Allport (1897-1967): Restrictions, Isolation and Inferiority",
+      "pages": [
+        194,
+        195
+      ],
+      "detailed": "Restrictions, morality and no bright colours. Gordon Allport was born in Montezuma, Indiana, the youngest of four sons. His mother was a teacher; his father, a salesman, decided to become a doctor. While the father attended medical school in Baltimore the family was so poor that he smuggled drugs from Canada and sold them; when the police arrived he escaped over the back fence and moved the family to Indiana, where he set up a private practice. Allport believed his own birth was his father's first case. Home life was dominated by his mother's devout religion: no smoking, drinking, dancing or card playing, and no bright colours, distinctive clothes or jewellery. She was strict, with firm ideas of right and wrong (Nicholson, 2003).\n\nIsolation and rejection. Allport was too young to play with his older brothers and was also cut off from other children. He said he built his own small circle of activities because he never fitted in with the general crowd of boys. He suffered on the playground, did not get along with his brothers, felt they disliked him and saw them as more masculine than himself. He described himself as good with words but poor at sports and games, and as someone who worked hard to be the centre of attention among his few friends. Interestingly, his theory holds that healthy adults are unaffected by childhood events, and he revealed very little about his own childhood; yet what he did reveal parallels the theory he developed.\n\nInferiority. Isolation and rejection produced inferiority feelings, which he tried to compensate for by striving to excel (an idea reminiscent of Adler). He described an identity quest arising from feeling inferior to his brothers and other children. He came to identify with and envy his oldest brother, Floyd, followed him to Harvard and, like Floyd, earned a Ph.D. in psychology. Floyd became a noted social psychologist, and even as Gordon grew famous he felt he was in his brother's shadow; at 31 he wrote that he should not be confused with his \"more eminent brother\".\n\nThe link to his theory. The book suggests that imitating Floyd may have threatened Gordon's sense of identity. To assert his individuality, he may have been motivated to deny that his adult motives and interests had anything to do with his childhood feelings, an idea he later formalised as functional autonomy. This is a key answer to Review Question 1.",
+      "simple": "Allport grew up the youngest of four sons in a strict, religious household. Isolated and rejected by his brothers, he felt inferior and tried to compensate by excelling, especially by copying his eldest brother Floyd. Wanting to be his own person may have led him to argue that adult motives are independent of childhood, the idea of functional autonomy.",
+      "keyPoints": [
+        "Born in Montezuma, Indiana, youngest of four sons; strict, devout mother; no bright colours or pleasures allowed.",
+        "Isolated from brothers and other children; good with words, poor at sports.",
+        "Inferiority feelings led to striving to excel and an identity quest.",
+        "Identified with and envied eldest brother Floyd, following him to Harvard and a psychology Ph.D.",
+        "Desire to assert individuality may underlie the concept of functional autonomy."
+      ]
+    },
+    {
+      "id": "life-career",
+      "heading": "The Life of Allport: College Years, Meeting Freud and Becoming a Success",
+      "pages": [
+        195,
+        196
+      ],
+      "detailed": "College years. Although Allport finished second in a high school class of 100, he was unsure what to do next. At the end of summer 1915 he applied to Harvard and was accepted, saying his world was remade overnight. Shocked by poor grades on his first exams, he doubled his efforts and ended the year with straight A's. His parents' interest in social ethics and service was strengthened at Harvard: he volunteered at a boys' club, with factory workers and with foreign students, and worked as a probation officer. He enjoyed helping people because it gave him a feeling of competence that offset his general sense of inferiority, and he saw this service as part of his search for identity. He took some psychology courses without planning a career in it, and graduated in 1919, on the same day Floyd received his Ph.D. He then taught for a year at Robert College in Istanbul, Turkey, before accepting a Harvard fellowship for graduate study in psychology; his biographer notes that becoming more like his successful brother appealed to him (Nicholson, 2003).\n\nAllport meets Freud. Returning to the US, he stopped in Vienna and wrote to Freud, who invited him to visit. Freud waited silently for the young man to explain himself. Uncomfortable, Allport described a small boy he had just seen on the streetcar who was afraid of dirt and asked his mother not to let a dirty man sit beside him. Freud looked at the neat, carefully groomed visitor and asked whether that little boy was Allport himself, implying the story revealed Allport's own unconscious fears. Freud saw him as neat, orderly and punctual, traits he associated with the compulsive personality (Pervin, 1984); another psychologist said Freud had hit the nail on the head (Anderson, 1990). Allport denied it all his life but called the encounter traumatic (Allport, 1967). He concluded that psychoanalysis probes the unconscious too deeply and that psychology should focus on conscious, visible motives, the path his theory took. Later, Kaufman and Bristol (2001) used this anecdote to show that personal, social stories make lectures more enjoyable and help students learn and remember.\n\nBecoming a success. Allport finished his Harvard Ph.D. in 1922 after two years. His dissertation, An Experimental Study of the Traits of Personality, was the first research on personality traits ever conducted in the United States. After two years on a travelling fellowship in Germany and England he returned to Harvard as an instructor and taught what was apparently the first formal American college course on personality. He spent nearly four decades at Harvard. His honours included the American Psychological Foundation's Gold Medal, the APA's Distinguished Scientific Contribution Award, and the presidencies of the APA and the Society for the Psychological Study of Social Issues.",
+      "simple": "At Harvard Allport worked hard, did social service that made him feel competent, and eventually chose psychology. An awkward meeting with Freud, who suggested Allport himself was the dirt-fearing boy in his story, convinced him to focus on conscious motives. He wrote the first US study of personality traits, taught the first US personality course and became a leading figure in psychology.",
+      "keyPoints": [
+        "Entered Harvard in 1915; straight A's after poor first exams; social service offset inferiority and aided identity search.",
+        "Graduated 1919 (same day as Floyd's Ph.D.); taught at Robert College, Istanbul.",
+        "Freud's question 'Was that little boy you?' left a traumatic impression; Allport turned to conscious motivation.",
+        "Ph.D. 1922: first US research on personality traits; first formal US college course on personality.",
+        "Nearly 40 years at Harvard; APF Gold Medal, APA Distinguished Scientific Contribution Award, APA president."
+      ]
+    },
+    {
+      "id": "nature-of-personality",
+      "heading": "The Nature of Personality",
+      "pages": [
+        196,
+        197
+      ],
+      "detailed": "Allport's definition. In Pattern and Growth in Personality (1961), Allport examined about 50 existing definitions before proposing his own: personality is the dynamic organization within the individual of those psychophysical systems that determine characteristic behaviour and thought. Each part of the definition carries meaning:\n- Dynamic organization: personality is constantly changing and growing, but the growth is organised, not random.\n- Psychophysical: personality consists of mind and body working together as one unit; it is neither purely mental nor purely biological.\n- Determine: every aspect of personality activates or directs specific behaviours and thoughts.\n- Characteristic behaviour and thought: everything we think and do is typical of us, which is why each person is unique.\n\nThe roles of heredity and environment. To support his emphasis on uniqueness, Allport said personality reflects both heredity and environment. Heredity supplies the raw materials, such as physique, intelligence and temperament, which environmental conditions then shape, expand or limit. He therefore used both personal and situational variables, acknowledging both genetics and learning. However, genetic background accounts for the major share of our uniqueness. The number of possible gene combinations is effectively infinite, and except for identical twins the chance of anyone duplicating another's genetic endowment is negligible. Genes also interact with the social environment, and no two people, not even siblings raised in the same house, have exactly the same environment. The inevitable result is a unique personality, so Allport argued that psychology must study the individual case rather than average findings across groups.\n\nTwo distinct personalities for two stages of life. Allport considered personality discrete or discontinuous. Each person differs from everyone else, and each adult is also cut off from his or her own past. There is no continuum between childhood and adult personality. Infants are driven by primitive biological urges and reflexes, while adult functioning is mainly psychological. In effect there are two personalities, one for childhood and one for adulthood, and the adult personality is not constrained by childhood experience.\n\nSummary of his position. This view stresses the conscious over the unconscious, the present and future over the past, uniqueness over generalities about large groups, and the normal rather than the abnormal personality. These four emphases summarise how Allport stands apart from Freud.",
+      "simple": "Allport defined personality as the dynamic organization of mind-body (psychophysical) systems inside a person that produce his or her typical behaviour and thought. Heredity gives the raw material and environment shapes it, with genes the main source of uniqueness. He also held that child and adult personalities are separate: the adult is not bound by childhood.",
+      "keyPoints": [
+        "Definition: dynamic organization within the individual of psychophysical systems that determine characteristic behaviour and thought.",
+        "Dynamic = organised growth; psychophysical = mind and body as a unit; characteristic = typical of each person.",
+        "Heredity supplies physique, intelligence and temperament; environment shapes them; genes give most of our uniqueness.",
+        "Psychology must study the individual case, not group averages.",
+        "Personality is discontinuous: one personality for childhood (biological) and one for adulthood (psychological)."
+      ]
+    },
+    {
+      "id": "personality-traits",
+      "heading": "Personality Traits",
+      "pages": [
+        197,
+        198
+      ],
+      "detailed": "Allport defined traits as predispositions to respond in the same or a similar way to different kinds of stimuli. Put simply, traits are consistent and enduring ways of reacting to the environment. The margin definition describes them as distinguishing characteristics that guide behaviour, measured on a continuum and subject to social, environmental and cultural influences.\n\nAllport (1937) summarised the characteristics of traits as follows:\n1. Traits are real and exist within each person. They are not theoretical constructs or labels invented to explain behaviour.\n2. Traits determine or cause behaviour. They do not merely appear in response to stimuli; they motivate us to seek appropriate stimuli and interact with the environment to produce behaviour.\n3. Traits can be demonstrated empirically. By observing a person's behaviour over time we can infer a trait from the consistency of responses to the same or similar stimuli.\n4. Traits are interrelated and may overlap even though they are different characteristics. Aggressiveness and hostility, for example, are distinct but related and often occur together.\n5. Traits vary with the situation. A person may be neat in one situation and disorderly in another.\n\n(Review Question 4 asks for four characteristics; any four of these five can be given, but it is safer to know all five.)\n\nIndividual versus common traits. Allport initially proposed two types of trait. Individual traits are unique to one person and define his or her character. Common traits are shared by a number of people, for example the members of a culture. It follows that people in different cultures will have different common traits, and that common traits will change over time as social standards and values change. This shows that common traits are subject to social, environmental and cultural influences.\n\nThe distinction between individual and common traits reflects Allport's balance between uniqueness and comparison: common traits allow us to compare people within a culture, while individual traits capture what is truly distinctive about a person. As the next section explains, Allport later renamed these to avoid confusion.",
+      "simple": "Traits are lasting tendencies to react in similar ways across different situations. Allport said traits are real, cause behaviour, can be observed, overlap with each other and vary with the situation. He first divided them into individual traits (unique to one person) and common traits (shared within a culture).",
+      "keyPoints": [
+        "Traits: consistent, enduring predispositions to respond similarly to different stimuli.",
+        "Five characteristics: real, cause behaviour, empirically demonstrable, interrelated, vary with situation.",
+        "Individual traits are unique to a person and define character.",
+        "Common traits are shared, e.g., by members of a culture, and differ across cultures.",
+        "Common traits change as social standards and values change."
+      ]
+    },
+    {
+      "id": "personal-dispositions",
+      "heading": "Personal Dispositions",
+      "pages": [
+        198,
+        198
+      ],
+      "detailed": "Allport later realised that calling both individual and common characteristics \"traits\" could cause confusion, so he revised his terms. Common traits were now simply called traits, and individual traits became personal dispositions. Personal dispositions are traits peculiar to an individual, as opposed to traits shared by many people.\n\nNot all personal dispositions are equally intense or significant. Allport distinguished three levels:\n\nCardinal traits. A cardinal trait is so pervasive and influential that it affects almost every aspect of a person's life. Allport called it a ruling passion, a powerful force dominating behaviour. His examples were sadism and chauvinism. Two qualifications matter: not everyone has a ruling passion, and people who do may not display it in every situation. Cardinal traits are the most powerful type and therefore exert the strongest influence on personality (relevant to Review Question 5).\n\nCentral traits. Everyone has a few central traits, about 5 to 10 themes that best describe a person's behaviour. Allport's examples were aggressiveness, self-pity and cynicism. These are the qualities we would mention when describing a friend's personality or writing a letter of recommendation. They are less pervasive than cardinal traits but more consistent and noticeable than secondary traits.\n\nSecondary traits. These are the least influential personal dispositions. They appear much less consistently than cardinal and central traits and may be so weak or inconspicuous that only a close friend would notice them. Examples include a minor preference for a certain type of music or a particular food.\n\nThe three levels thus form a hierarchy of pervasiveness and consistency: cardinal (dominates almost everything, rare), central (a handful of key themes, universal), secondary (weak, inconsistent, peripheral). The chapter summary repeats this: cardinal traits are powerful and pervasive, central traits less pervasive, and secondary traits displayed less conspicuously and consistently than the others.",
+      "simple": "Allport renamed common traits simply 'traits' and individual traits 'personal dispositions'. Personal dispositions come in three strengths: a cardinal trait is a ruling passion that dominates life (not everyone has one), central traits are the 5 to 10 themes that describe a person, and secondary traits are minor preferences only close friends notice.",
+      "keyPoints": [
+        "Common traits relabelled 'traits'; individual traits relabelled 'personal dispositions'.",
+        "Cardinal trait: a pervasive 'ruling passion' (e.g., sadism, chauvinism); not everyone has one.",
+        "Central traits: 5 to 10 themes everyone has (e.g., aggressiveness, self-pity, cynicism).",
+        "Secondary traits: least influential, inconsistent, e.g., minor music or food preferences.",
+        "Cardinal traits exert the most powerful influence on personality."
+      ]
+    },
+    {
+      "id": "motivation",
+      "heading": "Motivation: What We Strive for",
+      "pages": [
+        198,
+        198
+      ],
+      "detailed": "Allport believed that the central problem for any personality theory is how it handles motivation. His treatment of motivation follows directly from his emphasis on the present.\n\nThe present matters, not the past. It is a person's current state that is important, not events from toilet training, school or some other childhood crisis. What happened in the past is simply past: it is no longer active and cannot explain adult behaviour unless it still exists as a present motivating force. This contrasts directly with Freud's historical determinism.\n\nThe role of cognitive processes. Our cognitive processes, meaning our conscious plans and intentions, are a vital part of personality. Allport criticised theories like Freud's that concentrated on unconscious, irrational forces and neglected conscious, rational ones. Deliberate intentions are essential to personality. What we want and what we strive for are the keys to understanding our behaviour. This is the answer to Review Question 8 on the role of cognitive processes.\n\nExplaining the present by the future. Because intentions and goals point forward, Allport tried to explain the present in terms of the future rather than the past. A person's behaviour today is best understood by asking what he or she is trying to achieve, not by digging into early experiences.\n\nThe relationship between personality and motivation (Review Question 6). For Allport, motivation is at the heart of personality: personality is expressed through current, conscious strivings and intentions, and the way a theory handles motivation determines its adequacy. This view leads to his best-known concept, functional autonomy, which explains how adult motives become independent of the childhood conditions in which they began. It also links to his view of human nature, in which the goal of life is to keep striving and to seek increased, not reduced, tension.",
+      "simple": "For Allport, how a theory explains motivation is its central problem. What drives adults is their present situation and conscious plans and goals, not childhood events. He explained present behaviour by what people are aiming for in the future.",
+      "keyPoints": [
+        "Motivation is the central problem for any personality theory.",
+        "The current state matters; the past is inactive unless it is a present motivating force.",
+        "Cognitive processes (conscious plans and intentions) are vital parts of personality.",
+        "What we want and strive for is the key to understanding behaviour.",
+        "Explains the present in terms of the future, not the past."
+      ]
+    },
+    {
+      "id": "functional-autonomy",
+      "heading": "Functional Autonomy: Perseverative and Propriate",
+      "pages": [
+        199,
+        200
+      ],
+      "detailed": "The concept. Functional autonomy proposes that the motives of mature, emotionally healthy adults are not functionally connected to the earlier experiences in which they first appeared. Forces that motivated us early in life become autonomous, independent of their original circumstances. The margin definition calls it the idea that motives in the normal mature adult are independent of the childhood experiences in which they originally arose.\n\nAllport's analogies. A tree can obviously be traced to its seed, but a fully grown tree no longer needs the seed for nourishment; it is self-determining and no longer functionally related to it. Similarly, as adults we become independent of our parents: still related to them, but no longer functionally dependent on them, and they should no longer control our lives.\n\nThe career example. New graduates may work hard for financial success and security. Eventually they may earn enough to retire, yet some keep working just as hard. The 55-year-old is not pursuing the 25-year-old's goal, which has been reached. Hard work, once a means to an end (money), has become an end in itself; the motive has become independent of its source. Therefore adult motives cannot be understood by exploring childhood, as Freud believed; we must investigate why people behave as they do today.\n\nTwo levels. Allport proposed two levels of functional autonomy.\n\nPerseverative functional autonomy is the more elementary level. It covers addictions and repetitive physical actions such as habitual ways of performing a routine task. These behaviours persevere on their own without external reward. They once served a purpose but no longer do, and they are too basic to be an integral part of personality. Evidence: a rat trained to run a maze for food may keep running it even when well fed, clearly for some other reason; humans prefer familiar routines that they continue without external reinforcement.\n\nPropriate functional autonomy is more important and is essential for understanding adult motivation. \"Propriate\" comes from proprium, Allport's term for the ego or self. It relates to our values, self-image and lifestyle. Propriate motives are unique to each person. The ego decides which motives are kept and which discarded; we retain those that enhance self-esteem or self-image. Hence there is a direct relationship between interests and abilities: we enjoy doing what we do well. A child may be forced by parents to take piano lessons; as skill grows, commitment grows. The original motive (fear of parental displeasure) disappears, and playing becomes necessary to the person's self-image.",
+      "simple": "Functional autonomy means adult motives become independent of the reasons they started, just as a grown tree no longer needs its seed. Perseverative functional autonomy covers low-level habits and addictions that continue without reward. Propriate functional autonomy covers motives tied to our self-image and values, such as continuing piano because we are good at it and it defines us.",
+      "keyPoints": [
+        "Mature adults' motives are not functionally connected to the experiences in which they began.",
+        "Analogies: the tree and its seed; adults and their parents; working hard after financial security is reached.",
+        "Adult motives must be understood by why people act as they do today, not by childhood.",
+        "Perseverative level: addictions, routines; persists without reward; not integral to personality (maze-running rat).",
+        "Propriate level: tied to values, self-image and lifestyle; ego keeps motives that enhance self-esteem; we enjoy what we do well."
+      ]
+    },
+    {
+      "id": "propriate-organizing",
+      "heading": "The Organizing of Our Propriate Functioning",
+      "pages": [
+        200,
+        200
+      ],
+      "detailed": "Propriate functioning is an organising process that maintains our sense of self. It determines how we perceive the world, what we remember from experience and how our thoughts are directed. These perceptual and cognitive processes are selective: from the mass of stimuli around us they pick out only those relevant to our interests and values.\n\nAllport said this organising process is governed by three principles (Review Question 7):\n\n1. Organizing the energy level. This principle explains how we acquire new motives. New motives arise out of necessity, to use up surplus energy that might otherwise be expressed in destructive and harmful ways. For example, people who retire have extra time and energy that ideally should be directed into new interests and activities.\n\n2. Mastery and competence. This principle concerns the level at which we choose to satisfy motives. Adequate achievement is not enough. Healthy, mature adults are motivated to perform better and more efficiently, to master new skills and to increase their competence.\n\n3. Propriate patterning. This describes a striving for consistency and integration of the personality. We organise our perceptual and cognitive processes around the self, keeping what enhances self-image and rejecting the rest. Our propriate motives therefore depend on the structure or pattern of the self.\n\nLimits of functional autonomy. Allport accepted that not all behaviour and motives can be explained by these principles. Some behaviours are not under the control of functionally autonomous motives: reflexes, fixations, neuroses and behaviours arising from biological drives. This qualification is consistent with his view that neurotic adults remain tied to childhood drives and that biological urges govern infancy.\n\nPutting it together. Functional autonomy as a whole explains how adult motives free themselves from their origins; propriate functional autonomy explains which motives survive (those that serve the self); and the three principles explain how new motives arise (energy), the standard to which they are pursued (mastery), and how they are fitted into a consistent self (patterning).",
+      "simple": "Our sense of self organises what we notice, remember and think about. Three principles govern this: we take up new motives to use surplus energy, we strive for mastery rather than just adequacy, and we keep only what fits and enhances our self-image. Reflexes, fixations, neuroses and biological drives are not functionally autonomous.",
+      "keyPoints": [
+        "Propriate functioning selectively organises perception, memory and thought around interests and values.",
+        "Organizing the energy level: new motives arise to absorb excess energy (e.g., after retirement).",
+        "Mastery and competence: mature adults seek to improve and master skills, not just be adequate.",
+        "Propriate patterning: striving for consistency; keep what enhances self-image, reject the rest.",
+        "Not functionally autonomous: reflexes, fixations, neuroses, biological drives."
+      ]
+    },
+    {
+      "id": "proprium",
+      "heading": "Personality Development in Childhood: The Unique Self (the Proprium)",
+      "pages": [
+        200,
+        200
+      ],
+      "detailed": "Allport used the term proprium for the self or ego. He deliberately avoided the words \"self\" and \"ego\" because other theorists had given them so many different meanings.\n\nThe word is best understood through the adjective \"appropriate\". The proprium includes those aspects of personality that are distinctive and therefore appropriate to our individual emotional life. These aspects are unique to each person and unite his or her attitudes, perceptions and intentions. In other words, the proprium is the core that makes a personality one's own and holds it together.\n\nThe proprium links many parts of Allport's theory. It is the source of propriate functional autonomy: the ego decides which motives to keep, retaining those that enhance self-esteem and self-image. It underlies the organising principles of propriate functioning, especially propriate patterning, by which perceptions and thoughts are organised around the self. And it develops gradually through childhood and adolescence in seven stages, which the next section describes.\n\nBefore the proprium. Allport stressed that the newborn has no proprium at all. The infant experiences no self-consciousness or self-awareness, and has not yet separated \"me\" from everything else. Sensory impressions from the environment are responded to automatically and reflexively, with no ego mediating between stimulus and response. Allport described infants as pleasure seeking, destructive, selfish, impatient and dependent, calling them \"unsocialized horrors\". They have little that could be called personality; they are simply driven by reflexes to reduce tension and maximise pleasure.\n\nThis picture of infancy fits Allport's idea of two discontinuous personalities: a biologically driven infant and a psychologically driven, conscious adult. The proprium is what bridges the gap, emerging stage by stage until adolescence, when propriate striving toward future goals completes it. Review Question 11 asks you to describe the proprium; include its meaning, why Allport chose the term, what it unites, and its absence in infancy.",
+      "simple": "The proprium is Allport's word for the self or ego, chosen to avoid confusion with other theorists' terms. It covers the distinctive parts of personality that unite our attitudes, perceptions and intentions. Newborns have no proprium; Allport called them 'unsocialized horrors' driven only by reflexes.",
+      "keyPoints": [
+        "Proprium = Allport's term for the self or ego; he rejected 'self' and 'ego' because of their many meanings.",
+        "Understood via 'appropriate': the distinctive aspects appropriate to our emotional life.",
+        "Unique to each person; unites attitudes, perceptions and intentions.",
+        "Infants have no self-awareness; react reflexively, seek pleasure and reduce tension.",
+        "Allport called infants 'unsocialized horrors' with little personality."
+      ]
+    },
+    {
+      "id": "stages-of-development",
+      "heading": "Stages of Development of the Proprium",
+      "pages": [
+        200,
+        201
+      ],
+      "detailed": "Allport described the development of the proprium in seven stages from infancy to adolescence (Table 7.1).\n\nStages 1-3 (birth to about age 3-4; the table says the first three years, the text says birth to about 4):\n1. Bodily self. Infants become aware of a \"bodily me\", recognising their own existence and distinguishing their bodies from objects around them, for example telling apart their own fingers from the object they are holding.\n2. Self-identity. Children sense continuity of identity: they remain the same person despite changes in body and abilities. Self-identity is strengthened when they learn their names and see themselves as distinct from others.\n3. Self-esteem. Children discover they can accomplish things on their own and learn to take pride in this. They are motivated to build, explore and manipulate objects, which can sometimes be destructive. If parents frustrate the need to explore, emerging self-esteem may be thwarted and replaced by humiliation and anger.\n\nStages 4-5 (about ages 4-6):\n4. Extension of self. Children become aware of the objects and people in their environment and identify them as belonging to them: \"my house\", \"my parents\", \"my school\".\n5. Self-image. Children develop actual and ideal self-images, how they see themselves and how they would like to see themselves. These grow out of interaction with parents, who make children aware of their expectations and of how far the child is meeting or failing them.\n\nStage 6 (ages 6-12):\n6. Self as a rational coper. Children realise that reason and logic can be applied to solving everyday problems.\n\nStage 7 (adolescence):\n7. Propriate striving. Adolescents start to formulate long-range plans and goals for the future. Until they do, the proprium remains incomplete.\n\nAdulthood. According to the table, normal mature adults are functionally autonomous and independent of childhood motives; they function rationally in the present and consciously create their own lifestyles.\n\nReview Question 10 asks for the first three stages: bodily self, self-identity and self-esteem, with the changes in each. Notice the role of parents at stages 3 and 5, which connects to the importance of the infant-mother bond.",
+      "simple": "The proprium develops in seven stages: bodily self, self-identity and self-esteem (first few years); extension of self and self-image (4 to 6); self as a rational coper (6 to 12); and propriate striving (adolescence). Only when teenagers form future goals is the self complete.",
+      "keyPoints": [
+        "Bodily self: awareness of one's body as separate from objects.",
+        "Self-identity: continuity of identity; learning one's name. Self-esteem: pride in accomplishment; parental frustration causes humiliation and anger.",
+        "Extension of self ('my house') and self-image (actual and ideal), ages 4-6.",
+        "Self as rational coper (6-12): using reason and logic for everyday problems.",
+        "Propriate striving (adolescence): long-range goals; the proprium is incomplete until then."
+      ]
+    },
+    {
+      "id": "infant-mother-bond",
+      "heading": "The Importance of the Infant-Mother Bond",
+      "pages": [
+        202,
+        202
+      ],
+      "detailed": "Social interaction with parents is vitally important throughout all stages of proprium development, but the most important factor of all is the infant-mother bond as a source of affection and security.\n\nWhen needs are met. If the mother or primary caregiver provides enough affection and security, the proprium develops gradually and steadily and the child achieves positive psychological growth. Childhood motives are then free to be transformed into the autonomous propriate strivings of adulthood. A pattern of personal dispositions forms, and the result is a mature, emotionally healthy adult. This answers Review Question 12: the parental behaviours necessary for positive growth are the provision of sufficient affection and security, especially by the mother or primary caregiver (and, from the stages, not frustrating the child's need to explore, and making expectations clear).\n\nWhen needs are frustrated. If childhood needs are frustrated, the self does not mature properly. The child becomes insecure, aggressive, demanding, jealous and self-centred, and psychological growth is stunted. The outcome is a neurotic adult who functions at the level of childhood drives. Such an adult's motives do not become functionally autonomous; they stay tied to their original conditions. Traits and personal dispositions do not develop, and the personality remains undifferentiated, as it was in infancy.\n\nHow the theory explains emotional disturbance (Review Question 13). This is Allport's account of adult neurosis. Emotional disturbance is the result of failed proprium development caused by inadequate affection and security in childhood. The disturbed adult has not made the break from childhood that normal adults make; functional autonomy has not occurred. This is consistent with his earlier claims that the unconscious and the past matter only for neurotic people, that the abnormal personality functions at an infantile level, and that neuroses are among the behaviours not governed by functionally autonomous motives.\n\nThere is an interesting tension here worth noting in a 10-mark answer: Allport insists healthy adults are free of childhood, yet whether one becomes healthy depends heavily on childhood experience with the mother.",
+      "simple": "The bond with the mother, giving affection and security, is the most important influence on the developing self. If these needs are met, the child grows into a mature adult with functionally autonomous motives. If they are frustrated, the child becomes insecure and self-centred and grows into a neurotic adult still driven by childhood needs.",
+      "keyPoints": [
+        "Parent interaction matters at every stage; the infant-mother bond matters most.",
+        "Sufficient affection and security lead to steady proprium growth and a healthy adult.",
+        "Frustrated needs make the child insecure, aggressive, demanding, jealous and self-centred.",
+        "Result: a neurotic adult functioning at the level of childhood drives; motives not functionally autonomous.",
+        "Personality stays undifferentiated, as in infancy."
+      ]
+    },
+    {
+      "id": "healthy-adult",
+      "heading": "The Healthy Adult Personality",
+      "pages": [
+        202,
+        203
+      ],
+      "detailed": "For Allport, healthy personality development is a movement from a biologically dominated organism in infancy to a mature psychological organism in adulthood. Our motives become separated from childhood and oriented toward the future. If childhood needs for affection and security have been met, the proprium develops satisfactorily, and the adult personality grows out of childhood without being dominated or determined by childhood drives.\n\nAllport described six criteria of the normal, mature, emotionally healthy adult personality:\n\n1. Extension of the sense of self. Mature adults extend their sense of self beyond themselves to other people and activities.\n2. Warm relating to others. They relate warmly to others, showing intimacy, compassion and tolerance.\n3. Self-acceptance and emotional security. A high degree of self-acceptance helps them achieve emotional security.\n4. Realistic perception, skills and work. They hold a realistic perception of life, develop personal skills, and make a commitment to some kind of work.\n5. Humour and self-objectification. They have a sense of humour and self-objectification, meaning understanding of or insight into themselves.\n6. A unifying philosophy of life. They subscribe to a unifying philosophy that directs the personality toward future goals.\n\nAdults who meet these criteria can be described as emotionally healthy and functionally autonomous, independent of childhood motives. As a result they cope with the present and plan for the future without being victims of what happened in their early years.\n\nLinks to other parts of the chapter. Criterion 6 is connected to the Study of Values: Allport and his colleagues proposed that personal values form the basis of our unifying philosophy of life. Criterion 4's emphasis on skill and work echoes the principle of mastery and competence. Criterion 1 continues the childhood stage of extension of self. The chapter summary lists the characteristics slightly more finely (extension of self, warm relating, emotional security, realistic perception, development of skills, commitment to work, self-objectification, unifying philosophy), so in an exam it helps to name all of these.",
+      "simple": "Healthy adults have grown from biology-driven infants into psychologically mature people whose motives point to the future. Allport gave six signs: extending the self to others and activities, warm relationships, self-acceptance and emotional security, realistic perception with skills and work commitment, humour and self-insight, and a unifying philosophy of life.",
+      "keyPoints": [
+        "Healthy growth: from biologically dominated infant to mature psychological adult.",
+        "Criteria 1-3: extension of self; warm relating (intimacy, compassion, tolerance); self-acceptance and emotional security.",
+        "Criterion 4: realistic perception, personal skills, commitment to work.",
+        "Criteria 5-6: humour and self-objectification; a unifying philosophy of life directing future goals.",
+        "Such adults are functionally autonomous and not victimised by their early years."
+      ]
+    },
+    {
+      "id": "human-nature",
+      "heading": "Questions about Human Nature",
+      "pages": [
+        203,
+        204
+      ],
+      "detailed": "Optimism. Because emotionally healthy adults are not tied to childhood conflicts, Allport's theory presents an optimistic image of people in conscious control of their lives, dealing rationally with present situations, planning for the future and actively shaping an identity. We are always in a process of becoming, creatively designing and carrying out an appropriate lifestyle shaped more by present events and future plans than by the past.\n\nFree will versus determinism. Allport took a moderate position. He allowed free choice in our deliberations about the future, but recognised that some behaviour is determined by traits and personal dispositions, which are hard to change once formed.\n\nNature versus nurture. Both heredity and environment influence personality. Genes supply basic physique, temperament and intelligence; these raw materials are shaped by learning and experience.\n\nUniqueness versus universality. Allport believed firmly in uniqueness. Common traits show some universality in behaviour, but individual traits or personal dispositions describe our nature more precisely.\n\nThe ultimate goal of life (Review Question 15). For Freud the goal was tension reduction. Allport took the opposite view: the ultimate and necessary goal of life is to increase tension, pushing us to keep seeking new sensations and challenges. Once one challenge is met, we seek another. The reward lies in the process of achieving rather than in the achievement itself, in striving for the goal rather than reaching it; in his words, getting there is more fun than being there. We constantly need new goals to motivate us and to maintain an optimal level of tension. We achieve this goal, then, by continually setting and pursuing new goals and challenges. The chapter summary adds that we grow through an inherent need for autonomy, individuality and selfhood.\n\nAllport the person. His optimistic image of human nature matched his liberal personal stance and interest in social reform. The humanistic attitude of his work was mirrored in his personality: colleagues and students described him as someone who genuinely cared about people, and they returned that feeling.",
+      "simple": "Allport was optimistic: healthy adults consciously shape their lives and are always 'becoming'. He took a middle position on free will, gave weight to both heredity and environment, and stressed uniqueness. Unlike Freud, he said the goal of life is to increase tension by constantly seeking new challenges, because striving is the reward.",
+      "keyPoints": [
+        "Optimistic view: conscious, rational adults always in the process of becoming.",
+        "Free will vs determinism: moderate; free choice about the future, but traits determine some behaviour.",
+        "Nature-nurture: genes give physique, temperament, intelligence; learning shapes them.",
+        "Uniqueness: personal dispositions describe us better than common traits.",
+        "Ultimate goal: increase (not reduce) tension; striving matters more than arriving."
+      ]
+    },
+    {
+      "id": "assessment",
+      "heading": "Assessment in Allport's Theory",
+      "pages": [
+        204,
+        204
+      ],
+      "detailed": "Allport wrote more about personality assessment than most other theorists. In Pattern and Growth in Personality (1961) he observed that although there were many approaches to assessment, no single technique was best. Personality is so complex that many techniques must be used to evaluate it.\n\nHe listed 11 major methods:\n1. Constitutional and physiological diagnosis\n2. Cultural setting, membership and role\n3. Personal documents and case studies\n4. Self-appraisal\n5. Conduct analysis\n6. Ratings\n7. Tests and scales\n8. Projective techniques\n9. Depth analysis\n10. Expressive behaviour\n11. Synoptic procedures, which combine information from several sources into a synopsis\n\nOf these, Allport relied most heavily on two: the personal-document technique and the Study of Values. He also observed expressive behaviour, which the chapter discusses under research.\n\nIt is worth noticing a tension with the research section: although projective techniques and depth analysis appear on his list, Allport elsewhere argued that projective tests such as the TAT and Rorschach may distort the picture of normal personality because they focus on unconscious forces that have little effect on healthy adults, and that case studies focus on the past. So listing a method did not mean he favoured it for studying healthy people; he preferred direct methods such as asking people to describe themselves, analysing their own documents, and measuring their values.\n\nHis multi-method position also reflects his balance between idiographic methods (personal documents, focused on the single case) and nomothetic ones (standardised tests such as the Study of Values, comparing large samples).",
+      "simple": "Allport believed personality is too complex for any single assessment method, so he listed 11 techniques. He relied mainly on the personal-document technique and the Study of Values, and also studied expressive behaviour.",
+      "keyPoints": [
+        "Allport wrote more on assessment than most theorists; no single best technique exists.",
+        "Listed 11 methods in Pattern and Growth in Personality (1961).",
+        "Synoptic procedures combine information from several sources into a synopsis.",
+        "Relied most on the personal-document technique and the Study of Values.",
+        "Also observed expressive behaviour."
+      ]
+    },
+    {
+      "id": "personal-document",
+      "heading": "The Personal-Document Technique",
+      "pages": [
+        204,
+        205
+      ],
+      "detailed": "The personal-document technique involves studying a person's written or spoken records, such as diaries, autobiographies, letters and literary compositions, to determine the number and kinds of personality traits the person has. It is an idiographic method because it focuses intensively on one individual.\n\nLetters from Jenny. Allport's most famous case was his analysis of more than 300 letters written over a 12-year period by a middle-aged woman called Jenny (Allport, 1965, 1966). It was later revealed (Winter, 1993a) that Jenny was the mother of Allport's college roommate and had written the letters to Allport and his wife.\n\nHow the method works. A group of judges reads the autobiographical or biographical material and records the traits they find. If the judges agree reasonably well, their assessments can be grouped into a relatively small number of categories. In the Jenny study, 36 judges listed nearly 200 traits. Because many of the terms were synonyms, Allport reduced them to eight categories.\n\nComputer analysis. One of Allport's students, Paige (1966), carried out a computer analysis of the letters, searching for categories of words that might indicate a particular trait. For example, words expressing anger, rage, hostility and aggression were coded as the trait of aggression. This approach is more sophisticated and quantitative than Allport's original analysis because it involves fewer subjective judgments. The computer analysis produced eight prominent traits that were similar to the categories Allport had found.\n\nConclusion. Because of this agreement, Allport concluded that his subjective approach to assessment provided valid information about traits, comparable to the more objective computer method. The Reflections section adds that interest in the personal-document technique has recently revived (Barenbaum, 2008; Zunshine, 2010).",
+      "simple": "The personal-document technique studies a person's diaries, letters and other writings to find their traits. Allport analysed over 300 letters from 'Jenny': 36 judges found about 200 traits, which he reduced to eight. A later computer analysis by Paige found eight similar traits, supporting Allport's subjective method.",
+      "keyPoints": [
+        "Examines diaries, autobiographies, letters, compositions and other written or spoken records.",
+        "Jenny: 300+ letters over 12 years; she was the mother of Allport's college roommate (Winter, 1993a).",
+        "36 judges listed nearly 200 traits, reduced to eight categories.",
+        "Paige (1966) computer word-category analysis also found eight similar traits.",
+        "Agreement suggested Allport's subjective method was valid."
+      ]
+    },
+    {
+      "id": "study-of-values",
+      "heading": "The Study of Values",
+      "pages": [
+        205,
+        205
+      ],
+      "detailed": "Allport and two colleagues developed an objective self-report test called the Study of Values (Allport, Vernon & Lindzey, 1960). They proposed that our personal values form the basis of our unifying philosophy of life, which is one of the six criteria of a mature, healthy personality.\n\nValues are personality traits that represent strongly held interests and motivations. Allport believed everyone has some degree of each type of value, but one or two will be dominant in a given personality. The six categories are:\n\n1. Theoretical values: concerned with discovering truth; marked by an empirical, intellectual and rational approach to life.\n2. Economic values: concerned with what is useful and practical.\n3. Aesthetic values: relate to artistic experiences and to form, harmony and grace.\n4. Social values: reflect human relationships, altruism and philanthropy.\n5. Political values: concern personal power, influence and prestige in all endeavours, not only in politics.\n6. Religious values: concerned with the mystical and with understanding the universe as a whole.\n\nMethodological significance. The Study of Values is a nomothetic instrument: it is a standardised psychological test that allows statistical comparison of large samples. This shows that although Allport favoured the idiographic study of individual cases, he also used nomothetic methods where he considered them appropriate. It also illustrates his view that simply asking people about themselves is a more reliable way to learn about healthy personalities than projective tests.\n\nExam tip. A common question pairs the personal-document technique (idiographic, subjective judges plus computer check) with the Study of Values (objective, self-report, six values, linked to the unifying philosophy of life). Remember that the political value is about power in all areas of life, not just politics, a frequent MCQ trap.",
+      "simple": "The Study of Values is a self-report test by Allport, Vernon and Lindzey that measures six values: theoretical, economic, aesthetic, social, political and religious. Everyone has some of each, but one or two dominate. Values form the basis of a person's unifying philosophy of life.",
+      "keyPoints": [
+        "Objective self-report test (Allport, Vernon & Lindzey, 1960).",
+        "Values are the basis of the unifying philosophy of life, a maturity criterion.",
+        "Values are traits representing strongly held interests and motivations; one or two dominate.",
+        "Six values: theoretical, economic, aesthetic, social, political, religious.",
+        "Political values concern power, influence and prestige in all endeavours; the test is nomothetic."
+      ]
+    },
+    {
+      "id": "research",
+      "heading": "Research on Allport's Theory",
+      "pages": [
+        205,
+        206
+      ],
+      "detailed": "Allport's views on method. Allport criticised psychologists who insisted that experimental and correlational methods were the only legitimate ways to study personality. Not every aspect of personality can be tested in those ways, he argued, and psychologists should be more open and eclectic in their methods.\n\nAgainst clinical methods for healthy people. He also opposed applying methods designed for emotionally disturbed people to the study of healthy people. Case studies focus on the past, so he thought them of no value for understanding normal adults, whose personality is divorced from childhood influences. Projective techniques such as the Thematic Apperception Test and the Rorschach inkblot test may distort the picture of normal personality because they deal with unconscious forces that have little effect on healthy adults. Allport suggested that more reliable information could be obtained simply by asking people to describe themselves, which reveals their dominant traits.\n\nIdiographic versus nomothetic. Allport favoured the idiographic approach, the study of the individual case, as shown by his use of personal documents. But he also used nomothetic methods, involving statistical analysis of differences among large samples, when he thought them appropriate. Psychological tests like the Study of Values are nomothetic.\n\nThis preference had consequences. As the Reflections section explains, Allport's idiographic approach ran against the dominant nomothetic trend in psychology, and his theory as a whole has stimulated little direct research. The area where considerable research has been done is expressive behaviour, described in the following sections. That research, much of it by later investigators, examines how facial expressions, voice, gestures and other spontaneous behaviours reveal personality and emotion, and how this varies with gender, age, experience, emotional state and culture.",
+      "simple": "Allport thought experimental and correlational methods were too narrow and wanted psychologists to be more open. He rejected case studies and projective tests for healthy people, preferring to ask people to describe themselves. He mainly used idiographic (single-case) methods but also nomothetic tests like the Study of Values.",
+      "keyPoints": [
+        "Experimental and correlational methods are not the only legitimate ways to study personality; be eclectic.",
+        "Case studies focus on the past and are of no value for normal adults.",
+        "Projective tests (TAT, Rorschach) may distort normal personality by focusing on the unconscious.",
+        "Asking people to describe themselves reveals dominant traits more reliably.",
+        "Favoured idiographic study but used nomothetic methods (e.g., Study of Values) when appropriate."
+      ]
+    },
+    {
+      "id": "expressive-behavior",
+      "heading": "Expressive Behavior: Nature, Gender and Age, and Interpreting Facial Expressions",
+      "pages": [
+        206,
+        207
+      ],
+      "detailed": "Expressive versus coping behaviour. Allport did considerable research on expressive behaviour, behaviour that expresses our personality traits. He contrasted it with coping behaviour, which is purposeful, consciously planned and carried out, determined by needs arising from the situation and usually aimed at changing the environment. Expressive behaviour is spontaneous and reflects basic aspects of personality; it is hard to change, has no specific purpose and is usually displayed without awareness.\n\nAllport's example is public speaking. A speaker communicates on two levels. The formal, planned level (coping) is the content of the lecture. The informal, unplanned level (expressive) is the speaker's movements, gestures and vocal inflections: nervousness, talking fast, pacing or fidgeting with an earring. These spontaneous behaviours can reveal the speaker's personality.\n\nAllport's landmark study. Allport and Vernon (1933) gave subjects various tasks and judged the consistency of their expressive movements across situations. They found high consistency in voice, handwriting, posture and gestures, and from these inferred traits such as introversion and extraversion.\n\nLater research. Much work has examined facial and vocal expression (Russell, Bachorowski & Fernandez-Dols, 2003). Personality can be assessed from voice recordings, films, videotapes and even still photographs; facial expressions, vocal inflections and idiosyncratic gestures can reveal traits to trained observers (e.g., Allport & Cantril, 1934; Berry, 1990; DePaulo, 1993; Riggio & Friedman, 1986). Some people form reliable impressions of a stranger's personality from facial appearance and expression alone (Berry & Wero, 1993); observers accurately judged anxiety after watching a film of a person for no more than 30 seconds (Ambody & Rosenthal, 1992).\n\nEffects of gender and age. Women and younger people recognise emotions in facial expressions better than men and older people (Sasson et al., 2010). Children can read facial expressions accurately as early as age 5, improving rapidly afterwards (Gao & Maurer, 2010). Yearbook photos showed that women graduates with positive expressions at 21 reported greater subjective well-being at 27, 43 and 52, better marriages, and higher affiliation, competence and achievement orientation (Harker & Keltner, 2001).\n\nInterpreting facial expressions. Experience shapes recognition. Physically abused 8- to 10-year-olds identified anger in adult female faces more readily than non-abused controls (Pollak & Sinha, 2002). Adults with major depression needed more intense expressions to recognise happiness but less intense ones to recognise sadness (Joormann & Gotlib, 2006). Socially anxious children were better at interpreting expressions, and depressed adults better at recognising sad faces (Ale et al., 2010; Gollan et al., 2010). Japanese children who played more video games recognised expressions better (Tamamiya & Jiraki, 2013). Close friends decode sadness, anger and happiness far more accurately than casual acquaintances (Zhang & Parmley, 2011). Such findings strongly support Allport's claim that expressive behaviour reflects personality traits.",
+      "simple": "Expressive behaviour is spontaneous, unplanned and reveals personality (a speaker's fidgeting); coping behaviour is planned and purposeful (the speech content). Allport and Vernon found people's voice, handwriting, posture and gestures were consistent. Later studies show personality can be read from faces, that women, young people and close friends read emotions better, and that experiences like abuse or depression change what we notice.",
+      "keyPoints": [
+        "Expressive behaviour: spontaneous, purposeless, hard to change, outside awareness; coping behaviour: planned, purposeful, aimed at change.",
+        "Allport & Vernon (1933): high consistency in voice, handwriting, posture and gestures.",
+        "Personality can be judged from voice, film, video and still photos; anxiety judged in 30 seconds (Ambody & Rosenthal).",
+        "Women and younger people read faces better; children from age 5; positive yearbook smiles predicted later well-being.",
+        "Abuse, depression, social anxiety, video gaming and close friendship affect recognition of emotions."
+      ]
+    },
+    {
+      "id": "coding-facial",
+      "heading": "Coding Facial Expressions and Emotional States",
+      "pages": [
+        207,
+        208
+      ],
+      "detailed": "Coding facial expressions. A long-term research programme by Paul Ekman identified facial expressions of seven emotions that can be objectively and consistently distinguished: anger, contempt, disgust, fear, sadness, surprise and happiness (Ekman, Matsumoto & Friesen, 1997). Ekman, director of the Human Interaction Laboratory at the University of California at San Francisco, and colleagues developed a coding system based on 43 facial muscles, giving 3,000 different configurations for reading emotional expressions.\n\nThis Facial Action Coding System (FACS) is used in the US by police departments, the CIA and the FBI to detect lying by criminal suspects and terrorists, on the principle that tiny movements of facial muscles give them away (Kaufman, 2002). In 2009 Time magazine named Ekman one of the world's 100 most influential people (Taylor, 2009).\n\nPersonality factors in the face. Other research shows that basic aspects of personality appear in facial expressions (Keltner, 1997):\n- Neuroticism shows in looks of anger, contempt and fear.\n- Agreeableness shows in laughter and other friendly social expressions.\n- Extraversion shows in smiles, laughter and other expressions of enjoyment and amusement.\n- Conscientiousness shows in expressions of embarrassment: a tightly controlled smile, averted gaze, and head movements down and away from the observer.\n\nRecognising smiles. We recognise smiles by unconsciously mimicking them. Using the same muscles as the smiling person activates the same brain regions that are active in that person (Niedenthal et al., 2010; Zimmer, 2011).\n\nEmotional states and facial expressions. Type A behaviour, a pattern suggested to be linked to the potential for heart disease, has been distinguished from Type B by expressions of disgust, glaring, grimacing and scowling (Chesney et al., 1997). Among depressed patients in Switzerland, facial expressions distinguished those who later attempted suicide from those who did not (Heller & Haynal, 1997). Japanese college students high in anxiety showed different facial expressions, especially around the mouth and the left side of the face, from those low in anxiety (Nakamura, 2002). The chapter concludes that these results confirm Allport's ideas.",
+      "simple": "Paul Ekman identified seven distinguishable facial emotions and built the Facial Action Coding System from 43 face muscles, used by police, the CIA and FBI to detect lies. Personality traits such as neuroticism, agreeableness, extraversion and conscientiousness each show in typical expressions. Facial expressions also distinguish Type A people, suicide risk among depressed patients, and high anxiety.",
+      "keyPoints": [
+        "Ekman: seven emotions (anger, contempt, disgust, fear, sadness, surprise, happiness).",
+        "FACS: 43 facial muscles, 3,000 configurations; used to detect lying.",
+        "Keltner (1997): neuroticism, agreeableness, extraversion and conscientiousness each show in distinct expressions.",
+        "We recognise smiles by unconscious mimicry.",
+        "Facial expressions distinguish Type A from Type B, later suicide attempters, and high-anxiety students."
+      ]
+    },
+    {
+      "id": "cultural-differences",
+      "heading": "Cultural Differences in Facial Expressions",
+      "pages": [
+        208,
+        209
+      ],
+      "detailed": "Are facial expressions universal or do they vary across cultures (Review Question 17)? The chapter presents evidence on both sides.\n\nEvidence for universality. Studies of American and Chinese infants and adults found that some basic emotions were shown by identical facial expressions in both cultures and both age groups (Albright et al., 1997; Camras et al., 1998).\n\nEvidence for cultural differences.\n- Comparing American, Chinese and Japanese infants, Chinese infants showed consistently less variety in facial expression. American infants differed significantly from Chinese infants but not so much from Japanese infants (Camras, 1998).\n- Facial expressions of emotion in a remote tribe in northwestern Namibia did not match those of American subjects, suggesting that perceptions of emotion are not universal (Gendron et al., 2014).\n- Among 3-year-old girls, White children smiled more than mainland Chinese or Chinese-American children. Maternal strictness and the number of other children and adults in the home also influenced intensity, so expressiveness varied with both cultural and family characteristics (Camras et al., 2006).\n- Adults in the US and Japan were each much better at recognising expressions of people from their own culture (Dailey et al., 2010); the same East-West difference appeared when faces were shown on robots (Trovato et al., 2014).\n- When faces were digitised to be emotionally neutral, White faces were judged angry more often than Black faces, and Black faces were judged happy or surprised more often (Zebrowitz, Kikuchi & Fellous, 2010).\n- Eastern and Western cultures differ consistently in recognising emotions and even in how faces change: Easterners express emotion mainly with the eyes, Westerners with the eyebrows and mouth (Jack, Caldara & Schyns, 2012).\n- People in Hong Kong, Singapore and Taiwan showed less intense expressions in Facebook pictures than Americans (Huang & Park, 2013).\n- Among people high in depression watching a humorous film, Caucasian Americans showed fewer smiles and facial reactions than Asian Americans (Chentsova-Dutton, Tsai & Gotlib, 2010).\n\nConclusion. Some basic emotions appear to be expressed similarly across cultures, but the variety, intensity, facial regions used and accuracy of recognition differ with culture and family background. The chapter summary puts it cautiously: some research suggests consistency across cultures, while many studies show differences.",
+      "simple": "Some basic emotions look the same on American and Chinese faces. But many studies find differences: Chinese infants show less variety, a Namibian tribe's expressions did not match Americans', people recognise their own culture's faces better, Easterners use the eyes while Westerners use eyebrows and mouth, and Asian Facebook photos are less intense.",
+      "keyPoints": [
+        "Universality: identical expressions of basic emotions in American and Chinese infants and adults.",
+        "Chinese infants less varied than American and Japanese infants (Camras, 1998).",
+        "Namibian tribe's expressions did not match Americans', suggesting perceptions of emotion are not universal.",
+        "Own-culture advantage in recognition (US and Japan), even with robot faces.",
+        "East uses eyes, West uses eyebrows and mouth; Asians show less intense expressions online."
+      ]
+    },
+    {
+      "id": "computer-recognition",
+      "heading": "Computer Recognition of Facial Expressions",
+      "pages": [
+        209,
+        209
+      ],
+      "detailed": "Recognition by computers. If people can accurately interpret facial expressions, can computers? Apparently yes. A computer program was developed that monitors video images of faces at 30 frames per second. It achieved a high degree of accuracy in recognising basic emotions, including happiness, sadness, fear, disgust, anger and surprise (Susskind, Littlewort, Bartlett, Movellan & Anderson, 2007).\n\nTransmitting emotion through computers. A further question is whether computers can be used to transmit emotional states. A study of adolescents in the Netherlands (average age 16) used emoticons to study the online communication of feelings. In simulated chat rooms, the teenagers used more emoticons in a social context than in a task- or job-oriented context. They used more positive emoticons (such as smiles) in positive situations and more negative emoticons (such as sad faces) in negative situations, just as people do face to face. The researchers concluded that people express emotions in computer-mediated communication in a similar way to face-to-face situations (Derks, Bos & von Grumbkow, 2007).\n\nReview Question 18 asks how people express emotions in computer-mediated communication: through emoticons, used more in social than task contexts and matched to the emotional tone of the situation, mirroring face-to-face expression. The second part of the question (how you express your own emotions online) is personal; a good answer relates one's own use of emojis or similar cues to these findings.\n\nHighlights box. The chapter summarises research on expressive behaviour as showing that: personality traits can be assessed from facial expressions; women and children are better than men and older people at reading expressions; close friends decode emotion better than strangers; as many as seven separate emotions can be identified in the face; we recognise smiles by unconscious mimicry; depressed people are better at recognising sad expressions; and computers can recognise and express basic emotions.",
+      "simple": "A computer program reading video at 30 frames per second recognised basic emotions very accurately. Dutch teenagers in chat rooms used emoticons much like real facial expressions: more in social chats, happy icons in positive situations and sad ones in negative situations. So people express emotions online much as they do face to face.",
+      "keyPoints": [
+        "Program monitoring faces at 30 frames per second accurately recognised six basic emotions (Susskind et al., 2007).",
+        "Dutch adolescents (average age 16) used more emoticons in social than task-oriented chats.",
+        "Positive emoticons in positive situations, negative in negative situations.",
+        "Emotions are expressed online much as in face-to-face contact (Derks et al., 2007).",
+        "Highlights: traits readable from faces; seven emotions; mimicry of smiles; computers recognise emotions."
+      ]
+    },
+    {
+      "id": "reflections",
+      "heading": "Reflections on Allport's Theory",
+      "pages": [
+        210,
+        210
+      ],
+      "detailed": "Limited research. Although expressive behaviour has been researched extensively, Allport's theory as a whole has stimulated little research testing its propositions. His idiographic approach ran against the main current of contemporary psychology, which favoured nomothetic research, the study of large groups using sophisticated statistics. His focus on emotionally healthy adults also conflicted with clinical psychology of the time, which dealt with neurotic and psychotic people.\n\nQuestions and criticisms.\n- Testability: it is difficult to translate Allport's concepts into specific propositions testable by the experimental method. How can functional autonomy or propriate striving be observed or manipulated in a laboratory?\n- Functional autonomy: Allport did not explain how an original motive is transformed into an autonomous one. Once a person is financially secure, by what process does working for money become working for its own sake? Without an explained mechanism, we cannot predict which childhood motives will become autonomous.\n- Uniqueness: his focus on the individual is so exclusive that generalising from one person to another becomes impossible.\n- Discontinuity: many psychologists reject his proposed breaks between child and adult, animal and human, and normal and abnormal, pointing out that research on children, animals and disturbed people has produced considerable knowledge about healthy adults.\n\nRecognition and influence. Despite these criticisms, many psychologists still believe Allport's views offer a better basis for understanding personality than most other theories (Piekkola, 2011). His approach to development, his emphasis on uniqueness and his focus on goals are reflected in the humanistic psychologists Abraham Maslow and Carl Rogers. He is often regarded as one of the first psychologists to bring humanistic values into the field (Jeshmaridian, 2007). Interest in his work has revived with the current focus on personality traits, which provides empirical support for some of his ideas. His work on the expression of emotion has been vitally important to the development of cognitive neuroscience, and interest in the personal-document technique has revived (Barenbaum, 2008; Zunshine, 2010).\n\nHis books are readable and his concepts have commonsense appeal. His emphasis on conscious, rational determinants offers an alternative to the psychoanalytic picture of people driven by irrational, unconscious forces, and his view that people are shaped more by future expectations than past events suits a hopeful, humanistic philosophy. His most enduring contributions are making personality study academically respectable and emphasising genetic factors within a trait approach.",
+      "simple": "Apart from expressive behaviour, Allport's theory has produced little research, partly because his single-case approach went against mainstream psychology. Critics say functional autonomy is hard to test and its mechanism unexplained, his uniqueness focus prevents generalising, and his child-adult and normal-abnormal splits are doubtful. Still, he influenced Maslow and Rogers, helped found humanistic psychology and made personality a respectable academic field.",
+      "keyPoints": [
+        "Theory as a whole stimulated little research; idiographic approach ran counter to nomothetic mainstream.",
+        "Concepts like functional autonomy and propriate striving are hard to test experimentally.",
+        "Mechanism of transforming motives into autonomous ones is unexplained, so prediction is impossible.",
+        "Uniqueness prevents generalisation; discontinuity between child/adult, animal/human, normal/abnormal is disputed.",
+        "Influenced Maslow and Rogers; early humanistic voice; revived interest via trait research; made personality academically respectable."
+      ]
+    }
+  ],
+  "terms": [
+    {
+      "term": "Historical determinism",
+      "definition": "The idea that the past determines the present; Allport rejected Freud's version, arguing we are guided more by the present and our view of the future.",
+      "page": 194
+    },
+    {
+      "term": "Personality (Allport's definition)",
+      "definition": "The dynamic organization within the individual of those psychophysical systems that determine characteristic behaviour and thought.",
+      "page": 196
+    },
+    {
+      "term": "Dynamic organization",
+      "definition": "In Allport's definition, the idea that personality constantly changes and grows, but in an organised rather than random way.",
+      "page": 197
+    },
+    {
+      "term": "Psychophysical",
+      "definition": "In Allport's definition, personality is made of mind and body functioning together as a unit, neither purely mental nor purely biological.",
+      "page": 197
+    },
+    {
+      "term": "Discontinuity of personality",
+      "definition": "Allport's view that there is no continuum between childhood and adult personality: infants are driven by biological urges, adults function psychologically.",
+      "page": 197
+    },
+    {
+      "term": "Traits",
+      "definition": "To Allport, distinguishing characteristics that guide behaviour; consistent, enduring predispositions to respond similarly to different stimuli, measured on a continuum and subject to social, environmental and cultural influences.",
+      "page": 197
+    },
+    {
+      "term": "Individual traits",
+      "definition": "Allport's original term for traits unique to a person that define his or her character; later renamed personal dispositions.",
+      "page": 198
+    },
+    {
+      "term": "Common traits",
+      "definition": "Traits shared by a number of people, such as members of a culture; they differ across cultures and change with social standards. Later simply called traits.",
+      "page": 198
+    },
+    {
+      "term": "Personal dispositions",
+      "definition": "Traits peculiar to an individual, as opposed to traits shared by many people.",
+      "page": 198
+    },
+    {
+      "term": "Cardinal traits",
+      "definition": "The most pervasive and powerful traits; a 'ruling passion' that touches almost every aspect of a person's life (e.g., sadism, chauvinism). Not everyone has one.",
+      "page": 198
+    },
+    {
+      "term": "Central traits",
+      "definition": "The handful (about 5 to 10) of outstanding traits that describe a person's behaviour, e.g., aggressiveness, self-pity, cynicism.",
+      "page": 198
+    },
+    {
+      "term": "Secondary traits",
+      "definition": "The least important traits, displayed inconspicuously and inconsistently, e.g., a minor preference for a type of music or food.",
+      "page": 198
+    },
+    {
+      "term": "Functional autonomy of motives",
+      "definition": "The idea that motives in the normal, mature adult are independent of the childhood experiences in which they originally appeared.",
+      "page": 199
+    },
+    {
+      "term": "Perseverative functional autonomy",
+      "definition": "The level of functional autonomy relating to low-level and routine behaviours, such as addictions and habitual actions, that continue without external reward.",
+      "page": 199
+    },
+    {
+      "term": "Propriate functional autonomy",
+      "definition": "The level of functional autonomy relating to our values, self-image and lifestyle; the more important level for understanding adult motivation.",
+      "page": 199
+    },
+    {
+      "term": "Proprium",
+      "definition": "Allport's term for the ego or self: the distinctive aspects of personality, appropriate to one's emotional life, that unite attitudes, perceptions and intentions.",
+      "page": 199
+    },
+    {
+      "term": "Organizing the energy level",
+      "definition": "Principle of propriate functioning explaining how new motives are acquired: they arise to consume excess energy that might otherwise be expressed destructively.",
+      "page": 200
+    },
+    {
+      "term": "Mastery and competence",
+      "definition": "Principle of propriate functioning: healthy adults satisfy motives at a high level, striving to perform better, master new skills and increase competence.",
+      "page": 200
+    },
+    {
+      "term": "Propriate patterning",
+      "definition": "Principle of propriate functioning: a striving for consistency and integration, organising perception and cognition around the self and keeping what enhances self-image.",
+      "page": 200
+    },
+    {
+      "term": "Bodily self",
+      "definition": "First stage of proprium development: infants become aware of a 'bodily me' and distinguish their bodies from objects.",
+      "page": 201
+    },
+    {
+      "term": "Self-identity",
+      "definition": "Second stage: the child realises his or her identity remains continuous despite changes; strengthened by learning one's name.",
+      "page": 201
+    },
+    {
+      "term": "Self-esteem (stage)",
+      "definition": "Third stage: children take pride in accomplishing things on their own; parental frustration of exploration can replace it with humiliation and anger.",
+      "page": 201
+    },
+    {
+      "term": "Extension of self",
+      "definition": "Fourth stage (ages 4-6): children identify objects and people as belonging to them ('my house', 'my parents').",
+      "page": 201
+    },
+    {
+      "term": "Self-image",
+      "definition": "Fifth stage (ages 4-6): children develop actual and ideal images of themselves through awareness of parental expectations.",
+      "page": 201
+    },
+    {
+      "term": "Self as a rational coper",
+      "definition": "Sixth stage (ages 6-12): children realise reason and logic can solve everyday problems.",
+      "page": 201
+    },
+    {
+      "term": "Propriate striving",
+      "definition": "Seventh stage (adolescence): formulating long-range plans and goals; the proprium is incomplete until then.",
+      "page": 201
+    },
+    {
+      "term": "Self-objectification",
+      "definition": "An understanding of or insight into the self; with humour, one of the criteria of the mature personality.",
+      "page": 203
+    },
+    {
+      "term": "Unifying philosophy of life",
+      "definition": "A guiding philosophy that directs the personality toward future goals; a criterion of maturity, based on personal values.",
+      "page": 203
+    },
+    {
+      "term": "Synoptic procedures",
+      "definition": "Assessment methods that combine information from several sources into a synopsis; one of Allport's 11 methods.",
+      "page": 204
+    },
+    {
+      "term": "Personal-document technique",
+      "definition": "Assessment by studying a person's written or spoken records, such as diaries, autobiographies and letters, to determine the number and kinds of traits.",
+      "page": 204
+    },
+    {
+      "term": "Study of Values",
+      "definition": "Objective self-report test by Allport, Vernon and Lindzey (1960) assessing six values: theoretical, economic, aesthetic, social, political and religious.",
+      "page": 205
+    },
+    {
+      "term": "Idiographic approach",
+      "definition": "The study of the individual case, favoured by Allport (e.g., personal documents).",
+      "page": 206
+    },
+    {
+      "term": "Nomothetic approach",
+      "definition": "Statistical analysis of differences among large samples of subjects; used in tests such as the Study of Values.",
+      "page": 206
+    },
+    {
+      "term": "Expressive behavior",
+      "definition": "Spontaneous and seemingly purposeless behaviour, usually displayed without conscious awareness, that expresses personality traits.",
+      "page": 206
+    },
+    {
+      "term": "Coping behavior",
+      "definition": "Consciously planned behaviour determined by the needs of a situation and designed for a specific purpose, usually to change one's environment.",
+      "page": 206
+    },
+    {
+      "term": "Facial Action Coding System (FACS)",
+      "definition": "Ekman's coding system based on 43 facial muscles and 3,000 configurations, used by police, the CIA and FBI to detect lying.",
+      "page": 207
+    },
+    {
+      "term": "Type A behavior",
+      "definition": "A behaviour pattern suggested to be associated with heart-disease potential; distinguished from Type B by expressions of disgust, glaring, grimacing and scowling.",
+      "page": 208
+    }
+  ],
+  "people": [
+    {
+      "name": "Gordon Allport",
+      "contribution": "Made personality an academically respectable field (1937 book); developed a trait theory with personal dispositions, functional autonomy, the proprium, and the personal-document technique.",
+      "page": 193
+    },
+    {
+      "name": "Floyd Allport",
+      "contribution": "Gordon's eldest brother, a noted social psychologist; Gordon envied and emulated him, following him to Harvard and a psychology Ph.D.",
+      "page": 195
+    },
+    {
+      "name": "Sigmund Freud",
+      "contribution": "Allport challenged his views on the unconscious, historical determinism and abnormal subjects; their 1920 Vienna meeting ('Was that little boy you?') was traumatic for Allport.",
+      "page": 196
+    },
+    {
+      "name": "Nicholson",
+      "contribution": "Allport's biographer (2003), source for his strict upbringing, rivalry with Floyd and attraction to psychology.",
+      "page": 194
+    },
+    {
+      "name": "Kaufman & Bristol",
+      "contribution": "Used the Allport-Freud anecdote to show that personal stories make lectures more enjoyable and improve learning and memory (2001).",
+      "page": 196
+    },
+    {
+      "name": "Vernon",
+      "contribution": "Co-author of the Study of Values (with Allport and Lindzey) and of the 1933 expressive behaviour study with Allport.",
+      "page": 205
+    },
+    {
+      "name": "Lindzey",
+      "contribution": "Co-author of the Study of Values (Allport, Vernon & Lindzey, 1960).",
+      "page": 205
+    },
+    {
+      "name": "Paige",
+      "contribution": "Allport's student who performed a computer word-category analysis of Jenny's letters (1966), finding eight traits similar to Allport's.",
+      "page": 205
+    },
+    {
+      "name": "Winter",
+      "contribution": "Revealed (1993) that Jenny was the mother of Allport's college roommate.",
+      "page": 205
+    },
+    {
+      "name": "Ambody & Rosenthal",
+      "contribution": "Showed observers could accurately judge anxiety after watching under 30 seconds of film (1992).",
+      "page": 206
+    },
+    {
+      "name": "Harker & Keltner",
+      "contribution": "Found that positive expressions in women's college yearbook photos predicted later well-being and better marriages (2001).",
+      "page": 207
+    },
+    {
+      "name": "Paul Ekman",
+      "contribution": "Identified seven facial emotions and developed the Facial Action Coding System; named by Time as one of the world's 100 most influential people (2009).",
+      "page": 207
+    },
+    {
+      "name": "Keltner",
+      "contribution": "Linked neuroticism, agreeableness, extraversion and conscientiousness to distinct facial expressions (1997).",
+      "page": 207
+    },
+    {
+      "name": "Camras",
+      "contribution": "Studied facial expressions across American, Chinese and Japanese infants and in 3-year-old girls, finding cultural and family differences.",
+      "page": 208
+    },
+    {
+      "name": "Abraham Maslow",
+      "contribution": "Humanistic psychologist whose work reflects Allport's approach to development, uniqueness and goals.",
+      "page": 210
+    },
+    {
+      "name": "Carl Rogers",
+      "contribution": "Humanistic psychologist whose work reflects Allport's emphasis on uniqueness, development and goals.",
+      "page": 210
+    }
+  ],
+  "studies": [
+    {
+      "title": "Kaufman & Bristol (2001): anecdotes in teaching",
+      "finding": "Using personal anecdotes like the Allport-Freud story made lectures more enjoyable, and students learned and remembered information better in a social and personal context.",
+      "page": 196
+    },
+    {
+      "title": "Allport (1922): doctoral dissertation",
+      "finding": "An Experimental Study of the Traits of Personality was the first research on personality traits ever conducted in the United States.",
+      "page": 196
+    },
+    {
+      "title": "Allport (1965, 1966): Letters from Jenny",
+      "finding": "36 judges reading 300+ letters written over 12 years listed nearly 200 traits, which Allport reduced to eight categories.",
+      "page": 205
+    },
+    {
+      "title": "Paige (1966): computer analysis of Jenny's letters",
+      "finding": "Coding word categories (e.g., anger, rage, hostility = aggression) yielded eight prominent traits similar to Allport's, supporting the validity of his subjective method.",
+      "page": 205
+    },
+    {
+      "title": "Allport & Vernon (1933): consistency of expressive movements",
+      "finding": "Across varied tasks, subjects showed high consistency in voice, handwriting, posture and gestures, from which traits such as introversion and extraversion were inferred.",
+      "page": 206
+    },
+    {
+      "title": "Expressive cues research (Russell et al., 2003; Allport & Cantril, 1934; Berry, 1990 and others)",
+      "finding": "Personality can be assessed from voice recordings, films, videotapes and even still photographs by trained observers.",
+      "page": 206
+    },
+    {
+      "title": "Berry & Wero (1993): impressions from faces",
+      "finding": "Some people form reliable impressions of a stranger's personality from facial appearance and expression alone.",
+      "page": 206
+    },
+    {
+      "title": "Ambody & Rosenthal (1992): thin slices",
+      "finding": "Observers accurately assessed anxiety from a film of a person lasting no more than 30 seconds.",
+      "page": 206
+    },
+    {
+      "title": "Sasson et al. (2010): gender and age",
+      "finding": "Women and younger people recognise emotions in facial expressions better than men and older people.",
+      "page": 206
+    },
+    {
+      "title": "Gao & Maurer (2010): children",
+      "finding": "Children can read facial expressions accurately as early as age 5, improving rapidly thereafter.",
+      "page": 207
+    },
+    {
+      "title": "Harker & Keltner (2001): yearbook photos",
+      "finding": "Women showing positive expressions at 21 had higher subjective well-being at 27, 43 and 52, better marriages, and higher affiliation, competence and achievement orientation.",
+      "page": 207
+    },
+    {
+      "title": "Pollak & Sinha (2002): abused children",
+      "finding": "Physically abused 8- to 10-year-olds identified anger in adult female faces more readily than non-abused controls.",
+      "page": 207
+    },
+    {
+      "title": "Joormann & Gotlib (2006): depression",
+      "finding": "Adults with major depression needed more intense expressions to identify happiness but less intense ones to identify sadness.",
+      "page": 207
+    },
+    {
+      "title": "Ale et al. (2010); Gollan et al. (2010): anxiety and depression",
+      "finding": "Socially anxious children were better at interpreting facial expressions; depressed adults were better at recognising sad expressions.",
+      "page": 207
+    },
+    {
+      "title": "Tamamiya & Jiraki (2013): video games",
+      "finding": "Japanese children who played more video games recognised facial expressions better.",
+      "page": 207
+    },
+    {
+      "title": "Zhang & Parmley (2011): friends vs acquaintances",
+      "finding": "Close friends decode sadness, anger and happiness far more accurately than casual acquaintances.",
+      "page": 207
+    },
+    {
+      "title": "Ekman, Matsumoto & Friesen (1997): seven emotions",
+      "finding": "Facial expressions of anger, contempt, disgust, fear, sadness, surprise and happiness can be objectively and consistently distinguished.",
+      "page": 207
+    },
+    {
+      "title": "Kaufman (2002): FACS and lie detection",
+      "finding": "The FACS (43 muscles, 3,000 configurations) is used by police, the CIA and FBI; tiny facial muscle movements betray lying suspects and terrorists.",
+      "page": 207
+    },
+    {
+      "title": "Keltner (1997): personality in the face",
+      "finding": "Neuroticism shows in anger, contempt and fear; agreeableness in laughter; extraversion in smiles and amusement; conscientiousness in embarrassment (controlled smile, averted gaze, head down and away).",
+      "page": 207
+    },
+    {
+      "title": "Niedenthal et al. (2010); Zimmer (2011): smile mimicry",
+      "finding": "We recognise smiles by unconsciously mimicking them, activating the same brain regions as the smiling person.",
+      "page": 208
+    },
+    {
+      "title": "Chesney et al. (1997): Type A",
+      "finding": "Type A behaviour was distinguished from Type B by expressions of disgust, glaring, grimacing and scowling.",
+      "page": 208
+    },
+    {
+      "title": "Heller & Haynal (1997): suicide risk",
+      "finding": "Among depressed patients in Switzerland, facial expressions distinguished those who later attempted suicide from those who did not.",
+      "page": 208
+    },
+    {
+      "title": "Nakamura (2002): anxiety",
+      "finding": "Highly anxious Japanese college students showed different facial expressions, especially around the mouth and left side of the face, than low-anxiety students.",
+      "page": 208
+    },
+    {
+      "title": "Albright et al. (1997); Camras et al. (1998): universality",
+      "finding": "Some basic emotions were shown by identical facial expressions in American and Chinese infants and adults.",
+      "page": 208
+    },
+    {
+      "title": "Camras (1998): three cultures",
+      "finding": "Chinese infants showed less variety of facial expression than American and Japanese infants; Americans differed significantly from Chinese but less from Japanese.",
+      "page": 208
+    },
+    {
+      "title": "Gendron et al. (2014): Namibian tribe",
+      "finding": "Facial expressions of emotion in a remote northwestern Namibian tribe did not match Americans', suggesting perceptions of emotion are not universal.",
+      "page": 208
+    },
+    {
+      "title": "Camras et al. (2006): 3-year-old girls",
+      "finding": "White girls smiled more than mainland Chinese or Chinese-American girls; maternal strictness and household size also affected intensity.",
+      "page": 208
+    },
+    {
+      "title": "Dailey et al. (2010); Trovato et al. (2014): own-culture advantage",
+      "finding": "US and Japanese adults recognised expressions of their own culture better; the same East-West difference appeared with robot faces.",
+      "page": 208
+    },
+    {
+      "title": "Zebrowitz, Kikuchi & Fellous (2010): neutral faces",
+      "finding": "Neutral White faces were judged angry more often than Black faces; Black faces were judged happy or surprised more often.",
+      "page": 208
+    },
+    {
+      "title": "Jack, Caldara & Schyns (2012): eyes vs mouth",
+      "finding": "Eastern cultures expressed emotion mainly with the eyes; Western cultures used eyebrows and mouth.",
+      "page": 209
+    },
+    {
+      "title": "Huang & Park (2013): Facebook pictures",
+      "finding": "People in Hong Kong, Singapore and Taiwan showed less intense facial expressions in Facebook photos than Americans.",
+      "page": 209
+    },
+    {
+      "title": "Chentsova-Dutton, Tsai & Gotlib (2010): depression and culture",
+      "finding": "Depressed Caucasian Americans showed fewer smiles and facial reactions to a humorous film than depressed Asian Americans.",
+      "page": 209
+    },
+    {
+      "title": "Susskind et al. (2007): computer recognition",
+      "finding": "A program monitoring faces at 30 frames per second recognised happiness, sadness, fear, disgust, anger and surprise with high accuracy.",
+      "page": 209
+    },
+    {
+      "title": "Derks, Bos & von Grumbkow (2007): emoticons",
+      "finding": "Dutch adolescents used more emoticons in social than task contexts, positive ones in positive and negative ones in negative situations, as in face-to-face contact.",
+      "page": 209
+    }
+  ],
+  "examples": [
+    {
+      "title": "Functional autonomy: the gym habit",
+      "text": "A college student starts going to the gym only to impress classmates. Years later, nobody is watching, yet she trains daily because fitness has become part of who she is. The original motive vanished; the behaviour became an end in itself, propriate functional autonomy.",
+      "supplementary": true
+    },
+    {
+      "title": "Perseverative functional autonomy: checking the phone",
+      "text": "Someone keeps unlocking their phone every few minutes even when no notification has come. The habit once served a purpose but now runs on its own without reward, too low-level to be central to personality.",
+      "supplementary": true
+    },
+    {
+      "title": "Cardinal, central, secondary traits in a cricket captain",
+      "text": "A captain whose entire life revolves around winning shows something close to a cardinal trait. His central traits might be discipline, competitiveness and loyalty, the words a coach would put in a reference letter. Liking masala chai over coffee is a secondary trait only close friends would notice.",
+      "supplementary": true
+    },
+    {
+      "title": "Coping vs expressive behaviour in a viva",
+      "text": "In a viva, the planned answer you give about Allport is coping behaviour. Your shaking hands, quick speech and habit of tapping the desk are expressive behaviour, spontaneous and revealing of your personality.",
+      "supplementary": true
+    },
+    {
+      "title": "Extension of self and self-image in a child",
+      "text": "A five-year-old insists 'that's MY cycle' and 'my school is the best' (extension of self), and also wants to be 'a good boy like Papa says' (ideal self-image shaped by parental expectations).",
+      "supplementary": true
+    }
+  ],
+  "checks": [
+    {
+      "q": "Which 1937 book by Allport won formal recognition for the study of personality?",
+      "options": [
+        "Personality: A Psychological Interpretation",
+        "Pattern and Growth in Personality",
+        "Becoming",
+        "The Nature of Prejudice"
+      ],
+      "answer": 0,
+      "explain": "The chapter says personality was not recognised until Allport published Personality: A Psychological Interpretation in 1937.",
+      "page": 193,
+      "sectionId": "personality-into-lab"
+    },
+    {
+      "q": "The chapter credits Allport with two purposes. One was bringing personality into the mainstream. The other was:",
+      "options": [
+        "Developing the first projective test",
+        "Formulating a theory of development in which traits are prominent",
+        "Founding psychoanalysis in America",
+        "Proving the collective unconscious"
+      ],
+      "answer": 1,
+      "explain": "He helped bring personality into the mainstream and formulated a trait-centred theory of development.",
+      "page": 193,
+      "sectionId": "personality-into-lab"
+    },
+    {
+      "q": "According to Allport, the unconscious is important mainly in:",
+      "options": [
+        "All normal adults",
+        "Children only",
+        "Neurotic or disturbed people",
+        "Highly creative people"
+      ],
+      "answer": 2,
+      "explain": "Allport held that healthy adults function consciously and that the unconscious matters only in neurotic or disturbed behaviour.",
+      "page": 194,
+      "sectionId": "challenges-freud"
+    },
+    {
+      "q": "Allport believed data on personality should be collected from:",
+      "options": [
+        "Neurotic patients",
+        "Children and animals",
+        "Psychotic patients in hospitals",
+        "Emotionally healthy adults"
+      ],
+      "answer": 3,
+      "explain": "He considered the only proper way to study personality was to collect data from emotionally healthy adults.",
+      "page": 194,
+      "sectionId": "challenges-freud"
+    },
+    {
+      "q": "Allport opposed the traditional scientific emphasis on:",
+      "options": [
+        "General constructs or universal laws applied to everyone",
+        "Observing behaviour",
+        "Studying conscious motives",
+        "Measuring traits"
+      ],
+      "answer": 0,
+      "explain": "He argued personality is particular and specific to the individual, not general or universal.",
+      "page": 194,
+      "sectionId": "each-person-unique"
+    },
+    {
+      "q": "Allport defined each person's uniqueness in terms of their:",
+      "options": [
+        "Archetypes",
+        "Traits",
+        "Psychosexual stage",
+        "Birth order"
+      ],
+      "answer": 1,
+      "explain": "The chapter says he emphasised uniqueness as defined by each person's traits.",
+      "page": 194,
+      "sectionId": "each-person-unique"
+    },
+    {
+      "q": "Which of the following describes Allport's childhood home?",
+      "options": [
+        "A permissive household with few rules",
+        "Raised by grandparents abroad",
+        "A devout, strict mother who banned bright colours and jewellery",
+        "A wealthy family in Boston"
+      ],
+      "answer": 2,
+      "explain": "His mother's religious beliefs dominated the house: no smoking, drinking, dancing, cards, bright colours or jewellery.",
+      "page": 194,
+      "sectionId": "life-childhood"
+    },
+    {
+      "q": "Allport's attempt to emulate which person may have led to his idea of functional autonomy?",
+      "options": [
+        "His father",
+        "Sigmund Freud",
+        "His college roommate",
+        "His eldest brother Floyd"
+      ],
+      "answer": 3,
+      "explain": "Emulating Floyd may have threatened his identity, motivating him to claim adult motives are independent of childhood feelings.",
+      "page": 195,
+      "sectionId": "life-childhood"
+    },
+    {
+      "q": "What did Freud ask Allport after hearing the story of the boy afraid of dirt?",
+      "options": [
+        "Was that little boy you?",
+        "Why are you here?",
+        "Do you dream often?",
+        "What is your earliest memory?"
+      ],
+      "answer": 0,
+      "explain": "Freud asked 'Was that little boy you?', implying the story revealed Allport's own unconscious fears.",
+      "page": 196,
+      "sectionId": "life-career"
+    },
+    {
+      "q": "Allport's 1922 dissertation was notable because it was:",
+      "options": [
+        "The first study of dreams in America",
+        "The first research on personality traits conducted in the United States",
+        "A critique of behaviourism",
+        "The first factor analysis of personality"
+      ],
+      "answer": 1,
+      "explain": "His dissertation was the first research ever conducted on personality traits in the US.",
+      "page": 196,
+      "sectionId": "life-career"
+    },
+    {
+      "q": "In Allport's definition, 'psychophysical' means personality is:",
+      "options": [
+        "Entirely biological",
+        "Entirely mental",
+        "Mind and body functioning together as a unit",
+        "Determined by the unconscious"
+      ],
+      "answer": 2,
+      "explain": "Psychophysical means personality is neither all mental nor all biological but both working together.",
+      "page": 197,
+      "sectionId": "nature-of-personality"
+    },
+    {
+      "q": "According to Allport, the major portion of our uniqueness comes from:",
+      "options": [
+        "Early toilet training",
+        "Birth order",
+        "Cultural archetypes",
+        "Genetic background"
+      ],
+      "answer": 3,
+      "explain": "He stated that genetic background is responsible for the major portion of our uniqueness.",
+      "page": 197,
+      "sectionId": "nature-of-personality"
+    },
+    {
+      "q": "Which is NOT one of Allport's characteristics of traits?",
+      "options": [
+        "Traits are theoretical labels made up to explain behaviour",
+        "Traits determine or cause behaviour",
+        "Traits can be demonstrated empirically",
+        "Traits vary with the situation"
+      ],
+      "answer": 0,
+      "explain": "Allport said traits are real and exist within us, not theoretical constructs or labels.",
+      "page": 197,
+      "sectionId": "personality-traits"
+    },
+    {
+      "q": "Common traits are best described as:",
+      "options": [
+        "Traits unique to an individual",
+        "Traits shared by a number of people, such as members of a culture",
+        "The single ruling passion of a person",
+        "Inherited archetypes"
+      ],
+      "answer": 1,
+      "explain": "Common traits are shared by many people, like members of a culture, and change with social standards.",
+      "page": 198,
+      "sectionId": "personality-traits"
+    },
+    {
+      "q": "Allport described the cardinal trait as a:",
+      "options": [
+        "Minor preference",
+        "Social mask",
+        "Ruling passion",
+        "Coping strategy"
+      ],
+      "answer": 2,
+      "explain": "A cardinal trait is so pervasive that Allport called it a ruling passion dominating behaviour.",
+      "page": 198,
+      "sectionId": "personal-dispositions"
+    },
+    {
+      "q": "How many central traits does a person typically have, according to Allport?",
+      "options": [
+        "Only one",
+        "About 20 to 30",
+        "Exactly 16",
+        "About 5 to 10"
+      ],
+      "answer": 3,
+      "explain": "Everyone has a few central traits, some 5 to 10 themes that best describe behaviour.",
+      "page": 198,
+      "sectionId": "personal-dispositions"
+    },
+    {
+      "q": "Allport said the central problem for any personality theory is how it treats:",
+      "options": [
+        "Motivation",
+        "Dreams",
+        "Heredity",
+        "Psychopathology"
+      ],
+      "answer": 0,
+      "explain": "He believed the central problem for any personality theory is how it handles motivation.",
+      "page": 198,
+      "sectionId": "motivation"
+    },
+    {
+      "q": "For Allport, the keys to understanding behaviour are:",
+      "options": [
+        "Repressed childhood memories",
+        "What we want and what we strive for",
+        "Inherited instincts",
+        "Reinforcement histories"
+      ],
+      "answer": 1,
+      "explain": "Deliberate intentions are essential: what we want and strive for are the keys to understanding behaviour.",
+      "page": 198,
+      "sectionId": "motivation"
+    },
+    {
+      "q": "Allport's analogy for functional autonomy involved a:",
+      "options": [
+        "River and its source",
+        "Iceberg",
+        "Tree and its seed",
+        "Horse and rider"
+      ],
+      "answer": 2,
+      "explain": "A grown tree can be traced to its seed but no longer needs it for nourishment.",
+      "page": 199,
+      "sectionId": "functional-autonomy"
+    },
+    {
+      "q": "A well-fed rat that keeps running a maze illustrates:",
+      "options": [
+        "Propriate functional autonomy",
+        "Propriate patterning",
+        "Mastery and competence",
+        "Perseverative functional autonomy"
+      ],
+      "answer": 3,
+      "explain": "Allport cited the rat as animal evidence for perseverative functional autonomy.",
+      "page": 199,
+      "sectionId": "functional-autonomy"
+    },
+    {
+      "q": "Which principle explains how we acquire new motives to use up excess energy?",
+      "options": [
+        "Organizing the energy level",
+        "Propriate patterning",
+        "Mastery and competence",
+        "Extension of self"
+      ],
+      "answer": 0,
+      "explain": "Organizing the energy level explains new motives arising to consume excess energy, e.g., after retirement.",
+      "page": 200,
+      "sectionId": "propriate-organizing"
+    },
+    {
+      "q": "Which of these did Allport say is NOT under the control of functionally autonomous motives?",
+      "options": [
+        "Interests",
+        "Reflexes",
+        "Values",
+        "Self-image"
+      ],
+      "answer": 1,
+      "explain": "Reflexes, fixations, neuroses and biological drives are not controlled by functionally autonomous motives.",
+      "page": 200,
+      "sectionId": "propriate-organizing"
+    },
+    {
+      "q": "Why did Allport choose the term 'proprium'?",
+      "options": [
+        "Because Freud asked him to",
+        "Because it means 'unconscious' in Latin",
+        "Because 'self' and 'ego' had too many different meanings",
+        "To describe shared cultural traits"
+      ],
+      "answer": 2,
+      "explain": "He rejected 'self' and 'ego' because of the diversity of meanings other theorists gave them.",
+      "page": 200,
+      "sectionId": "proprium"
+    },
+    {
+      "q": "Allport described infants as:",
+      "options": [
+        "Blank slates",
+        "Little scientists",
+        "Miniature adults",
+        "Unsocialized horrors"
+      ],
+      "answer": 3,
+      "explain": "He called infants unsocialized horrors: pleasure seeking, destructive, selfish, impatient and dependent.",
+      "page": 200,
+      "sectionId": "proprium"
+    },
+    {
+      "q": "Which is the correct order of the first three stages of the proprium?",
+      "options": [
+        "Bodily self, self-identity, self-esteem",
+        "Self-identity, bodily self, self-image",
+        "Self-esteem, extension of self, self-image",
+        "Bodily self, self-image, rational coper"
+      ],
+      "answer": 0,
+      "explain": "Table 7.1 lists bodily self, self-identity and self-esteem as stages 1-3.",
+      "page": 201,
+      "sectionId": "stages-of-development"
+    },
+    {
+      "q": "In which stage do adolescents formulate long-range goals and plans?",
+      "options": [
+        "Self as a rational coper",
+        "Propriate striving",
+        "Self-image",
+        "Extension of self"
+      ],
+      "answer": 1,
+      "explain": "Propriate striving develops in adolescence; without it the proprium remains incomplete.",
+      "page": 201,
+      "sectionId": "stages-of-development"
+    },
+    {
+      "q": "The most important factor in proprium development is:",
+      "options": [
+        "Formal schooling",
+        "Peer competition",
+        "The infant-mother bond as a source of affection and security",
+        "Strict discipline"
+      ],
+      "answer": 2,
+      "explain": "The infant-mother bond, providing affection and security, is said to be most important of all.",
+      "page": 202,
+      "sectionId": "infant-mother-bond"
+    },
+    {
+      "q": "If childhood needs for affection and security are frustrated, the result is:",
+      "options": [
+        "A functionally autonomous adult",
+        "A more creative adult",
+        "A stronger cardinal trait",
+        "A neurotic adult functioning at the level of childhood drives"
+      ],
+      "answer": 3,
+      "explain": "Frustrated needs stunt growth, producing a neurotic adult whose motives stay tied to original conditions.",
+      "page": 202,
+      "sectionId": "infant-mother-bond"
+    },
+    {
+      "q": "'Self-objectification' in Allport's criteria means:",
+      "options": [
+        "Understanding of or insight into the self",
+        "Treating others as objects",
+        "Extending the self to possessions",
+        "Seeing oneself through others' eyes only"
+      ],
+      "answer": 0,
+      "explain": "Self-objectification is defined as an understanding of or insight into the self.",
+      "page": 203,
+      "sectionId": "healthy-adult"
+    },
+    {
+      "q": "How many criteria did Allport give for the mature, healthy adult personality?",
+      "options": [
+        "Three",
+        "Six",
+        "Seven",
+        "Eleven"
+      ],
+      "answer": 1,
+      "explain": "Allport described six criteria for the normal, mature, emotionally healthy adult.",
+      "page": 203,
+      "sectionId": "healthy-adult"
+    },
+    {
+      "q": "According to Allport, the ultimate goal of life is to:",
+      "options": [
+        "Reduce tension",
+        "Achieve a final state of rest",
+        "Increase tension by seeking new challenges",
+        "Satisfy biological drives"
+      ],
+      "answer": 2,
+      "explain": "Unlike Freud, Allport said the goal is to increase tension, impelling us to seek new sensations and challenges.",
+      "page": 204,
+      "sectionId": "human-nature"
+    },
+    {
+      "q": "Allport's stance on free will versus determinism was:",
+      "options": [
+        "Fully deterministic",
+        "Fully free will",
+        "He did not address it",
+        "Moderate"
+      ],
+      "answer": 3,
+      "explain": "He granted free choice about the future but held that traits determine some behaviours.",
+      "page": 204,
+      "sectionId": "human-nature"
+    },
+    {
+      "q": "How many major assessment methods did Allport list?",
+      "options": [
+        "11",
+        "6",
+        "4",
+        "7"
+      ],
+      "answer": 0,
+      "explain": "He listed 11 major methods in Pattern and Growth in Personality.",
+      "page": 204,
+      "sectionId": "assessment"
+    },
+    {
+      "q": "'Synoptic procedures' refer to:",
+      "options": [
+        "Inkblot interpretation",
+        "Combining information from several sources in a synopsis",
+        "Measuring physiology",
+        "Analysing dreams"
+      ],
+      "answer": 1,
+      "explain": "The chapter defines synoptic procedures as combining information from several sources in a synopsis.",
+      "page": 204,
+      "sectionId": "assessment"
+    },
+    {
+      "q": "Jenny's letters were written over a period of:",
+      "options": [
+        "2 years",
+        "30 years",
+        "12 years",
+        "6 months"
+      ],
+      "answer": 2,
+      "explain": "Allport analysed more than 300 letters written over a 12-year period.",
+      "page": 205,
+      "sectionId": "personal-document"
+    },
+    {
+      "q": "How many trait categories did Allport derive from Jenny's letters?",
+      "options": [
+        "Two hundred",
+        "Thirty-six",
+        "Six",
+        "Eight"
+      ],
+      "answer": 3,
+      "explain": "36 judges listed nearly 200 traits, which Allport reduced to eight categories.",
+      "page": 205,
+      "sectionId": "personal-document"
+    },
+    {
+      "q": "Political values in the Study of Values concern:",
+      "options": [
+        "Personal power, influence and prestige in all endeavours",
+        "Only voting and party politics",
+        "Human relationships and altruism",
+        "Form, harmony and grace"
+      ],
+      "answer": 0,
+      "explain": "Political values deal with power, influence and prestige in all endeavours, not just political activities.",
+      "page": 205,
+      "sectionId": "study-of-values"
+    },
+    {
+      "q": "Allport proposed that personal values are the basis of our:",
+      "options": [
+        "Cardinal trait",
+        "Unifying philosophy of life",
+        "Bodily self",
+        "Perseverative motives"
+      ],
+      "answer": 1,
+      "explain": "Values were proposed as the basis of the unifying philosophy of life, a maturity criterion.",
+      "page": 205,
+      "sectionId": "study-of-values"
+    },
+    {
+      "q": "Why did Allport consider case studies of no value for understanding normal adults?",
+      "options": [
+        "They are too expensive",
+        "They use too many subjects",
+        "They focus on the past, and normal personality is divorced from childhood",
+        "They are purely statistical"
+      ],
+      "answer": 2,
+      "explain": "Case studies focus on the past, while normal adult personality is divorced from childhood influences.",
+      "page": 205,
+      "sectionId": "research"
+    },
+    {
+      "q": "The study of the individual case is called the:",
+      "options": [
+        "Nomothetic approach",
+        "Correlational approach",
+        "Projective approach",
+        "Idiographic approach"
+      ],
+      "answer": 3,
+      "explain": "Allport favoured the idiographic approach, the study of the individual case.",
+      "page": 206,
+      "sectionId": "research"
+    },
+    {
+      "q": "A speaker's fidgeting with an earring during a lecture is an example of:",
+      "options": [
+        "Expressive behavior",
+        "Coping behavior",
+        "Propriate striving",
+        "A cardinal trait"
+      ],
+      "answer": 0,
+      "explain": "The informal, unplanned level of a speech, such as gestures and fidgeting, is expressive behaviour.",
+      "page": 206,
+      "sectionId": "expressive-behavior"
+    },
+    {
+      "q": "Allport and Vernon (1933) found high consistency in all of these EXCEPT:",
+      "options": [
+        "Voice",
+        "Dream content",
+        "Handwriting",
+        "Posture"
+      ],
+      "answer": 1,
+      "explain": "They found high consistency in voice, handwriting, posture and gestures; dreams were not studied.",
+      "page": 206,
+      "sectionId": "expressive-behavior"
+    },
+    {
+      "q": "Ekman's Facial Action Coding System is based on analysis of:",
+      "options": [
+        "7 facial muscles",
+        "3,000 facial muscles",
+        "43 facial muscles",
+        "Brain-wave patterns"
+      ],
+      "answer": 2,
+      "explain": "FACS is based on 43 facial muscles, giving 3,000 configurations.",
+      "page": 207,
+      "sectionId": "coding-facial"
+    },
+    {
+      "q": "According to Keltner (1997), conscientiousness is marked by expressions of:",
+      "options": [
+        "Anger and contempt",
+        "Laughter",
+        "Disgust and scowling",
+        "Embarrassment"
+      ],
+      "answer": 3,
+      "explain": "Conscientiousness shows in embarrassment: a tightly controlled smile, averted gaze, and head movements down and away.",
+      "page": 208,
+      "sectionId": "coding-facial"
+    },
+    {
+      "q": "Jack, Caldara and Schyns (2012) found that people in Eastern cultures express emotion primarily with the:",
+      "options": [
+        "Eyes",
+        "Mouth",
+        "Eyebrows",
+        "Hands"
+      ],
+      "answer": 0,
+      "explain": "Easterners used mainly the eyes; Westerners used eyebrows and mouth.",
+      "page": 209,
+      "sectionId": "cultural-differences"
+    },
+    {
+      "q": "The study of a remote tribe in Namibia (Gendron et al., 2014) suggested that:",
+      "options": [
+        "All facial expressions are universal",
+        "Perceptions of emotion are not universal",
+        "Infants show no emotions",
+        "Computers read emotions better than people"
+      ],
+      "answer": 1,
+      "explain": "Their expressions did not match Americans', suggesting perceptions of emotion are not universal.",
+      "page": 208,
+      "sectionId": "cultural-differences"
+    },
+    {
+      "q": "The computer program of Susskind et al. (2007) monitored video of faces at:",
+      "options": [
+        "1 frame per second",
+        "300 frames per second",
+        "30 frames per second",
+        "3 frames per minute"
+      ],
+      "answer": 2,
+      "explain": "The program monitored video images at 30 frames per second.",
+      "page": 209,
+      "sectionId": "computer-recognition"
+    },
+    {
+      "q": "Dutch adolescents in simulated chat rooms used more emoticons in:",
+      "options": [
+        "Task-oriented contexts than social contexts",
+        "Job interviews only",
+        "Neither; they avoided emoticons",
+        "Social contexts than task-oriented contexts"
+      ],
+      "answer": 3,
+      "explain": "Teens used more emoticons in a social context than in a task- or job-oriented context.",
+      "page": 209,
+      "sectionId": "computer-recognition"
+    },
+    {
+      "q": "Allport's theory as a whole stimulated little research partly because:",
+      "options": [
+        "His idiographic approach ran counter to mainstream nomothetic research",
+        "He refused to publish",
+        "He relied only on animal studies",
+        "His concepts were purely statistical"
+      ],
+      "answer": 0,
+      "explain": "His idiographic research approach ran counter to contemporary psychology's acceptance of nomothetic research.",
+      "page": 210,
+      "sectionId": "reflections"
+    },
+    {
+      "q": "Which humanistic psychologists reflect Allport's influence?",
+      "options": [
+        "B. F. Skinner and John Watson",
+        "Abraham Maslow and Carl Rogers",
+        "Melanie Klein and Anna Freud",
+        "Raymond Cattell and Hans Eysenck"
+      ],
+      "answer": 1,
+      "explain": "His approach to development, uniqueness and goals is reflected in Maslow and Rogers.",
+      "page": 210,
+      "sectionId": "reflections"
+    }
+  ],
+  "practice": [
+    {
+      "q": "Define functional autonomy.",
+      "marks": 2,
+      "pages": [
+        199,
+        199
+      ],
+      "answer": "Functional autonomy is Allport's idea that the motives of mature, emotionally healthy adults are independent of the childhood or earlier experiences in which they first appeared. Like a grown tree that no longer needs its seed, a motive that began as a means to an end (e.g., working for money) can become an end in itself."
+    },
+    {
+      "q": "What is the proprium?",
+      "marks": 2,
+      "pages": [
+        199,
+        200
+      ],
+      "answer": "Proprium is Allport's term for the ego or self, chosen because 'self' and 'ego' had too many meanings. Understood through the word 'appropriate', it covers the distinctive aspects of personality that are unique to each person and unite his or her attitudes, perceptions and intentions. It develops in seven stages from infancy to adolescence."
+    },
+    {
+      "q": "Distinguish expressive behavior from coping behavior.",
+      "marks": 2,
+      "pages": [
+        206,
+        206
+      ],
+      "answer": "Coping behavior is consciously planned, purposeful and determined by the needs of a situation, usually aimed at changing the environment (e.g., the content of a speech). Expressive behavior is spontaneous, seemingly purposeless, hard to change and usually outside awareness, and it reveals personality traits (e.g., a speaker's gestures and fidgeting)."
+    },
+    {
+      "q": "What is the role of cognitive processes in personality, according to Allport?",
+      "marks": 2,
+      "pages": [
+        198,
+        198
+      ],
+      "answer": "Cognitive processes, meaning our conscious plans and intentions, are a vital part of personality. Allport criticised Freud for stressing unconscious, irrational forces. For him, deliberate intentions, what we want and strive for, are the keys to understanding behaviour, so the present is explained by the future rather than the past."
+    },
+    {
+      "q": "What is Allport's ultimate and necessary goal of life, and how is it achieved?",
+      "marks": 2,
+      "pages": [
+        204,
+        204
+      ],
+      "answer": "Unlike Freud's tension reduction, Allport said the goal of life is to increase tension, pushing us to seek new sensations and challenges. We achieve it by continually setting new goals: once one challenge is met we seek another, because the reward lies in striving, not arriving ('getting there is more fun than being there')."
+    },
+    {
+      "q": "What problems in Allport's childhood and adolescence may have influenced his approach to personality?",
+      "marks": 5,
+      "pages": [
+        194,
+        196
+      ],
+      "answer": "Allport was the youngest of four sons in Montezuma, Indiana. His home was dominated by a devout, strict mother who banned smoking, drinking, dancing, cards, bright colours and jewellery. He was too young to play with his brothers and isolated from other children; he felt rejected by his more 'masculine' brothers, suffered on the playground, and was good with words but poor at sports.\n\nThese conditions produced inferiority feelings, which he tried to offset by striving to excel. He described an identity quest. He identified with and envied his eldest brother Floyd, following him to Harvard and into a psychology Ph.D., and even as a successful psychologist felt in Floyd's shadow. At Harvard, social service gave him a sense of competence that offset his inferiority and helped his search for identity.\n\nInfluence on his theory: emulating Floyd may have threatened his sense of identity, so he may have asserted his individuality by claiming that adult motives are independent of childhood feelings, the core of functional autonomy. His emphasis on uniqueness also fits this need to be his own person. Finally, his traumatic meeting with Freud, who suggested Allport was the dirt-fearing boy in his story, convinced him that psychoanalysis digs too deep and that psychology should study conscious, visible motives. Ironically, his theory holds that healthy adults are unaffected by childhood, and he revealed little about his own."
+    },
+    {
+      "q": "Explain Allport's definition of personality. How do heredity and environment influence personality in his system?",
+      "marks": 5,
+      "pages": [
+        196,
+        197
+      ],
+      "answer": "After reviewing about 50 definitions, Allport (1961) defined personality as the dynamic organization within the individual of those psychophysical systems that determine characteristic behaviour and thought. 'Dynamic organization' means personality constantly changes and grows, but in an organised way. 'Psychophysical' means mind and body work together as a unit; personality is neither purely mental nor purely biological. 'Determine' means all facets of personality activate or direct specific behaviours and thoughts. 'Characteristic behaviour and thought' means everything we do and think is typical of us, so each person is unique.\n\nHeredity and environment: personality reflects both. Heredity provides raw materials such as physique, intelligence and temperament, which the environment then shapes, expands or limits. Thus both genetics and learning matter. But genes account for the major portion of our uniqueness, because the possible gene combinations are infinite and, except for identical twins, no one duplicates another's endowment. Genes interact with the social environment, and no two people, not even siblings in the same house, share exactly the same environment. The result is inevitably a unique personality, which is why Allport insisted psychology should study the individual case rather than group averages."
+    },
+    {
+      "q": "Describe the characteristics of traits according to Allport, and distinguish individual from common traits.",
+      "marks": 5,
+      "pages": [
+        197,
+        198
+      ],
+      "answer": "Allport defined traits as predispositions to respond in the same or a similar way to different kinds of stimuli: consistent, enduring ways of reacting to the environment. He listed five characteristics (Allport, 1937):\n\n1. Traits are real and exist within each person; they are not invented labels or constructs.\n2. Traits determine or cause behaviour; they motivate us to seek appropriate stimuli and interact with the environment to produce behaviour.\n3. Traits can be demonstrated empirically, by inferring them from the consistency of responses observed over time.\n4. Traits are interrelated and may overlap, e.g., aggressiveness and hostility often occur together.\n5. Traits vary with the situation; a person may be neat in one setting and disorderly in another.\n\nIndividual versus common traits: individual traits are unique to a person and define his or her character. Common traits are shared by many people, such as members of a culture; people in different cultures therefore have different common traits, and common traits change as social standards and values change, showing they are subject to social, environmental and cultural influences. To avoid confusion Allport later renamed common traits simply 'traits' and individual traits 'personal dispositions'."
+    },
+    {
+      "q": "How do cardinal, central and secondary traits differ? Which exerts the most powerful influence on personality?",
+      "marks": 5,
+      "pages": [
+        198,
+        198
+      ],
+      "answer": "Allport's personal dispositions (traits peculiar to the individual) differ in intensity and significance, forming three levels.\n\nCardinal traits are so pervasive and influential that they touch almost every aspect of a person's life. Allport called a cardinal trait a 'ruling passion', a powerful force dominating behaviour, with examples such as sadism and chauvinism. Not everyone has a ruling passion, and those who do may not show it in every situation.\n\nCentral traits are the 5 to 10 themes that best describe a person's behaviour, and everyone has them. Allport's examples were aggressiveness, self-pity and cynicism. They are the qualities we mention when describing a friend or writing a letter of recommendation.\n\nSecondary traits are the least influential. They appear much less consistently and may be so weak or inconspicuous that only a close friend notices them, e.g., a minor preference for a certain type of music or food.\n\nThe three differ in pervasiveness, consistency and visibility: cardinal (dominant, rare), central (characteristic, universal), secondary (peripheral, inconsistent). Cardinal traits exert the most powerful influence on personality, because they dominate behaviour across nearly all areas of life."
+    },
+    {
+      "q": "Describe the first three stages of the development of the proprium and the role of parents in its development.",
+      "marks": 5,
+      "pages": [
+        200,
+        202
+      ],
+      "answer": "Before the proprium appears, infants have no self-awareness and do not separate 'me' from the world. They react reflexively to reduce tension and maximise pleasure; Allport called them 'unsocialized horrors'. The first three stages emerge in roughly the first three to four years.\n\n1. Bodily self: infants become aware of a 'bodily me', recognising their own existence and distinguishing their bodies from objects, such as their fingers from the object they grasp.\n2. Self-identity: children realise their identity stays continuous despite changes in body and abilities. Learning their names and seeing themselves as distinct from others strengthens this.\n3. Self-esteem: children discover they can do things on their own and take pride in it. They want to build, explore and manipulate objects, which may be destructive.\n\nRole of parents: social interaction with parents matters at every stage. At the self-esteem stage, if parents frustrate the need to explore, self-esteem can be replaced by humiliation and anger. At the self-image stage, parents' expectations shape actual and ideal self-images. Most important is the infant-mother bond: sufficient affection and security from the mother or primary caregiver lets the proprium develop steadily and leads to a healthy adult; frustrated needs produce an insecure, aggressive, jealous child and later a neurotic adult functioning at the level of childhood drives."
+    },
+    {
+      "q": "Describe the personal-document technique and the Study of Values as methods of assessment.",
+      "marks": 5,
+      "pages": [
+        204,
+        205
+      ],
+      "answer": "Allport believed no single assessment technique is best and listed 11 methods, but relied most on these two.\n\nPersonal-document technique: the examination of diaries, autobiographies, letters, literary compositions and other written or spoken records to determine the number and kinds of a person's traits. Judges read the material and record traits; with reasonable agreement these are grouped into a few categories. In his famous case, more than 300 letters written over 12 years by 'Jenny' (later revealed by Winter to be his college roommate's mother), 36 judges listed nearly 200 traits, which Allport reduced to eight. His student Paige (1966) analysed the letters by computer, coding word categories (e.g., anger, rage, hostility as aggression), and found eight similar traits. Allport concluded that his subjective, idiographic method was valid.\n\nStudy of Values: an objective self-report test by Allport, Vernon and Lindzey (1960). Values are traits representing strong interests and motivations, and form the basis of the unifying philosophy of life, a criterion of maturity. Everyone has some of each value, but one or two dominate. The six are theoretical (truth, rational approach), economic (useful, practical), aesthetic (form, harmony, grace), social (relationships, altruism), political (power, influence, prestige in all areas) and religious (mystical, understanding the universe). It is a nomothetic test, showing Allport used group methods when appropriate."
+    },
+    {
+      "q": "Is there a universality of facial expressions across cultures, or do they vary? Also explain how people express emotions in computer-mediated communication.",
+      "marks": 5,
+      "pages": [
+        208,
+        209
+      ],
+      "answer": "Universality: studies of American and Chinese infants and adults found some basic emotions expressed by identical facial expressions in both cultures and age groups (Albright et al., 1997; Camras et al., 1998).\n\nVariation: much evidence points to differences. Chinese infants showed less variety of expression than American and Japanese infants (Camras, 1998). A remote Namibian tribe's expressions did not match Americans', suggesting perceptions of emotion are not universal (Gendron et al., 2014). White 3-year-old girls smiled more than Chinese or Chinese-American girls, with maternal strictness and household size also mattering (Camras et al., 2006). US and Japanese adults recognised own-culture expressions better (Dailey et al., 2010), even on robot faces (Trovato et al., 2014). Easterners express emotion mainly with the eyes, Westerners with the eyebrows and mouth (Jack et al., 2012); Asian Facebook photos are less intense than American ones (Huang & Park, 2013). So basic expressions show some consistency, but their variety, intensity and recognition depend on culture and family.\n\nComputer-mediated communication: a program reading faces at 30 frames per second recognised basic emotions accurately (Susskind et al., 2007). Dutch teenagers in chat rooms used more emoticons in social than task contexts, positive icons in positive situations and negative icons in negative ones (Derks et al., 2007). People therefore express emotions online much as they do face to face; one's own emoji use can be discussed in this light."
+    },
+    {
+      "q": "Critically evaluate Allport's theory of personality.",
+      "marks": 5,
+      "pages": [
+        210,
+        210
+      ],
+      "answer": "Weaknesses: apart from expressive behaviour, the theory has stimulated little research. Its idiographic approach ran counter to the nomothetic mainstream of psychology, and its focus on healthy adults clashed with clinical psychology's concern with neurotics and psychotics. Its concepts are hard to translate into testable propositions: how can functional autonomy or propriate striving be observed or manipulated in a laboratory? Allport never explained how an original motive becomes autonomous (e.g., how working for money becomes working for its own sake), so we cannot predict which motives will become autonomous. His exclusive emphasis on uniqueness makes it impossible to generalise from one person to another. Many reject his discontinuity between child and adult, animal and human, and normal and abnormal, since research on children, animals and disturbed people has taught much about healthy adults.\n\nStrengths: many psychologists still see his views as a better basis for understanding personality than most theories (Piekkola, 2011). His ideas on development, uniqueness and goals influenced Maslow and Rogers, and he is seen as one of the first to bring humanistic values into psychology (Jeshmaridian, 2007). Current trait research supports some of his ideas; his work on emotional expression aided cognitive neuroscience; interest in personal documents has revived. His readable books, commonsense concepts, focus on conscious rational motives and future orientation offer a hopeful alternative to psychoanalysis. His most enduring contributions are making personality academically respectable and emphasising genetic factors in a trait approach."
+    },
+    {
+      "q": "In what ways does Allport's theory of personality differ from Freud's? Discuss with reference to the unconscious, the past, research subjects, motivation and the goal of life.",
+      "marks": 10,
+      "pages": [
+        194,
+        210
+      ],
+      "answer": "Introduction\n\nGordon Allport, who made personality an academically respectable field with his 1937 book, built his theory largely in opposition to Freud's psychoanalysis. His single traumatic meeting with Freud in Vienna, when Freud asked whether the dirt-fearing boy in Allport's story was Allport himself, convinced him that psychoanalysis probed the unconscious too deeply and that psychology should attend to conscious, visible motives. The differences can be organised under several headings.\n\n1. Conscious versus unconscious\n\nFreud held that unconscious forces dominate personality. Allport argued that emotionally healthy adults function rationally and consciously, aware of and in control of many of the forces motivating them. The unconscious, he said, is important only in neurotic or disturbed people. Correspondingly he stressed cognitive processes, conscious plans and intentions, as vital aspects of personality.\n\n2. The past versus the present and future\n\nFreud's historical determinism traced adult behaviour to childhood conflicts. Allport said we are not prisoners of the past; we are guided more by the present and our view of the future. Whatever happened in toilet training or school is past and inactive unless it still operates as a present force. His concept of functional autonomy states that adult motives become independent of the experiences in which they began, like a grown tree that no longer needs its seed. He also proposed two discontinuous personalities: a biologically driven infant and a psychologically functioning adult not constrained by childhood. Therefore adult motives cannot be understood by exploring childhood; we must ask why people behave as they do today.\n\n3. Normal versus abnormal subjects\n\nFreud built his theory on neurotic patients and saw a continuum between normal and abnormal. Allport saw a sharp break: the abnormal personality functions at an infantile level. He insisted on studying emotionally healthy adults and rejected comparisons with neurotics, children or animals. He also rejected methods suited to disturbed people: case studies focus on the past, and projective tests such as the TAT and Rorschach may distort normal personality by focusing on unconscious forces. He preferred asking people to describe themselves, personal documents and tests like the Study of Values.\n\n4. Uniqueness versus universal laws\n\nFreud proposed general laws of development applying to everyone. Allport emphasised the uniqueness of each personality, defined by personal dispositions, and favoured the idiographic study of individual cases.\n\n5. Motivation and the goal of life\n\nFor Freud, the goal of life is tension reduction. Allport held the opposite: the ultimate goal is to increase tension, impelling us to seek new sensations and challenges. The reward lies in striving rather than arriving. He explained the present by the future: what we want and strive for is the key to behaviour.\n\n6. Image of human nature\n\nFreud's view was largely pessimistic and deterministic. Allport's was optimistic: adults consciously control their lives, plan for the future and are always in the process of becoming. He took a moderate stance on free will, granting free choice about the future while accepting that traits determine some behaviour.\n\nPoints of overlap\n\nAllport did not reject childhood entirely: the infant-mother bond determines whether the proprium develops healthily, and frustrated needs produce a neurotic adult still governed by childhood drives, a view not far from Freud's for the disturbed personality.\n\nConclusion\n\nAllport's theory reverses Freud on almost every major point: conscious over unconscious, future over past, healthy over disturbed, unique over universal, and tension increase over tension reduction. Critics argue that his discontinuity between child and adult, and normal and abnormal, ignores useful knowledge from studies of children and patients. Yet his rational, hopeful picture of human nature offered an important alternative to psychoanalysis and influenced humanistic psychologists such as Maslow and Rogers."
+    },
+    {
+      "q": "Explain Allport's concept of functional autonomy. Describe its two levels and the three principles that govern propriate functional autonomy. What is the relationship between adult motives and childhood experiences?",
+      "marks": 10,
+      "pages": [
+        198,
+        200
+      ],
+      "answer": "Introduction\n\nAllport believed that the central problem for any personality theory is how it treats motivation. Emphasising the present and conscious intentions, he proposed functional autonomy, his best-known and most distinctive concept. It holds that the motives of mature, emotionally healthy adults are not functionally connected to the prior experiences in which they first appeared; they become autonomous, independent of their original circumstances.\n\nIllustrations\n\nAllport compared it to a tree, which can be traced to its seed but, once grown, no longer needs the seed for nourishment. Similarly, adults remain related to their parents but are no longer functionally dependent on them. In his career example, young graduates work hard to gain financial security. Decades later, with that goal achieved, some still work just as hard. Hard work, once a means to an end, has become an end in itself.\n\nTwo levels of functional autonomy\n\n1. Perseverative functional autonomy is the more elementary level. It includes addictions and repetitive physical actions, such as habitual ways of doing routine tasks. These behaviours persist without external reward; they once served a purpose but no longer do, and are too low-level to be an integral part of personality. Evidence: a rat trained to run a maze for food may keep running it when well fed; humans prefer familiar routines that continue without reinforcement.\n\n2. Propriate functional autonomy is the more important level and essential for understanding adult motivation. 'Propriate' comes from proprium, Allport's term for the self. It relates to values, self-image and lifestyle. Propriate motives are unique to each person. The ego decides which motives to keep, retaining those that enhance self-esteem and self-image, so we enjoy doing what we do well. A child forced into piano lessons out of fear of parental displeasure may, as skill grows, continue because playing has become necessary to his self-image.\n\nThe three principles of propriate functioning\n\nPropriate functioning is an organising process that maintains our sense of self, selectively determining what we perceive, remember and think about in line with our interests and values. It follows three principles:\n\n- Organizing the energy level: new motives are acquired out of necessity, to use surplus energy that might otherwise be expressed destructively, e.g., retired people should channel spare time into new interests.\n- Mastery and competence: adequate achievement is not enough; mature adults are motivated to perform better, master new skills and increase competence.\n- Propriate patterning: a striving for consistency and integration, organising perception and cognition around the self, keeping what enhances self-image and rejecting the rest.\n\nLimits\n\nAllport admitted that reflexes, fixations, neuroses and biologically driven behaviours are not controlled by functionally autonomous motives.\n\nAdult motives and childhood experiences\n\nIn the healthy adult, motives are independent of childhood: the past is inactive unless it survives as a present force. Adult motives therefore cannot be understood by exploring childhood, as Freud believed, but by investigating present reasons and future goals. This reflects Allport's view of two discontinuous personalities. The exception is the neurotic: if childhood needs for affection and security were frustrated, motives do not become functionally autonomous but stay tied to their original conditions. The role of cognitive processes is central here: conscious intentions and plans, what we want and strive for, explain behaviour.\n\nEvaluation and conclusion\n\nFunctional autonomy captures something real about adult life: activities begun for one reason often continue for quite different ones. Its link to Allport's own biography, his need to free himself from his brother Floyd's shadow, has been noted. However, critics argue that Allport never explained how an original motive is transformed into an autonomous one, so we cannot predict which motives will become autonomous, and the concept is very difficult to observe or manipulate in a laboratory. Nonetheless, it remains a key alternative to Freud's historical determinism and an optimistic statement that adults are free to shape their own motives."
+    },
+    {
+      "q": "Describe the concept of the proprium and the seven stages of its development. What is the importance of the infant-mother bond, and how does the theory account for emotional disturbance in adulthood?",
+      "marks": 10,
+      "pages": [
+        200,
+        202
+      ],
+      "answer": "Introduction\n\nAllport used the term proprium for the self or ego, rejecting the words 'self' and 'ego' because other theorists had given them so many meanings. The term is best understood through the adjective 'appropriate': the proprium includes the aspects of personality that are distinctive and appropriate to our individual emotional life. These aspects are unique to each person and unite attitudes, perceptions and intentions. The proprium is also the basis of propriate functional autonomy, since the ego selects which motives are retained.\n\nThe infant before the proprium\n\nThe newborn has no self-consciousness and no separation of 'me' from everything else. Sensory impressions trigger automatic, reflexive responses with no ego mediating between stimulus and response. Allport described infants as pleasure seeking, destructive, selfish, impatient and dependent, 'unsocialized horrors' with little personality, driven by reflexes to reduce tension and maximise pleasure.\n\nThe seven stages (Table 7.1)\n\nStages 1-3 (first three years; birth to about 4):\n1. Bodily self: awareness of a 'bodily me'; infants distinguish their own bodies, e.g., their fingers, from objects.\n2. Self-identity: a sense of continuity; children realise they remain the same person despite changes in body and abilities, aided by learning their names and seeing themselves as distinct.\n3. Self-esteem: pride in doing things on their own; a drive to build, explore and manipulate objects. If parents frustrate exploration, self-esteem may give way to humiliation and anger.\n\nStages 4-5 (ages 4-6):\n4. Extension of self: awareness of objects and people as belonging to the child: 'my house', 'my parents', 'my school'.\n5. Self-image: actual and ideal self-images form through interaction with parents, who convey their expectations and how far the child meets them.\n\nStage 6 (ages 6-12):\n6. Self as a rational coper: realising that reason and logic can solve everyday problems.\n\nStage 7 (adolescence):\n7. Propriate striving: forming long-range plans and goals; until this happens the proprium remains incomplete.\n\nAdulthood: normal mature adults are functionally autonomous, independent of childhood motives, function rationally in the present and consciously create their own lifestyles.\n\nThe infant-mother bond\n\nInteraction with parents matters throughout, but the infant-mother bond, as a source of affection and security, is most important of all. If the mother or primary caregiver provides sufficient affection and security, the proprium develops gradually and steadily and the child grows psychologically. Childhood motives can then be transformed into the autonomous propriate strivings of adulthood, a pattern of personal dispositions forms, and the result is a mature, emotionally healthy adult.\n\nEmotional disturbance in adulthood\n\nIf childhood needs are frustrated, the self does not mature properly. The child becomes insecure, aggressive, demanding, jealous and self-centred, and growth is stunted. The result is a neurotic adult who functions at the level of childhood drives. Such an adult's motives do not become functionally autonomous but remain tied to their original conditions; traits and personal dispositions fail to develop, and the personality remains undifferentiated, as in infancy. This fits Allport's statements that the abnormal personality functions at an infantile level and that the unconscious and past matter mainly in neurotic people.\n\nConclusion\n\nThe proprium is the developing core of the unique self, built in seven stages from bodily awareness to future-oriented striving. Allport's account gives parents, especially the mother, a crucial role. An interesting tension is that although he denied the influence of childhood on healthy adults, whether one becomes healthy at all depends on early affection and security. The stages also connect to his criteria of maturity, for example extension of self and the future goals expressed in a unifying philosophy of life."
+    },
+    {
+      "q": "What are the characteristics of the mature, healthy adult personality according to Allport? Relate them to his view of human nature and the ultimate goal of life.",
+      "marks": 10,
+      "pages": [
+        202,
+        205
+      ],
+      "answer": "Introduction\n\nAllport studied normal, emotionally healthy adults rather than neurotic patients, so his description of the mature personality is central to his theory. He saw healthy development as a change from a biologically dominated organism in infancy to a mature psychological organism in adulthood, whose motives are separated from childhood and oriented toward the future. If childhood needs for affection and security were met, the proprium develops satisfactorily and the adult is no longer dominated by childhood drives.\n\nThe six criteria of maturity\n\n1. Extension of the sense of self: mature adults extend their sense of self to people and activities beyond themselves, genuinely participating in work, family, friendships and causes. This continues the childhood stage of extension of self.\n\n2. Warm relating to others: they relate warmly, showing intimacy, compassion and tolerance.\n\n3. Self-acceptance and emotional security: a high degree of self-acceptance helps them achieve emotional security.\n\n4. Realistic perception, skills and commitment to work: they perceive life realistically, develop personal skills and commit themselves to some type of work. This echoes the principle of mastery and competence.\n\n5. Humour and self-objectification: they have a sense of humour and self-objectification, an understanding of or insight into themselves.\n\n6. A unifying philosophy of life: this directs the personality toward future goals. Allport, Vernon and Lindzey proposed that personal values (theoretical, economic, aesthetic, social, political, religious), measured by the Study of Values, are the basis of this philosophy.\n\nAdults meeting these criteria are emotionally healthy and functionally autonomous, independent of childhood motives; they cope with the present and plan for the future without being victims of their early years.\n\nLink to human nature\n\nThese criteria express Allport's optimistic image of human nature: adults in conscious control of their lives, attending rationally to current situations, planning ahead and actively fashioning an identity. We are always in the process of becoming, creatively designing a lifestyle shaped more by present and future than by the past. On free will, he was moderate: we choose freely about the future, though traits and personal dispositions, once formed, determine some behaviour and are hard to change. On nature and nurture, genes supply physique, temperament and intelligence, shaped by learning and experience. On uniqueness, personal dispositions describe us more precisely than common traits.\n\nThe ultimate goal of life\n\nUnlike Freud's tension reduction, Allport held that the ultimate and necessary goal of life is to increase tension, impelling us to keep seeking new sensations and challenges. Having met one challenge, we seek another. The reward is the process of achieving rather than the achievement: 'getting there is more fun than being there'. We need new goals constantly to maintain an optimal level of tension. This fits the mature personality: commitment to work, mastery of skills and a philosophy directing us toward future goals are exactly how this continual striving is achieved.\n\nAllport the person\n\nHis optimism was reflected in his liberal stance, interest in social reform and a humanistic attitude mirrored in his personality; colleagues described him as genuinely caring about people.\n\nConclusion\n\nAllport's mature personality is outward-looking, warm, secure, realistic, self-aware and guided by a unifying philosophy. Together with his view of life as continuous striving, it offers a hopeful picture that anticipated humanistic psychologists such as Maslow and Rogers. Critics may note that it is descriptive and hard to test empirically, but it remains a useful framework for understanding psychological health."
+    },
+    {
+      "q": "Describe the research findings on how expressive behavior reveals aspects of personality.",
+      "marks": 10,
+      "pages": [
+        206,
+        209
+      ],
+      "answer": "Introduction\n\nAlthough Allport's theory as a whole generated little research, his concept of expressive behavior has stimulated a large and productive body of work. Allport distinguished expressive behavior, which is spontaneous, seemingly purposeless, hard to change and usually outside awareness, from coping behavior, which is consciously planned, purposeful and aimed at changing the environment. In public speaking, the lecture content is coping behavior, while the speaker's gestures, pacing, rapid speech or fidgeting are expressive and reveal personality.\n\nAllport's own research\n\nIn his landmark study, Allport and Vernon (1933) gave subjects various tasks and found high consistency across situations in voice, handwriting, posture and gestures, from which traits such as introversion and extraversion could be inferred.\n\nAssessing personality from expressive cues\n\nLater work shows personality can be assessed from voice recordings, films, videotapes and even still photographs; facial expressions, vocal inflections and idiosyncratic gestures reveal traits to trained observers (Russell et al., 2003; Berry, 1990; DePaulo, 1993). Some people form reliable impressions of strangers from facial appearance alone (Berry & Wero, 1993), and observers accurately judged anxiety from under 30 seconds of film (Ambody & Rosenthal, 1992).\n\nGender, age and experience\n\nWomen and younger people recognise facial emotions better than men and older people (Sasson et al., 2010); children read expressions from age 5 (Gao & Maurer, 2010). Women with positive expressions in yearbook photos at 21 reported greater well-being at 27, 43 and 52 and better marriages (Harker & Keltner, 2001). Abused children identified anger more readily (Pollak & Sinha, 2002). Depressed adults needed more intense faces to see happiness but less to see sadness (Joormann & Gotlib, 2006) and were better at recognising sadness; socially anxious children interpreted expressions better (Ale et al., 2010; Gollan et al., 2010). Japanese children who played more video games recognised expressions better (Tamamiya & Jiraki, 2013), and close friends decode emotions far better than acquaintances (Zhang & Parmley, 2011).\n\nCoding facial expressions\n\nPaul Ekman identified seven distinguishable facial emotions: anger, contempt, disgust, fear, sadness, surprise and happiness (Ekman et al., 1997). His Facial Action Coding System, based on 43 muscles and 3,000 configurations, is used by police, the CIA and FBI to detect lying (Kaufman, 2002). Keltner (1997) linked neuroticism to anger, contempt and fear; agreeableness to laughter; extraversion to smiles and amusement; and conscientiousness to embarrassment. We recognise smiles by unconsciously mimicking them (Niedenthal et al., 2010).\n\nEmotional states\n\nType A people show disgust, glaring, grimacing and scowling (Chesney et al., 1997); facial expressions distinguished depressed Swiss patients who later attempted suicide (Heller & Haynal, 1997); highly anxious Japanese students showed distinct expressions around the mouth and left side of the face (Nakamura, 2002).\n\nCulture and computers\n\nSome basic emotions look alike in American and Chinese faces (Albright et al., 1997), but many studies show cultural differences in variety, intensity, facial regions used (eyes in the East, eyebrows and mouth in the West; Jack et al., 2012) and own-culture recognition advantages (Dailey et al., 2010). Computers can recognise basic emotions from video at 30 frames per second (Susskind et al., 2007), and teenagers use emoticons online much as they use facial expressions face to face (Derks et al., 2007).\n\nConclusion\n\nTaken together, these findings provide strong support for Allport's proposition that expressive behavior reflects personality traits. They show that traits and emotional states can be read from faces, voices and gestures, that this skill varies with gender, age, experience, emotional state and culture, and that it can even be automated. Allport's work on emotional expression has been described as vitally important for the development of cognitive neuroscience."
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "What did Allport's 1937 book achieve?",
+      "back": "Personality: A Psychological Interpretation won formal recognition for the systematic study of personality and became a classic.",
+      "page": 193
+    },
+    {
+      "front": "Three ways Allport challenged Freud?",
+      "back": "Unconscious matters only for neurotics; we are guided by present and future, not the past; study healthy adults, not abnormal people.",
+      "page": 194
+    },
+    {
+      "front": "What is historical determinism?",
+      "back": "The importance of the past in determining the present; Allport rejected it.",
+      "page": 194
+    },
+    {
+      "front": "Where was Allport born, and what was his birth order?",
+      "back": "Montezuma, Indiana; youngest of four sons.",
+      "page": 194
+    },
+    {
+      "front": "Which brother did Allport emulate?",
+      "back": "His eldest brother Floyd, a noted social psychologist.",
+      "page": 195
+    },
+    {
+      "front": "What did Freud ask Allport?",
+      "back": "'Was that little boy you?' after Allport described a boy afraid of dirt.",
+      "page": 196
+    },
+    {
+      "front": "What was historic about Allport's dissertation?",
+      "back": "It was the first research on personality traits conducted in the United States (1922).",
+      "page": 196
+    },
+    {
+      "front": "Allport's definition of personality?",
+      "back": "The dynamic organization within the individual of those psychophysical systems that determine characteristic behaviour and thought.",
+      "page": 196
+    },
+    {
+      "front": "What does heredity provide in Allport's view?",
+      "back": "Raw materials such as physique, intelligence and temperament, shaped by environment.",
+      "page": 197
+    },
+    {
+      "front": "What is the 'two personalities' idea?",
+      "back": "Personality is discontinuous: a biologically driven childhood personality and a psychological adult personality not constrained by childhood.",
+      "page": 197
+    },
+    {
+      "front": "Allport's definition of a trait?",
+      "back": "A predisposition to respond in the same or similar way to different stimuli; consistent, enduring ways of reacting.",
+      "page": 197
+    },
+    {
+      "front": "Five characteristics of traits?",
+      "back": "Real; cause behaviour; empirically demonstrable; interrelated; vary with the situation.",
+      "page": 197
+    },
+    {
+      "front": "Individual vs common traits?",
+      "back": "Individual: unique to a person. Common: shared by many, e.g., a culture. Later renamed personal dispositions and traits.",
+      "page": 198
+    },
+    {
+      "front": "What is a cardinal trait? Examples?",
+      "back": "A pervasive 'ruling passion' dominating behaviour, e.g., sadism, chauvinism. Not everyone has one.",
+      "page": 198
+    },
+    {
+      "front": "What are central traits? Examples?",
+      "back": "The 5 to 10 themes that best describe a person, e.g., aggressiveness, self-pity, cynicism.",
+      "page": 198
+    },
+    {
+      "front": "What are secondary traits?",
+      "back": "The least influential, inconsistent traits, e.g., a minor preference for a type of music or food.",
+      "page": 198
+    },
+    {
+      "front": "Central problem for any personality theory, per Allport?",
+      "back": "How it treats motivation.",
+      "page": 198
+    },
+    {
+      "front": "What is functional autonomy?",
+      "back": "Adult motives become independent of the earlier experiences in which they arose.",
+      "page": 199
+    },
+    {
+      "front": "Perseverative functional autonomy?",
+      "back": "Low-level routine behaviours and addictions that persist without reward, e.g., a well-fed rat still running a maze.",
+      "page": 199
+    },
+    {
+      "front": "Propriate functional autonomy?",
+      "back": "Motives tied to values, self-image and lifestyle; the ego keeps motives that enhance self-esteem.",
+      "page": 199
+    },
+    {
+      "front": "Three principles of propriate functioning?",
+      "back": "Organizing the energy level; mastery and competence; propriate patterning.",
+      "page": 200
+    },
+    {
+      "front": "What is not functionally autonomous?",
+      "back": "Reflexes, fixations, neuroses and behaviours from biological drives.",
+      "page": 200
+    },
+    {
+      "front": "What is the proprium?",
+      "back": "Allport's term for the ego or self: distinctive aspects that unite attitudes, perceptions and intentions.",
+      "page": 199
+    },
+    {
+      "front": "What did Allport call infants?",
+      "back": "'Unsocialized horrors': pleasure seeking, destructive, selfish, impatient, dependent.",
+      "page": 200
+    },
+    {
+      "front": "Seven stages of the proprium?",
+      "back": "Bodily self, self-identity, self-esteem, extension of self, self-image, self as rational coper, propriate striving.",
+      "page": 201
+    },
+    {
+      "front": "Ages for stages 4-5, 6 and 7?",
+      "back": "Extension of self and self-image: 4-6; rational coper: 6-12; propriate striving: adolescence.",
+      "page": 201
+    },
+    {
+      "front": "Most important factor in proprium development?",
+      "back": "The infant-mother bond as a source of affection and security.",
+      "page": 202
+    },
+    {
+      "front": "Six criteria of the mature adult?",
+      "back": "Extension of self; warm relating; self-acceptance and emotional security; realistic perception, skills, work; humour and self-objectification; unifying philosophy of life.",
+      "page": 203
+    },
+    {
+      "front": "Allport's ultimate goal of life?",
+      "back": "To increase tension by seeking new challenges; striving is the reward.",
+      "page": 204
+    },
+    {
+      "front": "How many assessment methods did Allport list?",
+      "back": "11; he relied most on personal documents and the Study of Values.",
+      "page": 204
+    },
+    {
+      "front": "The Jenny case in numbers?",
+      "back": "300+ letters, 12 years, 36 judges, nearly 200 traits, reduced to 8 categories.",
+      "page": 205
+    },
+    {
+      "front": "Six values in the Study of Values?",
+      "back": "Theoretical, economic, aesthetic, social, political, religious.",
+      "page": 205
+    },
+    {
+      "front": "Idiographic vs nomothetic?",
+      "back": "Idiographic: study of the individual case. Nomothetic: statistical analysis of large samples.",
+      "page": 206
+    },
+    {
+      "front": "Expressive vs coping behaviour?",
+      "back": "Expressive: spontaneous, purposeless, unaware. Coping: planned, purposeful, aimed at changing the environment.",
+      "page": 206
+    },
+    {
+      "front": "What is FACS?",
+      "back": "Ekman's Facial Action Coding System: 43 facial muscles, 3,000 configurations; used to detect lying.",
+      "page": 207
+    },
+    {
+      "front": "Ekman's seven emotions?",
+      "back": "Anger, contempt, disgust, fear, sadness, surprise, happiness.",
+      "page": 207
+    },
+    {
+      "front": "How do Eastern and Western people differ in expressing emotion?",
+      "back": "Easterners mainly use the eyes; Westerners use eyebrows and mouth (Jack et al., 2012).",
+      "page": 209
+    },
+    {
+      "front": "Two main criticisms of functional autonomy?",
+      "back": "Hard to test experimentally; Allport never explained how motives are transformed.",
+      "page": 210
+    },
+    {
+      "front": "Allport's most enduring contributions?",
+      "back": "Making personality study academically respectable and emphasising genetic factors within a trait approach.",
+      "page": 210
+    }
+  ],
+  "summary": [
+    "Allport made personality an academically respectable field with Personality: A Psychological Interpretation (1937) and built a trait-centred theory.",
+    "He rejected Freud: healthy adults are conscious and rational, guided by present and future rather than the past, and should be studied instead of neurotics, children or animals.",
+    "He stressed the uniqueness of each personality, defined by individual traits, and opposed universal laws of personality.",
+    "His isolated, inferiority-laden childhood and rivalry with brother Floyd, plus his traumatic meeting with Freud, parallel his theory's stress on independence from childhood and on conscious motives.",
+    "Personality is the dynamic organization within the individual of psychophysical systems that determine characteristic behaviour and thought; it reflects heredity (the main source of uniqueness) and environment.",
+    "Personality is discontinuous: there is one personality for childhood and another for adulthood.",
+    "Traits are real, cause behaviour, can be demonstrated empirically, are interrelated and vary with the situation.",
+    "Common traits are shared within a culture; individual traits, later called personal dispositions, are cardinal (ruling passion), central (5-10 themes) or secondary (minor, inconsistent).",
+    "Motivation is the central problem of personality theory; conscious intentions and future goals explain behaviour.",
+    "Functional autonomy: adult motives become independent of their origins, at a perseverative level (habits, addictions) and a propriate level (values, self-image, lifestyle).",
+    "Propriate functioning follows three principles: organizing the energy level, mastery and competence, and propriate patterning.",
+    "The proprium (self) develops through seven stages: bodily self, self-identity, self-esteem, extension of self, self-image, self as rational coper, propriate striving.",
+    "Affection and security from the mother produce a healthy adult; frustration produces a neurotic adult still governed by childhood drives.",
+    "The mature adult extends the self, relates warmly, is emotionally secure, perceives realistically, has skills and work commitment, humour and self-insight, and a unifying philosophy of life.",
+    "Allport's view of human nature is optimistic; the goal of life is increasing tension through new challenges.",
+    "Assessment relied on the personal-document technique (Jenny's letters) and the Study of Values (six values).",
+    "Research on expressive behaviour shows traits and emotions can be read from faces, voice and gestures, varies with gender, age, experience and culture, and can be done by computers.",
+    "Critics say the theory is hard to test, functional autonomy's mechanism is unexplained, and uniqueness and discontinuity are overstated; yet Allport influenced Maslow and Rogers and humanistic psychology."
+  ],
+  "assessment": [
+    {
+      "q": "A major criticism of functional autonomy is that Allport did not explain:",
+      "options": [
+        "How an original motive is transformed into an autonomous one",
+        "Why traits exist",
+        "How values are measured",
+        "What expressive behaviour is"
+      ],
+      "answer": 0,
+      "explain": "Without the transformation mechanism we cannot predict which childhood motives become autonomous.",
+      "page": 210
+    },
+    {
+      "q": "Allport placed Freud's idea that the past determines the present under which label?",
+      "options": [
+        "Functional autonomy",
+        "Historical determinism",
+        "Propriate patterning",
+        "Synoptic procedure"
+      ],
+      "answer": 1,
+      "explain": "The chapter defines historical determinism as the importance of the past in determining the present; Allport rejected it.",
+      "page": 194
+    },
+    {
+      "q": "Which of the following is an example Allport gave of a central trait?",
+      "options": [
+        "Sadism",
+        "A preference for a certain food",
+        "Cynicism",
+        "Chauvinism"
+      ],
+      "answer": 2,
+      "explain": "Aggressiveness, self-pity and cynicism are his central trait examples; sadism and chauvinism are cardinal.",
+      "page": 198
+    },
+    {
+      "q": "In Allport's revised terminology, 'personal dispositions' replaced the term:",
+      "options": [
+        "Common traits",
+        "Cardinal traits",
+        "Propriate strivings",
+        "Individual traits"
+      ],
+      "answer": 3,
+      "explain": "He relabelled individual traits as personal dispositions and common traits as simply traits.",
+      "page": 198
+    },
+    {
+      "q": "The retired 55-year-old who keeps working as hard as at 25 illustrates:",
+      "options": [
+        "Functional autonomy of motives",
+        "Historical determinism",
+        "Perseverative reflexes",
+        "Tension reduction"
+      ],
+      "answer": 0,
+      "explain": "Hard work, once a means to money, has become an end in itself, independent of its source.",
+      "page": 199
+    },
+    {
+      "q": "Continuing to play the piano because it is now necessary to one's self-image, though lessons began from fear of parents, illustrates:",
+      "options": [
+        "Perseverative functional autonomy",
+        "Propriate functional autonomy",
+        "A secondary trait",
+        "Coping behavior"
+      ],
+      "answer": 1,
+      "explain": "The original motive disappeared and playing became necessary to self-image, the propriate level.",
+      "page": 200
+    },
+    {
+      "q": "Which principle of propriate functioning says healthy adults are not satisfied with merely adequate performance?",
+      "options": [
+        "Organizing the energy level",
+        "Propriate patterning",
+        "Mastery and competence",
+        "Self-objectification"
+      ],
+      "answer": 2,
+      "explain": "Mastery and competence: mature adults strive to perform better and increase competence.",
+      "page": 200
+    },
+    {
+      "q": "At which stage do children speak of 'my house' and 'my parents'?",
+      "options": [
+        "Bodily self",
+        "Self-identity",
+        "Propriate striving",
+        "Extension of self"
+      ],
+      "answer": 3,
+      "explain": "The extension-of-self stage involves identifying objects and people as belonging to the child.",
+      "page": 201
+    },
+    {
+      "q": "The self as a rational coper develops during which ages?",
+      "options": [
+        "6 to 12",
+        "Birth to 3",
+        "4 to 6",
+        "Adolescence"
+      ],
+      "answer": 0,
+      "explain": "Table 7.1 places stage 6, self as rational coper, at ages 6-12.",
+      "page": 201
+    },
+    {
+      "q": "If parents frustrate a child's need to explore, the emerging self-esteem may be replaced by:",
+      "options": [
+        "Propriate striving",
+        "Humiliation and anger",
+        "Extension of self",
+        "Self-objectification"
+      ],
+      "answer": 1,
+      "explain": "The text says thwarted self-esteem can be replaced by humiliation and anger.",
+      "page": 201
+    },
+    {
+      "q": "Which of these is one of Allport's six criteria of maturity?",
+      "options": [
+        "Complete tension reduction",
+        "Resolution of the Oedipus complex",
+        "A unifying philosophy of life",
+        "Dominance of a cardinal trait"
+      ],
+      "answer": 2,
+      "explain": "The sixth criterion is subscribing to a unifying philosophy of life directing the personality to future goals.",
+      "page": 203
+    },
+    {
+      "q": "'Getting there is more fun than being there' summarises Allport's view of:",
+      "options": [
+        "Perseverative functional autonomy",
+        "The infant-mother bond",
+        "The personal-document technique",
+        "The ultimate goal of life as striving and increased tension"
+      ],
+      "answer": 3,
+      "explain": "The reward is the process of achieving rather than the achievement, maintaining optimal tension.",
+      "page": 204
+    },
+    {
+      "q": "Who revealed that Jenny was the mother of Allport's college roommate?",
+      "options": [
+        "Winter",
+        "Paige",
+        "Nicholson",
+        "Vernon"
+      ],
+      "answer": 0,
+      "explain": "The chapter cites Winter (1993a) for this revelation.",
+      "page": 205
+    },
+    {
+      "q": "Which value type in the Study of Values is concerned with discovering truth through an empirical, rational approach?",
+      "options": [
+        "Economic",
+        "Theoretical",
+        "Religious",
+        "Aesthetic"
+      ],
+      "answer": 1,
+      "explain": "Theoretical values concern discovering truth with an empirical, intellectual, rational approach.",
+      "page": 205
+    },
+    {
+      "q": "The Study of Values is an example of which kind of method?",
+      "options": [
+        "Idiographic",
+        "Projective",
+        "Nomothetic",
+        "Depth analysis"
+      ],
+      "answer": 2,
+      "explain": "The chapter says psychological tests such as the Study of Values use the nomothetic approach.",
+      "page": 206
+    },
+    {
+      "q": "Allport thought projective tests like the TAT and Rorschach may distort normal personality because they:",
+      "options": [
+        "Are too objective",
+        "Require large samples",
+        "Only measure values",
+        "Deal with unconscious forces that have little effect on normal adults"
+      ],
+      "answer": 3,
+      "explain": "He argued they focus on unconscious forces that have little effect on the normal adult personality.",
+      "page": 206
+    },
+    {
+      "q": "Which group is better at recognising sad facial expressions?",
+      "options": [
+        "Depressed adults",
+        "Older men",
+        "Casual acquaintances",
+        "Non-anxious children"
+      ],
+      "answer": 0,
+      "explain": "Adults high in depression were better at recognising sad expressions (Gollan et al., 2010).",
+      "page": 207
+    },
+    {
+      "q": "Which seven emotions did Ekman identify in facial expressions?",
+      "options": [
+        "Anger, love, guilt, fear, shame, joy, pride",
+        "Anger, contempt, disgust, fear, sadness, surprise, happiness",
+        "Happiness, sadness, boredom, envy, fear, surprise, hope",
+        "Anger, anxiety, disgust, jealousy, pride, surprise, happiness"
+      ],
+      "answer": 1,
+      "explain": "Ekman, Matsumoto and Friesen (1997) listed anger, contempt, disgust, fear, sadness, surprise and happiness.",
+      "page": 207
+    }
+  ]
+}

@@ -1,0 +1,2396 @@
+[
+  {
+    "number": 1,
+    "title": "Foundations of research",
+    "theorist": null,
+    "approach": "Unit 1",
+    "pages": [
+      0,
+      0
+    ],
+    "overview": "Syllabus-aligned study notes. These are concise original explanations, not a complete textbook replacement. Source suggestions use PDF page indices; uncertain course-specific models are flagged.",
+    "objectives": [
+      "Explain scientific research: definitions, characteristics and purpose",
+      "Explain concepts, constructs and operational definitions",
+      "Explain variables and validity",
+      "Explain research ethics",
+      "Explain classification by intent",
+      "Explain classification by method"
+    ],
+    "sections": [
+      {
+        "id": "scientific-research-definitions-characteristics-and-purpose",
+        "heading": "Scientific research: definitions, characteristics and purpose",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "Scientific research is systematic inquiry using explicit questions, evidence and reasoned evaluation. Its purposes include description, explanation, prediction and application. Transparent methods allow others to inspect or replicate a study, while falsifiable claims expose explanations to possible disconfirmation. Empirical does not mean perfectly objective: measurement, sampling and interpretation require critical scrutiny. Distinguish a research objective from the method used to pursue it and explain how evidence could change the proposed explanation.",
+        "simple": "Scientific research is systematic inquiry using explicit questions, evidence and reasoned evaluation. Its purposes include description, explanation, prediction and application.",
+        "keyPoints": [
+          "Scientific research is systematic inquiry using explicit questions, evidence and reasoned evaluation.",
+          "Its purposes include description, explanation, prediction and application.",
+          "Transparent methods allow others to inspect or replicate a study, while falsifiable claims expose explanations to possible disconfirmation."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "concepts-constructs-and-operational-definitions",
+        "heading": "Concepts, constructs and operational definitions",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "A concept is an abstract idea; a construct is a theoretically defined attribute such as anxiety or working memory. An operational definition specifies how a construct is manipulated or measured in a study. For example, test anxiety might be measured by a specified scale under stated conditions, but the score is not the construct itself. Different operationalisations can capture different aspects, so explain the choice and limitations. Reliable measurement is necessary for many inferences but does not alone establish validity.",
+        "simple": "A concept is an abstract idea; a construct is a theoretically defined attribute such as anxiety or working memory. An operational definition specifies how a construct is manipulated or measured in a study.",
+        "keyPoints": [
+          "A concept is an abstract idea; a construct is a theoretically defined attribute such as anxiety or working memory.",
+          "An operational definition specifies how a construct is manipulated or measured in a study.",
+          "For example, test anxiety might be measured by a specified scale under stated conditions, but the score is not the construct itself."
+        ],
+        "references": [],
+        "coverage": "study-note"
+      },
+      {
+        "id": "variables-and-validity",
+        "heading": "Variables and validity",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "Independent variables are manipulated or treated as predictors; dependent variables are measured outcomes. Extraneous variables may influence outcomes; confounds vary systematically with the predictor and create alternative explanations. Mediators describe proposed pathways, while moderators change the relation between variables. Internal validity concerns causal interpretation, external validity concerns generalisation, construct validity concerns the meaning of operationalisations, and statistical conclusion validity concerns support for statistical inferences. These are distinct evaluations, and improving one does not automatically improve all others.",
+        "simple": "Independent variables are manipulated or treated as predictors; dependent variables are measured outcomes. Extraneous variables may influence outcomes; confounds vary systematically with the predictor and create alternative explanations.",
+        "keyPoints": [
+          "Independent variables are manipulated or treated as predictors; dependent variables are measured outcomes.",
+          "Extraneous variables may influence outcomes; confounds vary systematically with the predictor and create alternative explanations.",
+          "Mediators describe proposed pathways, while moderators change the relation between variables."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              47,
+              53,
+              54,
+              55,
+              56,
+              57
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "research-ethics",
+        "heading": "Research ethics",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "Ethical research requires attention to informed consent, voluntary participation, withdrawal, privacy, confidentiality, risk and fair treatment. Deception needs appropriate justification and review, and debriefing should address its effects. Protect vulnerable participants and distinguish anonymity from confidentiality: anonymous data do not identify participants, while confidential identifiable data require protection. Fabrication, falsification and plagiarism undermine integrity. Assess ethics throughout recruitment, data handling, analysis and reporting rather than adding a consent form at the end. Follow the institution\u2019s applicable review requirements.",
+        "simple": "Ethical research requires attention to informed consent, voluntary participation, withdrawal, privacy, confidentiality, risk and fair treatment. Deception needs appropriate justification and review, and debriefing should address its effects.",
+        "keyPoints": [
+          "Ethical research requires attention to informed consent, voluntary participation, withdrawal, privacy, confidentiality, risk and fair treatment.",
+          "Deception needs appropriate justification and review, and debriefing should address its effects.",
+          "Protect vulnerable participants and distinguish anonymity from confidentiality: anonymous data do not identify participants, while confidential identifiable data require protection."
+        ],
+        "references": [],
+        "coverage": "study-note"
+      },
+      {
+        "id": "classification-by-intent",
+        "heading": "Classification by intent",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "Pure or basic research develops knowledge; applied research addresses practical questions. Exploratory research clarifies a poorly understood problem, descriptive research characterises a phenomenon, diagnostic research examines contributing conditions, evaluative research assesses a programme or policy, and action research links inquiry with iterative local improvement. A study may serve more than one purpose, so classifications are not always mutually exclusive. State the intended use of findings and distinguish that intent from the study\u2019s data-collection method.",
+        "simple": "Pure or basic research develops knowledge; applied research addresses practical questions. Exploratory research clarifies a poorly understood problem, descriptive research characterises a phenomenon, diagnostic research examines contributing conditions, evaluative research assesses a programme or policy, and action research links inquiry with iterative local improvement.",
+        "keyPoints": [
+          "Pure or basic research develops knowledge; applied research addresses practical questions.",
+          "Exploratory research clarifies a poorly understood problem, descriptive research characterises a phenomenon, diagnostic research examines contributing conditions, evaluative research assesses a programme or policy, and action research links inquiry with iterative local improvement.",
+          "A study may serve more than one purpose, so classifications are not always mutually exclusive."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              16,
+              21,
+              354,
+              411
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "classification-by-method",
+        "heading": "Classification by method",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "Experimental research manipulates conditions to evaluate effects; analytical research evaluates existing facts, relationships or materials through explicit reasoning or analysis. Historical research critically examines records and evidence about the past. Survey research gathers standardised information from a defined population or sample. Surveys can be descriptive or analytical and do not automatically establish causality. Choose a method based on the question, feasibility and ethics, then explain selection, measurement and inference limitations.",
+        "simple": "Experimental research manipulates conditions to evaluate effects; analytical research evaluates existing facts, relationships or materials through explicit reasoning or analysis. Historical research critically examines records and evidence about the past.",
+        "keyPoints": [
+          "Experimental research manipulates conditions to evaluate effects; analytical research evaluates existing facts, relationships or materials through explicit reasoning or analysis.",
+          "Historical research critically examines records and evidence about the past.",
+          "Survey research gathers standardised information from a defined population or sample."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              8,
+              15,
+              17,
+              18,
+              25,
+              26
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      }
+    ],
+    "terms": [
+      {
+        "term": "Scientific research: definitions, characteristics and purpose",
+        "definition": "Scientific research is systematic inquiry using explicit questions, evidence and reasoned evaluation. Its purposes include description, explanation, prediction and application.",
+        "page": 0
+      },
+      {
+        "term": "Concepts, constructs and operational definitions",
+        "definition": "A concept is an abstract idea; a construct is a theoretically defined attribute such as anxiety or working memory. An operational definition specifies how a construct is manipulated or measured in a study.",
+        "page": 0
+      },
+      {
+        "term": "Variables and validity",
+        "definition": "Independent variables are manipulated or treated as predictors; dependent variables are measured outcomes. Extraneous variables may influence outcomes; confounds vary systematically with the predictor and create alternative explanations.",
+        "page": 0
+      },
+      {
+        "term": "Research ethics",
+        "definition": "Ethical research requires attention to informed consent, voluntary participation, withdrawal, privacy, confidentiality, risk and fair treatment. Deception needs appropriate justification and review, and debriefing should address its effects.",
+        "page": 0
+      },
+      {
+        "term": "Classification by intent",
+        "definition": "Pure or basic research develops knowledge; applied research addresses practical questions. Exploratory research clarifies a poorly understood problem, descriptive research characterises a phenomenon, diagnostic research examines contributing conditions, evaluative research assesses a programme or policy, and action research links inquiry with iterative local improvement.",
+        "page": 0
+      },
+      {
+        "term": "Classification by method",
+        "definition": "Experimental research manipulates conditions to evaluate effects; analytical research evaluates existing facts, relationships or materials through explicit reasoning or analysis. Historical research critically examines records and evidence about the past.",
+        "page": 0
+      }
+    ],
+    "people": [],
+    "studies": [],
+    "examples": [],
+    "checks": [
+      {
+        "q": "Which topic is best illustrated by this explanation? Scientific research is systematic inquiry using explicit questions, evidence and reasoned evaluation. Its purposes include description, explanation, prediction and application.",
+        "options": [
+          "Scientific research: definitions, characteristics and purpose",
+          "Concepts, constructs and operational definitions",
+          "Variables and validity",
+          "Research ethics"
+        ],
+        "answer": 0,
+        "explain": "Scientific research is systematic inquiry using explicit questions, evidence and reasoned evaluation. Its purposes include description, explanation, prediction and application. Transparent methods allow others to inspect or replicate a study, while falsifiable claims expose explanations to possible disconfirmation. Empirical does not mean perfectly objective: measurement, sampling and interpretation require critical scrutiny. Distinguish a research objective from the method used to pursue it and explain how evidence could change the proposed explanation.",
+        "page": 0,
+        "sectionId": "scientific-research-definitions-characteristics-and-purpose"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? A concept is an abstract idea; a construct is a theoretically defined attribute such as anxiety or working memory. An operational definition specifies how a construct is manipulated or measured in a study.",
+        "options": [
+          "Scientific research: definitions, characteristics and purpose",
+          "Concepts, constructs and operational definitions",
+          "Variables and validity",
+          "Research ethics"
+        ],
+        "answer": 1,
+        "explain": "A concept is an abstract idea; a construct is a theoretically defined attribute such as anxiety or working memory. An operational definition specifies how a construct is manipulated or measured in a study. For example, test anxiety might be measured by a specified scale under stated conditions, but the score is not the construct itself. Different operationalisations can capture different aspects, so explain the choice and limitations. Reliable measurement is necessary for many inferences but does not alone establish validity.",
+        "page": 0,
+        "sectionId": "concepts-constructs-and-operational-definitions"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Independent variables are manipulated or treated as predictors; dependent variables are measured outcomes. Extraneous variables may influence outcomes; confounds vary systematically with the predictor and create alternative explanations.",
+        "options": [
+          "Scientific research: definitions, characteristics and purpose",
+          "Concepts, constructs and operational definitions",
+          "Variables and validity",
+          "Research ethics"
+        ],
+        "answer": 2,
+        "explain": "Independent variables are manipulated or treated as predictors; dependent variables are measured outcomes. Extraneous variables may influence outcomes; confounds vary systematically with the predictor and create alternative explanations. Mediators describe proposed pathways, while moderators change the relation between variables. Internal validity concerns causal interpretation, external validity concerns generalisation, construct validity concerns the meaning of operationalisations, and statistical conclusion validity concerns support for statistical inferences. These are distinct evaluations, and improving one does not automatically improve all others.",
+        "page": 0,
+        "sectionId": "variables-and-validity"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Ethical research requires attention to informed consent, voluntary participation, withdrawal, privacy, confidentiality, risk and fair treatment. Deception needs appropriate justification and review, and debriefing should address its effects.",
+        "options": [
+          "Scientific research: definitions, characteristics and purpose",
+          "Concepts, constructs and operational definitions",
+          "Variables and validity",
+          "Research ethics"
+        ],
+        "answer": 3,
+        "explain": "Ethical research requires attention to informed consent, voluntary participation, withdrawal, privacy, confidentiality, risk and fair treatment. Deception needs appropriate justification and review, and debriefing should address its effects. Protect vulnerable participants and distinguish anonymity from confidentiality: anonymous data do not identify participants, while confidential identifiable data require protection. Fabrication, falsification and plagiarism undermine integrity. Assess ethics throughout recruitment, data handling, analysis and reporting rather than adding a consent form at the end. Follow the institution\u2019s applicable review requirements.",
+        "page": 0,
+        "sectionId": "research-ethics"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Pure or basic research develops knowledge; applied research addresses practical questions. Exploratory research clarifies a poorly understood problem, descriptive research characterises a phenomenon, diagnostic research examines contributing conditions, evaluative research assesses a programme or policy, and action research links inquiry with iterative local improvement.",
+        "options": [
+          "Classification by intent",
+          "Scientific research: definitions, characteristics and purpose",
+          "Concepts, constructs and operational definitions",
+          "Variables and validity"
+        ],
+        "answer": 0,
+        "explain": "Pure or basic research develops knowledge; applied research addresses practical questions. Exploratory research clarifies a poorly understood problem, descriptive research characterises a phenomenon, diagnostic research examines contributing conditions, evaluative research assesses a programme or policy, and action research links inquiry with iterative local improvement. A study may serve more than one purpose, so classifications are not always mutually exclusive. State the intended use of findings and distinguish that intent from the study\u2019s data-collection method.",
+        "page": 0,
+        "sectionId": "classification-by-intent"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Experimental research manipulates conditions to evaluate effects; analytical research evaluates existing facts, relationships or materials through explicit reasoning or analysis. Historical research critically examines records and evidence about the past.",
+        "options": [
+          "Scientific research: definitions, characteristics and purpose",
+          "Classification by method",
+          "Concepts, constructs and operational definitions",
+          "Variables and validity"
+        ],
+        "answer": 1,
+        "explain": "Experimental research manipulates conditions to evaluate effects; analytical research evaluates existing facts, relationships or materials through explicit reasoning or analysis. Historical research critically examines records and evidence about the past. Survey research gathers standardised information from a defined population or sample. Surveys can be descriptive or analytical and do not automatically establish causality. Choose a method based on the question, feasibility and ethics, then explain selection, measurement and inference limitations.",
+        "page": 0,
+        "sectionId": "classification-by-method"
+      }
+    ],
+    "assessment": [
+      {
+        "q": "Which topic is best illustrated by this explanation? Scientific research is systematic inquiry using explicit questions, evidence and reasoned evaluation. Its purposes include description, explanation, prediction and application.",
+        "options": [
+          "Scientific research: definitions, characteristics and purpose",
+          "Concepts, constructs and operational definitions",
+          "Variables and validity",
+          "Research ethics"
+        ],
+        "answer": 0,
+        "explain": "Scientific research is systematic inquiry using explicit questions, evidence and reasoned evaluation. Its purposes include description, explanation, prediction and application. Transparent methods allow others to inspect or replicate a study, while falsifiable claims expose explanations to possible disconfirmation. Empirical does not mean perfectly objective: measurement, sampling and interpretation require critical scrutiny. Distinguish a research objective from the method used to pursue it and explain how evidence could change the proposed explanation.",
+        "page": 0,
+        "sectionId": "scientific-research-definitions-characteristics-and-purpose"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? A concept is an abstract idea; a construct is a theoretically defined attribute such as anxiety or working memory. An operational definition specifies how a construct is manipulated or measured in a study.",
+        "options": [
+          "Scientific research: definitions, characteristics and purpose",
+          "Concepts, constructs and operational definitions",
+          "Variables and validity",
+          "Research ethics"
+        ],
+        "answer": 1,
+        "explain": "A concept is an abstract idea; a construct is a theoretically defined attribute such as anxiety or working memory. An operational definition specifies how a construct is manipulated or measured in a study. For example, test anxiety might be measured by a specified scale under stated conditions, but the score is not the construct itself. Different operationalisations can capture different aspects, so explain the choice and limitations. Reliable measurement is necessary for many inferences but does not alone establish validity.",
+        "page": 0,
+        "sectionId": "concepts-constructs-and-operational-definitions"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Independent variables are manipulated or treated as predictors; dependent variables are measured outcomes. Extraneous variables may influence outcomes; confounds vary systematically with the predictor and create alternative explanations.",
+        "options": [
+          "Scientific research: definitions, characteristics and purpose",
+          "Concepts, constructs and operational definitions",
+          "Variables and validity",
+          "Research ethics"
+        ],
+        "answer": 2,
+        "explain": "Independent variables are manipulated or treated as predictors; dependent variables are measured outcomes. Extraneous variables may influence outcomes; confounds vary systematically with the predictor and create alternative explanations. Mediators describe proposed pathways, while moderators change the relation between variables. Internal validity concerns causal interpretation, external validity concerns generalisation, construct validity concerns the meaning of operationalisations, and statistical conclusion validity concerns support for statistical inferences. These are distinct evaluations, and improving one does not automatically improve all others.",
+        "page": 0,
+        "sectionId": "variables-and-validity"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Ethical research requires attention to informed consent, voluntary participation, withdrawal, privacy, confidentiality, risk and fair treatment. Deception needs appropriate justification and review, and debriefing should address its effects.",
+        "options": [
+          "Scientific research: definitions, characteristics and purpose",
+          "Concepts, constructs and operational definitions",
+          "Variables and validity",
+          "Research ethics"
+        ],
+        "answer": 3,
+        "explain": "Ethical research requires attention to informed consent, voluntary participation, withdrawal, privacy, confidentiality, risk and fair treatment. Deception needs appropriate justification and review, and debriefing should address its effects. Protect vulnerable participants and distinguish anonymity from confidentiality: anonymous data do not identify participants, while confidential identifiable data require protection. Fabrication, falsification and plagiarism undermine integrity. Assess ethics throughout recruitment, data handling, analysis and reporting rather than adding a consent form at the end. Follow the institution\u2019s applicable review requirements.",
+        "page": 0,
+        "sectionId": "research-ethics"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Pure or basic research develops knowledge; applied research addresses practical questions. Exploratory research clarifies a poorly understood problem, descriptive research characterises a phenomenon, diagnostic research examines contributing conditions, evaluative research assesses a programme or policy, and action research links inquiry with iterative local improvement.",
+        "options": [
+          "Classification by intent",
+          "Scientific research: definitions, characteristics and purpose",
+          "Concepts, constructs and operational definitions",
+          "Variables and validity"
+        ],
+        "answer": 0,
+        "explain": "Pure or basic research develops knowledge; applied research addresses practical questions. Exploratory research clarifies a poorly understood problem, descriptive research characterises a phenomenon, diagnostic research examines contributing conditions, evaluative research assesses a programme or policy, and action research links inquiry with iterative local improvement. A study may serve more than one purpose, so classifications are not always mutually exclusive. State the intended use of findings and distinguish that intent from the study\u2019s data-collection method.",
+        "page": 0,
+        "sectionId": "classification-by-intent"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Experimental research manipulates conditions to evaluate effects; analytical research evaluates existing facts, relationships or materials through explicit reasoning or analysis. Historical research critically examines records and evidence about the past.",
+        "options": [
+          "Scientific research: definitions, characteristics and purpose",
+          "Classification by method",
+          "Concepts, constructs and operational definitions",
+          "Variables and validity"
+        ],
+        "answer": 1,
+        "explain": "Experimental research manipulates conditions to evaluate effects; analytical research evaluates existing facts, relationships or materials through explicit reasoning or analysis. Historical research critically examines records and evidence about the past. Survey research gathers standardised information from a defined population or sample. Surveys can be descriptive or analytical and do not automatically establish causality. Choose a method based on the question, feasibility and ethics, then explain selection, measurement and inference limitations.",
+        "page": 0,
+        "sectionId": "classification-by-method"
+      }
+    ],
+    "practice": [
+      {
+        "q": "Explain and critically evaluate scientific research: definitions, characteristics and purpose, using an example.",
+        "marks": 10,
+        "answer": "Scientific research is systematic inquiry using explicit questions, evidence and reasoned evaluation. Its purposes include description, explanation, prediction and application. Transparent methods allow others to inspect or replicate a study, while falsifiable claims expose explanations to possible disconfirmation. Empirical does not mean perfectly objective: measurement, sampling and interpretation require critical scrutiny. Distinguish a research objective from the method used to pursue it and explain how evidence could change the proposed explanation.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate concepts, constructs and operational definitions, using an example.",
+        "marks": 10,
+        "answer": "A concept is an abstract idea; a construct is a theoretically defined attribute such as anxiety or working memory. An operational definition specifies how a construct is manipulated or measured in a study. For example, test anxiety might be measured by a specified scale under stated conditions, but the score is not the construct itself. Different operationalisations can capture different aspects, so explain the choice and limitations. Reliable measurement is necessary for many inferences but does not alone establish validity.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate variables and validity, using an example.",
+        "marks": 10,
+        "answer": "Independent variables are manipulated or treated as predictors; dependent variables are measured outcomes. Extraneous variables may influence outcomes; confounds vary systematically with the predictor and create alternative explanations. Mediators describe proposed pathways, while moderators change the relation between variables. Internal validity concerns causal interpretation, external validity concerns generalisation, construct validity concerns the meaning of operationalisations, and statistical conclusion validity concerns support for statistical inferences. These are distinct evaluations, and improving one does not automatically improve all others.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate research ethics, using an example.",
+        "marks": 10,
+        "answer": "Ethical research requires attention to informed consent, voluntary participation, withdrawal, privacy, confidentiality, risk and fair treatment. Deception needs appropriate justification and review, and debriefing should address its effects. Protect vulnerable participants and distinguish anonymity from confidentiality: anonymous data do not identify participants, while confidential identifiable data require protection. Fabrication, falsification and plagiarism undermine integrity. Assess ethics throughout recruitment, data handling, analysis and reporting rather than adding a consent form at the end. Follow the institution\u2019s applicable review requirements.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate classification by intent, using an example.",
+        "marks": 10,
+        "answer": "Pure or basic research develops knowledge; applied research addresses practical questions. Exploratory research clarifies a poorly understood problem, descriptive research characterises a phenomenon, diagnostic research examines contributing conditions, evaluative research assesses a programme or policy, and action research links inquiry with iterative local improvement. A study may serve more than one purpose, so classifications are not always mutually exclusive. State the intended use of findings and distinguish that intent from the study\u2019s data-collection method.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate classification by method, using an example.",
+        "marks": 10,
+        "answer": "Experimental research manipulates conditions to evaluate effects; analytical research evaluates existing facts, relationships or materials through explicit reasoning or analysis. Historical research critically examines records and evidence about the past. Survey research gathers standardised information from a defined population or sample. Surveys can be descriptive or analytical and do not automatically establish causality. Choose a method based on the question, feasibility and ethics, then explain selection, measurement and inference limitations.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "Scientific research: definitions, characteristics and purpose",
+        "back": "Scientific research is systematic inquiry using explicit questions, evidence and reasoned evaluation. Its purposes include description, explanation, prediction and application.",
+        "page": 0
+      },
+      {
+        "front": "Concepts, constructs and operational definitions",
+        "back": "A concept is an abstract idea; a construct is a theoretically defined attribute such as anxiety or working memory. An operational definition specifies how a construct is manipulated or measured in a study.",
+        "page": 0
+      },
+      {
+        "front": "Variables and validity",
+        "back": "Independent variables are manipulated or treated as predictors; dependent variables are measured outcomes. Extraneous variables may influence outcomes; confounds vary systematically with the predictor and create alternative explanations.",
+        "page": 0
+      },
+      {
+        "front": "Research ethics",
+        "back": "Ethical research requires attention to informed consent, voluntary participation, withdrawal, privacy, confidentiality, risk and fair treatment. Deception needs appropriate justification and review, and debriefing should address its effects.",
+        "page": 0
+      },
+      {
+        "front": "Classification by intent",
+        "back": "Pure or basic research develops knowledge; applied research addresses practical questions. Exploratory research clarifies a poorly understood problem, descriptive research characterises a phenomenon, diagnostic research examines contributing conditions, evaluative research assesses a programme or policy, and action research links inquiry with iterative local improvement.",
+        "page": 0
+      },
+      {
+        "front": "Classification by method",
+        "back": "Experimental research manipulates conditions to evaluate effects; analytical research evaluates existing facts, relationships or materials through explicit reasoning or analysis. Historical research critically examines records and evidence about the past.",
+        "page": 0
+      }
+    ],
+    "summary": [
+      "Scientific research is systematic inquiry using explicit questions, evidence and reasoned evaluation. Its purposes include description, explanation, prediction and application.",
+      "A concept is an abstract idea; a construct is a theoretically defined attribute such as anxiety or working memory. An operational definition specifies how a construct is manipulated or measured in a study.",
+      "Independent variables are manipulated or treated as predictors; dependent variables are measured outcomes. Extraneous variables may influence outcomes; confounds vary systematically with the predictor and create alternative explanations.",
+      "Ethical research requires attention to informed consent, voluntary participation, withdrawal, privacy, confidentiality, risk and fair treatment. Deception needs appropriate justification and review, and debriefing should address its effects.",
+      "Pure or basic research develops knowledge; applied research addresses practical questions. Exploratory research clarifies a poorly understood problem, descriptive research characterises a phenomenon, diagnostic research examines contributing conditions, evaluative research assesses a programme or policy, and action research links inquiry with iterative local improvement.",
+      "Experimental research manipulates conditions to evaluate effects; analytical research evaluates existing facts, relationships or materials through explicit reasoning or analysis. Historical research critically examines records and evidence about the past."
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Steps in conducting research",
+    "theorist": null,
+    "approach": "Unit 2",
+    "pages": [
+      0,
+      0
+    ],
+    "overview": "Syllabus-aligned study notes. These are concise original explanations, not a complete textbook replacement. Source suggestions use PDF page indices; uncertain course-specific models are flagged.",
+    "objectives": [
+      "Explain identifying and refining a research problem",
+      "Explain literature review: purpose, sources and types",
+      "Explain hypotheses: meaning, characteristics and formulation",
+      "Explain sampling: principles, types and errors",
+      "Explain methods of data collection",
+      "Explain summarising data"
+    ],
+    "sections": [
+      {
+        "id": "identifying-and-refining-a-research-problem",
+        "heading": "Identifying and refining a research problem",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "A research problem is a specific uncertainty requiring systematic investigation. Sources include theoretical gaps, conflicting findings, practical difficulties and overlooked populations. A useful problem is clear, feasible, ethically defensible and significant, with a scope matching available resources. Move from a broad topic to a question specifying population, constructs and context. Check whether the question is answerable using available measures and whether a result would add something meaningful. Avoid choosing a method first and inventing a question merely to fit it.",
+        "simple": "A research problem is a specific uncertainty requiring systematic investigation. Sources include theoretical gaps, conflicting findings, practical difficulties and overlooked populations.",
+        "keyPoints": [
+          "A research problem is a specific uncertainty requiring systematic investigation.",
+          "Sources include theoretical gaps, conflicting findings, practical difficulties and overlooked populations.",
+          "A useful problem is clear, feasible, ethically defensible and significant, with a scope matching available resources."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              6,
+              8,
+              19,
+              21,
+              25,
+              27
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "literature-review-purpose-sources-and-types",
+        "heading": "Literature review: purpose, sources and types",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "A review locates a question within existing knowledge, evaluates methods and findings, identifies gaps and informs hypotheses and design. Primary studies report original research; secondary sources synthesise or interpret it. Narrative reviews provide interpretive synthesis; systematic reviews use explicit searching and selection; scoping reviews map a field; meta-analysis statistically combines compatible estimates. Record search terms, databases, inclusion rules and source quality as appropriate. A critical review compares evidence and limitations rather than listing one summary per paper.",
+        "simple": "A review locates a question within existing knowledge, evaluates methods and findings, identifies gaps and informs hypotheses and design. Primary studies report original research; secondary sources synthesise or interpret it.",
+        "keyPoints": [
+          "A review locates a question within existing knowledge, evaluates methods and findings, identifies gaps and informs hypotheses and design.",
+          "Primary studies report original research; secondary sources synthesise or interpret it.",
+          "Narrative reviews provide interpretive synthesis; systematic reviews use explicit searching and selection; scoping reviews map a field; meta-analysis statistically combines compatible estimates."
+        ],
+        "references": [],
+        "coverage": "study-note"
+      },
+      {
+        "id": "hypotheses-meaning-characteristics-and-formulation",
+        "heading": "Hypotheses: meaning, characteristics and formulation",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "A hypothesis is a testable proposition about variables or expected observations. Strong hypotheses are clear, theoretically motivated and consistent with operational definitions. Distinguish research from statistical hypotheses, null from alternative hypotheses, directional from nondirectional hypotheses, and simple from complex relationships. For a directional example, a spaced-practice group is predicted to recall more words after a delay than a massed-practice group. Specify population and measurement before testing. Failure to reject a null hypothesis is not proof that it is true.",
+        "simple": "A hypothesis is a testable proposition about variables or expected observations. Strong hypotheses are clear, theoretically motivated and consistent with operational definitions.",
+        "keyPoints": [
+          "A hypothesis is a testable proposition about variables or expected observations.",
+          "Strong hypotheses are clear, theoretically motivated and consistent with operational definitions.",
+          "Distinguish research from statistical hypotheses, null from alternative hypotheses, directional from nondirectional hypotheses, and simple from complex relationships."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              11,
+              14,
+              15,
+              17,
+              21,
+              25
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "sampling-principles-types-and-errors",
+        "heading": "Sampling: principles, types and errors",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "Sampling selects cases from a defined population using an explicit frame and procedure. Probability methods include simple random, systematic, stratified and cluster sampling, with known selection probabilities under the design. Nonprobability methods include convenience, purposive, quota and snowball sampling. Sampling error is variation due to selecting a sample; coverage error, nonresponse and measurement error are different problems. A larger sample can reduce random sampling variation without correcting systematic bias. Distinguish random selection of participants from random assignment to conditions.",
+        "simple": "Sampling selects cases from a defined population using an explicit frame and procedure. Probability methods include simple random, systematic, stratified and cluster sampling, with known selection probabilities under the design.",
+        "keyPoints": [
+          "Sampling selects cases from a defined population using an explicit frame and procedure.",
+          "Probability methods include simple random, systematic, stratified and cluster sampling, with known selection probabilities under the design.",
+          "Nonprobability methods include convenience, purposive, quota and snowball sampling."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              6,
+              9,
+              10,
+              28,
+              29,
+              30
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "methods-of-data-collection",
+        "heading": "Methods of data collection",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "Interviews, questionnaires, observations, standardised tests, experiments and existing records provide different kinds of evidence. Choose methods that fit the construct, participants and research question. Standardisation supports comparability, while flexible interviewing may reveal context that fixed options miss. Pilot wording, procedures and accessibility; plan recording, coding, consent and secure storage. Self-reports can be affected by recall and social desirability, while observation can be reactive. Triangulation can strengthen interpretation, but disagreement between methods requires explanation rather than automatic averaging.",
+        "simple": "Interviews, questionnaires, observations, standardised tests, experiments and existing records provide different kinds of evidence. Choose methods that fit the construct, participants and research question.",
+        "keyPoints": [
+          "Interviews, questionnaires, observations, standardised tests, experiments and existing records provide different kinds of evidence.",
+          "Choose methods that fit the construct, participants and research question.",
+          "Standardisation supports comparability, while flexible interviewing may reveal context that fixed options miss."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              9,
+              108
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "summarising-data",
+        "heading": "Summarising data",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "Begin by checking coding, missingness, impossible values and distributions. Frequency tables and suitable plots describe categorical and numerical data. The mean uses all values but is sensitive to extremes; the median is the middle ordered value; the mode is the most frequent value. Range, interquartile range, variance and standard deviation describe spread. Report sample size and units, and match summaries to measurement level and distribution. A descriptive difference is not automatically statistically significant or causally explained.",
+        "simple": "Begin by checking coding, missingness, impossible values and distributions. Frequency tables and suitable plots describe categorical and numerical data.",
+        "keyPoints": [
+          "Begin by checking coding, missingness, impossible values and distributions.",
+          "Frequency tables and suitable plots describe categorical and numerical data.",
+          "The mean uses all values but is sensitive to extremes; the median is the middle ordered value; the mode is the most frequent value."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              21,
+              77,
+              81,
+              144,
+              147,
+              148
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      }
+    ],
+    "terms": [
+      {
+        "term": "Identifying and refining a research problem",
+        "definition": "A research problem is a specific uncertainty requiring systematic investigation. Sources include theoretical gaps, conflicting findings, practical difficulties and overlooked populations.",
+        "page": 0
+      },
+      {
+        "term": "Literature review: purpose, sources and types",
+        "definition": "A review locates a question within existing knowledge, evaluates methods and findings, identifies gaps and informs hypotheses and design. Primary studies report original research; secondary sources synthesise or interpret it.",
+        "page": 0
+      },
+      {
+        "term": "Hypotheses: meaning, characteristics and formulation",
+        "definition": "A hypothesis is a testable proposition about variables or expected observations. Strong hypotheses are clear, theoretically motivated and consistent with operational definitions.",
+        "page": 0
+      },
+      {
+        "term": "Sampling: principles, types and errors",
+        "definition": "Sampling selects cases from a defined population using an explicit frame and procedure. Probability methods include simple random, systematic, stratified and cluster sampling, with known selection probabilities under the design.",
+        "page": 0
+      },
+      {
+        "term": "Methods of data collection",
+        "definition": "Interviews, questionnaires, observations, standardised tests, experiments and existing records provide different kinds of evidence. Choose methods that fit the construct, participants and research question.",
+        "page": 0
+      },
+      {
+        "term": "Summarising data",
+        "definition": "Begin by checking coding, missingness, impossible values and distributions. Frequency tables and suitable plots describe categorical and numerical data.",
+        "page": 0
+      }
+    ],
+    "people": [],
+    "studies": [],
+    "examples": [],
+    "checks": [
+      {
+        "q": "Which topic is best illustrated by this explanation? A research problem is a specific uncertainty requiring systematic investigation. Sources include theoretical gaps, conflicting findings, practical difficulties and overlooked populations.",
+        "options": [
+          "Identifying and refining a research problem",
+          "Literature review: purpose, sources and types",
+          "Hypotheses: meaning, characteristics and formulation",
+          "Sampling: principles, types and errors"
+        ],
+        "answer": 0,
+        "explain": "A research problem is a specific uncertainty requiring systematic investigation. Sources include theoretical gaps, conflicting findings, practical difficulties and overlooked populations. A useful problem is clear, feasible, ethically defensible and significant, with a scope matching available resources. Move from a broad topic to a question specifying population, constructs and context. Check whether the question is answerable using available measures and whether a result would add something meaningful. Avoid choosing a method first and inventing a question merely to fit it.",
+        "page": 0,
+        "sectionId": "identifying-and-refining-a-research-problem"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? A review locates a question within existing knowledge, evaluates methods and findings, identifies gaps and informs hypotheses and design. Primary studies report original research; secondary sources synthesise or interpret it.",
+        "options": [
+          "Identifying and refining a research problem",
+          "Literature review: purpose, sources and types",
+          "Hypotheses: meaning, characteristics and formulation",
+          "Sampling: principles, types and errors"
+        ],
+        "answer": 1,
+        "explain": "A review locates a question within existing knowledge, evaluates methods and findings, identifies gaps and informs hypotheses and design. Primary studies report original research; secondary sources synthesise or interpret it. Narrative reviews provide interpretive synthesis; systematic reviews use explicit searching and selection; scoping reviews map a field; meta-analysis statistically combines compatible estimates. Record search terms, databases, inclusion rules and source quality as appropriate. A critical review compares evidence and limitations rather than listing one summary per paper.",
+        "page": 0,
+        "sectionId": "literature-review-purpose-sources-and-types"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? A hypothesis is a testable proposition about variables or expected observations. Strong hypotheses are clear, theoretically motivated and consistent with operational definitions.",
+        "options": [
+          "Identifying and refining a research problem",
+          "Literature review: purpose, sources and types",
+          "Hypotheses: meaning, characteristics and formulation",
+          "Sampling: principles, types and errors"
+        ],
+        "answer": 2,
+        "explain": "A hypothesis is a testable proposition about variables or expected observations. Strong hypotheses are clear, theoretically motivated and consistent with operational definitions. Distinguish research from statistical hypotheses, null from alternative hypotheses, directional from nondirectional hypotheses, and simple from complex relationships. For a directional example, a spaced-practice group is predicted to recall more words after a delay than a massed-practice group. Specify population and measurement before testing. Failure to reject a null hypothesis is not proof that it is true.",
+        "page": 0,
+        "sectionId": "hypotheses-meaning-characteristics-and-formulation"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Sampling selects cases from a defined population using an explicit frame and procedure. Probability methods include simple random, systematic, stratified and cluster sampling, with known selection probabilities under the design.",
+        "options": [
+          "Identifying and refining a research problem",
+          "Literature review: purpose, sources and types",
+          "Hypotheses: meaning, characteristics and formulation",
+          "Sampling: principles, types and errors"
+        ],
+        "answer": 3,
+        "explain": "Sampling selects cases from a defined population using an explicit frame and procedure. Probability methods include simple random, systematic, stratified and cluster sampling, with known selection probabilities under the design. Nonprobability methods include convenience, purposive, quota and snowball sampling. Sampling error is variation due to selecting a sample; coverage error, nonresponse and measurement error are different problems. A larger sample can reduce random sampling variation without correcting systematic bias. Distinguish random selection of participants from random assignment to conditions.",
+        "page": 0,
+        "sectionId": "sampling-principles-types-and-errors"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Interviews, questionnaires, observations, standardised tests, experiments and existing records provide different kinds of evidence. Choose methods that fit the construct, participants and research question.",
+        "options": [
+          "Methods of data collection",
+          "Identifying and refining a research problem",
+          "Literature review: purpose, sources and types",
+          "Hypotheses: meaning, characteristics and formulation"
+        ],
+        "answer": 0,
+        "explain": "Interviews, questionnaires, observations, standardised tests, experiments and existing records provide different kinds of evidence. Choose methods that fit the construct, participants and research question. Standardisation supports comparability, while flexible interviewing may reveal context that fixed options miss. Pilot wording, procedures and accessibility; plan recording, coding, consent and secure storage. Self-reports can be affected by recall and social desirability, while observation can be reactive. Triangulation can strengthen interpretation, but disagreement between methods requires explanation rather than automatic averaging.",
+        "page": 0,
+        "sectionId": "methods-of-data-collection"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Begin by checking coding, missingness, impossible values and distributions. Frequency tables and suitable plots describe categorical and numerical data.",
+        "options": [
+          "Identifying and refining a research problem",
+          "Summarising data",
+          "Literature review: purpose, sources and types",
+          "Hypotheses: meaning, characteristics and formulation"
+        ],
+        "answer": 1,
+        "explain": "Begin by checking coding, missingness, impossible values and distributions. Frequency tables and suitable plots describe categorical and numerical data. The mean uses all values but is sensitive to extremes; the median is the middle ordered value; the mode is the most frequent value. Range, interquartile range, variance and standard deviation describe spread. Report sample size and units, and match summaries to measurement level and distribution. A descriptive difference is not automatically statistically significant or causally explained.",
+        "page": 0,
+        "sectionId": "summarising-data"
+      }
+    ],
+    "assessment": [
+      {
+        "q": "Which topic is best illustrated by this explanation? A research problem is a specific uncertainty requiring systematic investigation. Sources include theoretical gaps, conflicting findings, practical difficulties and overlooked populations.",
+        "options": [
+          "Identifying and refining a research problem",
+          "Literature review: purpose, sources and types",
+          "Hypotheses: meaning, characteristics and formulation",
+          "Sampling: principles, types and errors"
+        ],
+        "answer": 0,
+        "explain": "A research problem is a specific uncertainty requiring systematic investigation. Sources include theoretical gaps, conflicting findings, practical difficulties and overlooked populations. A useful problem is clear, feasible, ethically defensible and significant, with a scope matching available resources. Move from a broad topic to a question specifying population, constructs and context. Check whether the question is answerable using available measures and whether a result would add something meaningful. Avoid choosing a method first and inventing a question merely to fit it.",
+        "page": 0,
+        "sectionId": "identifying-and-refining-a-research-problem"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? A review locates a question within existing knowledge, evaluates methods and findings, identifies gaps and informs hypotheses and design. Primary studies report original research; secondary sources synthesise or interpret it.",
+        "options": [
+          "Identifying and refining a research problem",
+          "Literature review: purpose, sources and types",
+          "Hypotheses: meaning, characteristics and formulation",
+          "Sampling: principles, types and errors"
+        ],
+        "answer": 1,
+        "explain": "A review locates a question within existing knowledge, evaluates methods and findings, identifies gaps and informs hypotheses and design. Primary studies report original research; secondary sources synthesise or interpret it. Narrative reviews provide interpretive synthesis; systematic reviews use explicit searching and selection; scoping reviews map a field; meta-analysis statistically combines compatible estimates. Record search terms, databases, inclusion rules and source quality as appropriate. A critical review compares evidence and limitations rather than listing one summary per paper.",
+        "page": 0,
+        "sectionId": "literature-review-purpose-sources-and-types"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? A hypothesis is a testable proposition about variables or expected observations. Strong hypotheses are clear, theoretically motivated and consistent with operational definitions.",
+        "options": [
+          "Identifying and refining a research problem",
+          "Literature review: purpose, sources and types",
+          "Hypotheses: meaning, characteristics and formulation",
+          "Sampling: principles, types and errors"
+        ],
+        "answer": 2,
+        "explain": "A hypothesis is a testable proposition about variables or expected observations. Strong hypotheses are clear, theoretically motivated and consistent with operational definitions. Distinguish research from statistical hypotheses, null from alternative hypotheses, directional from nondirectional hypotheses, and simple from complex relationships. For a directional example, a spaced-practice group is predicted to recall more words after a delay than a massed-practice group. Specify population and measurement before testing. Failure to reject a null hypothesis is not proof that it is true.",
+        "page": 0,
+        "sectionId": "hypotheses-meaning-characteristics-and-formulation"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Sampling selects cases from a defined population using an explicit frame and procedure. Probability methods include simple random, systematic, stratified and cluster sampling, with known selection probabilities under the design.",
+        "options": [
+          "Identifying and refining a research problem",
+          "Literature review: purpose, sources and types",
+          "Hypotheses: meaning, characteristics and formulation",
+          "Sampling: principles, types and errors"
+        ],
+        "answer": 3,
+        "explain": "Sampling selects cases from a defined population using an explicit frame and procedure. Probability methods include simple random, systematic, stratified and cluster sampling, with known selection probabilities under the design. Nonprobability methods include convenience, purposive, quota and snowball sampling. Sampling error is variation due to selecting a sample; coverage error, nonresponse and measurement error are different problems. A larger sample can reduce random sampling variation without correcting systematic bias. Distinguish random selection of participants from random assignment to conditions.",
+        "page": 0,
+        "sectionId": "sampling-principles-types-and-errors"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Interviews, questionnaires, observations, standardised tests, experiments and existing records provide different kinds of evidence. Choose methods that fit the construct, participants and research question.",
+        "options": [
+          "Methods of data collection",
+          "Identifying and refining a research problem",
+          "Literature review: purpose, sources and types",
+          "Hypotheses: meaning, characteristics and formulation"
+        ],
+        "answer": 0,
+        "explain": "Interviews, questionnaires, observations, standardised tests, experiments and existing records provide different kinds of evidence. Choose methods that fit the construct, participants and research question. Standardisation supports comparability, while flexible interviewing may reveal context that fixed options miss. Pilot wording, procedures and accessibility; plan recording, coding, consent and secure storage. Self-reports can be affected by recall and social desirability, while observation can be reactive. Triangulation can strengthen interpretation, but disagreement between methods requires explanation rather than automatic averaging.",
+        "page": 0,
+        "sectionId": "methods-of-data-collection"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Begin by checking coding, missingness, impossible values and distributions. Frequency tables and suitable plots describe categorical and numerical data.",
+        "options": [
+          "Identifying and refining a research problem",
+          "Summarising data",
+          "Literature review: purpose, sources and types",
+          "Hypotheses: meaning, characteristics and formulation"
+        ],
+        "answer": 1,
+        "explain": "Begin by checking coding, missingness, impossible values and distributions. Frequency tables and suitable plots describe categorical and numerical data. The mean uses all values but is sensitive to extremes; the median is the middle ordered value; the mode is the most frequent value. Range, interquartile range, variance and standard deviation describe spread. Report sample size and units, and match summaries to measurement level and distribution. A descriptive difference is not automatically statistically significant or causally explained.",
+        "page": 0,
+        "sectionId": "summarising-data"
+      }
+    ],
+    "practice": [
+      {
+        "q": "Explain and critically evaluate identifying and refining a research problem, using an example.",
+        "marks": 10,
+        "answer": "A research problem is a specific uncertainty requiring systematic investigation. Sources include theoretical gaps, conflicting findings, practical difficulties and overlooked populations. A useful problem is clear, feasible, ethically defensible and significant, with a scope matching available resources. Move from a broad topic to a question specifying population, constructs and context. Check whether the question is answerable using available measures and whether a result would add something meaningful. Avoid choosing a method first and inventing a question merely to fit it.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate literature review: purpose, sources and types, using an example.",
+        "marks": 10,
+        "answer": "A review locates a question within existing knowledge, evaluates methods and findings, identifies gaps and informs hypotheses and design. Primary studies report original research; secondary sources synthesise or interpret it. Narrative reviews provide interpretive synthesis; systematic reviews use explicit searching and selection; scoping reviews map a field; meta-analysis statistically combines compatible estimates. Record search terms, databases, inclusion rules and source quality as appropriate. A critical review compares evidence and limitations rather than listing one summary per paper.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate hypotheses: meaning, characteristics and formulation, using an example.",
+        "marks": 10,
+        "answer": "A hypothesis is a testable proposition about variables or expected observations. Strong hypotheses are clear, theoretically motivated and consistent with operational definitions. Distinguish research from statistical hypotheses, null from alternative hypotheses, directional from nondirectional hypotheses, and simple from complex relationships. For a directional example, a spaced-practice group is predicted to recall more words after a delay than a massed-practice group. Specify population and measurement before testing. Failure to reject a null hypothesis is not proof that it is true.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate sampling: principles, types and errors, using an example.",
+        "marks": 10,
+        "answer": "Sampling selects cases from a defined population using an explicit frame and procedure. Probability methods include simple random, systematic, stratified and cluster sampling, with known selection probabilities under the design. Nonprobability methods include convenience, purposive, quota and snowball sampling. Sampling error is variation due to selecting a sample; coverage error, nonresponse and measurement error are different problems. A larger sample can reduce random sampling variation without correcting systematic bias. Distinguish random selection of participants from random assignment to conditions.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate methods of data collection, using an example.",
+        "marks": 10,
+        "answer": "Interviews, questionnaires, observations, standardised tests, experiments and existing records provide different kinds of evidence. Choose methods that fit the construct, participants and research question. Standardisation supports comparability, while flexible interviewing may reveal context that fixed options miss. Pilot wording, procedures and accessibility; plan recording, coding, consent and secure storage. Self-reports can be affected by recall and social desirability, while observation can be reactive. Triangulation can strengthen interpretation, but disagreement between methods requires explanation rather than automatic averaging.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate summarising data, using an example.",
+        "marks": 10,
+        "answer": "Begin by checking coding, missingness, impossible values and distributions. Frequency tables and suitable plots describe categorical and numerical data. The mean uses all values but is sensitive to extremes; the median is the middle ordered value; the mode is the most frequent value. Range, interquartile range, variance and standard deviation describe spread. Report sample size and units, and match summaries to measurement level and distribution. A descriptive difference is not automatically statistically significant or causally explained.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "Identifying and refining a research problem",
+        "back": "A research problem is a specific uncertainty requiring systematic investigation. Sources include theoretical gaps, conflicting findings, practical difficulties and overlooked populations.",
+        "page": 0
+      },
+      {
+        "front": "Literature review: purpose, sources and types",
+        "back": "A review locates a question within existing knowledge, evaluates methods and findings, identifies gaps and informs hypotheses and design. Primary studies report original research; secondary sources synthesise or interpret it.",
+        "page": 0
+      },
+      {
+        "front": "Hypotheses: meaning, characteristics and formulation",
+        "back": "A hypothesis is a testable proposition about variables or expected observations. Strong hypotheses are clear, theoretically motivated and consistent with operational definitions.",
+        "page": 0
+      },
+      {
+        "front": "Sampling: principles, types and errors",
+        "back": "Sampling selects cases from a defined population using an explicit frame and procedure. Probability methods include simple random, systematic, stratified and cluster sampling, with known selection probabilities under the design.",
+        "page": 0
+      },
+      {
+        "front": "Methods of data collection",
+        "back": "Interviews, questionnaires, observations, standardised tests, experiments and existing records provide different kinds of evidence. Choose methods that fit the construct, participants and research question.",
+        "page": 0
+      },
+      {
+        "front": "Summarising data",
+        "back": "Begin by checking coding, missingness, impossible values and distributions. Frequency tables and suitable plots describe categorical and numerical data.",
+        "page": 0
+      }
+    ],
+    "summary": [
+      "A research problem is a specific uncertainty requiring systematic investigation. Sources include theoretical gaps, conflicting findings, practical difficulties and overlooked populations.",
+      "A review locates a question within existing knowledge, evaluates methods and findings, identifies gaps and informs hypotheses and design. Primary studies report original research; secondary sources synthesise or interpret it.",
+      "A hypothesis is a testable proposition about variables or expected observations. Strong hypotheses are clear, theoretically motivated and consistent with operational definitions.",
+      "Sampling selects cases from a defined population using an explicit frame and procedure. Probability methods include simple random, systematic, stratified and cluster sampling, with known selection probabilities under the design.",
+      "Interviews, questionnaires, observations, standardised tests, experiments and existing records provide different kinds of evidence. Choose methods that fit the construct, participants and research question.",
+      "Begin by checking coding, missingness, impossible values and distributions. Frequency tables and suitable plots describe categorical and numerical data."
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Research designs",
+    "theorist": null,
+    "approach": "Unit 3",
+    "pages": [
+      0,
+      0
+    ],
+    "overview": "Syllabus-aligned study notes. These are concise original explanations, not a complete textbook replacement. Source suggestions use PDF page indices; uncertain course-specific models are flagged.",
+    "objectives": [
+      "Explain meaning, purpose and principles of design",
+      "Explain between-group and within-group designs",
+      "Explain pre-experimental and true-experimental designs",
+      "Explain quasi-experimental and ex-post facto designs",
+      "Explain single-subject procedures, withdrawal and reversal",
+      "Explain multiple-baseline designs"
+    ],
+    "sections": [
+      {
+        "id": "meaning-purpose-and-principles-of-design",
+        "heading": "Meaning, purpose and principles of design",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "A research design is the logical plan connecting questions, sampling, measurement, intervention and analysis. It aims to obtain interpretable evidence while reducing bias and managing resources. Control, randomisation and replication are central experimental principles; blocking groups similar units to reduce unwanted variability. Specify assignment, comparison conditions, timing and outcome measurement. Distinguish design from a data-collection instrument and justify how the design addresses alternative explanations. No design is optimal independently of the research question and ethical constraints.",
+        "simple": "A research design is the logical plan connecting questions, sampling, measurement, intervention and analysis. It aims to obtain interpretable evidence while reducing bias and managing resources.",
+        "keyPoints": [
+          "A research design is the logical plan connecting questions, sampling, measurement, intervention and analysis.",
+          "It aims to obtain interpretable evidence while reducing bias and managing resources.",
+          "Control, randomisation and replication are central experimental principles; blocking groups similar units to reduce unwanted variability."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              8,
+              9,
+              16,
+              25,
+              27,
+              37
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "between-group-and-within-group-designs",
+        "heading": "Between-group and within-group designs",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "Between-group designs compare different participants across conditions; random assignment helps balance differences but does not guarantee identical groups. Within-group designs expose the same participants to multiple conditions and can reduce variability from stable individual differences. They introduce order, practice, fatigue and carry-over effects, addressed through counterbalancing or other controls when feasible. Some interventions have irreversible effects, making within-group comparisons unsuitable. Compare the designs in terms of sensitivity, participant requirements, bias and the match to the question.",
+        "simple": "Between-group designs compare different participants across conditions; random assignment helps balance differences but does not guarantee identical groups. Within-group designs expose the same participants to multiple conditions and can reduce variability from stable individual differences.",
+        "keyPoints": [
+          "Between-group designs compare different participants across conditions; random assignment helps balance differences but does not guarantee identical groups.",
+          "Within-group designs expose the same participants to multiple conditions and can reduce variability from stable individual differences.",
+          "They introduce order, practice, fatigue and carry-over effects, addressed through counterbalancing or other controls when feasible."
+        ],
+        "references": [
+          {
+            "source": "AK Singh.pdf",
+            "pdfPages": [
+              7,
+              423,
+              430,
+              431,
+              432,
+              434
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "pre-experimental-and-true-experimental-designs",
+        "heading": "Pre-experimental and true-experimental designs",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "In Campbell and Stanley\u2019s classification, pre-experimental designs include one-shot case studies, one-group pretest\u2013posttest and static-group comparisons, with substantial threats to causal inference. True experiments use manipulation, appropriate comparison and random assignment, including posttest-only control-group, pretest\u2013posttest control-group and Solomon four-group designs. In notation, R denotes random assignment, X treatment and O observation. A pretest\u2013posttest gain alone does not rule out maturation, history or testing effects. Explain what each comparison controls and what remains uncertain.",
+        "simple": "In Campbell and Stanley\u2019s classification, pre-experimental designs include one-shot case studies, one-group pretest\u2013posttest and static-group comparisons, with substantial threats to causal inference. True experiments use manipulation, appropriate comparison and random assignment, including posttest-only control-group, pretest\u2013posttest control-group and Solomon four-group designs.",
+        "keyPoints": [
+          "In Campbell and Stanley\u2019s classification, pre-experimental designs include one-shot case studies, one-group pretest\u2013posttest and static-group comparisons, with substantial threats to causal inference.",
+          "True experiments use manipulation, appropriate comparison and random assignment, including posttest-only control-group, pretest\u2013posttest control-group and Solomon four-group designs.",
+          "In notation, R denotes random assignment, X treatment and O observation."
+        ],
+        "references": [
+          {
+            "source": "AK Singh.pdf",
+            "pdfPages": [
+              7,
+              430
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "quasi-experimental-and-ex-post-facto-designs",
+        "heading": "Quasi-experimental and ex-post facto designs",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "Quasi-experiments evaluate an intervention without full random assignment, using approaches such as nonequivalent comparison groups or interrupted time series. Baseline differences, concurrent events and selection remain important threats. Repeated observations can clarify trends but do not remove every alternative cause. Ex-post facto research studies existing differences or events without manipulating the presumed cause, so causal claims require particular caution. The labels reflect a historical classification and should be explained rather than taken as a ranking of every study\u2019s quality.",
+        "simple": "Quasi-experiments evaluate an intervention without full random assignment, using approaches such as nonequivalent comparison groups or interrupted time series. Baseline differences, concurrent events and selection remain important threats.",
+        "keyPoints": [
+          "Quasi-experiments evaluate an intervention without full random assignment, using approaches such as nonequivalent comparison groups or interrupted time series.",
+          "Baseline differences, concurrent events and selection remain important threats.",
+          "Repeated observations can clarify trends but do not remove every alternative cause."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              84,
+              412
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "single-subject-procedures-withdrawal-and-reversal",
+        "heading": "Single-subject procedures, withdrawal and reversal",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "Single-case experiments repeatedly measure an individual or small number of cases across systematically changed phases. Establish a baseline, define the outcome, measure reliably and examine level, trend, variability, immediacy and replication. An A\u2013B sequence introduces intervention but weakly controls history. A\u2013B\u2013A withdrawal and A\u2013B\u2013A\u2013B designs test whether changes recur with phase changes; terminology distinguishing withdrawal and reversal varies across teaching sources. Removing beneficial treatment can be unethical, and learned effects may not reverse.",
+        "simple": "Single-case experiments repeatedly measure an individual or small number of cases across systematically changed phases. Establish a baseline, define the outcome, measure reliably and examine level, trend, variability, immediacy and replication.",
+        "keyPoints": [
+          "Single-case experiments repeatedly measure an individual or small number of cases across systematically changed phases.",
+          "Establish a baseline, define the outcome, measure reliably and examine level, trend, variability, immediacy and replication.",
+          "An A\u2013B sequence introduces intervention but weakly controls history."
+        ],
+        "references": [
+          {
+            "source": "AK Singh.pdf",
+            "pdfPages": [
+              1,
+              5,
+              6,
+              432,
+              434,
+              436
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "multiple-baseline-designs",
+        "heading": "Multiple-baseline designs",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "A multiple-baseline design staggers intervention across participants, behaviours or settings while collecting repeated observations. If change occurs only when intervention begins at each baseline, replicated timing strengthens the inference. This can avoid withdrawing a beneficial intervention. Baselines must be sufficiently independent, and introducing treatment should not change untreated baselines indirectly. Explain the staggered schedule, expected pattern and remaining threats. Generalisation is supported by systematic replication rather than assuming one person represents an entire population.",
+        "simple": "A multiple-baseline design staggers intervention across participants, behaviours or settings while collecting repeated observations. If change occurs only when intervention begins at each baseline, replicated timing strengthens the inference.",
+        "keyPoints": [
+          "A multiple-baseline design staggers intervention across participants, behaviours or settings while collecting repeated observations.",
+          "If change occurs only when intervention begins at each baseline, replicated timing strengthens the inference.",
+          "This can avoid withdrawing a beneficial intervention."
+        ],
+        "references": [],
+        "coverage": "study-note"
+      }
+    ],
+    "terms": [
+      {
+        "term": "Meaning, purpose and principles of design",
+        "definition": "A research design is the logical plan connecting questions, sampling, measurement, intervention and analysis. It aims to obtain interpretable evidence while reducing bias and managing resources.",
+        "page": 0
+      },
+      {
+        "term": "Between-group and within-group designs",
+        "definition": "Between-group designs compare different participants across conditions; random assignment helps balance differences but does not guarantee identical groups. Within-group designs expose the same participants to multiple conditions and can reduce variability from stable individual differences.",
+        "page": 0
+      },
+      {
+        "term": "Pre-experimental and true-experimental designs",
+        "definition": "In Campbell and Stanley\u2019s classification, pre-experimental designs include one-shot case studies, one-group pretest\u2013posttest and static-group comparisons, with substantial threats to causal inference. True experiments use manipulation, appropriate comparison and random assignment, including posttest-only control-group, pretest\u2013posttest control-group and Solomon four-group designs.",
+        "page": 0
+      },
+      {
+        "term": "Quasi-experimental and ex-post facto designs",
+        "definition": "Quasi-experiments evaluate an intervention without full random assignment, using approaches such as nonequivalent comparison groups or interrupted time series. Baseline differences, concurrent events and selection remain important threats.",
+        "page": 0
+      },
+      {
+        "term": "Single-subject procedures, withdrawal and reversal",
+        "definition": "Single-case experiments repeatedly measure an individual or small number of cases across systematically changed phases. Establish a baseline, define the outcome, measure reliably and examine level, trend, variability, immediacy and replication.",
+        "page": 0
+      },
+      {
+        "term": "Multiple-baseline designs",
+        "definition": "A multiple-baseline design staggers intervention across participants, behaviours or settings while collecting repeated observations. If change occurs only when intervention begins at each baseline, replicated timing strengthens the inference.",
+        "page": 0
+      }
+    ],
+    "people": [],
+    "studies": [],
+    "examples": [],
+    "checks": [
+      {
+        "q": "Which topic is best illustrated by this explanation? A research design is the logical plan connecting questions, sampling, measurement, intervention and analysis. It aims to obtain interpretable evidence while reducing bias and managing resources.",
+        "options": [
+          "Meaning, purpose and principles of design",
+          "Between-group and within-group designs",
+          "Pre-experimental and true-experimental designs",
+          "Quasi-experimental and ex-post facto designs"
+        ],
+        "answer": 0,
+        "explain": "A research design is the logical plan connecting questions, sampling, measurement, intervention and analysis. It aims to obtain interpretable evidence while reducing bias and managing resources. Control, randomisation and replication are central experimental principles; blocking groups similar units to reduce unwanted variability. Specify assignment, comparison conditions, timing and outcome measurement. Distinguish design from a data-collection instrument and justify how the design addresses alternative explanations. No design is optimal independently of the research question and ethical constraints.",
+        "page": 0,
+        "sectionId": "meaning-purpose-and-principles-of-design"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Between-group designs compare different participants across conditions; random assignment helps balance differences but does not guarantee identical groups. Within-group designs expose the same participants to multiple conditions and can reduce variability from stable individual differences.",
+        "options": [
+          "Meaning, purpose and principles of design",
+          "Between-group and within-group designs",
+          "Pre-experimental and true-experimental designs",
+          "Quasi-experimental and ex-post facto designs"
+        ],
+        "answer": 1,
+        "explain": "Between-group designs compare different participants across conditions; random assignment helps balance differences but does not guarantee identical groups. Within-group designs expose the same participants to multiple conditions and can reduce variability from stable individual differences. They introduce order, practice, fatigue and carry-over effects, addressed through counterbalancing or other controls when feasible. Some interventions have irreversible effects, making within-group comparisons unsuitable. Compare the designs in terms of sensitivity, participant requirements, bias and the match to the question.",
+        "page": 0,
+        "sectionId": "between-group-and-within-group-designs"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? In Campbell and Stanley\u2019s classification, pre-experimental designs include one-shot case studies, one-group pretest\u2013posttest and static-group comparisons, with substantial threats to causal inference. True experiments use manipulation, appropriate comparison and random assignment, including posttest-only control-group, pretest\u2013posttest control-group and Solomon four-group designs.",
+        "options": [
+          "Meaning, purpose and principles of design",
+          "Between-group and within-group designs",
+          "Pre-experimental and true-experimental designs",
+          "Quasi-experimental and ex-post facto designs"
+        ],
+        "answer": 2,
+        "explain": "In Campbell and Stanley\u2019s classification, pre-experimental designs include one-shot case studies, one-group pretest\u2013posttest and static-group comparisons, with substantial threats to causal inference. True experiments use manipulation, appropriate comparison and random assignment, including posttest-only control-group, pretest\u2013posttest control-group and Solomon four-group designs. In notation, R denotes random assignment, X treatment and O observation. A pretest\u2013posttest gain alone does not rule out maturation, history or testing effects. Explain what each comparison controls and what remains uncertain.",
+        "page": 0,
+        "sectionId": "pre-experimental-and-true-experimental-designs"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Quasi-experiments evaluate an intervention without full random assignment, using approaches such as nonequivalent comparison groups or interrupted time series. Baseline differences, concurrent events and selection remain important threats.",
+        "options": [
+          "Meaning, purpose and principles of design",
+          "Between-group and within-group designs",
+          "Pre-experimental and true-experimental designs",
+          "Quasi-experimental and ex-post facto designs"
+        ],
+        "answer": 3,
+        "explain": "Quasi-experiments evaluate an intervention without full random assignment, using approaches such as nonequivalent comparison groups or interrupted time series. Baseline differences, concurrent events and selection remain important threats. Repeated observations can clarify trends but do not remove every alternative cause. Ex-post facto research studies existing differences or events without manipulating the presumed cause, so causal claims require particular caution. The labels reflect a historical classification and should be explained rather than taken as a ranking of every study\u2019s quality.",
+        "page": 0,
+        "sectionId": "quasi-experimental-and-ex-post-facto-designs"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Single-case experiments repeatedly measure an individual or small number of cases across systematically changed phases. Establish a baseline, define the outcome, measure reliably and examine level, trend, variability, immediacy and replication.",
+        "options": [
+          "Single-subject procedures, withdrawal and reversal",
+          "Meaning, purpose and principles of design",
+          "Between-group and within-group designs",
+          "Pre-experimental and true-experimental designs"
+        ],
+        "answer": 0,
+        "explain": "Single-case experiments repeatedly measure an individual or small number of cases across systematically changed phases. Establish a baseline, define the outcome, measure reliably and examine level, trend, variability, immediacy and replication. An A\u2013B sequence introduces intervention but weakly controls history. A\u2013B\u2013A withdrawal and A\u2013B\u2013A\u2013B designs test whether changes recur with phase changes; terminology distinguishing withdrawal and reversal varies across teaching sources. Removing beneficial treatment can be unethical, and learned effects may not reverse.",
+        "page": 0,
+        "sectionId": "single-subject-procedures-withdrawal-and-reversal"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? A multiple-baseline design staggers intervention across participants, behaviours or settings while collecting repeated observations. If change occurs only when intervention begins at each baseline, replicated timing strengthens the inference.",
+        "options": [
+          "Meaning, purpose and principles of design",
+          "Multiple-baseline designs",
+          "Between-group and within-group designs",
+          "Pre-experimental and true-experimental designs"
+        ],
+        "answer": 1,
+        "explain": "A multiple-baseline design staggers intervention across participants, behaviours or settings while collecting repeated observations. If change occurs only when intervention begins at each baseline, replicated timing strengthens the inference. This can avoid withdrawing a beneficial intervention. Baselines must be sufficiently independent, and introducing treatment should not change untreated baselines indirectly. Explain the staggered schedule, expected pattern and remaining threats. Generalisation is supported by systematic replication rather than assuming one person represents an entire population.",
+        "page": 0,
+        "sectionId": "multiple-baseline-designs"
+      }
+    ],
+    "assessment": [
+      {
+        "q": "Which topic is best illustrated by this explanation? A research design is the logical plan connecting questions, sampling, measurement, intervention and analysis. It aims to obtain interpretable evidence while reducing bias and managing resources.",
+        "options": [
+          "Meaning, purpose and principles of design",
+          "Between-group and within-group designs",
+          "Pre-experimental and true-experimental designs",
+          "Quasi-experimental and ex-post facto designs"
+        ],
+        "answer": 0,
+        "explain": "A research design is the logical plan connecting questions, sampling, measurement, intervention and analysis. It aims to obtain interpretable evidence while reducing bias and managing resources. Control, randomisation and replication are central experimental principles; blocking groups similar units to reduce unwanted variability. Specify assignment, comparison conditions, timing and outcome measurement. Distinguish design from a data-collection instrument and justify how the design addresses alternative explanations. No design is optimal independently of the research question and ethical constraints.",
+        "page": 0,
+        "sectionId": "meaning-purpose-and-principles-of-design"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Between-group designs compare different participants across conditions; random assignment helps balance differences but does not guarantee identical groups. Within-group designs expose the same participants to multiple conditions and can reduce variability from stable individual differences.",
+        "options": [
+          "Meaning, purpose and principles of design",
+          "Between-group and within-group designs",
+          "Pre-experimental and true-experimental designs",
+          "Quasi-experimental and ex-post facto designs"
+        ],
+        "answer": 1,
+        "explain": "Between-group designs compare different participants across conditions; random assignment helps balance differences but does not guarantee identical groups. Within-group designs expose the same participants to multiple conditions and can reduce variability from stable individual differences. They introduce order, practice, fatigue and carry-over effects, addressed through counterbalancing or other controls when feasible. Some interventions have irreversible effects, making within-group comparisons unsuitable. Compare the designs in terms of sensitivity, participant requirements, bias and the match to the question.",
+        "page": 0,
+        "sectionId": "between-group-and-within-group-designs"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? In Campbell and Stanley\u2019s classification, pre-experimental designs include one-shot case studies, one-group pretest\u2013posttest and static-group comparisons, with substantial threats to causal inference. True experiments use manipulation, appropriate comparison and random assignment, including posttest-only control-group, pretest\u2013posttest control-group and Solomon four-group designs.",
+        "options": [
+          "Meaning, purpose and principles of design",
+          "Between-group and within-group designs",
+          "Pre-experimental and true-experimental designs",
+          "Quasi-experimental and ex-post facto designs"
+        ],
+        "answer": 2,
+        "explain": "In Campbell and Stanley\u2019s classification, pre-experimental designs include one-shot case studies, one-group pretest\u2013posttest and static-group comparisons, with substantial threats to causal inference. True experiments use manipulation, appropriate comparison and random assignment, including posttest-only control-group, pretest\u2013posttest control-group and Solomon four-group designs. In notation, R denotes random assignment, X treatment and O observation. A pretest\u2013posttest gain alone does not rule out maturation, history or testing effects. Explain what each comparison controls and what remains uncertain.",
+        "page": 0,
+        "sectionId": "pre-experimental-and-true-experimental-designs"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Quasi-experiments evaluate an intervention without full random assignment, using approaches such as nonequivalent comparison groups or interrupted time series. Baseline differences, concurrent events and selection remain important threats.",
+        "options": [
+          "Meaning, purpose and principles of design",
+          "Between-group and within-group designs",
+          "Pre-experimental and true-experimental designs",
+          "Quasi-experimental and ex-post facto designs"
+        ],
+        "answer": 3,
+        "explain": "Quasi-experiments evaluate an intervention without full random assignment, using approaches such as nonequivalent comparison groups or interrupted time series. Baseline differences, concurrent events and selection remain important threats. Repeated observations can clarify trends but do not remove every alternative cause. Ex-post facto research studies existing differences or events without manipulating the presumed cause, so causal claims require particular caution. The labels reflect a historical classification and should be explained rather than taken as a ranking of every study\u2019s quality.",
+        "page": 0,
+        "sectionId": "quasi-experimental-and-ex-post-facto-designs"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Single-case experiments repeatedly measure an individual or small number of cases across systematically changed phases. Establish a baseline, define the outcome, measure reliably and examine level, trend, variability, immediacy and replication.",
+        "options": [
+          "Single-subject procedures, withdrawal and reversal",
+          "Meaning, purpose and principles of design",
+          "Between-group and within-group designs",
+          "Pre-experimental and true-experimental designs"
+        ],
+        "answer": 0,
+        "explain": "Single-case experiments repeatedly measure an individual or small number of cases across systematically changed phases. Establish a baseline, define the outcome, measure reliably and examine level, trend, variability, immediacy and replication. An A\u2013B sequence introduces intervention but weakly controls history. A\u2013B\u2013A withdrawal and A\u2013B\u2013A\u2013B designs test whether changes recur with phase changes; terminology distinguishing withdrawal and reversal varies across teaching sources. Removing beneficial treatment can be unethical, and learned effects may not reverse.",
+        "page": 0,
+        "sectionId": "single-subject-procedures-withdrawal-and-reversal"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? A multiple-baseline design staggers intervention across participants, behaviours or settings while collecting repeated observations. If change occurs only when intervention begins at each baseline, replicated timing strengthens the inference.",
+        "options": [
+          "Meaning, purpose and principles of design",
+          "Multiple-baseline designs",
+          "Between-group and within-group designs",
+          "Pre-experimental and true-experimental designs"
+        ],
+        "answer": 1,
+        "explain": "A multiple-baseline design staggers intervention across participants, behaviours or settings while collecting repeated observations. If change occurs only when intervention begins at each baseline, replicated timing strengthens the inference. This can avoid withdrawing a beneficial intervention. Baselines must be sufficiently independent, and introducing treatment should not change untreated baselines indirectly. Explain the staggered schedule, expected pattern and remaining threats. Generalisation is supported by systematic replication rather than assuming one person represents an entire population.",
+        "page": 0,
+        "sectionId": "multiple-baseline-designs"
+      }
+    ],
+    "practice": [
+      {
+        "q": "Explain and critically evaluate meaning, purpose and principles of design, using an example.",
+        "marks": 10,
+        "answer": "A research design is the logical plan connecting questions, sampling, measurement, intervention and analysis. It aims to obtain interpretable evidence while reducing bias and managing resources. Control, randomisation and replication are central experimental principles; blocking groups similar units to reduce unwanted variability. Specify assignment, comparison conditions, timing and outcome measurement. Distinguish design from a data-collection instrument and justify how the design addresses alternative explanations. No design is optimal independently of the research question and ethical constraints.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate between-group and within-group designs, using an example.",
+        "marks": 10,
+        "answer": "Between-group designs compare different participants across conditions; random assignment helps balance differences but does not guarantee identical groups. Within-group designs expose the same participants to multiple conditions and can reduce variability from stable individual differences. They introduce order, practice, fatigue and carry-over effects, addressed through counterbalancing or other controls when feasible. Some interventions have irreversible effects, making within-group comparisons unsuitable. Compare the designs in terms of sensitivity, participant requirements, bias and the match to the question.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate pre-experimental and true-experimental designs, using an example.",
+        "marks": 10,
+        "answer": "In Campbell and Stanley\u2019s classification, pre-experimental designs include one-shot case studies, one-group pretest\u2013posttest and static-group comparisons, with substantial threats to causal inference. True experiments use manipulation, appropriate comparison and random assignment, including posttest-only control-group, pretest\u2013posttest control-group and Solomon four-group designs. In notation, R denotes random assignment, X treatment and O observation. A pretest\u2013posttest gain alone does not rule out maturation, history or testing effects. Explain what each comparison controls and what remains uncertain.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate quasi-experimental and ex-post facto designs, using an example.",
+        "marks": 10,
+        "answer": "Quasi-experiments evaluate an intervention without full random assignment, using approaches such as nonequivalent comparison groups or interrupted time series. Baseline differences, concurrent events and selection remain important threats. Repeated observations can clarify trends but do not remove every alternative cause. Ex-post facto research studies existing differences or events without manipulating the presumed cause, so causal claims require particular caution. The labels reflect a historical classification and should be explained rather than taken as a ranking of every study\u2019s quality.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate single-subject procedures, withdrawal and reversal, using an example.",
+        "marks": 10,
+        "answer": "Single-case experiments repeatedly measure an individual or small number of cases across systematically changed phases. Establish a baseline, define the outcome, measure reliably and examine level, trend, variability, immediacy and replication. An A\u2013B sequence introduces intervention but weakly controls history. A\u2013B\u2013A withdrawal and A\u2013B\u2013A\u2013B designs test whether changes recur with phase changes; terminology distinguishing withdrawal and reversal varies across teaching sources. Removing beneficial treatment can be unethical, and learned effects may not reverse.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate multiple-baseline designs, using an example.",
+        "marks": 10,
+        "answer": "A multiple-baseline design staggers intervention across participants, behaviours or settings while collecting repeated observations. If change occurs only when intervention begins at each baseline, replicated timing strengthens the inference. This can avoid withdrawing a beneficial intervention. Baselines must be sufficiently independent, and introducing treatment should not change untreated baselines indirectly. Explain the staggered schedule, expected pattern and remaining threats. Generalisation is supported by systematic replication rather than assuming one person represents an entire population.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "Meaning, purpose and principles of design",
+        "back": "A research design is the logical plan connecting questions, sampling, measurement, intervention and analysis. It aims to obtain interpretable evidence while reducing bias and managing resources.",
+        "page": 0
+      },
+      {
+        "front": "Between-group and within-group designs",
+        "back": "Between-group designs compare different participants across conditions; random assignment helps balance differences but does not guarantee identical groups. Within-group designs expose the same participants to multiple conditions and can reduce variability from stable individual differences.",
+        "page": 0
+      },
+      {
+        "front": "Pre-experimental and true-experimental designs",
+        "back": "In Campbell and Stanley\u2019s classification, pre-experimental designs include one-shot case studies, one-group pretest\u2013posttest and static-group comparisons, with substantial threats to causal inference. True experiments use manipulation, appropriate comparison and random assignment, including posttest-only control-group, pretest\u2013posttest control-group and Solomon four-group designs.",
+        "page": 0
+      },
+      {
+        "front": "Quasi-experimental and ex-post facto designs",
+        "back": "Quasi-experiments evaluate an intervention without full random assignment, using approaches such as nonequivalent comparison groups or interrupted time series. Baseline differences, concurrent events and selection remain important threats.",
+        "page": 0
+      },
+      {
+        "front": "Single-subject procedures, withdrawal and reversal",
+        "back": "Single-case experiments repeatedly measure an individual or small number of cases across systematically changed phases. Establish a baseline, define the outcome, measure reliably and examine level, trend, variability, immediacy and replication.",
+        "page": 0
+      },
+      {
+        "front": "Multiple-baseline designs",
+        "back": "A multiple-baseline design staggers intervention across participants, behaviours or settings while collecting repeated observations. If change occurs only when intervention begins at each baseline, replicated timing strengthens the inference.",
+        "page": 0
+      }
+    ],
+    "summary": [
+      "A research design is the logical plan connecting questions, sampling, measurement, intervention and analysis. It aims to obtain interpretable evidence while reducing bias and managing resources.",
+      "Between-group designs compare different participants across conditions; random assignment helps balance differences but does not guarantee identical groups. Within-group designs expose the same participants to multiple conditions and can reduce variability from stable individual differences.",
+      "In Campbell and Stanley\u2019s classification, pre-experimental designs include one-shot case studies, one-group pretest\u2013posttest and static-group comparisons, with substantial threats to causal inference. True experiments use manipulation, appropriate comparison and random assignment, including posttest-only control-group, pretest\u2013posttest control-group and Solomon four-group designs.",
+      "Quasi-experiments evaluate an intervention without full random assignment, using approaches such as nonequivalent comparison groups or interrupted time series. Baseline differences, concurrent events and selection remain important threats.",
+      "Single-case experiments repeatedly measure an individual or small number of cases across systematically changed phases. Establish a baseline, define the outcome, measure reliably and examine level, trend, variability, immediacy and replication.",
+      "A multiple-baseline design staggers intervention across participants, behaviours or settings while collecting repeated observations. If change occurs only when intervention begins at each baseline, replicated timing strengthens the inference."
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Mixed methods designs",
+    "theorist": null,
+    "approach": "Unit 4",
+    "pages": [
+      0,
+      0
+    ],
+    "overview": "Syllabus-aligned study notes. These are concise original explanations, not a complete textbook replacement. Source suggestions use PDF page indices; uncertain course-specific models are flagged.",
+    "objectives": [
+      "Explain introduction and philosophical foundations",
+      "Explain convergent, explanatory and exploratory designs",
+      "Explain embedded and multistage designs",
+      "Explain data collection and integration",
+      "Explain analysis, joint displays and metainferences",
+      "Explain validity and reliability in mixed methods"
+    ],
+    "sections": [
+      {
+        "id": "introduction-and-philosophical-foundations",
+        "heading": "Introduction and philosophical foundations",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "Mixed methods deliberately integrates quantitative and qualitative approaches to address a research question more fully. Collecting two kinds of data without connecting them is not enough. Pragmatism often emphasises useful inquiry and questions; transformative approaches attend to power and participation. Researchers may also state other philosophical commitments, which should align with their design. Explain why integration is needed, what each strand contributes and where integration occurs rather than claiming mixed methods is inherently superior.",
+        "simple": "Mixed methods deliberately integrates quantitative and qualitative approaches to address a research question more fully. Collecting two kinds of data without connecting them is not enough.",
+        "keyPoints": [
+          "Mixed methods deliberately integrates quantitative and qualitative approaches to address a research question more fully.",
+          "Collecting two kinds of data without connecting them is not enough.",
+          "Pragmatism often emphasises useful inquiry and questions; transformative approaches attend to power and participation."
+        ],
+        "references": [
+          {
+            "source": "Creswell 3rd ed.pdf",
+            "pdfPages": [
+              2,
+              8,
+              9,
+              10,
+              11,
+              12
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "convergent-explanatory-and-exploratory-designs",
+        "heading": "Convergent, explanatory and exploratory designs",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "A convergent design gathers quantitative and qualitative strands in a similar period and brings results together for comparison. Explanatory sequential design starts with quantitative results and uses qualitative follow-up to explain them. Exploratory sequential design begins with qualitative exploration and uses its findings to develop a measure or subsequent quantitative phase. Timing, priority, participant selection and integration must be explicit. Choose by the purpose of mixing, not simply convenience. A discrepancy between strands is a finding to investigate.",
+        "simple": "A convergent design gathers quantitative and qualitative strands in a similar period and brings results together for comparison. Explanatory sequential design starts with quantitative results and uses qualitative follow-up to explain them.",
+        "keyPoints": [
+          "A convergent design gathers quantitative and qualitative strands in a similar period and brings results together for comparison.",
+          "Explanatory sequential design starts with quantitative results and uses qualitative follow-up to explain them.",
+          "Exploratory sequential design begins with qualitative exploration and uses its findings to develop a measure or subsequent quantitative phase."
+        ],
+        "references": [
+          {
+            "source": "Creswell 3rd ed.pdf",
+            "pdfPages": [
+              12,
+              15,
+              17,
+              20,
+              21,
+              30
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "embedded-and-multistage-designs",
+        "heading": "Embedded and multistage designs",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "An embedded design places a supporting strand within a larger design, such as interviews within an intervention trial to understand implementation. Multiphase designs connect multiple studies or stages within a programme. Explain the purpose and status of each component, the points at which one influences another and the resources required. Do not confuse two measurements within one quantitative experiment with mixed methods. Labels vary by edition; describe the actual sequence and integration so readers can understand the study regardless of terminology.",
+        "simple": "An embedded design places a supporting strand within a larger design, such as interviews within an intervention trial to understand implementation. Multiphase designs connect multiple studies or stages within a programme.",
+        "keyPoints": [
+          "An embedded design places a supporting strand within a larger design, such as interviews within an intervention trial to understand implementation.",
+          "Multiphase designs connect multiple studies or stages within a programme.",
+          "Explain the purpose and status of each component, the points at which one influences another and the resources required."
+        ],
+        "references": [
+          {
+            "source": "Creswell 3rd ed.pdf",
+            "pdfPages": [
+              49,
+              116,
+              182,
+              183,
+              218,
+              221
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "data-collection-and-integration",
+        "heading": "Data collection and integration",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "Quantitative strands may use scales, experiments or structured records; qualitative strands may use interviews, observation or documents. Connecting uses one strand to select the sample for another; building uses findings to develop later instruments or procedures; merging brings datasets together; embedding integrates within a larger design. Record whether participants overlap and how timing and consent are handled. Integration should be planned in advance and revisited during analysis rather than added as a sentence at the end.",
+        "simple": "Quantitative strands may use scales, experiments or structured records; qualitative strands may use interviews, observation or documents. Connecting uses one strand to select the sample for another; building uses findings to develop later instruments or procedures; merging brings datasets together; embedding integrates within a larger design.",
+        "keyPoints": [
+          "Quantitative strands may use scales, experiments or structured records; qualitative strands may use interviews, observation or documents.",
+          "Connecting uses one strand to select the sample for another; building uses findings to develop later instruments or procedures; merging brings datasets together; embedding integrates within a larger design.",
+          "Record whether participants overlap and how timing and consent are handled."
+        ],
+        "references": [
+          {
+            "source": "Creswell 3rd ed.pdf",
+            "pdfPages": [
+              12,
+              13,
+              14,
+              17,
+              18,
+              30
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "analysis-joint-displays-and-metainferences",
+        "heading": "Analysis, joint displays and metainferences",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "Analyse each strand using appropriate methods before integrating findings. A joint display aligns numerical results and qualitative themes by research question, participant group or construct, making agreement, expansion and disagreement visible. Metainferences are conclusions drawn across the integrated evidence. Preserve context and avoid forcing qualitative themes into unsupported numerical claims. If interviews contradict a survey trend, examine sampling, question interpretation, timing and measurement before deciding what the combined evidence supports.",
+        "simple": "Analyse each strand using appropriate methods before integrating findings. A joint display aligns numerical results and qualitative themes by research question, participant group or construct, making agreement, expansion and disagreement visible.",
+        "keyPoints": [
+          "Analyse each strand using appropriate methods before integrating findings.",
+          "A joint display aligns numerical results and qualitative themes by research question, participant group or construct, making agreement, expansion and disagreement visible.",
+          "Metainferences are conclusions drawn across the integrated evidence."
+        ],
+        "references": [
+          {
+            "source": "Creswell 3rd ed.pdf",
+            "pdfPages": [
+              18,
+              21,
+              60,
+              129,
+              130,
+              134
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "validity-and-reliability-in-mixed-methods",
+        "heading": "Validity and reliability in mixed methods",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "Evaluate quantitative reliability and validity, qualitative credibility and transparency, and the quality of integration. Problems include poorly connected samples, one weak strand, unexplained contradictions and conclusions exceeding either dataset. Describe triangulation, reflexivity, audit trails and appropriate checking where relevant, without treating a checklist as proof. The rationale for mixing, adequacy of each strand, integration procedures and defensibility of metainferences should all be reviewed. Additional methods can add complexity and new bias as well as insight.",
+        "simple": "Evaluate quantitative reliability and validity, qualitative credibility and transparency, and the quality of integration. Problems include poorly connected samples, one weak strand, unexplained contradictions and conclusions exceeding either dataset.",
+        "keyPoints": [
+          "Evaluate quantitative reliability and validity, qualitative credibility and transparency, and the quality of integration.",
+          "Problems include poorly connected samples, one weak strand, unexplained contradictions and conclusions exceeding either dataset.",
+          "Describe triangulation, reflexivity, audit trails and appropriate checking where relevant, without treating a checklist as proof."
+        ],
+        "references": [
+          {
+            "source": "Creswell 3rd ed.pdf",
+            "pdfPages": [
+              17,
+              18,
+              21,
+              23,
+              56,
+              60
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      }
+    ],
+    "terms": [
+      {
+        "term": "Introduction and philosophical foundations",
+        "definition": "Mixed methods deliberately integrates quantitative and qualitative approaches to address a research question more fully. Collecting two kinds of data without connecting them is not enough.",
+        "page": 0
+      },
+      {
+        "term": "Convergent, explanatory and exploratory designs",
+        "definition": "A convergent design gathers quantitative and qualitative strands in a similar period and brings results together for comparison. Explanatory sequential design starts with quantitative results and uses qualitative follow-up to explain them.",
+        "page": 0
+      },
+      {
+        "term": "Embedded and multistage designs",
+        "definition": "An embedded design places a supporting strand within a larger design, such as interviews within an intervention trial to understand implementation. Multiphase designs connect multiple studies or stages within a programme.",
+        "page": 0
+      },
+      {
+        "term": "Data collection and integration",
+        "definition": "Quantitative strands may use scales, experiments or structured records; qualitative strands may use interviews, observation or documents. Connecting uses one strand to select the sample for another; building uses findings to develop later instruments or procedures; merging brings datasets together; embedding integrates within a larger design.",
+        "page": 0
+      },
+      {
+        "term": "Analysis, joint displays and metainferences",
+        "definition": "Analyse each strand using appropriate methods before integrating findings. A joint display aligns numerical results and qualitative themes by research question, participant group or construct, making agreement, expansion and disagreement visible.",
+        "page": 0
+      },
+      {
+        "term": "Validity and reliability in mixed methods",
+        "definition": "Evaluate quantitative reliability and validity, qualitative credibility and transparency, and the quality of integration. Problems include poorly connected samples, one weak strand, unexplained contradictions and conclusions exceeding either dataset.",
+        "page": 0
+      }
+    ],
+    "people": [],
+    "studies": [],
+    "examples": [],
+    "checks": [
+      {
+        "q": "Which topic is best illustrated by this explanation? Mixed methods deliberately integrates quantitative and qualitative approaches to address a research question more fully. Collecting two kinds of data without connecting them is not enough.",
+        "options": [
+          "Introduction and philosophical foundations",
+          "Convergent, explanatory and exploratory designs",
+          "Embedded and multistage designs",
+          "Data collection and integration"
+        ],
+        "answer": 0,
+        "explain": "Mixed methods deliberately integrates quantitative and qualitative approaches to address a research question more fully. Collecting two kinds of data without connecting them is not enough. Pragmatism often emphasises useful inquiry and questions; transformative approaches attend to power and participation. Researchers may also state other philosophical commitments, which should align with their design. Explain why integration is needed, what each strand contributes and where integration occurs rather than claiming mixed methods is inherently superior.",
+        "page": 0,
+        "sectionId": "introduction-and-philosophical-foundations"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? A convergent design gathers quantitative and qualitative strands in a similar period and brings results together for comparison. Explanatory sequential design starts with quantitative results and uses qualitative follow-up to explain them.",
+        "options": [
+          "Introduction and philosophical foundations",
+          "Convergent, explanatory and exploratory designs",
+          "Embedded and multistage designs",
+          "Data collection and integration"
+        ],
+        "answer": 1,
+        "explain": "A convergent design gathers quantitative and qualitative strands in a similar period and brings results together for comparison. Explanatory sequential design starts with quantitative results and uses qualitative follow-up to explain them. Exploratory sequential design begins with qualitative exploration and uses its findings to develop a measure or subsequent quantitative phase. Timing, priority, participant selection and integration must be explicit. Choose by the purpose of mixing, not simply convenience. A discrepancy between strands is a finding to investigate.",
+        "page": 0,
+        "sectionId": "convergent-explanatory-and-exploratory-designs"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? An embedded design places a supporting strand within a larger design, such as interviews within an intervention trial to understand implementation. Multiphase designs connect multiple studies or stages within a programme.",
+        "options": [
+          "Introduction and philosophical foundations",
+          "Convergent, explanatory and exploratory designs",
+          "Embedded and multistage designs",
+          "Data collection and integration"
+        ],
+        "answer": 2,
+        "explain": "An embedded design places a supporting strand within a larger design, such as interviews within an intervention trial to understand implementation. Multiphase designs connect multiple studies or stages within a programme. Explain the purpose and status of each component, the points at which one influences another and the resources required. Do not confuse two measurements within one quantitative experiment with mixed methods. Labels vary by edition; describe the actual sequence and integration so readers can understand the study regardless of terminology.",
+        "page": 0,
+        "sectionId": "embedded-and-multistage-designs"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Quantitative strands may use scales, experiments or structured records; qualitative strands may use interviews, observation or documents. Connecting uses one strand to select the sample for another; building uses findings to develop later instruments or procedures; merging brings datasets together; embedding integrates within a larger design.",
+        "options": [
+          "Introduction and philosophical foundations",
+          "Convergent, explanatory and exploratory designs",
+          "Embedded and multistage designs",
+          "Data collection and integration"
+        ],
+        "answer": 3,
+        "explain": "Quantitative strands may use scales, experiments or structured records; qualitative strands may use interviews, observation or documents. Connecting uses one strand to select the sample for another; building uses findings to develop later instruments or procedures; merging brings datasets together; embedding integrates within a larger design. Record whether participants overlap and how timing and consent are handled. Integration should be planned in advance and revisited during analysis rather than added as a sentence at the end.",
+        "page": 0,
+        "sectionId": "data-collection-and-integration"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Analyse each strand using appropriate methods before integrating findings. A joint display aligns numerical results and qualitative themes by research question, participant group or construct, making agreement, expansion and disagreement visible.",
+        "options": [
+          "Analysis, joint displays and metainferences",
+          "Introduction and philosophical foundations",
+          "Convergent, explanatory and exploratory designs",
+          "Embedded and multistage designs"
+        ],
+        "answer": 0,
+        "explain": "Analyse each strand using appropriate methods before integrating findings. A joint display aligns numerical results and qualitative themes by research question, participant group or construct, making agreement, expansion and disagreement visible. Metainferences are conclusions drawn across the integrated evidence. Preserve context and avoid forcing qualitative themes into unsupported numerical claims. If interviews contradict a survey trend, examine sampling, question interpretation, timing and measurement before deciding what the combined evidence supports.",
+        "page": 0,
+        "sectionId": "analysis-joint-displays-and-metainferences"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Evaluate quantitative reliability and validity, qualitative credibility and transparency, and the quality of integration. Problems include poorly connected samples, one weak strand, unexplained contradictions and conclusions exceeding either dataset.",
+        "options": [
+          "Introduction and philosophical foundations",
+          "Validity and reliability in mixed methods",
+          "Convergent, explanatory and exploratory designs",
+          "Embedded and multistage designs"
+        ],
+        "answer": 1,
+        "explain": "Evaluate quantitative reliability and validity, qualitative credibility and transparency, and the quality of integration. Problems include poorly connected samples, one weak strand, unexplained contradictions and conclusions exceeding either dataset. Describe triangulation, reflexivity, audit trails and appropriate checking where relevant, without treating a checklist as proof. The rationale for mixing, adequacy of each strand, integration procedures and defensibility of metainferences should all be reviewed. Additional methods can add complexity and new bias as well as insight.",
+        "page": 0,
+        "sectionId": "validity-and-reliability-in-mixed-methods"
+      }
+    ],
+    "assessment": [
+      {
+        "q": "Which topic is best illustrated by this explanation? Mixed methods deliberately integrates quantitative and qualitative approaches to address a research question more fully. Collecting two kinds of data without connecting them is not enough.",
+        "options": [
+          "Introduction and philosophical foundations",
+          "Convergent, explanatory and exploratory designs",
+          "Embedded and multistage designs",
+          "Data collection and integration"
+        ],
+        "answer": 0,
+        "explain": "Mixed methods deliberately integrates quantitative and qualitative approaches to address a research question more fully. Collecting two kinds of data without connecting them is not enough. Pragmatism often emphasises useful inquiry and questions; transformative approaches attend to power and participation. Researchers may also state other philosophical commitments, which should align with their design. Explain why integration is needed, what each strand contributes and where integration occurs rather than claiming mixed methods is inherently superior.",
+        "page": 0,
+        "sectionId": "introduction-and-philosophical-foundations"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? A convergent design gathers quantitative and qualitative strands in a similar period and brings results together for comparison. Explanatory sequential design starts with quantitative results and uses qualitative follow-up to explain them.",
+        "options": [
+          "Introduction and philosophical foundations",
+          "Convergent, explanatory and exploratory designs",
+          "Embedded and multistage designs",
+          "Data collection and integration"
+        ],
+        "answer": 1,
+        "explain": "A convergent design gathers quantitative and qualitative strands in a similar period and brings results together for comparison. Explanatory sequential design starts with quantitative results and uses qualitative follow-up to explain them. Exploratory sequential design begins with qualitative exploration and uses its findings to develop a measure or subsequent quantitative phase. Timing, priority, participant selection and integration must be explicit. Choose by the purpose of mixing, not simply convenience. A discrepancy between strands is a finding to investigate.",
+        "page": 0,
+        "sectionId": "convergent-explanatory-and-exploratory-designs"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? An embedded design places a supporting strand within a larger design, such as interviews within an intervention trial to understand implementation. Multiphase designs connect multiple studies or stages within a programme.",
+        "options": [
+          "Introduction and philosophical foundations",
+          "Convergent, explanatory and exploratory designs",
+          "Embedded and multistage designs",
+          "Data collection and integration"
+        ],
+        "answer": 2,
+        "explain": "An embedded design places a supporting strand within a larger design, such as interviews within an intervention trial to understand implementation. Multiphase designs connect multiple studies or stages within a programme. Explain the purpose and status of each component, the points at which one influences another and the resources required. Do not confuse two measurements within one quantitative experiment with mixed methods. Labels vary by edition; describe the actual sequence and integration so readers can understand the study regardless of terminology.",
+        "page": 0,
+        "sectionId": "embedded-and-multistage-designs"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Quantitative strands may use scales, experiments or structured records; qualitative strands may use interviews, observation or documents. Connecting uses one strand to select the sample for another; building uses findings to develop later instruments or procedures; merging brings datasets together; embedding integrates within a larger design.",
+        "options": [
+          "Introduction and philosophical foundations",
+          "Convergent, explanatory and exploratory designs",
+          "Embedded and multistage designs",
+          "Data collection and integration"
+        ],
+        "answer": 3,
+        "explain": "Quantitative strands may use scales, experiments or structured records; qualitative strands may use interviews, observation or documents. Connecting uses one strand to select the sample for another; building uses findings to develop later instruments or procedures; merging brings datasets together; embedding integrates within a larger design. Record whether participants overlap and how timing and consent are handled. Integration should be planned in advance and revisited during analysis rather than added as a sentence at the end.",
+        "page": 0,
+        "sectionId": "data-collection-and-integration"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Analyse each strand using appropriate methods before integrating findings. A joint display aligns numerical results and qualitative themes by research question, participant group or construct, making agreement, expansion and disagreement visible.",
+        "options": [
+          "Analysis, joint displays and metainferences",
+          "Introduction and philosophical foundations",
+          "Convergent, explanatory and exploratory designs",
+          "Embedded and multistage designs"
+        ],
+        "answer": 0,
+        "explain": "Analyse each strand using appropriate methods before integrating findings. A joint display aligns numerical results and qualitative themes by research question, participant group or construct, making agreement, expansion and disagreement visible. Metainferences are conclusions drawn across the integrated evidence. Preserve context and avoid forcing qualitative themes into unsupported numerical claims. If interviews contradict a survey trend, examine sampling, question interpretation, timing and measurement before deciding what the combined evidence supports.",
+        "page": 0,
+        "sectionId": "analysis-joint-displays-and-metainferences"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Evaluate quantitative reliability and validity, qualitative credibility and transparency, and the quality of integration. Problems include poorly connected samples, one weak strand, unexplained contradictions and conclusions exceeding either dataset.",
+        "options": [
+          "Introduction and philosophical foundations",
+          "Validity and reliability in mixed methods",
+          "Convergent, explanatory and exploratory designs",
+          "Embedded and multistage designs"
+        ],
+        "answer": 1,
+        "explain": "Evaluate quantitative reliability and validity, qualitative credibility and transparency, and the quality of integration. Problems include poorly connected samples, one weak strand, unexplained contradictions and conclusions exceeding either dataset. Describe triangulation, reflexivity, audit trails and appropriate checking where relevant, without treating a checklist as proof. The rationale for mixing, adequacy of each strand, integration procedures and defensibility of metainferences should all be reviewed. Additional methods can add complexity and new bias as well as insight.",
+        "page": 0,
+        "sectionId": "validity-and-reliability-in-mixed-methods"
+      }
+    ],
+    "practice": [
+      {
+        "q": "Explain and critically evaluate introduction and philosophical foundations, using an example.",
+        "marks": 10,
+        "answer": "Mixed methods deliberately integrates quantitative and qualitative approaches to address a research question more fully. Collecting two kinds of data without connecting them is not enough. Pragmatism often emphasises useful inquiry and questions; transformative approaches attend to power and participation. Researchers may also state other philosophical commitments, which should align with their design. Explain why integration is needed, what each strand contributes and where integration occurs rather than claiming mixed methods is inherently superior.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate convergent, explanatory and exploratory designs, using an example.",
+        "marks": 10,
+        "answer": "A convergent design gathers quantitative and qualitative strands in a similar period and brings results together for comparison. Explanatory sequential design starts with quantitative results and uses qualitative follow-up to explain them. Exploratory sequential design begins with qualitative exploration and uses its findings to develop a measure or subsequent quantitative phase. Timing, priority, participant selection and integration must be explicit. Choose by the purpose of mixing, not simply convenience. A discrepancy between strands is a finding to investigate.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate embedded and multistage designs, using an example.",
+        "marks": 10,
+        "answer": "An embedded design places a supporting strand within a larger design, such as interviews within an intervention trial to understand implementation. Multiphase designs connect multiple studies or stages within a programme. Explain the purpose and status of each component, the points at which one influences another and the resources required. Do not confuse two measurements within one quantitative experiment with mixed methods. Labels vary by edition; describe the actual sequence and integration so readers can understand the study regardless of terminology.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate data collection and integration, using an example.",
+        "marks": 10,
+        "answer": "Quantitative strands may use scales, experiments or structured records; qualitative strands may use interviews, observation or documents. Connecting uses one strand to select the sample for another; building uses findings to develop later instruments or procedures; merging brings datasets together; embedding integrates within a larger design. Record whether participants overlap and how timing and consent are handled. Integration should be planned in advance and revisited during analysis rather than added as a sentence at the end.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate analysis, joint displays and metainferences, using an example.",
+        "marks": 10,
+        "answer": "Analyse each strand using appropriate methods before integrating findings. A joint display aligns numerical results and qualitative themes by research question, participant group or construct, making agreement, expansion and disagreement visible. Metainferences are conclusions drawn across the integrated evidence. Preserve context and avoid forcing qualitative themes into unsupported numerical claims. If interviews contradict a survey trend, examine sampling, question interpretation, timing and measurement before deciding what the combined evidence supports.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate validity and reliability in mixed methods, using an example.",
+        "marks": 10,
+        "answer": "Evaluate quantitative reliability and validity, qualitative credibility and transparency, and the quality of integration. Problems include poorly connected samples, one weak strand, unexplained contradictions and conclusions exceeding either dataset. Describe triangulation, reflexivity, audit trails and appropriate checking where relevant, without treating a checklist as proof. The rationale for mixing, adequacy of each strand, integration procedures and defensibility of metainferences should all be reviewed. Additional methods can add complexity and new bias as well as insight.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "Introduction and philosophical foundations",
+        "back": "Mixed methods deliberately integrates quantitative and qualitative approaches to address a research question more fully. Collecting two kinds of data without connecting them is not enough.",
+        "page": 0
+      },
+      {
+        "front": "Convergent, explanatory and exploratory designs",
+        "back": "A convergent design gathers quantitative and qualitative strands in a similar period and brings results together for comparison. Explanatory sequential design starts with quantitative results and uses qualitative follow-up to explain them.",
+        "page": 0
+      },
+      {
+        "front": "Embedded and multistage designs",
+        "back": "An embedded design places a supporting strand within a larger design, such as interviews within an intervention trial to understand implementation. Multiphase designs connect multiple studies or stages within a programme.",
+        "page": 0
+      },
+      {
+        "front": "Data collection and integration",
+        "back": "Quantitative strands may use scales, experiments or structured records; qualitative strands may use interviews, observation or documents. Connecting uses one strand to select the sample for another; building uses findings to develop later instruments or procedures; merging brings datasets together; embedding integrates within a larger design.",
+        "page": 0
+      },
+      {
+        "front": "Analysis, joint displays and metainferences",
+        "back": "Analyse each strand using appropriate methods before integrating findings. A joint display aligns numerical results and qualitative themes by research question, participant group or construct, making agreement, expansion and disagreement visible.",
+        "page": 0
+      },
+      {
+        "front": "Validity and reliability in mixed methods",
+        "back": "Evaluate quantitative reliability and validity, qualitative credibility and transparency, and the quality of integration. Problems include poorly connected samples, one weak strand, unexplained contradictions and conclusions exceeding either dataset.",
+        "page": 0
+      }
+    ],
+    "summary": [
+      "Mixed methods deliberately integrates quantitative and qualitative approaches to address a research question more fully. Collecting two kinds of data without connecting them is not enough.",
+      "A convergent design gathers quantitative and qualitative strands in a similar period and brings results together for comparison. Explanatory sequential design starts with quantitative results and uses qualitative follow-up to explain them.",
+      "An embedded design places a supporting strand within a larger design, such as interviews within an intervention trial to understand implementation. Multiphase designs connect multiple studies or stages within a programme.",
+      "Quantitative strands may use scales, experiments or structured records; qualitative strands may use interviews, observation or documents. Connecting uses one strand to select the sample for another; building uses findings to develop later instruments or procedures; merging brings datasets together; embedding integrates within a larger design.",
+      "Analyse each strand using appropriate methods before integrating findings. A joint display aligns numerical results and qualitative themes by research question, participant group or construct, making agreement, expansion and disagreement visible.",
+      "Evaluate quantitative reliability and validity, qualitative credibility and transparency, and the quality of integration. Problems include poorly connected samples, one weak strand, unexplained contradictions and conclusions exceeding either dataset."
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Communicating research proposals and reports",
+    "theorist": null,
+    "approach": "Unit 5",
+    "pages": [
+      0,
+      0
+    ],
+    "overview": "Syllabus-aligned study notes. These are concise original explanations, not a complete textbook replacement. Source suggestions use PDF page indices; uncertain course-specific models are flagged.",
+    "objectives": [
+      "Explain research proposal: purpose and structure",
+      "Explain research reports: purpose, types and apa structure",
+      "Explain title page, abstract and introduction",
+      "Explain method and results",
+      "Explain discussion, references and appendices",
+      "Explain precautions and evaluation of a report"
+    ],
+    "sections": [
+      {
+        "id": "research-proposal-purpose-and-structure",
+        "heading": "Research proposal: purpose and structure",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "A proposal explains what will be studied, why it matters and how the study will be conducted before data collection. Typical components include title, background, literature review, problem, objectives or hypotheses, design, participants and sampling, measures, procedure, ethics, analysis plan, timeline, resources and references. Describe a feasible plan and justify choices. A proposal uses prospective wording and cannot report invented results. Check the institution\u2019s required format, since proposal structures vary with discipline, purpose and review body.",
+        "simple": "A proposal explains what will be studied, why it matters and how the study will be conducted before data collection. Typical components include title, background, literature review, problem, objectives or hypotheses, design, participants and sampling, measures, procedure, ethics, analysis plan, timeline, resources and references.",
+        "keyPoints": [
+          "A proposal explains what will be studied, why it matters and how the study will be conducted before data collection.",
+          "Typical components include title, background, literature review, problem, objectives or hypotheses, design, participants and sampling, measures, procedure, ethics, analysis plan, timeline, resources and references.",
+          "Describe a feasible plan and justify choices."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              7,
+              12,
+              32,
+              357,
+              359,
+              360
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "research-reports-purpose-types-and-apa-structure",
+        "heading": "Research reports: purpose, types and APA structure",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "A research report communicates completed inquiry in a transparent, assessable form. Technical reports, articles, dissertations and audience-focused summaries differ in detail and purpose. An APA-style empirical report commonly includes a title page, abstract, introduction, method, results, discussion and references, with appendices when needed. The method explains what was done; results report findings; discussion interprets them. Exact formatting depends on the assigned APA edition and institutional rules; the syllabus does not specify an edition.",
+        "simple": "A research report communicates completed inquiry in a transparent, assessable form. Technical reports, articles, dissertations and audience-focused summaries differ in detail and purpose.",
+        "keyPoints": [
+          "A research report communicates completed inquiry in a transparent, assessable form.",
+          "Technical reports, articles, dissertations and audience-focused summaries differ in detail and purpose.",
+          "An APA-style empirical report commonly includes a title page, abstract, introduction, method, results, discussion and references, with appendices when needed."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              12,
+              357,
+              358,
+              359,
+              360,
+              362
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "title-page-abstract-and-introduction",
+        "heading": "Title page, abstract and introduction",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "The title should clearly identify the focus without overstating findings. A title page includes information required by the assigned student or professional format. The abstract concisely summarises purpose, method, main results and implications according to venue limits. The introduction develops the problem, critically reviews relevant work and leads to objectives or hypotheses. Do not fill an abstract with unsupported claims or introduce new evidence absent from the report. Write for a reader who has not seen the project history.",
+        "simple": "The title should clearly identify the focus without overstating findings. A title page includes information required by the assigned student or professional format.",
+        "keyPoints": [
+          "The title should clearly identify the focus without overstating findings.",
+          "A title page includes information required by the assigned student or professional format.",
+          "The abstract concisely summarises purpose, method, main results and implications according to venue limits."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              17,
+              20,
+              26,
+              82,
+              83,
+              87
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "method-and-results",
+        "heading": "Method and results",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "The method should make design, participant selection, measures, procedure and analysis understandable and reproducible within ethical limits. Report relevant exclusions and missing-data decisions transparently. Results organise findings around questions and hypotheses, using clear tables or figures without duplicating every number. Include appropriate estimates and uncertainty; do not interpret a p value as the probability that a hypothesis is true. Separate planned analyses from exploratory ones and avoid selective reporting of only favourable outcomes.",
+        "simple": "The method should make design, participant selection, measures, procedure and analysis understandable and reproducible within ethical limits. Report relevant exclusions and missing-data decisions transparently.",
+        "keyPoints": [
+          "The method should make design, participant selection, measures, procedure and analysis understandable and reproducible within ethical limits.",
+          "Report relevant exclusions and missing-data decisions transparently.",
+          "Results organise findings around questions and hypotheses, using clear tables or figures without duplicating every number."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              17,
+              18,
+              19,
+              21,
+              22,
+              23
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "discussion-references-and-appendices",
+        "heading": "Discussion, references and appendices",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "The discussion answers the research question, relates findings to prior evidence, considers alternative explanations and explains limitations and implications. Causal claims must match the design. References identify cited sources accurately; appendices can provide supplementary instruments, instructions or details when sharing is permitted. Distinguish reference lists from uncited background bibliographies. Check that each in-text citation has its corresponding entry and vice versa. Avoid putting information essential to interpreting the study only in an inaccessible appendix.",
+        "simple": "The discussion answers the research question, relates findings to prior evidence, considers alternative explanations and explains limitations and implications. Causal claims must match the design.",
+        "keyPoints": [
+          "The discussion answers the research question, relates findings to prior evidence, considers alternative explanations and explains limitations and implications.",
+          "Causal claims must match the design.",
+          "References identify cited sources accurately; appendices can provide supplementary instruments, instructions or details when sharing is permitted."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              13,
+              16,
+              83,
+              90,
+              93,
+              94
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      },
+      {
+        "id": "precautions-and-evaluation-of-a-report",
+        "heading": "Precautions and evaluation of a report",
+        "pages": [
+          0,
+          0
+        ],
+        "detailed": "Evaluate alignment between question, design, measurement, analysis and conclusions. Check ethics, sampling, reliability, validity, clarity, transparency, limitations and citation accuracy. Avoid plagiarism, fabricated data, causal overclaiming, inconsistent labels and misleading figures. Use clear language, defined terms, consistent units and careful proofreading. Consider whether a qualified reader could understand what was done and assess the strength of the evidence. A polished format cannot compensate for an unsupported inference or undisclosed methodological weakness.",
+        "simple": "Evaluate alignment between question, design, measurement, analysis and conclusions. Check ethics, sampling, reliability, validity, clarity, transparency, limitations and citation accuracy.",
+        "keyPoints": [
+          "Evaluate alignment between question, design, measurement, analysis and conclusions.",
+          "Check ethics, sampling, reliability, validity, clarity, transparency, limitations and citation accuracy.",
+          "Avoid plagiarism, fabricated data, causal overclaiming, inconsistent labels and misleading figures."
+        ],
+        "references": [
+          {
+            "source": "Kothari.pdf",
+            "pdfPages": [
+              12,
+              264,
+              358,
+              359,
+              371,
+              372
+            ],
+            "status": "Further reading; keyword-located PDF pages, not verified printed-page citations"
+          }
+        ],
+        "coverage": "study-note"
+      }
+    ],
+    "terms": [
+      {
+        "term": "Research proposal: purpose and structure",
+        "definition": "A proposal explains what will be studied, why it matters and how the study will be conducted before data collection. Typical components include title, background, literature review, problem, objectives or hypotheses, design, participants and sampling, measures, procedure, ethics, analysis plan, timeline, resources and references.",
+        "page": 0
+      },
+      {
+        "term": "Research reports: purpose, types and APA structure",
+        "definition": "A research report communicates completed inquiry in a transparent, assessable form. Technical reports, articles, dissertations and audience-focused summaries differ in detail and purpose.",
+        "page": 0
+      },
+      {
+        "term": "Title page, abstract and introduction",
+        "definition": "The title should clearly identify the focus without overstating findings. A title page includes information required by the assigned student or professional format.",
+        "page": 0
+      },
+      {
+        "term": "Method and results",
+        "definition": "The method should make design, participant selection, measures, procedure and analysis understandable and reproducible within ethical limits. Report relevant exclusions and missing-data decisions transparently.",
+        "page": 0
+      },
+      {
+        "term": "Discussion, references and appendices",
+        "definition": "The discussion answers the research question, relates findings to prior evidence, considers alternative explanations and explains limitations and implications. Causal claims must match the design.",
+        "page": 0
+      },
+      {
+        "term": "Precautions and evaluation of a report",
+        "definition": "Evaluate alignment between question, design, measurement, analysis and conclusions. Check ethics, sampling, reliability, validity, clarity, transparency, limitations and citation accuracy.",
+        "page": 0
+      }
+    ],
+    "people": [],
+    "studies": [],
+    "examples": [],
+    "checks": [
+      {
+        "q": "Which topic is best illustrated by this explanation? A proposal explains what will be studied, why it matters and how the study will be conducted before data collection. Typical components include title, background, literature review, problem, objectives or hypotheses, design, participants and sampling, measures, procedure, ethics, analysis plan, timeline, resources and references.",
+        "options": [
+          "Research proposal: purpose and structure",
+          "Research reports: purpose, types and APA structure",
+          "Title page, abstract and introduction",
+          "Method and results"
+        ],
+        "answer": 0,
+        "explain": "A proposal explains what will be studied, why it matters and how the study will be conducted before data collection. Typical components include title, background, literature review, problem, objectives or hypotheses, design, participants and sampling, measures, procedure, ethics, analysis plan, timeline, resources and references. Describe a feasible plan and justify choices. A proposal uses prospective wording and cannot report invented results. Check the institution\u2019s required format, since proposal structures vary with discipline, purpose and review body.",
+        "page": 0,
+        "sectionId": "research-proposal-purpose-and-structure"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? A research report communicates completed inquiry in a transparent, assessable form. Technical reports, articles, dissertations and audience-focused summaries differ in detail and purpose.",
+        "options": [
+          "Research proposal: purpose and structure",
+          "Research reports: purpose, types and APA structure",
+          "Title page, abstract and introduction",
+          "Method and results"
+        ],
+        "answer": 1,
+        "explain": "A research report communicates completed inquiry in a transparent, assessable form. Technical reports, articles, dissertations and audience-focused summaries differ in detail and purpose. An APA-style empirical report commonly includes a title page, abstract, introduction, method, results, discussion and references, with appendices when needed. The method explains what was done; results report findings; discussion interprets them. Exact formatting depends on the assigned APA edition and institutional rules; the syllabus does not specify an edition.",
+        "page": 0,
+        "sectionId": "research-reports-purpose-types-and-apa-structure"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? The title should clearly identify the focus without overstating findings. A title page includes information required by the assigned student or professional format.",
+        "options": [
+          "Research proposal: purpose and structure",
+          "Research reports: purpose, types and APA structure",
+          "Title page, abstract and introduction",
+          "Method and results"
+        ],
+        "answer": 2,
+        "explain": "The title should clearly identify the focus without overstating findings. A title page includes information required by the assigned student or professional format. The abstract concisely summarises purpose, method, main results and implications according to venue limits. The introduction develops the problem, critically reviews relevant work and leads to objectives or hypotheses. Do not fill an abstract with unsupported claims or introduce new evidence absent from the report. Write for a reader who has not seen the project history.",
+        "page": 0,
+        "sectionId": "title-page-abstract-and-introduction"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? The method should make design, participant selection, measures, procedure and analysis understandable and reproducible within ethical limits. Report relevant exclusions and missing-data decisions transparently.",
+        "options": [
+          "Research proposal: purpose and structure",
+          "Research reports: purpose, types and APA structure",
+          "Title page, abstract and introduction",
+          "Method and results"
+        ],
+        "answer": 3,
+        "explain": "The method should make design, participant selection, measures, procedure and analysis understandable and reproducible within ethical limits. Report relevant exclusions and missing-data decisions transparently. Results organise findings around questions and hypotheses, using clear tables or figures without duplicating every number. Include appropriate estimates and uncertainty; do not interpret a p value as the probability that a hypothesis is true. Separate planned analyses from exploratory ones and avoid selective reporting of only favourable outcomes.",
+        "page": 0,
+        "sectionId": "method-and-results"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? The discussion answers the research question, relates findings to prior evidence, considers alternative explanations and explains limitations and implications. Causal claims must match the design.",
+        "options": [
+          "Discussion, references and appendices",
+          "Research proposal: purpose and structure",
+          "Research reports: purpose, types and APA structure",
+          "Title page, abstract and introduction"
+        ],
+        "answer": 0,
+        "explain": "The discussion answers the research question, relates findings to prior evidence, considers alternative explanations and explains limitations and implications. Causal claims must match the design. References identify cited sources accurately; appendices can provide supplementary instruments, instructions or details when sharing is permitted. Distinguish reference lists from uncited background bibliographies. Check that each in-text citation has its corresponding entry and vice versa. Avoid putting information essential to interpreting the study only in an inaccessible appendix.",
+        "page": 0,
+        "sectionId": "discussion-references-and-appendices"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Evaluate alignment between question, design, measurement, analysis and conclusions. Check ethics, sampling, reliability, validity, clarity, transparency, limitations and citation accuracy.",
+        "options": [
+          "Research proposal: purpose and structure",
+          "Precautions and evaluation of a report",
+          "Research reports: purpose, types and APA structure",
+          "Title page, abstract and introduction"
+        ],
+        "answer": 1,
+        "explain": "Evaluate alignment between question, design, measurement, analysis and conclusions. Check ethics, sampling, reliability, validity, clarity, transparency, limitations and citation accuracy. Avoid plagiarism, fabricated data, causal overclaiming, inconsistent labels and misleading figures. Use clear language, defined terms, consistent units and careful proofreading. Consider whether a qualified reader could understand what was done and assess the strength of the evidence. A polished format cannot compensate for an unsupported inference or undisclosed methodological weakness.",
+        "page": 0,
+        "sectionId": "precautions-and-evaluation-of-a-report"
+      }
+    ],
+    "assessment": [
+      {
+        "q": "Which topic is best illustrated by this explanation? A proposal explains what will be studied, why it matters and how the study will be conducted before data collection. Typical components include title, background, literature review, problem, objectives or hypotheses, design, participants and sampling, measures, procedure, ethics, analysis plan, timeline, resources and references.",
+        "options": [
+          "Research proposal: purpose and structure",
+          "Research reports: purpose, types and APA structure",
+          "Title page, abstract and introduction",
+          "Method and results"
+        ],
+        "answer": 0,
+        "explain": "A proposal explains what will be studied, why it matters and how the study will be conducted before data collection. Typical components include title, background, literature review, problem, objectives or hypotheses, design, participants and sampling, measures, procedure, ethics, analysis plan, timeline, resources and references. Describe a feasible plan and justify choices. A proposal uses prospective wording and cannot report invented results. Check the institution\u2019s required format, since proposal structures vary with discipline, purpose and review body.",
+        "page": 0,
+        "sectionId": "research-proposal-purpose-and-structure"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? A research report communicates completed inquiry in a transparent, assessable form. Technical reports, articles, dissertations and audience-focused summaries differ in detail and purpose.",
+        "options": [
+          "Research proposal: purpose and structure",
+          "Research reports: purpose, types and APA structure",
+          "Title page, abstract and introduction",
+          "Method and results"
+        ],
+        "answer": 1,
+        "explain": "A research report communicates completed inquiry in a transparent, assessable form. Technical reports, articles, dissertations and audience-focused summaries differ in detail and purpose. An APA-style empirical report commonly includes a title page, abstract, introduction, method, results, discussion and references, with appendices when needed. The method explains what was done; results report findings; discussion interprets them. Exact formatting depends on the assigned APA edition and institutional rules; the syllabus does not specify an edition.",
+        "page": 0,
+        "sectionId": "research-reports-purpose-types-and-apa-structure"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? The title should clearly identify the focus without overstating findings. A title page includes information required by the assigned student or professional format.",
+        "options": [
+          "Research proposal: purpose and structure",
+          "Research reports: purpose, types and APA structure",
+          "Title page, abstract and introduction",
+          "Method and results"
+        ],
+        "answer": 2,
+        "explain": "The title should clearly identify the focus without overstating findings. A title page includes information required by the assigned student or professional format. The abstract concisely summarises purpose, method, main results and implications according to venue limits. The introduction develops the problem, critically reviews relevant work and leads to objectives or hypotheses. Do not fill an abstract with unsupported claims or introduce new evidence absent from the report. Write for a reader who has not seen the project history.",
+        "page": 0,
+        "sectionId": "title-page-abstract-and-introduction"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? The method should make design, participant selection, measures, procedure and analysis understandable and reproducible within ethical limits. Report relevant exclusions and missing-data decisions transparently.",
+        "options": [
+          "Research proposal: purpose and structure",
+          "Research reports: purpose, types and APA structure",
+          "Title page, abstract and introduction",
+          "Method and results"
+        ],
+        "answer": 3,
+        "explain": "The method should make design, participant selection, measures, procedure and analysis understandable and reproducible within ethical limits. Report relevant exclusions and missing-data decisions transparently. Results organise findings around questions and hypotheses, using clear tables or figures without duplicating every number. Include appropriate estimates and uncertainty; do not interpret a p value as the probability that a hypothesis is true. Separate planned analyses from exploratory ones and avoid selective reporting of only favourable outcomes.",
+        "page": 0,
+        "sectionId": "method-and-results"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? The discussion answers the research question, relates findings to prior evidence, considers alternative explanations and explains limitations and implications. Causal claims must match the design.",
+        "options": [
+          "Discussion, references and appendices",
+          "Research proposal: purpose and structure",
+          "Research reports: purpose, types and APA structure",
+          "Title page, abstract and introduction"
+        ],
+        "answer": 0,
+        "explain": "The discussion answers the research question, relates findings to prior evidence, considers alternative explanations and explains limitations and implications. Causal claims must match the design. References identify cited sources accurately; appendices can provide supplementary instruments, instructions or details when sharing is permitted. Distinguish reference lists from uncited background bibliographies. Check that each in-text citation has its corresponding entry and vice versa. Avoid putting information essential to interpreting the study only in an inaccessible appendix.",
+        "page": 0,
+        "sectionId": "discussion-references-and-appendices"
+      },
+      {
+        "q": "Which topic is best illustrated by this explanation? Evaluate alignment between question, design, measurement, analysis and conclusions. Check ethics, sampling, reliability, validity, clarity, transparency, limitations and citation accuracy.",
+        "options": [
+          "Research proposal: purpose and structure",
+          "Precautions and evaluation of a report",
+          "Research reports: purpose, types and APA structure",
+          "Title page, abstract and introduction"
+        ],
+        "answer": 1,
+        "explain": "Evaluate alignment between question, design, measurement, analysis and conclusions. Check ethics, sampling, reliability, validity, clarity, transparency, limitations and citation accuracy. Avoid plagiarism, fabricated data, causal overclaiming, inconsistent labels and misleading figures. Use clear language, defined terms, consistent units and careful proofreading. Consider whether a qualified reader could understand what was done and assess the strength of the evidence. A polished format cannot compensate for an unsupported inference or undisclosed methodological weakness.",
+        "page": 0,
+        "sectionId": "precautions-and-evaluation-of-a-report"
+      }
+    ],
+    "practice": [
+      {
+        "q": "Explain and critically evaluate research proposal: purpose and structure, using an example.",
+        "marks": 10,
+        "answer": "A proposal explains what will be studied, why it matters and how the study will be conducted before data collection. Typical components include title, background, literature review, problem, objectives or hypotheses, design, participants and sampling, measures, procedure, ethics, analysis plan, timeline, resources and references. Describe a feasible plan and justify choices. A proposal uses prospective wording and cannot report invented results. Check the institution\u2019s required format, since proposal structures vary with discipline, purpose and review body.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate research reports: purpose, types and apa structure, using an example.",
+        "marks": 10,
+        "answer": "A research report communicates completed inquiry in a transparent, assessable form. Technical reports, articles, dissertations and audience-focused summaries differ in detail and purpose. An APA-style empirical report commonly includes a title page, abstract, introduction, method, results, discussion and references, with appendices when needed. The method explains what was done; results report findings; discussion interprets them. Exact formatting depends on the assigned APA edition and institutional rules; the syllabus does not specify an edition.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate title page, abstract and introduction, using an example.",
+        "marks": 10,
+        "answer": "The title should clearly identify the focus without overstating findings. A title page includes information required by the assigned student or professional format. The abstract concisely summarises purpose, method, main results and implications according to venue limits. The introduction develops the problem, critically reviews relevant work and leads to objectives or hypotheses. Do not fill an abstract with unsupported claims or introduce new evidence absent from the report. Write for a reader who has not seen the project history.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate method and results, using an example.",
+        "marks": 10,
+        "answer": "The method should make design, participant selection, measures, procedure and analysis understandable and reproducible within ethical limits. Report relevant exclusions and missing-data decisions transparently. Results organise findings around questions and hypotheses, using clear tables or figures without duplicating every number. Include appropriate estimates and uncertainty; do not interpret a p value as the probability that a hypothesis is true. Separate planned analyses from exploratory ones and avoid selective reporting of only favourable outcomes.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate discussion, references and appendices, using an example.",
+        "marks": 10,
+        "answer": "The discussion answers the research question, relates findings to prior evidence, considers alternative explanations and explains limitations and implications. Causal claims must match the design. References identify cited sources accurately; appendices can provide supplementary instruments, instructions or details when sharing is permitted. Distinguish reference lists from uncited background bibliographies. Check that each in-text citation has its corresponding entry and vice versa. Avoid putting information essential to interpreting the study only in an inaccessible appendix.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      },
+      {
+        "q": "Explain and critically evaluate precautions and evaluation of a report, using an example.",
+        "marks": 10,
+        "answer": "Evaluate alignment between question, design, measurement, analysis and conclusions. Check ethics, sampling, reliability, validity, clarity, transparency, limitations and citation accuracy. Avoid plagiarism, fabricated data, causal overclaiming, inconsistent labels and misleading figures. Use clear language, defined terms, consistent units and careful proofreading. Consider whether a qualified reader could understand what was done and assess the strength of the evidence. A polished format cannot compensate for an unsupported inference or undisclosed methodological weakness.\n\nAnswer structure: define the concept, explain its mechanisms or procedure, illustrate it, evaluate limitations and conclude in relation to the question. This is an indicative answer outline, not an official marking scheme.",
+        "pages": [
+          0,
+          0
+        ]
+      }
+    ],
+    "flashcards": [
+      {
+        "front": "Research proposal: purpose and structure",
+        "back": "A proposal explains what will be studied, why it matters and how the study will be conducted before data collection. Typical components include title, background, literature review, problem, objectives or hypotheses, design, participants and sampling, measures, procedure, ethics, analysis plan, timeline, resources and references.",
+        "page": 0
+      },
+      {
+        "front": "Research reports: purpose, types and APA structure",
+        "back": "A research report communicates completed inquiry in a transparent, assessable form. Technical reports, articles, dissertations and audience-focused summaries differ in detail and purpose.",
+        "page": 0
+      },
+      {
+        "front": "Title page, abstract and introduction",
+        "back": "The title should clearly identify the focus without overstating findings. A title page includes information required by the assigned student or professional format.",
+        "page": 0
+      },
+      {
+        "front": "Method and results",
+        "back": "The method should make design, participant selection, measures, procedure and analysis understandable and reproducible within ethical limits. Report relevant exclusions and missing-data decisions transparently.",
+        "page": 0
+      },
+      {
+        "front": "Discussion, references and appendices",
+        "back": "The discussion answers the research question, relates findings to prior evidence, considers alternative explanations and explains limitations and implications. Causal claims must match the design.",
+        "page": 0
+      },
+      {
+        "front": "Precautions and evaluation of a report",
+        "back": "Evaluate alignment between question, design, measurement, analysis and conclusions. Check ethics, sampling, reliability, validity, clarity, transparency, limitations and citation accuracy.",
+        "page": 0
+      }
+    ],
+    "summary": [
+      "A proposal explains what will be studied, why it matters and how the study will be conducted before data collection. Typical components include title, background, literature review, problem, objectives or hypotheses, design, participants and sampling, measures, procedure, ethics, analysis plan, timeline, resources and references.",
+      "A research report communicates completed inquiry in a transparent, assessable form. Technical reports, articles, dissertations and audience-focused summaries differ in detail and purpose.",
+      "The title should clearly identify the focus without overstating findings. A title page includes information required by the assigned student or professional format.",
+      "The method should make design, participant selection, measures, procedure and analysis understandable and reproducible within ethical limits. Report relevant exclusions and missing-data decisions transparently.",
+      "The discussion answers the research question, relates findings to prior evidence, considers alternative explanations and explains limitations and implications. Causal claims must match the design.",
+      "Evaluate alignment between question, design, measurement, analysis and conclusions. Check ethics, sampling, reliability, validity, clarity, transparency, limitations and citation accuracy."
+    ]
+  }
+]
