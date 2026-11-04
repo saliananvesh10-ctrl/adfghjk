@@ -23,5 +23,5 @@ export const personality: Subject = {
   name: "Theories of Personality",
   source: { title: "Theories of Personality (11th ed.)", author: "Duane P. Schultz & Sydney Ellen Schultz", publisher: "Cengage Learning", year: 2017 },
   outline,
-  chapters: withUid("personality", [ch01, ch02, ch03, ch04, ch05, ch06, ch07, ch08, ch09, ch10, ch11, ch12, ch13, ch14, ch15]),
+  chapters: withUid("personality", [{ ...ch01, evaluationGuide: true }, ch02, ch03, ch04, ch05, ch06, ch07, ch08, ch09, ch10, ch11, ch12, ch13, ch14, ch15]),
 };

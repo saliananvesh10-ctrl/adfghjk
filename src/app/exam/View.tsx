@@ -6,7 +6,7 @@ import { Paras, Src, SrcName, SubjectTabs } from "@/components/ui";
 type Tab = { id: string; short: string; paper: string; count: number };
 
 export default function Exam({ subject, tabs, chapters }: { subject: SubjectMeta; tabs: Tab[]; chapters: WithPractice[] }) {
-  const [marks, setMarks] = useState<0 | 2 | 5 | 10>(0);
+  const [marks, setMarks] = useState<0 | 2 | 5 | 8 | 10 | 14>(0);
   const [ch, setCh] = useState<number | "all">("all");
   const qs = chapters
     .filter((c) => ch === "all" || c.number === ch)
@@ -18,7 +18,7 @@ export default function Exam({ subject, tabs, chapters }: { subject: SubjectMeta
       <div className="stack" style={{ maxWidth: 820 }}>
         <div>
           <div className="eyebrow">Exam preparation · {subject.paper}</div>
-          <h1>Long and short answers</h1>
+          <h1>Long and short answers</h1><p><a className="btn" href="/past-papers">2025 paper preparation →</a></p>
           <p className="muted small">Write your answer first, then compare it with the model answer. The tutor can mark your answer against it (needs the AI key).</p>
         </div>
         <SubjectTabs path="/exam" subjects={tabs} current={subject.id} />
@@ -26,7 +26,7 @@ export default function Exam({ subject, tabs, chapters }: { subject: SubjectMeta
           <>
             <div className="row">
               <div className="tabs" role="tablist">
-                {([0, 2, 5, 10] as const).map((m) => <button key={m} role="tab" aria-selected={marks === m} onClick={() => setMarks(m)}>{m ? `${m} marks` : "All"}</button>)}
+                {([0, 2, 5, 8, 10, 14] as const).map((m) => <button key={m} role="tab" aria-selected={marks === m} onClick={() => setMarks(m)}>{m ? `${m} marks` : "All"}</button>)}
               </div>
               <select style={{ width: "auto" }} value={ch} onChange={(e) => setCh(e.target.value === "all" ? "all" : Number(e.target.value))}>
                 <option value="all">All chapters</option>
@@ -62,7 +62,7 @@ function Question({ q, n, subject }: { q: PracticeQ & { ch: number }; n: number;
         <span className="row"><span className="chip acc">{q.marks} marks</span><Src pages={q.pages} /></span>
       </div>
       <h3 style={{ margin: "8px 0 12px" }}>{q.q}</h3>
-      <textarea placeholder="Write your answer…" value={draft} onChange={(e) => setDraft(e.target.value)} style={{ minHeight: q.marks === 10 ? 220 : q.marks === 5 ? 140 : 70 }} />
+      <textarea placeholder="Write your answer…" value={draft} onChange={(e) => setDraft(e.target.value)} style={{ minHeight: q.marks >= 10 ? 280 : q.marks >= 5 ? 170 : 70 }} />
       <div className="row" style={{ marginTop: 10 }}>
         <span className="muted small">{draft.trim() ? draft.trim().split(/\s+/).length : 0} words</span>
         <button className="btn" onClick={() => setShow((s) => !s)}>{show ? "Hide" : "Show"} model answer</button>

@@ -28,7 +28,7 @@ export default function Dashboard({ groups }: { groups: Group[] }) {
       <div className="mind-hero">
         <div className="eyebrow">Your psychology study space</div>
         <h1>Understand the mind.<br/>Build your own.</h1>
-        <p className="muted">Four papers. Reading, retrieval practice and guided exploration. {written} of {planned} chapters and unit guides available.</p>
+        <p className="muted">Four papers. Reading, retrieval practice, syllabus additions and past-paper preparation. {written} of {planned} chapters and unit guides available.</p>
       </div>
 
       <StudyTools />

@@ -1,4 +1,5 @@
 import { subjects } from "@/content";
+import criteria from "@/content/personality-syllabus/criteria.json";
 import sourceCorpus from "./source-corpus.json";
 
 // Keyword retrieval (BM25) over section texts, term definitions and findings of every textbook.
@@ -17,6 +18,7 @@ const chunks: Chunk[] = subjects.flatMap((sub) => sub.chapters.flatMap((c) => {
   ];
 }));
 chunks.push(...sourceCorpus);
+chunks.push({sid:"personality",ch:1,title:"Six criteria for a useful theory",pages:"Paraphrased framework; no printed pagination",text:criteria.map(c=>`${c.criterion}: ${c.meaning}`).join("\n")});
 const docs = chunks.map((c) => tok(`${c.title} ${c.text}`));
 const avgLen = docs.reduce((a, d) => a + d.length, 0) / Math.max(1, docs.length);
 const df = new Map<string, number>();

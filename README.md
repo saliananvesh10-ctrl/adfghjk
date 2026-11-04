@@ -1,5 +1,7 @@
 # Updated psychology study website
 
+The November syllabus additions and question-paper workspace are ready. Use **Past-paper preparation** in the sidebar and read [the preparation guide](docs/EXAM-PREPARATION.md). New personality material is under **Theories of Personality → Additional syllabus theorists**.
+
 Read [the update guide](docs/UPDATE.md) for added papers, coverage limits, tutor setup and Vercel settings. Set both `ANTHROPIC_API_KEY` and `ANTHROPIC_MODEL`; no default model is assumed. New notes are concise syllabus guides with separately labelled source suggestions.
 
 # Psychology Study

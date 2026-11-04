@@ -8,6 +8,7 @@ export interface Section {
   pages: Pages;
   references?: { source: string; pdfPages: number[]; status: string }[];
   coverage?: string;
+  evaluationRows?: { criterion: string; explanation: string }[];
   detailed: string;      // own-words explanation, paragraphs separated by \n\n
   simple: string;        // plain-language version, 2-4 sentences
   keyPoints: string[];   // 3-6 bullets
@@ -29,7 +30,7 @@ export interface MCQ {
 
 export interface PracticeQ {
   q: string;
-  marks: 2 | 5 | 10;
+  marks: 2 | 5 | 8 | 10 | 14;
   answer: string;        // model answer, paragraphs separated by \n\n
   pages: Pages;
 }
@@ -37,6 +38,8 @@ export interface PracticeQ {
 export interface Card { front: string; back: string; page: number }
 
 export interface Chapter {
+  sourceLinks?: { title: string; url: string }[];
+  evaluationGuide?: boolean;
   uid: string;           // "<subjectId>-<number>", added by the registry (not in JSON)
   number: number;
   title: string;

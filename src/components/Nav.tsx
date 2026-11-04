@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 
 const groups: [string, [string, string][]][] = [
   ["Study", [["/", "Dashboard"], ["/subjects", "Subjects"], ["/read", "Study reader"], ["/lab", "Psychology lab"], ["/explore", "Interactive studio"], ["/coverage", "Syllabus coverage"], ["/tutor", "AI tutor"]]],
-  ["Test yourself", [["/practice", "Practice & quizzes"], ["/flashcards", "Flashcards"], ["/exam", "Exam preparation"], ["/revision", "Revision"]]],
+  ["Test yourself", [["/practice", "Practice & quizzes"], ["/flashcards", "Flashcards"], ["/exam", "Exam preparation"], ["/past-papers", "Past-paper preparation"], ["/revision", "Revision"]]],
   ["Track", [["/progress", "Progress"], ["/sources", "Source library"]]],
 ];
 

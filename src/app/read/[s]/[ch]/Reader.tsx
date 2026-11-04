@@ -1,5 +1,6 @@
 "use client";
 import Link from "next/link";
+import TheoryCriteria from "@/components/TheoryCriteria";
 import { Fragment, useEffect, useRef, useState, type ReactNode } from "react";
 import type { Chapter, SubjectMeta } from "@/content/types";
 import { update, useProgress, sectionKey, type Mode } from "@/lib/progress";
@@ -89,7 +90,8 @@ export default function Reader({ c, subject, prev, next }: { c: Chapter; subject
       <article>
         <div className="eyebrow">{subject.short} · Chapter {c.number} · {c.approach} · <Src pages={c.pages} /></div>
         <h1 style={{ margin: "6px 0 14px" }}>{c.title}</h1>
-        {c.pages[0] === 0 && <details className="card" style={{marginBottom:16}}><summary>About these notes and source suggestions</summary><p>Concise original syllabus notes. PDF page indices below are keyword-located reading suggestions, not verified printed-page citations. Read the supplied books for fuller treatment.</p>{c.sections.map(x => <p key={x.id} className="small"><strong>{x.heading}:</strong> {x.references?.length ? x.references.map(y => `${y.source}, PDF pages ${y.pdfPages.join(", ")}`).join("; ") : "Course-specific source/model requires lecturer confirmation."}</p>)}</details>}
+        {c.pages[0] === 0 && !c.sourceLinks?.length && <details className="card" style={{marginBottom:16}}><summary>About these notes and source suggestions</summary><p>Concise original syllabus notes. PDF page indices below are keyword-located reading suggestions, not verified printed-page citations. Read the supplied books for fuller treatment.</p>{c.sections.map(x => <p key={x.id} className="small"><strong>{x.heading}:</strong> {x.references?.length ? x.references.map(y => `${y.source}, PDF pages ${y.pdfPages.join(", ")}`).join("; ") : "Course-specific source/model requires lecturer confirmation."}</p>)}</details>}
+        {!!c.sourceLinks?.length && <details className="card" style={{marginBottom:16}}><summary>Study-note sources and evaluation approach</summary><p className="small">Original syllabus notes with external reading leads. The six-criterion evaluations are reasoned study appraisals, not reproduced textbook scores. No printed book pagination is claimed.</p><ul>{c.sourceLinks.map(x=><li key={x.url}><a href={x.url} target="_blank" rel="noreferrer">{x.title} ↗</a></li>)}</ul></details>}
         <div className="tabs no-print" role="tablist" aria-label="Reading mode">
           {MODES.map(([m, label]) => <button key={m} role="tab" aria-selected={mode === m} onClick={() => setMode(m)}>{label}</button>)}
         </div>
@@ -109,7 +111,8 @@ export default function Reader({ c, subject, prev, next }: { c: Chapter; subject
             <div className="row" style={{ justifyContent: "space-between", alignItems: "baseline" }}>
               <h2>{x.heading}</h2><Src pages={x.pages} />
             </div>
-            {mode === "practice" ? null : (
+            {!!x.evaluationRows?.length && <div className="table-wrap" style={{marginTop:12}}><table><thead><tr><th>Criterion</th><th>Reasoned evaluation</th></tr></thead><tbody>{x.evaluationRows.map(row=><tr key={row.criterion}><th scope="row">{row.criterion}</th><td>{row.explanation}</td></tr>)}</tbody></table><p className="small muted">Study appraisal · support judgements with evidence; use your lecturer’s rubric if specific ratings are required.</p></div>}
+            {mode === "practice" || x.evaluationRows?.length ? null : (
               <div className="prose" style={{ marginTop: 10 }}>
                 {(mode === "read" ? x.detailed : x.simple).split(/\n\n+/).map((p, i) => <p key={i}>{marked(p, hlFor(x.id))}</p>)}
               </div>
@@ -135,6 +138,8 @@ export default function Reader({ c, subject, prev, next }: { c: Chapter; subject
             {c.examples.map((e, i) => <div key={i} style={{ marginTop: 10 }}><strong>{e.title}.</strong> {e.text}</div>)}
           </div>
         )}
+
+        {c.evaluationGuide && <TheoryCriteria />}
 
         <div className="row no-print" style={{ justifyContent: "space-between" }}>
           {prev ? <Link className="btn" href={`/read/${subject.id}/${prev}`}>← Ch {prev}</Link> : <span />}

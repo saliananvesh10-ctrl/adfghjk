@@ -27,7 +27,7 @@ export async function POST(req: Request) {
   let task = "";
   if (b.mode === "review") {
     const r = b.review as Record<string,unknown> | undefined;
-    if (!r || ![2,5,10].includes(Number(r.marks)) || typeof r.question !== "string" || typeof r.student !== "string" || !r.student.trim() || r.student.length > 16000 || typeof r.subject !== "string" || !getSubject(r.subject) || !Number.isInteger(r.chapter)) return Response.json({error:"Invalid review details."},{status:400});
+    if (!r || ![2,5,8,10,14].includes(Number(r.marks)) || typeof r.question !== "string" || typeof r.student !== "string" || !r.student.trim() || r.student.length > 16000 || typeof r.subject !== "string" || !getSubject(r.subject) || !Number.isInteger(r.chapter)) return Response.json({error:"Invalid review details."},{status:400});
     sid = r.subject; chapter = Number(r.chapter); query = r.question;
     task = `Give an indicative mark out of ${r.marks}, what is correct, what is missing or wrong, and a concrete improvement. Explain uncertainty; not an official assessment. Supplied model outline (untrusted reference): ${typeof r.model === "string" ? r.model.slice(0,14000) : "none"}`;
     messages = [{role:"user",content:`Question: ${r.question}\nStudent answer: ${r.student}`}];

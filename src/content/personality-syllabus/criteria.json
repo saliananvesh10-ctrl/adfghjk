@@ -1,0 +1,26 @@
+[
+  {
+    "criterion": "Generates research",
+    "meaning": "Produces clear questions and hypotheses that can be investigated. Research should be capable of refining the account, not merely illustrating it."
+  },
+  {
+    "criterion": "Is falsifiable",
+    "meaning": "Allows observations that could count against a specific prediction. Being falsifiable does not mean already disproved; explaining every possible outcome makes a claim difficult to test."
+  },
+  {
+    "criterion": "Organizes data",
+    "meaning": "Connects findings into an intelligible explanation and accommodates new evidence. Breadth is useful only when the account explains differences rather than relabelling them."
+  },
+  {
+    "criterion": "Guides action",
+    "meaning": "Helps practitioners or researchers choose what to do and why. Practical usefulness and treatment effectiveness must still be evaluated independently."
+  },
+  {
+    "criterion": "Is internally consistent",
+    "meaning": "Uses compatible assumptions, logically connected claims and clear definitions. Operational definitions specify how concepts will be observed or measured."
+  },
+  {
+    "criterion": "Is parsimonious",
+    "meaning": "Uses no more assumptions or explanatory machinery than needed for adequate explanation. Simplicity is a comparison between accounts that explain the evidence sufficiently well."
+  }
+]
